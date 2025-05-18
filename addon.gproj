@@ -1,0 +1,8 @@
+GameProject {
+ ID "USCOperationMap"
+ GUID "6565514996F628E0"
+ TITLE "USC Operation Map"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
