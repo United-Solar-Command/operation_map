@@ -47,66 +47,6 @@ $grp GenericEntity {
   angleX 45.939
   angleY -89.611
  }
- {
-  components {
-   MeshObject "{65657B84A222D5FE}" {
-    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
-    Materials {
-     MaterialAssignClass "{65657B84AAEF61D9}" {
-      SourceMaterial "CorvetteF3"
-      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
-     }
-    }
-   }
-  }
-  coords 4811.857 894.486 11830.406
-  scale 6
- }
- {
-  components {
-   MeshObject "{65657B84A222D5FE}" {
-    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
-    Materials {
-     MaterialAssignClass "{65657B84AAEF61D9}" {
-      SourceMaterial "CorvetteF3"
-      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
-     }
-    }
-   }
-  }
-  coords 5245.026 640.566 11830.406
-  scale 5
- }
- {
-  components {
-   MeshObject "{65657B84A222D5FE}" {
-    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
-    Materials {
-     MaterialAssignClass "{65657B84AAEF61D9}" {
-      SourceMaterial "CorvetteF3"
-      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
-     }
-    }
-   }
-  }
-  coords 4645.758 640.566 12097.579
-  scale 5
- }
- {
-  components {
-   MeshObject "{65657B84A222D5FE}" {
-    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
-    Materials {
-     MaterialAssignClass "{65657B84AAEF61D9}" {
-      SourceMaterial "CorvetteF3"
-      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
-     }
-    }
-   }
-  }
-  coords 5055.625 640.566 12702.357
-  scale 5
- }
 }
 $grp GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
  {
