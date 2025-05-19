@@ -1,0 +1,313 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{65657B8502353983}" {
+    Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+   }
+  }
+  coords 4919.445 28.775 11781.294
+  angleZ 180
+ }
+ {
+  components {
+   MeshObject "{65657B8502353983}" {
+    Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+   }
+  }
+  coords 4919.347 28.775 11779.326
+  angleY 50.428
+  angleZ -180
+ }
+ {
+  components {
+   MeshObject "{65657B8502353983}" {
+    Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+   }
+  }
+  coords 4921.518 28.775 11781.339
+  angleY 131.504
+  angleZ 180
+ }
+ {
+  components {
+   MeshObject "{65657B850B3D0D7D}" {
+    Object "{8418C4C58ADA8B8B}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_R.xob"
+   }
+  }
+  coords 4927.039 30.851 11780.688
+  angleY -85.675
+ }
+ {
+  components {
+   MeshObject "{65657B8518D22E2F}" {
+    Object "{7513FC91F985BE67}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_L.xob"
+   }
+  }
+  coords 4931.237 31.588 11763.882
+  angleX 45.939
+  angleY -89.611
+ }
+ {
+  components {
+   MeshObject "{65657B84A222D5FE}" {
+    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
+    Materials {
+     MaterialAssignClass "{65657B84AAEF61D9}" {
+      SourceMaterial "CorvetteF3"
+      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+     }
+    }
+   }
+  }
+  coords 4811.857 894.486 11830.406
+  scale 6
+ }
+ {
+  components {
+   MeshObject "{65657B84A222D5FE}" {
+    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
+    Materials {
+     MaterialAssignClass "{65657B84AAEF61D9}" {
+      SourceMaterial "CorvetteF3"
+      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+     }
+    }
+   }
+  }
+  coords 5245.026 640.566 11830.406
+  scale 5
+ }
+ {
+  components {
+   MeshObject "{65657B84A222D5FE}" {
+    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
+    Materials {
+     MaterialAssignClass "{65657B84AAEF61D9}" {
+      SourceMaterial "CorvetteF3"
+      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+     }
+    }
+   }
+  }
+  coords 4645.758 640.566 12097.579
+  scale 5
+ }
+ {
+  components {
+   MeshObject "{65657B84A222D5FE}" {
+    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
+    Materials {
+     MaterialAssignClass "{65657B84AAEF61D9}" {
+      SourceMaterial "CorvetteF3"
+      AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+     }
+    }
+   }
+  }
+  coords 5055.625 640.566 12702.357
+  scale 5
+ }
+}
+$grp GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
+ {
+  coords 4933.665 28.775 11763.938
+  angleY 90
+  scale 1.5
+ }
+ {
+  coords 4924.852 28.775 11780.741
+  angleY 90
+  scale 1.25
+ }
+ {
+  coords 4929.426 28.775 11780.521
+  angleY 90
+  scale 1.25
+ }
+}
+$grp GenericEntity : "{3EDE2976263D17B2}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num2.et" {
+ pad2num2 {
+  coords 4875.813 28.622 11797.604
+  angleY 90
+  scale 1.5
+ }
+ pad3num3 {
+  components {
+   MeshObject "{51B2A74AA8E024AD}" {
+    Object "{FF9D511E89092B4C}Assets/Decals/Markings/Runway/RW_Num3.xob"
+   }
+  }
+  coords 4875.813 28.622 11832.417
+  angleY 90
+  scale 1.5
+ }
+ pad4num4 {
+  components {
+   MeshObject "{51B2A74AA8E024AD}" {
+    Object "{F85AAB4FEF8F918F}Assets/Decals/Markings/Runway/RW_Num4.xob"
+   }
+  }
+  coords 4875.813 28.622 11866.088
+  angleY 90
+  scale 1.5
+ }
+}
+GenericEntity pad1num1 : "{528A1D969AF9989C}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num1.et" {
+ coords 4927.169 28.791 11759.433
+ angleY 90
+}
+$grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
+ {
+  coords 4898.539 28.593 11805.54
+ }
+ {
+  coords 4898.539 28.593 11800.967
+ }
+ {
+  coords 4898.539 28.593 11796.382
+ }
+ {
+  coords 4898.513 28.593 11830.799
+ }
+ {
+  coords 4898.513 28.593 11835.385
+ }
+ {
+  coords 4898.513 28.593 11839.958
+ }
+ {
+  coords 4898.513 28.593 11865.619
+ }
+ {
+  coords 4898.513 28.593 11870.206
+ }
+ {
+  coords 4898.513 28.593 11874.779
+ }
+ {
+  coords 4887.193 28.593 11783.517
+  angleY 90.026
+ }
+ {
+  coords 4868.898 28.593 11783.525
+  angleY 90.026
+ }
+ {
+  coords 4882.609 28.593 11783.52
+  angleY 90.026
+ }
+ {
+  coords 4891.765 28.593 11783.516
+  angleY 90.026
+ }
+ {
+  coords 4873.483 28.593 11783.521
+  angleY 90.026
+ }
+ {
+  coords 4878.055 28.593 11783.521
+  angleY 90.026
+ }
+}
+$grp GenericEntity : "{B716516F961C0FF7}Prefabs/Structures/Infrastructure/Roads/Runway/Runway_Num0.et" {
+ pad1num0 {
+  coords 4927.169 28.791 11764.232
+  angleY 90
+ }
+ pad2num0 {
+  coords 4875.813 28.622 11803.616
+  angleY 90
+  scale 1.5
+ }
+ pad3num0 {
+  coords 4875.813 28.622 11838.431
+  angleY 90
+  scale 1.5
+ }
+ pad4num0 {
+  coords 4875.813 28.622 11873.147
+  angleY 90
+  scale 1.5
+ }
+}
+$grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+ {
+  coords 4897.034 28.594 11887.681
+  angleY 179.798
+ }
+ {
+  coords 4893.487 28.594 11887.668
+  angleY 179.798
+ }
+ {
+  coords 4889.946 28.594 11887.654
+  angleY 179.798
+ }
+ {
+  coords 4886.389 28.594 11887.644
+  angleY 179.798
+ }
+ {
+  coords 4882.826 28.594 11887.631
+  angleY 179.798
+ }
+ {
+  coords 4879.25 28.594 11887.616
+  angleY 179.798
+ }
+ {
+  coords 4875.698 28.594 11887.604
+  angleY 179.798
+ }
+ {
+  coords 4872.121 28.594 11887.594
+  angleY 179.798
+ }
+ {
+  coords 4868.573 28.594 11887.581
+  angleY 179.798
+ }
+ {
+  coords 4865.039 28.594 11887.567
+  angleY 179.798
+ }
+}
+$grp StaticModelEntity : "{F0091BD244E4CE70}Prefabs/Structures/Airport/Helipad/MK_Landing_Lights.et" {
+ {
+  coords 4899.623 28.594 11946.848
+  angleY -135
+ }
+ {
+  coords 4862.37 28.337 11947.37
+  angleY 135
+ }
+ {
+  coords 4862.37 28.594 11887.685
+ }
+ {
+  coords 4862.37 28.594 11852.193
+ }
+ {
+  coords 4862.37 28.594 11817.177
+ }
+ {
+  coords 4862.37 28.594 11782.66
+  angleY 45
+ }
+ {
+  coords 4899.591 28.594 11782.852
+  angleY -45
+ }
+ {
+  coords 4899.323 28.594 11817.175
+  angleY -90
+ }
+ {
+  coords 4899.623 28.594 11852.19
+  angleY -90
+ }
+ {
+  coords 4899.662 28.594 11887.685
+  angleY -90
+ }
+}

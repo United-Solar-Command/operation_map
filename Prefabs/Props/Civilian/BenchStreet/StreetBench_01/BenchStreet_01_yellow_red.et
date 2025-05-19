@@ -1,0 +1,19 @@
+GenericEntity : "{8D3CBF3A91BE18C9}Prefabs/Props/Civilian/BenchStreet/StreetBench_01/BenchStreet_01_Base.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  SlotManagerComponent "{6509588709F1EAFE}" {
+   Slots {
+    EntitySlotInfo sit1 {
+     Offset 0.4925 0.5313 0.1008
+     MergePhysics 1
+     Prefab "{F94ED677BED6149D}Prefabs/Vehicles/Wheeled/Ural4320/Sit_Base/Sit_N1_1.et"
+    }
+    EntitySlotInfo sit2 {
+     Offset -0.5354 0.5313 0.1008
+     MergePhysics 1
+     Prefab "{F94ED677BED6149D}Prefabs/Vehicles/Wheeled/Ural4320/Sit_Base/Sit_N1_1.et"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,129 @@
+StaticModelEntity : "{94FB3A1BFFFF1A19}Prefabs/Structures/Military/Camps/TentUS_01/TentUS_01_Assembled_foundation.et" {
+ coords 4929.082 28.594 11732.229
+ {
+  StaticModelEntity {
+   ID "5D466416286F4114"
+   {
+    StaticModelEntity {
+     ID "5D44C7DD3033981E"
+     {
+      StaticModelEntity {
+       ID "5D38E5916001C17C"
+       {
+        StaticModelEntity {
+         ID "5D44AE1C21AF877B"
+         {
+          StaticModelEntity tentdoor {
+           ID "5D44AE1C21AF877A"
+           components {
+            ActionsManagerComponent "{65657B8FFCB79A43}" {
+             Enabled 0
+             ActionContexts {
+              UserActionContext "{65657B8FFA291CAD}" {
+               ContextName "default"
+               Position PointInfo "{65657B8FCF6B9FB7}" {
+                Offset 0 1.6475 1.2552
+               }
+               Radius 50
+              }
+             }
+             additionalActions {
+              BaseUserAction "{65657B8F068975B1}" {
+               ParentContextList {
+                "default"
+               }
+               ActionTitle "Close"
+              }
+              BaseUserAction "{65657B8F0BB4C76B}" {
+               ParentContextList {
+                "default"
+               }
+               ActionTitle "Open"
+              }
+             }
+            }
+           }
+          }
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+  GenericEntity : "{3668AC075969C4D8}PrefabsEditable/Auto/Props/E_HologramTable.et" {
+   coords 0.048 0.114 2.314
+  }
+  $grp StaticModelEntity : "{39C308BBB5945B85}Prefabs/Props/Military/Furniture/ChairMilitary_US_02.et" {
+   {
+    coords -1.852 0.149 4.973
+    angleY 136.041
+   }
+   {
+    coords 1.847 0.142 4.865
+    angleY -138.096
+   }
+   {
+    coords -1.705 0.145 -0.068
+    angleY 59.208
+   }
+   {
+    coords -1.826 0.145 -1.59
+    angleY 38.475
+   }
+   {
+    coords -1.753 0.145 -2.916
+    angleY 43.113
+   }
+   {
+    coords 1.803 0.145 -3.042
+    angleY -33
+   }
+   {
+    coords 1.722 0.145 -1.516
+    angleY -33
+   }
+   {
+    coords 1.678 0.145 -0.147
+    angleY -33
+   }
+  }
+  StaticModelEntity : "{55973C5B0950D4AB}Prefabs/Props/Military/Furniture/ChairMilitary_US_01.et" {
+   coords 0.016 0.138 5.366
+   angleY 0
+  }
+ }
+}
+$grp GenericEntity : "{CFB893B8084ECD2B}Prefabs/Props/Furniture/Armchair_01.et" {
+ {
+  coords 4919.955 44.021 11789.252
+  angleY -140.029
+  {
+   GenericEntity {
+    components {
+     MeshObject "{65657B8FB7E6AFAC}" {
+      Object "{CA831C4A5FF7656B}Assets/Props/Command Center/MK_Props_CC_Microphone.xob"
+     }
+    }
+    coords -0.652 0.897 -0.234
+    angleY 82.08
+   }
+  }
+ }
+ {
+  coords 4918.494 44.021 11786.521
+  angleY 40.08
+  {
+   GenericEntity {
+    components {
+     MeshObject "{65657B8FB061F3D6}" {
+      Object "{CA831C4A5FF7656B}Assets/Props/Command Center/MK_Props_CC_Microphone.xob"
+     }
+    }
+    coords -0.717 0.891 -0.145
+    angleY 84.731
+   }
+  }
+ }
+}
