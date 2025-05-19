@@ -1,0 +1,14 @@
+GenericEntity : "{4CC2C69DE1AEF103}Prefabs/Props/Core/Destructible_Props_Base.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  SlotManagerComponent "{65093B0AF3E5155B}" {
+   Slots {
+    EntitySlotInfo sit {
+     Offset 0 0.4958 0.0873
+     MergePhysics 1
+     Prefab "{F94ED677BED6149D}Prefabs/Vehicles/Wheeled/Ural4320/Sit_Base/Sit_N1_1.et"
+    }
+   }
+  }
+ }
+}

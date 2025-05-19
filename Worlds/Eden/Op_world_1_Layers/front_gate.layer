@@ -1,0 +1,399 @@
+GenericEntity {
+ components {
+  MeshObject "{65657B83EED22023}" {
+   Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+  }
+ }
+ coords 4883.632 28.594 11651.562
+ angleY -1.463
+ {
+  $grp GenericEntity {
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 0.548
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 1.082
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 1.628
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 2.181
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 2.716
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 3.263
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 3.84
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 4.374
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 4.923
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 6.042
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 6.588
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.157 0 7.135
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.127 0 7.671
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.252 0 8.216
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.252 0 8.769
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.252 0 9.304
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.251 0 9.849
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.252 0 10.43
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.253 0 10.968
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.253 0 11.509
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 5.507
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.297 0 12.552
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.298 0 13.094
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.298 0 13.641
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.298 0 14.177
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.298 0 14.722
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.298 0 15.276
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.417 0 15.81
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.417 0 16.354
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.417 0 16.936
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.418 0 17.47
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.418 0 18.016
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.297 0 12.015
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.418 0 19.081
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.418 0 18.547
+   }
+   {
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0.478 0 19.687
+    angleY 1.463
+   }
+  }
+ }
+}
+GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
+ coords 4944.891 28.508 11662.318
+ angleX 0.101
+ angleY 171.19
+ angleZ -0.916
+}
+GenericEntity : "{4780EEDA97B48C91}PrefabsEditable/Auto/Structure/Protective tower with staircase.et" {
+ coords 4942.242 28.191 11648.073
+ angleY 101.267
+}
+GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
+ coords 4947.061 28.215 11663.074
+ angleY 81.771
+}
+$grp GenericEntity : "{91E9904BDB19D0FA}PrefabsEditable/Auto/Structure/A_riot_barrier.et" {
+ {
+  coords 4883.044 28.594 11671.927
+ }
+ {
+  coords 4884.225 28.594 11671.923
+ }
+ {
+  coords 4883.001 28.594 11650.552
+  angleY 180
+ }
+ {
+  coords 4884.181 28.594 11650.548
+  angleY 180
+ }
+}
+GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
+ coords 4962.221 28.071 11654.284
+ angleY 19.412
+}
+$grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+ {
+  coords 4884.995 28.594 11655.934
+  angleY 90
+ }
+ {
+  coords 4884.995 28.594 11659.473
+  angleY 90
+ }
+ {
+  coords 4882.235 28.594 11655.979
+  angleY -90
+ }
+ {
+  coords 4884.995 28.594 11662.961
+  angleY 90
+ }
+ {
+  coords 4884.995 28.594 11666.508
+  angleY 90
+ }
+ {
+  coords 4962.286 28.005 11654.457
+  angleY -160.957
+ }
+ {
+  coords 4944.869 28.441 11662.516
+  angleY 170.851
+  angleZ -0.914
+ }
+ {
+  coords 4882.235 28.594 11666.553
+  angleY -90
+ }
+ {
+  coords 4939.867 28.55 11648.193
+  angleY -168.942
+ }
+ {
+  coords 4882.235 28.594 11652.444
+  angleY -90
+ }
+ {
+  coords 4882.235 28.594 11670.073
+  angleY -90
+ }
+ {
+  coords 4882.235 28.594 11659.518
+  angleY -90
+ }
+ {
+  coords 4884.995 28.594 11652.398
+  angleY 90
+ }
+ {
+  coords 4884.995 28.594 11670.027
+  angleY 90
+ }
+ {
+  coords 4882.235 28.594 11663.006
+  angleY -90
+ }
+}

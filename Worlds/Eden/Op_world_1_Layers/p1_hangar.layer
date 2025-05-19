@@ -1,0 +1,314 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{65656C44728F1B2C}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+  }
+  coords 4926.409 28.776 11768.974
+  angleY -90
+ }
+ {
+  components {
+   MeshObject "{65656C4456330F96}" {
+    Object "{8418C4C58ADA8B8B}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_R.xob"
+   }
+  }
+  coords 4933.854 30.404 11779.057
+  angleY -90.81
+ }
+ {
+  components {
+   MeshObject "{65656C43A6737A8E}" {
+    Object "{7513FC91F985BE67}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_L.xob"
+   }
+  }
+  coords 4942.253 30.404 11766.211
+  angleY -90
+ }
+ {
+  components {
+   MeshObject "{65656C4390E0E962}" {
+    Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+   }
+  }
+  coords 4942.546 28.775 11773.624
+  angleY -81.012
+  angleZ -180
+ }
+ {
+  components {
+   MeshObject "{65656C4390E0E962}" {
+    Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+   }
+  }
+  coords 4944.2 28.775 11772.973
+  angleY -162.183
+  angleZ 180
+ }
+ {
+  components {
+   MeshObject "{65656C4390E0E962}" {
+    Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+   }
+  }
+  coords 4942.643 29.02 11772.152
+  angleX 29.1
+  angleY 59.374
+  angleZ -180
+ }
+ {
+  components {
+   MeshObject "{65656C4390E0E962}" {
+    Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+   }
+  }
+  coords 4940.285 29.108 11772.773
+  angleX -3.897
+  angleY 0.469
+  angleZ 154.022
+ }
+}
+$grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
+ {
+  coords 4924.867 28.775 11753.239
+ }
+ {
+  coords 4919.472 28.775 11753.239
+ }
+ {
+  coords 4930.083 28.775 11753.239
+ }
+}
+$grp GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
+ {
+  coords 4942.989 28.785 11758.664
+  angleY -180
+ }
+ {
+  coords 4939.132 28.785 11746.41
+ }
+}
+$grp GenericEntity : "{0D5E512CAED58B5C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Launcher_US.et" {
+ {
+  coords 4941.137 28.785 11758.664
+  angleY -180
+ }
+ {
+  coords 4940.513 28.785 11746.41
+ }
+}
+GenericEntity : "{2B2AA4AD1E2F4F17}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Briefing_Wood.et" {
+ coords 4924.867 29.52 11759.581
+ {
+  $grp GenericEntity : "{AC98FF880BD0F2C2}Prefabs/Props/Furniture/Chair_01/Chair_01_base.et" {
+   {
+    coords -2.543 1.005 1.118
+    angleY -180
+   }
+   {
+    coords 2.118 1.005 1.118
+    angleY -180
+   }
+  }
+ }
+}
+GenericEntity : "{3E0D296F4DD6270C}PrefabsEditable/Auto/Structure/Military_Concrete_block_angle.et" {
+ coords 4917.963 28.775 11763.924
+ angleY -180
+}
+$grp GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
+ {
+  coords 4937.137 28.775 11758.664
+  angleY -180
+ }
+ {
+  coords 4935.652 28.775 11745.546
+ }
+}
+$grp GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
+ {
+  coords 4935.948 28.775 11780.307
+  angleY 90
+ }
+ {
+  coords 4931.388 28.775 11777.697
+  angleY -90
+ }
+ {
+  coords 4938.896 28.775 11764.976
+  angleY -90
+ }
+ {
+  coords 4943.458 28.775 11767.582
+  angleY 90
+ }
+}
+$grp GenericEntity : "{63358FFE9F6B18D8}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_HQ_US.et" {
+ {
+  coords 4939.045 28.785 11758.663
+  angleY -180
+ }
+ {
+  coords 4942.096 28.785 11746.41
+ }
+}
+$grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
+ {
+  coords 4943.249 28.775 11761.816
+  angleY 90
+ }
+ {
+  coords 4938.684 28.775 11761.815
+  angleY 90
+ }
+ {
+  coords 4934.053 28.775 11761.814
+  angleY 90
+ }
+ {
+  coords 4929.49 28.775 11761.813
+  angleY 90
+ }
+ {
+  coords 4924.933 28.775 11761.813
+  angleY 90
+ }
+ {
+  coords 4917.749 28.775 11780.214
+ }
+}
+StaticModelEntity : "{80DF3BD810D032AF}Prefabs/Structures/Industrial/Towers/LightTower_01/LightTower_01.et" {
+ components {
+  BaseSlotComponent "{52F0D5139C575674}" {
+   Enabled 0
+  }
+  BaseSlotComponent "{52F0D5139F34D135}" {
+   Enabled 0
+  }
+  BaseSlotComponent "{52F0D5139FD6A9BB}" {
+  }
+ }
+ coords 4917.489 28.594 11727.305
+ angleY 88.879
+}
+$grp GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
+ {
+  coords 4935.269 28.775 11758.665
+  angleY 180
+ }
+ {
+  coords 4937.128 28.775 11745.547
+ }
+}
+$grp GenericEntity : "{8FF048995874037E}PrefabsEditable/Auto/Structure/Military_concrete_barrier.et" {
+ {
+  coords 4933.54 28.775 11746.987
+  angleY 45
+ }
+ {
+  coords 4933.623 28.775 11751.372
+  angleY -45
+ }
+}
+$grp GenericEntity : "{91E9904BDB19D0FA}PrefabsEditable/Auto/Structure/A_riot_barrier.et" {
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Materials {
+     MaterialAssignClass "{65657B8A4CCF6C4F}" {
+      SourceMaterial "p2_FA824A58E4E51A88"
+      AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+     }
+    }
+   }
+  }
+  coords 4933.156 28.775 11753.939
+  angleY -90
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Materials {
+     MaterialAssignClass "{65657B8A4CCF8FAC}" {
+      SourceMaterial "p2_FA824A58E4E51A88"
+      AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+     }
+    }
+   }
+  }
+  coords 4933.156 28.775 11752.768
+  angleY -90
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Materials {
+     MaterialAssignClass "{65657B8A4CCF8FAC}" {
+      SourceMaterial "p2_FA824A58E4E51A88"
+      AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+     }
+    }
+   }
+  }
+  coords 4933.156 28.775 11744.506
+  angleY -90
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Materials {
+     MaterialAssignClass "{65657B8A4CCF6C4F}" {
+      SourceMaterial "p2_FA824A58E4E51A88"
+      AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+     }
+    }
+   }
+  }
+  coords 4933.156 28.775 11745.677
+  angleY -90
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Materials {
+     MaterialAssignClass "{65657B82020D8E1C}" {
+      SourceMaterial "p2_FA824A58E4E51A88"
+      AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+     }
+    }
+   }
+  }
+  coords 4917.778 28.775 11777.393
+  angleY -90
+ }
+}
+$grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+ {
+  coords 4917.749 28.775 11768.003
+  angleY -90
+ }
+ {
+  coords 4917.749 28.775 11771.509
+  angleY -90
+ }
+ {
+  coords 4917.749 28.775 11775.041
+  angleY -90
+ }
+ {
+  coords 4935.324 28.757 11783.969
+ }
+ {
+  coords 4933.156 28.775 11742.151
+  angleY -90
+ }
+ {
+  coords 4933.156 28.775 11756.296
+  angleY -90
+ }
+ {
+  coords 4933.156 28.775 11759.833
+  angleY -90
+ }
+}

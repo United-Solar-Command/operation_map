@@ -1,0 +1,19 @@
+GenericEntity : "{90B7CEB4C665B1E2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1.et" {
+ ID "50C6D20663830070"
+ components {
+  MeshObject "{5472A771D2979ECD}" {
+   Object "{C41BFB78E6FFFBCB}Assets/Structures/Military/Flags/FlagPole_01/FlagPole_01.xob"
+  }
+  SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+   m_sDefaultMaterial "{2ED7E64F8F002A1E}Assets/Props/Fabric/Flags/Data/Flag_Enforcers.emat"
+  }
+  SlotManagerComponent "{55DAE04E55ECE7FA}" {
+   Slots {
+    EntitySlotInfo Flag {
+     Offset 0 5.2415 -0.1722
+     Prefab "{4241059DA4B2F0E7}Prefabs/Props/Fabric/Flags/Flag_1_2_Enforcers.et"
+    }
+   }
+  }
+ }
+}
