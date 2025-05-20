@@ -1,0 +1,169 @@
+SCR_DestructibleBuildingEntity : "{CA7778B914D3A9FC}Prefabs/Structures/Military/Bunkers/AircraftShelter_E_01/AircraftShelter_E_01_base.et" {
+ ID "F0DBA538AC2A0552"
+ {
+  GenericEntity {
+   ID "566AC6026CF70062"
+   coords -0.153 10.466 -7.731
+   angleX -2.1
+   angleY -75
+  }
+  GenericEntity {
+   ID "566AC6026CF71E97"
+   coords -1.39 10.576 -0.36
+   angleX -1.472
+   angleY 41.286
+   angleZ -3.326
+  }
+  GenericEntity {
+   ID "566AC6026CF71F61"
+   coords 1.436 10.575 -0.364
+   angleX 2.078
+   angleY -90.067
+   angleZ 0.132
+  }
+  GenericEntity {
+   ID "566AC6026CF71F81"
+   coords -0.284 10.452 -25.987
+   angleX 0.989
+   angleY -71.81
+  }
+  GenericEntity : "{213A5175B8849442}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Side_Right_EXT_COV_M3.et" {
+   ID "6568CDC90C145063"
+   components {
+    DoorComponent "{221C667A9F7D4B69}" {
+     AngleRange -85
+     OpenTime 1.25
+    }
+    Hierarchy "{7642683606C70747}" {
+     Enabled 1
+     PivotID "Socket_Side_Right_3"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{275ACEE892A0009E}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Rear_Left_EXT_COV_B.et" {
+   ID "6568CDC90C145065"
+   components {
+    DoorComponent "{221C667A9F7D4B69}" {
+     AngleRange 128
+     OpenTime 2
+    }
+    Hierarchy "{7642683606C70747}" {
+     Enabled 1
+     PivotID "Socket_Rear_Left"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{3611DACE68E04966}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Side_Left_EXT_COV_M2.et" {
+   ID "6568CDC90C145064"
+   components {
+    DoorComponent "{221C667A9F7D4B69}" {
+     AngleRange 86.5
+    }
+    Hierarchy "{7642683606C70747}" {
+     Enabled 1
+     PivotID "Socket_Side_Left_2"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{5A45EE2ED424C648}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Side_Left_EXT_COV_M1.et" {
+   ID "6568CDC90C146E25"
+   components {
+    DoorComponent "{221C667A9F7D4B69}" {
+     AngleRange 85
+    }
+    Hierarchy "{7642683606C70747}" {
+     Enabled 1
+     PivotID "Socket_Side_Left_1"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{7D1E865927B2D775}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Main_Right_EXT_COV_B.et" {
+   ID "6568CDC90C146E26"
+   components {
+    NavmeshCustomLinkComponent "{559E7AC91AFA25BA}" {
+     Enabled 1
+    }
+    SCR_AISmartActionComponent "{5890ED6117CBB20D}" {
+     Enabled 1
+    }
+    Hierarchy "{7642683606C70747}" {
+     PivotID "Socket_Main_Right"
+    }
+   }
+  }
+  GenericEntity : "{A8F2296C08A58C07}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Side_Right_EXT_COV_M1.et" {
+   ID "6568CDC90C146E27"
+   components {
+    DoorComponent "{221C667A9F7D4B69}" {
+     AngleRange -86
+    }
+    Hierarchy "{7642683606C70747}" {
+     Enabled 1
+     PivotID "Socket_Side_Right_1"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{ADAACE11802260CF}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Main_Left_EXT_COV_B.et" {
+   ID "6568CDC90C146E38"
+   components {
+    Hierarchy "{7642683606C70747}" {
+     PivotID "Socket_Main_Right"
+    }
+   }
+  }
+  GenericEntity : "{C4A61D8CB4610329}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Side_Right_EXT_COV_M2.et" {
+   ID "6568CDC90C1418BE"
+   components {
+    DoorComponent "{221C667A9F7D4B69}" {
+     AngleRange -86.5
+    }
+    Hierarchy "{7642683606C70747}" {
+     Enabled 1
+     PivotID "Socket_Side_Right_2"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{D38D96376405DE0D}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Side_Left_EXT_COV_M3.et" {
+   ID "6568CDC90C1418FB"
+   components {
+    DoorComponent "{221C667A9F7D4B69}" {
+     AngleRange 85
+     OpenTime 1.25
+    }
+    Hierarchy "{7642683606C70747}" {
+     Enabled 1
+     PivotID "Socket_Side_Left_3"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{F316BD951AFF6EC1}Prefabs/Structures/BuildingParts/Doors/Door_AircraftShelter_E_01/Door_AircraftShelter_E_01_Rear_Right_EXT_COV_B.et" {
+   ID "6568CDC90C1418FA"
+   components {
+    DoorComponent "{221C667A9F7D4B69}" {
+     AngleRange -123
+     OpenTime 2
+    }
+    Hierarchy "{7642683606C70747}" {
+     Enabled 1
+     PivotID "Socket_Rear_Right"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+ }
+}

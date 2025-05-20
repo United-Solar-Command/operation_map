@@ -1,0 +1,52 @@
+GenericEntity : "{4B5B8117B07DF56B}Prefabs/GM_Props/GuardTower2_GM.et" {
+ ID "F0DBA538AC2A0552"
+ coords 4933.67 27.655 11475.381
+ angleY 180
+ angleZ 2.845
+ {
+  $grp GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
+   {
+    ID "6568E06B58EEAE9C"
+    coords -6.126 0.325 1.271
+    angleX 3.99
+    angleY -87.692
+    angleZ 1.107
+   }
+   {
+    ID "6568E06B58EEAE9F"
+    coords -6.169 0.309 -1.519
+    angleX 1.998
+    angleY -87.731
+    angleZ 1.105
+   }
+   {
+    ID "6568E06B58EEC7D4"
+    coords -6.057 0.291 3.048
+    angleX -3.128
+    angleY 92.107
+    angleZ 1.215
+   }
+   {
+    ID "6568E06B58EEC7DF"
+    coords -6.235 0.344 -3.281
+    angleX -1.471
+    angleY 92.142
+    angleZ -3.471
+   }
+  }
+  $grp SCR_DestructibleBuildingEntity : "{5C387E2D60F58592}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/BigHescos_1.et" {
+   {
+    ID "6568E06B58EEC7D3"
+    coords -4.959 0.358 2.791
+    angleX 2.41
+    angleY -88.841
+   }
+   {
+    ID "6568E06B58EEC7D6"
+    coords -5.073 0.334 -3.059
+    angleX 3.506
+    angleY -88.841
+   }
+  }
+ }
+}

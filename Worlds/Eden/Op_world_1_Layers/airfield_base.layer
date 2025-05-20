@@ -1,1241 +1,1283 @@
-StaticModelEntity : "{341011A1EC5F233A}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_22x18.et" {
- coords 4824.146 28.953 11427.041
- angleY -90
+$grp GenericEntity : "{04765DB04B27A2F9}Prefabs/Compositions/Misc/Checkpoint_Vehicle_01.et" {
+ {
+  coords 4768.919 27.265 10942.429
+  angleY -142.309
+ }
+ {
+  coords 4786.974 27.452 10944.475
+  angleY 137.111
+ }
+}
+GenericEntity : "{30CC84240729285F}Prefabs/Compositions/Misc/Checkpoint_01.et" {
+ coords 4776.96 27.437 10878.185
+ angleY 180
+ {
+  GenericEntity {
+   ID "6568E06AF1E68EC9"
+   coords -2.354 0.018 -0.193
+   angleY -90
+  }
+ }
+}
+$grp StaticModelEntity : "{341011A1EC5F233A}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_22x18.et" {
+ {
+  coords 4824.146 28.953 11411.938
+  angleY -90
+ }
+ {
+  coords 4813.031 27.627 11114.165
+  angleY -88.559
+ }
+ {
+  coords 4839.924 28.588 11267.902
+  angleY -135
+ }
+}
+StaticModelEntity : "{3FE207D0029D97CC}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x13.et" {
+ coords 4813.731 27.53 11760.332
+ angleY 180
+}
+StaticModelEntity : "{410BC3D746AB53AE}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_13x18.et" {
+ coords 4813.324 27.644 11821.451
+ angleY 92.052
+}
+StaticModelEntity : "{6C6C936971C9D6FC}Prefabs/Compositions/Misc/Shelter_01.et" {
+ coords 4817.995 28.452 11705.286
+ angleY 0
+}
+$grp SCR_DestructibleBuildingEntity : "{8A8A7A558772D718}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_small.et" {
+ {
+  coords 4805.277 29.175 11013.991
+ }
+ {
+  coords 4816.104 24.396 12107.446
+  angleY -122.468
+ }
+}
+$grp StaticModelEntity : "{979A564D476B5AAE}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_tall.et" {
+ {
+  coords 4752.127 0 11027.72
+  {
+   GenericEntity : "{A528F04F41F2A2D1}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_on.et" {
+    coords 0.035 7.923 -0.293
+    scale 2
+    {
+     $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+      {
+       coords 0.091 -4.083 -0.025
+      }
+      {
+       coords 0.091 -2.612 -0.025
+      }
+      {
+       coords 0.091 -1.066 -0.025
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F15B99F6B06E7200}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_generator.et" {
+    {
+     coords -1.28 4.843 0.16
+    }
+    {
+     coords 1.315 4.843 -0.08
+     angleY -180
+    }
+   }
+  }
+ }
+ {
+  coords 4734.98 0 10969.94
+  angleY 47.235
+  {
+   GenericEntity : "{A528F04F41F2A2D1}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_on.et" {
+    coords 0.035 7.923 -0.293
+    scale 2
+    {
+     $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+      {
+       coords 0.091 -4.083 -0.025
+      }
+      {
+       coords 0.091 -2.612 -0.025
+      }
+      {
+       coords 0.091 -1.066 -0.025
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F15B99F6B06E7200}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_generator.et" {
+    {
+     coords 1.315 4.843 -0.08
+     angleY -180
+    }
+    {
+     coords -1.28 4.843 0.16
+    }
+   }
+  }
+ }
+ {
+  coords 4806.112 0 10974.768
+  angleY -50.626
+  {
+   GenericEntity : "{A528F04F41F2A2D1}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_on.et" {
+    coords 0.035 7.923 -0.293
+    scale 2
+    {
+     $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+      {
+       coords 0.091 -4.083 -0.025
+      }
+      {
+       coords 0.091 -2.612 -0.025
+      }
+      {
+       coords 0.091 -1.066 -0.025
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{F15B99F6B06E7200}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_generator.et" {
+    {
+     coords 1.315 4.843 -0.08
+     angleY -180
+    }
+    {
+     coords -1.28 4.843 0.16
+    }
+   }
+  }
+ }
 }
 SCR_DestructibleBuildingEntity : "{BE248D0B31D3B097}Prefabs/Structures/Military/Bunkers/AmmoDump_E_02/AmmoDump_E_02.et" {
- coords 4801.226 27.487 11612.014
+ coords 4801.649 27.976 11611.754
  angleY -90
  {
-  $grp GenericEntity {
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
+  GenericEntity {
+   components {
+    MeshObject "{65657B8B9F7E4A9E}" {
+     Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
     }
-    coords -3.382 0.223 -3.014
-    angleY 90
    }
+   coords -3.382 0.223 -3.014
+   angleY 90
    {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.417 0.223 -13.74
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.417 0.223 -14.827
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.223 -4.101
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.417 0.223 -15.885
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.223 -5.16
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.417 0.223 -16.946
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.223 -6.221
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576FD656}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+    $grp GenericEntity {
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 10.726 0 -0.035
      }
-    }
-    coords -3.417 0.223 -18.032
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.223 -7.306
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F185A}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 11.813 0 -0.035
      }
-    }
-    coords -3.417 0.223 -19.099
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.223 -8.372
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B5768D8A6}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 1.087 0 0
      }
-    }
-    coords -3.417 0.223 -20.151
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.223 -9.425
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B5768C68B}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 12.871 0 -0.035
      }
-    }
-    coords -3.417 0.223 -21.229
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.223 -10.504
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A0F8C}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 2.146 0 0
      }
-    }
-    coords -3.419 0.223 -22.312
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.223 -11.587
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A1DE6}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 13.932 0 -0.035
      }
-    }
-    coords -3.419 0.223 -23.399
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.223 -12.672
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 0.819 -13.74
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 0.819 -14.827
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -4.101
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 0.819 -15.885
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -5.16
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 0.819 -16.946
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -6.221
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576FC201}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 3.207 0 0
      }
-    }
-    coords -3.416 0.819 -18.032
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -7.306
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B5768EAC5}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576FD656}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
        }
       }
+      coords 15.018 0 -0.035
      }
-    }
-    coords -3.416 0.819 -19.099
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -8.372
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B5768FAD3}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 4.292 0 0
      }
-    }
-    coords -3.416 0.819 -20.15
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -9.424
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F0BA0}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F185A}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
        }
       }
+      coords 16.085 0 -0.035
      }
-    }
-    coords -3.416 0.819 -21.228
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -10.503
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A4971}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 5.358 0 0
      }
-    }
-    coords -3.418 0.819 -22.311
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -11.586
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A235B}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B5768D8A6}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
        }
       }
+      coords 17.137 0 -0.035
      }
-    }
-    coords -3.418 0.819 -23.399
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -12.672
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 0.818 -3.014
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 1.415 -13.74
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 1.415 -14.827
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -4.101
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 1.415 -15.885
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -5.16
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 1.415 -16.946
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -6.221
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576FBF75}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 6.411 0 0
      }
-    }
-    coords -3.416 1.415 -18.032
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -7.306
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F2E34}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B5768C68B}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
        }
       }
+      coords 18.215 0 -0.035
      }
-    }
-    coords -3.416 1.415 -19.099
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -8.372
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F3F6E}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 7.49 0 0
      }
-    }
-    coords -3.416 1.415 -20.149
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -9.423
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F42A0}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A0F8C}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
        }
       }
+      coords 19.298 0 -0.037
      }
-    }
-    coords -3.416 1.415 -21.228
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -10.502
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431AB928}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 8.573 0 0
      }
-    }
-    coords -3.417 1.415 -22.311
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -11.585
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A3A0E}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A1DE6}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
        }
       }
+      coords 20.385 0 -0.037
      }
-    }
-    coords -3.418 1.415 -23.399
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -12.672
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 1.414 -3.014
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 2.011 -13.74
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 2.011 -14.827
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -4.101
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 2.011 -15.885
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -5.16
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 2.011 -16.946
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -6.221
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576FAB70}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 9.658 0 0
      }
-    }
-    coords -3.416 2.011 -18.032
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -7.306
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F75C9}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 10.726 0.596 -0.034
      }
-    }
-    coords -3.416 2.011 -19.099
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -8.372
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F66A5}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 11.813 0.596 -0.034
      }
-    }
-    coords -3.416 2.011 -20.149
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -9.422
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F5350}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 1.087 0.595 0
      }
-    }
-    coords -3.416 2.011 -21.228
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -10.501
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431AAA6B}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 12.871 0.596 -0.034
      }
-    }
-    coords -3.417 2.011 -22.311
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -11.584
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A37FC}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 2.146 0.595 0
      }
-    }
-    coords -3.418 2.011 -23.399
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -12.672
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.01 -3.014
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 2.607 -13.74
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 2.607 -14.827
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -4.101
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 2.607 -15.885
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -5.16
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.416 2.607 -16.946
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -6.221
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576FA7D9}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 13.932 0.596 -0.034
      }
-    }
-    coords -3.416 2.607 -18.032
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -7.306
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F79BC}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 3.207 0.595 0
      }
-    }
-    coords -3.416 2.607 -19.099
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -8.372
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F8C22}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576FC201}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
        }
       }
+      coords 15.018 0.596 -0.034
      }
-    }
-    coords -3.416 2.607 -20.148
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -9.421
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B576F90AA}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 4.292 0.595 0
      }
-    }
-    coords -3.416 2.607 -21.227
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -10.5
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431AA62B}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B5768EAC5}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
        }
       }
+      coords 16.085 0.596 -0.034
      }
-    }
-    coords -3.417 2.607 -22.309
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -11.583
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A9394}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 5.358 0.595 0
      }
-    }
-    coords -3.417 2.607 -23.399
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -12.672
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-     }
-    }
-    coords -3.382 2.606 -3.014
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A7B9D}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B5768FAD3}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
        }
       }
+      coords 17.136 0.596 -0.034
      }
-    }
-    coords -3.418 2.607 -25.508
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A8FD4}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 6.41 0.595 0
      }
-    }
-    coords -3.418 2.607 -24.419
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A7799}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F0BA0}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
        }
       }
+      coords 18.214 0.596 -0.034
      }
-    }
-    coords -3.418 2.011 -25.508
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431BFEE8}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 7.489 0.595 0
      }
-    }
-    coords -3.419 2.011 -24.42
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A634F}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A4971}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
        }
       }
+      coords 19.297 0.596 -0.036
      }
-    }
-    coords -3.418 1.415 -25.508
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431A5DD6}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 8.572 0.595 0
      }
-    }
-    coords -3.418 0.819 -25.508
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431BD9DD}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A235B}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
        }
       }
+      coords 20.385 0.596 -0.036
      }
-    }
-    coords -3.419 0.819 -24.42
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431BE9A4}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 9.658 0.595 0
      }
-    }
-    coords -3.419 1.415 -24.42
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431BA8F8}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 0 0.595 0
      }
-    }
-    coords -3.42 0.223 -25.508
-    angleY 90
-   }
-   {
-    components {
-     MeshObject "{65657B8B9F7E4A9E}" {
-      Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
-      Materials {
-       MaterialAssignClass "{65657B8B431BCC2B}" {
-        SourceMaterial "ArsenalCrate"
-        AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
        }
       }
+      coords 10.726 1.192 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 11.813 1.192 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 1.087 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 12.871 1.192 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 2.146 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 13.932 1.192 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 3.207 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576FBF75}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 15.018 1.192 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 4.292 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F2E34}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 16.085 1.192 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 5.358 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F3F6E}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 17.135 1.192 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 6.409 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F42A0}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 18.214 1.192 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 7.488 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431AB928}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 19.297 1.192 -0.035
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 8.571 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A3A0E}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 20.385 1.192 -0.036
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 9.658 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 0 1.191 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 10.726 1.788 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 11.813 1.788 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 1.087 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 12.871 1.788 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 2.146 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 13.932 1.788 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 3.207 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576FAB70}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 15.018 1.788 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 4.292 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F75C9}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 16.085 1.788 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 5.358 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F66A5}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 17.135 1.788 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 6.408 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F5350}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 18.214 1.788 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 7.487 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431AAA6B}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 19.297 1.788 -0.035
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 8.57 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A37FC}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 20.385 1.788 -0.036
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 9.658 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 0 1.787 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 10.726 2.384 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 11.813 2.384 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 1.087 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 12.871 2.384 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 2.146 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 13.932 2.384 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 3.207 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576FA7D9}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 15.018 2.384 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 4.292 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F79BC}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 16.085 2.384 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 5.358 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F8C22}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 17.134 2.384 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 6.407 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B576F90AA}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{35CDAF5FD30965D9}Assets/Props/Crate/Data/1MB_Crate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 18.213 2.384 -0.034
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 7.486 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431AA62B}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 19.295 2.384 -0.035
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 8.569 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A9394}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 20.385 2.384 -0.035
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 9.658 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+       }
+      }
+      coords 0 2.383 0
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A7B9D}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 22.494 2.384 -0.036
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A8FD4}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 21.405 2.384 -0.036
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A7799}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 22.494 1.788 -0.036
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431BFEE8}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 21.406 1.788 -0.037
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A634F}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 22.494 1.192 -0.036
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431A5DD6}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 22.494 0.596 -0.036
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431BD9DD}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 21.406 0.596 -0.037
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431BE9A4}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 21.406 1.192 -0.037
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431BA8F8}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 22.494 0 -0.038
+     }
+     {
+      components {
+       MeshObject "{65657B8B9F7E4A9E}" {
+        Object "{F31BCA33A2A27BD5}Assets/Props/Crate/GF_ArsenalCrate.xob"
+        Materials {
+         MaterialAssignClass "{65657B8B431BCC2B}" {
+          SourceMaterial "ArsenalCrate"
+          AssignedMaterial "{D29569BA87102A8E}Assets/Props/Crate/Data/ArsenalCrate_1MB.emat"
+         }
+        }
+       }
+      }
+      coords 21.407 0 -0.038
      }
     }
-    coords -3.42 0.223 -24.421
-    angleY 90
    }
   }
   $grp GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
@@ -1357,40 +1399,530 @@ SCR_DestructibleBuildingEntity : "{BE248D0B31D3B097}Prefabs/Structures/Military/
     }
    }
   }
+  $grp GameEntity : "{C16B9C07263AFA5A}PrefabsEditable/Auto/Props/Military/Generators/Military searchlight.et" {
+   {
+    coords -1.366 0.136 -5.399
+    angleY 140.402
+   }
+   {
+    coords -2.16 0.134 -25.656
+    angleY 56.611
+   }
+  }
+  $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
+   {
+    coords 1.375 0.074 -1.715
+   }
+   {
+    coords -0.603 0.074 -1.715
+   }
+   {
+    coords -2.603 0.074 -1.715
+   }
+  }
  }
 }
 $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/Bunkers/AircraftShelter_E_01/AircraftShelter_E_01_camo_v2.et" {
  {
-  coords 4799.584 0.486 11663.194
+  coords 4801.269 1.096 11663.196
   angleY -90.348
   {
+   GenericEntity : "{0E1733FAF9ACCBE8}Prefabs/Props/Military/SupplyBox/SupplyPortableContainers/SupplyPortableContainer_01/SupplyPortableContainers_01_large_storage.et" {
+    coords -5.111 0.551 -12.359
+    angleY 90.348
+   }
+   GenericEntity : "{190CC54D175F52CB}Prefabs/Props/Military/SupplyBox/SupplyShippingContainers/SupplyShippingContainers_01/SupplyShippingContainers_01_10ft.et" {
+    coords 5.728 0 -7.482
+    angleY 90.348
+   }
+   $grp GenericEntity : "{2E37501FEFB80D61}Prefabs/Props/Airport/RunwayLightPortable_01/RunwayLightPortable_01_off.et" {
+    {
+     coords -7.302 0 -5.697
+     angleY 90.348
+    }
+    {
+     coords -7.3 0 -5.442
+     angleY 90.348
+    }
+    {
+     coords -7.299 0 -5.207
+     angleY 90.348
+    }
+    {
+     coords -7.297 0 -4.951
+     angleY 90.348
+    }
+    {
+     coords -7.303 0 -5.975
+     angleY 90.348
+    }
+    {
+     coords -6.919 0 -5.918
+     angleY 90.348
+    }
+    {
+     coords -6.916 0 -5.386
+     angleY 90.348
+    }
+    {
+     coords -6.917 0 -5.641
+     angleY 90.348
+    }
+    {
+     coords -6.914 0 -5.15
+     angleY 90.348
+    }
+    {
+     coords -6.913 0 -4.895
+     angleY 90.348
+    }
+    {
+     coords -6.585 0 -5.785
+     angleY -1.244
+    }
+    {
+     coords -6.588 0 -5.377
+     angleY 179.763
+    }
+    {
+     coords -6.571 0 -4.959
+     angleY -175.092
+    }
+   }
+   GenericEntity : "{3533DB963FA9C81F}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_20ft_Base.et" {
+    coords 3.654 2.565 -18.711
+    angleY -1.159
+   }
+   GenericEntity : "{35B9DE7639F3355A}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_KAL.et" {
+    coords -4.498 2.565 -18.437
+    angleY 177.442
+   }
+   GenericEntity : "{3E9EDDFC51BB3410}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_10ft_olive.et" {
+    coords 4.544 2.533 -26.424
+    angleY 90.348
+   }
+   $grp GenericEntity : "{3FD3F403025BBDF5}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_storage.et" {
+    {
+     coords 4.827 2.541 -6.884
+     angleY 90.348
+    }
+    {
+     coords 4.82 2.541 -8.101
+     angleY 90.348
+    }
+    {
+     coords 7.011 3.094 -8.034
+     angleX 90
+     angleY -89.652
+     angleZ -180
+    }
+    {
+     coords 7.019 3.094 -6.857
+     angleX 90
+     angleY -89.652
+     angleZ -180
+    }
+    {
+     coords 5.951 0 -9.386
+     angleY 91.89
+    }
+    {
+     coords 7.013 0 -11.41
+     angleY 1.907
+    }
+    {
+     coords 7.048 0 -10.355
+     angleY 1.907
+    }
+    {
+     coords 7.083 0 -9.273
+     angleY 1.907
+    }
+   }
+   GenericEntity : "{45BD065FEF334A8A}Prefabs/Structures/Signs/Warnings/SignNoEntryVehicle_01.et" {
+    coords 266.914 2.023 -123.077
+    angleY -179.652
+   }
+   GenericEntity : "{4780EEDA97B48C91}PrefabsEditable/Auto/Structure/Protective tower with staircase.et" {
+    coords 6.321 -0.386 -15.385
+    angleY 90.348
+   }
+   $grp GenericEntity : "{52E67D46C7855822}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_Large_01/SupplyStack_Large_01_storage_US_covered.et" {
+    {
+     coords 7.064 0 -12.676
+     angleY 1.907
+    }
+    {
+     coords 2.584 0 -14.737
+     angleY 1.907
+    }
+    {
+     coords 5.066 0 -14.591
+     angleY 1.907
+    }
+    {
+     coords 4.822 0 -9.311
+     angleY -86.404
+    }
+   }
+   GenericEntity : "{547BB04867B503E5}Prefabs/Props/Military/Camps/PalletMRE_01_US.et" {
+    coords -6.719 1.311 -3.409
+    angleY 90.348
+   }
+   $grp GenericEntity : "{560846735799794D}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_02_20ft_Emerald.et" {
+    {
+     coords -4.862 2.548 -24.737
+     angleY -0.006
+    }
+    {
+     coords 5.709 0 -18.309
+     angleY -1.735
+    }
+    {
+     coords 3.073 0 -18.39
+     angleY -1.735
+    }
+    {
+     coords 3.26 0 -24.536
+     angleY -1.735
+    }
+    {
+     coords 5.836 0 -24.457
+     angleY -1.735
+    }
+   }
+   GenericEntity : "{5DF32BDA2A8C5A3D}Prefabs/Props/Military/Camps/PalletAmmo_01_US_camo.et" {
+    coords -7.271 0 -1.88
+    angleY -177.664
+   }
+   $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
+    {
+     coords 301.828 -0.171 -77.398
+     angleY 90.348
+    }
+    {
+     coords 306.407 -0.171 -77.426
+     angleY 90.348
+    }
+   }
+   GenericEntity : "{73F8306941E09593}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_01/SupplyStack_01_V6_storage_US_covered.et" {
+    coords -5.822 0 -10.828
+    angleY -70.785
+   }
+   GenericEntity : "{7A63C828383500F9}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_01/SupplyStack_01_V5.et" {
+    coords -6.987 0 -11.926
+    angleY 40.636
+   }
+   GenericEntity : "{886FCEAD07C17CDD}Prefabs/Props/Military/SupplyBox/SupplyPortableContainers/SupplyPortableContainer_01/SupplyPortableContainers_01_medium_storage.et" {
+    coords -7.197 0.847 -12.129
+    angleY 53.232
+   }
+   GenericEntity : "{887780D497AADE00}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_40ft_Base.et" {
+    coords -3.75 0 -21.505
+    angleY 0.294
+   }
+   GenericEntity : "{94E96FA55D9B2353}Prefabs/Props/Military/SupplyBox/SupplyPortableContainers/SupplyPortableContainer_01/SupplyPortableContainers_01_small_storage.et" {
+    coords -6.862 0.734 -11.81
+    angleY 12.645
+   }
+   GenericEntity : "{98A34AE10104A932}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_01/SupplyStack_01_V1_storage.et" {
+    coords -3.789 0 -14.774
+    angleY 90.348
+   }
+   GenericEntity : "{9A3ADECE49EF8993}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_40ft_green.et" {
+    coords -6.222 0 -21.519
+    angleY -0.406
+   }
+   $grp GenericEntity : "{A52C57FE8549A13E}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_10ft_red.et" {
+    {
+     coords 3.824 2.573 -23.466
+     angleY 179.874
+    }
+    {
+     coords -5.928 0 -13.971
+     angleY 90.348
+    }
+   }
+   SCR_IndestructibleEnvironmentalEntity : "{AE73676ABA995907}Prefabs/Structures/BuildingParts/Entry/Entry_Block_Platform_01_3x12.et" {
+    coords 5.761 -0.007 1.119
+    angleY 90
+    angleZ 0.038
+    {
+     $grp GenericEntity : "{18E3F1942F2C8509}Prefabs/Structures/BuildingParts/Entry/Entry_Slope_Platform_01.et" {
+      {
+       coords -7.146 -0.027 -1.337
+       angleX -0.038
+       angleY -90
+      }
+      {
+       coords -7.142 -0.027 -5.816
+       angleX -0.038
+       angleY -90
+      }
+      {
+       coords -7.144 -0.027 -10.348
+       angleX -0.038
+       angleY -90
+      }
+     }
+     $grp SCR_IndestructibleEnvironmentalEntity : "{AE73676ABA995907}Prefabs/Structures/BuildingParts/Entry/Entry_Block_Platform_01_3x12.et" {
+      {
+       coords -0.005 0 -2.972
+      }
+      {
+       coords 0 0 -5.936
+      }
+      {
+       coords -0.005 0 -8.89
+      }
+      {
+       coords -0.001 0 -11.768
+      }
+     }
+    }
+   }
+   GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+    coords 6.075 0 -2.847
+    angleY -179.652
+    {
+     $grp GenericEntity {
+      {
+       components {
+        MeshObject "{6568F7D255CFA5FB}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -1.406 0 1.47
+       angleY -90
+      }
+      {
+       components {
+        MeshObject "{6568F7D255CFA5FB}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -0.836 0 2.611
+       angleY 0.355
+      }
+      {
+       components {
+        MeshObject "{6568F7D255CFA5FB}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 0.836 0 2.601
+       angleY 0.355
+      }
+      {
+       components {
+        MeshObject "{6568F7D255CFA5FB}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -1.017 0 3.143
+       angleY 0.355
+      }
+      {
+       components {
+        MeshObject "{6568F7D255CFA5FB}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 0.655 0 3.133
+       angleY 0.355
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -0.742 0.823 2.013
+       angleY 179.923
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 0.89 0.823 2.015
+       angleY 179.923
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -0.741 0.823 1.481
+       angleY 179.923
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 0.89 0.823 1.482
+       angleY 179.923
+      }
+      {
+       components {
+        MeshObject "{6568F7D255CFA5FB}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -0.735 0.823 0.932
+       angleY 179.923
+      }
+      {
+       components {
+        MeshObject "{6568F7D255CFA5FB}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 0.896 0.823 0.934
+       angleY 179.923
+      }
+      {
+       components {
+        MeshObject "{6568F7D38D8E6811}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 0.756 0.066 0.2
+       angleY -179.982
+      }
+      {
+       components {
+        MeshObject "{6568F7D38D8E6811}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -0.888 0.066 0.201
+       angleY -179.982
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 1.615 0 1.476
+       angleY -90
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 1.264 0 1.476
+       angleY -90
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 0.954 0 1.476
+       angleY -90
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 0.593 0 1.476
+       angleY -90
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords 0.284 0 1.476
+       angleY -90
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -0.085 0 1.476
+       angleY -90
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -0.516 0 1.476
+       angleY -90
+      }
+      {
+       components {
+        MeshObject "{6568F7D3AFD997C4}" {
+         Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+        }
+       }
+       coords -0.942 0 1.476
+       angleY -90
+      }
+     }
+     GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+      coords 2.336 0 1.691
+      angleY -90
+     }
+    }
+   }
+   $grp GameEntity : "{C16B9C07263AFA5A}PrefabsEditable/Auto/Props/Military/Generators/Military searchlight.et" {
+    {
+     coords 6.212 0.015 1.518
+     angleY -140.396
+    }
+    {
+     coords -7.057 0.009 1.539
+     angleY 149.362
+    }
+    {
+     coords -1.518 0 -26.473
+     angleY 5.997
+    }
+   }
    $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
     {
-     coords -16.896 -0.016 0.844
+     coords -16.893 -0.016 1.599
      angleY -89.652
     }
     {
-     coords -16.91 -0.016 -1.113
+     coords -16.907 -0.016 -0.358
      angleY -89.652
     }
     {
-     coords -16.933 -0.016 -5.063
+     coords -16.931 -0.016 -4.308
      angleY -89.652
     }
     {
-     coords -16.921 -0.016 -3.107
+     coords -16.918 -0.016 -2.352
      angleY -89.652
     }
     {
-     coords -16.944 -0.016 -7.019
+     coords -16.94 -0.016 -6.264
      angleY -89.652
     }
     {
-     coords -16.968 -0.016 -10.89
+     coords -16.966 -0.016 -10.267
      angleY -89.652
     }
     {
-     coords -16.956 -0.016 -8.966
+     coords -16.953 -0.016 -8.271
      angleY -89.652
     }
     {
@@ -1405,13 +1937,201 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
      coords -9.306 -0.094 -30.745
      angleY -89.652
     }
+    {
+     coords 17.007 0.036 1.891
+     angleY 90
+     {
+      GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
+       coords 2.004 0 0
+      }
+     }
+    }
+   }
+   GenericEntity : "{C9C7D79C9380F85B}Prefabs/Props/Military/Camps/DispenserBeverage_E_01/DispenserBeverage_E_01_green.et" {
+    coords -6.643 1.217 -4.496
+    angleY 144.958
+   }
+   GenericEntity : "{DB4F61D5F37432F7}Prefabs/Props/Military/Camps/PalletFuel_01.et" {
+    coords -7.087 0 -3.7
+    angleY -177.576
+   }
+   GenericEntity : "{DE04FCCE1FD7D9F4}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_01/SupplyStack_01_V3_storage_US_covered.et" {
+    coords -6.07 2.557 -14.708
+    angleY -158.382
+   }
+   GenericEntity : "{F39F7C209905A4C7}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_01/SupplyStack_01_V3_storage.et" {
+    coords -3.636 0 -13.369
+    angleY 30.325
+   }
+   $grp GenericEntity : "{F3ABB031881418BC}Prefabs/Props/Military/SupplyBox/SupplyStack/SupplyStack_01/SupplyStack_01_V6.et" {
+    {
+     coords -5.076 0 -12.117
+     angleY 179.804
+    }
+    {
+     coords 5.896 3.619 -6.917
+     angleY -89.753
+    }
+    {
+     coords 5.892 3.619 -8.072
+     angleY -89.753
+    }
+    {
+     coords 4.872 4.119 -7.825
+     angleY -89.753
+    }
    }
   }
  }
  {
-  coords 4800.142 0.393 11564.349
+  coords 4800.791 0.715 11557.584
   angleY -90.348
   {
+   GenericEntity {
+    components {
+     MeshObject "{6568CDC98896BF16}" {
+      Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+     }
+     RigidBody "{6568F7CA30AB4836}" {
+      Mass 6000
+      ModelGeometry 1
+     }
+     SlotManagerComponent "{6568CDC9FF9E30A1}" {
+      Slots {
+       RegisteringComponentSlotInfo Minigun_Front {
+        PivotID "minigun_slot"
+        Offset 0 0.1909 0
+        Prefab "{8DB9884B4FAC1AD5}Prefabs/Weapons/AutoTurrets/AutoTurret_Dropship_Minigun_Enforcers.et"
+       }
+      }
+     }
+     ActionsManagerComponent "{6568F7C825269646}" {
+      additionalActions {
+       SCR_VehicleAction "{6568F7C82891F5F5}" {
+        ParentContextList {
+         "door_ramp" "dashboard"
+        }
+        ActionTitle "Toggle Ramp"
+        m_sActionStateOn "Open Ramp"
+        m_sActionStateOff "Close Ramp"
+        m_bPilotOnly 0
+        m_sSignalName "Ramp"
+       }
+      }
+     }
+    }
+    coords -0.16 0 -12.311
+    angleY 0.348
+   }
+   $grp GenericEntity : "{4780EEDA97B48C91}PrefabsEditable/Auto/Structure/Protective tower with staircase.et" {
+    {
+     coords 2.45 0 -3.964
+     angleY 90.348
+    }
+    {
+     coords -2.42 0 -23.426
+     angleY -89.652
+    }
+   }
+   $grp GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
+    {
+     coords -0.996 0 -4.532
+     angleY 28.786
+    }
+    {
+     coords 3.058 0 -8.772
+     angleY 149.736
+    }
+    {
+     coords 3.143 0 -13.195
+     angleY -179.652
+    }
+    {
+     coords 3.114 0 -17.779
+     angleY -179.652
+    }
+    {
+     coords 0.207 0 -21.36
+     angleY -150.015
+    }
+    {
+     coords -3.844 0 -8.14
+     angleY 0.348
+    }
+    {
+     coords -3.872 0 -12.731
+     angleY 0.348
+    }
+    {
+     coords -3.939 0 -17.257
+     angleY -39.991
+    }
+    {
+     coords 1.125 0 -23.461
+     angleY 90.348
+    }
+   }
+   GenericEntity : "{7BB30759D09C70B5}Prefabs/Props/Civilian/StepladderWooden_01.et" {
+    coords -0.927 2.941 -22.653
+    angleX 41.702
+    angleY 178.367
+   }
+   SCR_IndestructibleEnvironmentalEntity : "{AE73676ABA995907}Prefabs/Structures/BuildingParts/Entry/Entry_Block_Platform_01_3x12.et" {
+    coords 5.894 -0.005 -0.296
+    angleY 90
+    angleZ 0.038
+    {
+     $grp GenericEntity : "{18E3F1942F2C8509}Prefabs/Structures/BuildingParts/Entry/Entry_Slope_Platform_01.et" {
+      {
+       coords -8.189 -0.027 -10.348
+       angleX -0.038
+       angleY -90
+      }
+      {
+       coords -8.188 -0.027 -5.816
+       angleX -0.038
+       angleY -90
+      }
+      {
+       coords -8.192 -0.027 -1.337
+       angleX -0.038
+       angleY -90
+      }
+     }
+     $grp SCR_IndestructibleEnvironmentalEntity : "{AE73676ABA995907}Prefabs/Structures/BuildingParts/Entry/Entry_Block_Platform_01_3x12.et" {
+      {
+       coords -0.005 0 -2.972
+      }
+      {
+       coords 0 0 -5.936
+      }
+      {
+       coords -0.005 0 -8.89
+      }
+      {
+       coords -0.001 0 -11.768
+      }
+     }
+    }
+   }
+   $grp GameEntity : "{C16B9C07263AFA5A}PrefabsEditable/Auto/Props/Military/Generators/Military searchlight.et" {
+    {
+     coords 6.917 0.009 1.706
+     angleY -138.075
+    }
+    {
+     coords -6.969 0.056 1.985
+     angleY 140.089
+    }
+    {
+     coords 7.027 0 -26.604
+     angleY -57.481
+    }
+    {
+     coords -6.984 0 -27.155
+     angleY 47.289
+    }
+   }
    $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
     {
      coords -17.004 -0.063 1.807
@@ -1453,50 +2173,1856 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
      coords -9.333 -0.042 -30.944
      angleY -89.652
     }
+    {
+     coords 16.974 0.005 1.892
+     angleY 90
+     {
+      GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
+       coords 2.004 0 0
+      }
+     }
+    }
+   }
+   $grp GenericEntity : "{CC66836BF4E211F9}Prefabs/Props/Military/Camps/Duckboard_01.et" {
+    {
+     coords 3.227 2.87 -17.987
+     angleY 36.708
+    }
+    {
+     coords 3.825 2.886 -8.636
+     angleY 159.565
+    }
+    {
+     coords 1.831 2.889 -4.845
+     angleY 153.601
+    }
+    {
+     coords -2.029 2.878 -4.679
+     angleY 32.679
+    }
+    {
+     coords -4.013 2.864 -8.52
+     angleY 26.794
+    }
+    {
+     coords -4.195 2.869 -17.491
+     angleY 156.959
+    }
+    {
+     coords 1.013 2.865 -21.644
+     angleY 28.89
+    }
+    {
+     coords -2.143 2.857 -21.522
+     angleY -8.1
+    }
+    {
+     coords -0.177 3.382 -5.598
+     angleX 16.608
+     angleY -178.389
+     angleZ -0.33
+    }
+    {
+     coords -0.295 4.357 -9.24
+     angleX 12.149
+     angleY -178.363
+     angleZ -0.323
+    }
+    {
+     coords -0.243 4.258 -13.54
+     angleY 1.052
+    }
+    {
+     coords -3.301 4.053 -13.077
+     angleX 12.159
+     angleY 90.348
+    }
+    {
+     coords 2.927 4.067 -12.792
+     angleX -13.008
+     angleY 90.348
+    }
+    {
+     coords -1.981 4.164 -20.312
+     angleX 6.598
+     angleY 90.642
+     scale 0.6
+    }
+    {
+     coords 1.542 4.186 -20.351
+     angleX -6.598
+     angleY 90.642
+     scale 0.6
+    }
+    {
+     coords 2.727 3.582 -15.792
+     angleX -28.909
+     angleY 90.734
+     angleZ 3.774
+     scale 0.8
+    }
+    {
+     coords -0.049 4.31 -15.809
+     angleX -0.308
+     angleY 90.921
+     angleZ 0.014
+     scale 0.8
+    }
+    {
+     coords 2.727 3.582 -15.792
+     angleX -28.909
+     angleY 90.734
+     angleZ 3.774
+     scale 0.8
+    }
+    {
+     coords -2.843 3.638 -15.696
+     angleX 26.102
+     angleY 94.891
+     angleZ 5.679
+     scale 0.8
+    }
+    {
+     coords -0.168 4.579 -11.395
+     angleY -89.094
+     scale 0.5
+    }
+    {
+     coords -0.233 4.001 -7.349
+     angleY -89.094
+     angleZ 21.635
+     scale 0.5
+    }
+   }
+   GenericEntity : "{EDAD1E516C1E553E}Prefabs/Props/Military/SupplyBox/SupplyCrate/SupplyCrate_Base.et" {
+    coords -0.179 4.265 -11.418
+    angleY 1.254
+   }
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{C9F9F26B27D4A11F}Prefabs/Structures/Military/Bunkers/AircraftShelter_E_01/AircraftShelter_E_01_camo_v2_closed.et" {
+ coords 4801.841 1.025 11487.195
+ angleY -90
+ {
+  GenericEntity {
+   ID "6568CDC90C146E26"
+   components {
+    NavmeshCustomLinkComponent "{559E7AC91AFA25BA}" {
+     Enabled 1
+    }
+    SCR_AISmartActionComponent "{5890ED6117CBB20D}" {
+     Enabled 1
+    }
+    ActionsManagerComponent "{F32B667C3C823800}" {
+     Enabled 1
+    }
+   }
+  }
+  GenericEntity {
+   ID "6568CDC90C146E38"
+   components {
+    DoorComponent "{221C667A9F7D4B69}" {
+     Enabled 1
+    }
+    NavmeshCustomLinkComponent "{559E7AC91AFA25BA}" {
+     Enabled 1
+    }
+   }
+  }
+  SCR_IndestructibleEnvironmentalEntity : "{AE73676ABA995907}Prefabs/Structures/BuildingParts/Entry/Entry_Block_Platform_01_3x12.et" {
+   coords 5.889 -0.138 0.39
+   angleY 89.652
+   angleZ 0.038
+   {
+    $grp GenericEntity : "{18E3F1942F2C8509}Prefabs/Structures/BuildingParts/Entry/Entry_Slope_Platform_01.et" {
+     {
+      coords -8.192 -0.027 -1.337
+      angleX -0.038
+      angleY -90
+     }
+     {
+      coords -8.188 -0.027 -5.816
+      angleX -0.038
+      angleY -90
+     }
+     {
+      coords -8.189 -0.027 -10.348
+      angleX -0.038
+      angleY -90
+     }
+    }
+    $grp SCR_IndestructibleEnvironmentalEntity : "{AE73676ABA995907}Prefabs/Structures/BuildingParts/Entry/Entry_Block_Platform_01_3x12.et" {
+     {
+      coords -0.005 0 -2.972
+     }
+     {
+      coords 0 0 -5.936
+     }
+     {
+      coords -0.005 0 -8.89
+     }
+     {
+      coords -0.001 0 -11.768
+     }
+    }
+   }
+  }
+  $grp GameEntity : "{C16B9C07263AFA5A}PrefabsEditable/Auto/Props/Military/Generators/Military searchlight.et" {
+   {
+    coords 6.45 0 -1.876
+    angleY -145.694
+   }
+   {
+    coords -6.525 0 -25.942
+    angleY 46.234
+   }
+   {
+    coords -6.93 0 -1.688
+    angleY 143.454
+   }
+   {
+    coords 6.699 0 -26.41
+    angleY -30.918
+   }
+  }
+  $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
+   {
+    coords -17.043 -0.053 1.676
+    angleY -90
+   }
+   {
+    coords -17.043 -0.053 -0.282
+    angleY -90
+   }
+   {
+    coords -17.043 -0.053 -2.276
+    angleY -90
+   }
+   {
+    coords -17.043 -0.053 -4.232
+    angleY -90
+   }
+   {
+    coords -17.043 -0.053 -6.185
+    angleY -90
+   }
+   {
+    coords -17.042 -0.053 -8.135
+    angleY -90
+   }
+   {
+    coords -17.043 -0.053 -10.055
+    angleY -90
+   }
+   {
+    coords -9.172 -0.032 -34.791
+    angleY -90
+   }
+   {
+    coords -9.172 -0.032 -32.868
+    angleY -90
+   }
+   {
+    coords -9.172 -0.032 -31.029
+    angleY -90
+   }
+  }
+ }
+}
+$grp StaticModelEntity : "{D0F17E2313DE33F1}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_18x5.et" {
+ {
+  coords 4738.936 27.844 11133.142
+  angleY 88.415
+  {
+   GenericEntity : "{53A945F350D63D01}Prefabs/Compositions/Misc/Barrier_Storage_Short_01.et" {
+    coords -8.604 0 -1.286
+    angleY 90
+   }
+   GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
+    coords -6.737 2.818 -3.507
+    angleY 90
+    angleZ -90
+    {
+     $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
+      {
+       coords 0 0 4.58
+      }
+      {
+       coords 0 0.001 9.191
+      }
+      {
+       coords 0 0.001 13.681
+      }
+     }
+    }
+   }
+   GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -8.359 0.066 -2.136
+    angleY -89.307
+    {
+     $grp GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 0 0.822 0
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.001 1.644 0
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 0.999 0.822 -16.699
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 0.998 1.644 -16.699
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 0.999 0 -16.699
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.353 0.822 -16.163
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 1.644 -16.164
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0 -16.164
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0.822 -14.514
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 1.644 -14.514
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0 -14.514
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 1.644 -12.871
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.332 0 -12.871
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0.822 -11.219
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 1.644 -11.219
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0 -11.219
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.332 0.822 -12.871
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 1.644 -9.536
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0 -9.536
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0.822 -7.887
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 1.644 -7.887
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0 -7.887
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0.822 -9.536
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.329 1.644 -6.215
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 0 -6.215
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 0.822 -4.563
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.329 1.644 -4.563
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 0 -4.563
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 0.822 -6.215
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 1.644 -2.891
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0 -2.891
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 0.822 -1.239
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.329 1.644 -1.239
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.33 0 -1.239
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 2.331 0.822 -2.891
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0 -16.164
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0.822 -14.513
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 1.644 -14.513
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0 -14.513
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.254 1.644 -12.872
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.253 0 -12.872
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0.822 -11.219
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 1.644 -11.219
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0 -11.219
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.253 0.822 -12.872
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 1.644 -9.537
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0 -9.537
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0.822 -7.888
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 1.644 -7.888
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0 -7.888
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0.822 -9.537
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.257 1.644 -6.215
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 0 -6.215
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0.822 -4.563
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 1.644 -4.563
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.255 0 -4.563
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 0.822 -6.215
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.257 1.644 -2.889
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 0 -2.889
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 0.822 -1.24
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.257 1.644 -1.24
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 0 -1.24
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 0.822 -2.889
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords -0.256 1.644 -16.164
+       angleY 90
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 1.644 0 0
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 1.644 0.822 0
+      }
+      {
+       components {
+        RigidBody "{5872F0EB7DFB5A9D}" {
+         Enabled 0
+        }
+        SCR_EditableEntityComponent "{64C4BD22749177D2}" {
+         Enabled 0
+        }
+        SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+         Enabled 0
+        }
+        RplComponent "{64C4BD22749177C8}" {
+         Enabled 0
+        }
+       }
+       coords 1.643 1.644 0
+      }
+     }
+    }
+   }
+   $grp GameEntity : "{C16B9C07263AFA5A}PrefabsEditable/Auto/Props/Military/Generators/Military searchlight.et" {
+    {
+     coords -11.117 0 6.483
+     angleY 133.308
+    }
+    {
+     coords 10.484 0 6.754
+     angleY -127.148
+    }
    }
   }
  }
  {
-  coords 4800.612 0.818 11486.754
-  angleY -90.348
+  coords 4806.918 25.22 12006.001
+  angleY -88.314
+ }
+ {
+  coords 4822.378 27.916 11896.259
+  angleY 89.003
+ }
+}
+$grp StaticModelEntity : "{F8BFF80AC83FC6EA}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_base.et" {
+ {
+  coords 4881.468 28.424 11970.309
+  angleY 180
   {
-   $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
+   $grp GenericEntity {
     {
-     coords -17.025 -0.062 1.512
-     angleY -89.652
+     components {
+      MeshObject "{6568F7D7704541E6}" {
+       Object "{2DFDB06B3F8E6D4E}Assets/Vehicles/Wheeled/LAV25/LAV25_Wreck.xob"
+      }
+     }
+     coords -3.284 -0.078 -1.2
+     angleY 88.79
     }
     {
-     coords -17.038 -0.062 -0.445
-     angleY -89.652
+     components {
+      MeshObject "{6568F7D7704541E6}" {
+       Object "{2DFDB06B3F8E6D4E}Assets/Vehicles/Wheeled/LAV25/LAV25_Wreck.xob"
+      }
+     }
+     coords 4.185 -0.078 0.598
+     angleY -1.238
     }
     {
-     coords -17.05 -0.062 -2.438
-     angleY -89.652
+     components {
+      MeshObject "{6568F7D7704541E6}" {
+       Object "{2DFDB06B3F8E6D4E}Assets/Vehicles/Wheeled/LAV25/LAV25_Wreck.xob"
+      }
+     }
+     coords 1.462 -0.078 0.536
+     angleY -177.857
     }
     {
-     coords -17.062 -0.062 -4.396
-     angleY -89.652
+     components {
+      MeshObject "{6568F7D7704541E6}" {
+       Object "{2DFDB06B3F8E6D4E}Assets/Vehicles/Wheeled/LAV25/LAV25_Wreck.xob"
+      }
+     }
+     coords -3.389 -0.078 1.521
+     angleY -85.058
     }
     {
-     coords -17.073 -0.062 -6.348
-     angleY -89.652
+     components {
+      MeshObject "{6568F7D74AD46D91}" {
+       Object "{EE783078B1D8D156}Assets/Vehicles/Wheeled/LAV25/LAV25_Wreck_Static.xob"
+      }
+     }
+     coords 2.6 -0.122 5.257
+     angleY -104.414
     }
     {
-     coords -17.085 -0.062 -8.296
-     angleY -89.652
+     components {
+      MeshObject "{6568F7D74AD46D91}" {
+       Object "{EE783078B1D8D156}Assets/Vehicles/Wheeled/LAV25/LAV25_Wreck_Static.xob"
+      }
+     }
+     coords -3.554 -0.122 5.117
+     angleY 124.73
     }
     {
-     coords -17.097 -0.062 -10.221
-     angleY -89.652
+     components {
+      MeshObject "{6568F7D4A6731B80}" {
+       Object "{E30753B331EE0B6B}Assets/Vehicles/Wheeled/M998/M998_Wreck.xob"
+      }
+      SlotManagerComponent "{6568F7D4BC3F13D8}" {
+       Slots {
+        RegisteringComponentSlotInfo Roof {
+         Prefab "{C2D1FC2762A8628D}Prefabs/Vehicles/Wheeled/M998/VehParts/M1025_roof_wreck.et"
+        }
+       }
+      }
+     }
+     coords -2.317 1.755 -0.782
+     angleX -9.725
+     angleY 103.346
+    }
+    {
+     components {
+      MeshObject "{6568F7D4A6731B80}" {
+       Object "{E30753B331EE0B6B}Assets/Vehicles/Wheeled/M998/M998_Wreck.xob"
+      }
+      SlotManagerComponent "{6568F7D4BC3F13D8}" {
+       Slots {
+        RegisteringComponentSlotInfo Roof {
+         Prefab "{0A2D71ED99C97B4B}Prefabs/Vehicles/Wheeled/M998/VehParts/M997_maxi_ambulance_box_wreck.et"
+        }
+       }
+      }
+     }
+     coords 3.474 1.774 -0.985
+     angleX 1.723
+     angleY 87.049
+     angleZ 8.45
+    }
+    {
+     components {
+      MeshObject "{6568F7D4A6731B80}" {
+       Object "{E30753B331EE0B6B}Assets/Vehicles/Wheeled/M998/M998_Wreck.xob"
+      }
+      SlotManagerComponent "{6568F7D4BC3F13D8}" {
+       Slots {
+        RegisteringComponentSlotInfo Roof {
+         Prefab "{0A2D71ED99C97B4B}Prefabs/Vehicles/Wheeled/M998/VehParts/M997_maxi_ambulance_box_wreck.et"
+        }
+       }
+      }
+     }
+     coords 1.422 -0.123 12.273
+     angleY -72.194
+    }
+    {
+     components {
+      MeshObject "{6568F7D7704541E6}" {
+       Object "{2DFDB06B3F8E6D4E}Assets/Vehicles/Wheeled/LAV25/LAV25_Wreck.xob"
+      }
+     }
+     coords 6.794 1.193 11.139
+     angleY 178.279
+     angleZ 89.179
+    }
+    {
+     components {
+      MeshObject "{6568F7D7704541E6}" {
+       Object "{2DFDB06B3F8E6D4E}Assets/Vehicles/Wheeled/LAV25/LAV25_Wreck.xob"
+      }
+     }
+     coords -3.858 0.746 11.748
+     angleY 88.79
+     angleZ -69.267
+    }
+    {
+     components {
+      MeshObject "{6568F7D4A6731B80}" {
+       Object "{E30753B331EE0B6B}Assets/Vehicles/Wheeled/M998/M998_Wreck.xob"
+      }
+      SlotManagerComponent "{6568F7D4BC3F13D8}" {
+       Slots {
+        RegisteringComponentSlotInfo Roof {
+         Prefab "{C2D1FC2762A8628D}Prefabs/Vehicles/Wheeled/M998/VehParts/M1025_roof_wreck.et"
+        }
+       }
+      }
+     }
+     coords -1.206 0.263 9.361
+     angleX -34.29
+     angleY 61.054
+    }
+    {
+     components {
+      MeshObject "{6568F7D4A6731B80}" {
+       Object "{E30753B331EE0B6B}Assets/Vehicles/Wheeled/M998/M998_Wreck.xob"
+      }
+      SlotManagerComponent "{6568F7D4BC3F13D8}" {
+       Slots {
+        RegisteringComponentSlotInfo Roof {
+         Prefab "{C2D1FC2762A8628D}Prefabs/Vehicles/Wheeled/M998/VehParts/M1025_roof_wreck.et"
+        }
+       }
+      }
+     }
+     coords 2.493 -0.095 8.431
+     angleY 61.054
+    }
+    {
+     components {
+      MeshObject "{6568F7D4A6731B80}" {
+       Object "{E30753B331EE0B6B}Assets/Vehicles/Wheeled/M998/M998_Wreck.xob"
+      }
+      SlotManagerComponent "{6568F7D4BC3F13D8}" {
+       Slots {
+        RegisteringComponentSlotInfo Roof {
+         Prefab "{C2D1FC2762A8628D}Prefabs/Vehicles/Wheeled/M998/VehParts/M1025_roof_wreck.et"
+        }
+       }
+      }
+     }
+     coords -1.713 -0.095 7.578
+     angleY 152.171
+    }
+    {
+     components {
+      MeshObject "{6568F7D4A6731B80}" {
+       Object "{E30753B331EE0B6B}Assets/Vehicles/Wheeled/M998/M998_Wreck.xob"
+      }
+      SlotManagerComponent "{6568F7D4BC3F13D8}" {
+       Slots {
+        RegisteringComponentSlotInfo Roof {
+         Prefab "{C2D1FC2762A8628D}Prefabs/Vehicles/Wheeled/M998/VehParts/M1025_roof_wreck.et"
+        }
+       }
+      }
+     }
+     coords -4.152 -0.095 10.386
+     angleY -123.559
+    }
+    {
+     components {
+      MeshObject "{6568F7D4A6731B80}" {
+       Object "{E30753B331EE0B6B}Assets/Vehicles/Wheeled/M998/M998_Wreck.xob"
+      }
+      SlotManagerComponent "{6568F7D4BC3F13D8}" {
+       Slots {
+        RegisteringComponentSlotInfo Roof {
+         Prefab "{C2D1FC2762A8628D}Prefabs/Vehicles/Wheeled/M998/VehParts/M1025_roof_wreck.et"
+        }
+       }
+      }
+     }
+     coords -3.867 1.18 2.817
+     angleX 12.335
+     angleY 103.346
+     angleZ -15.572
+    }
+    {
+     components {
+      MeshObject "{6568F7D4A6731B80}" {
+       Object "{E30753B331EE0B6B}Assets/Vehicles/Wheeled/M998/M998_Wreck.xob"
+      }
+      SlotManagerComponent "{6568F7D4BC3F13D8}" {
+       Slots {
+        RegisteringComponentSlotInfo Roof {
+         Prefab "{0A2D71ED99C97B4B}Prefabs/Vehicles/Wheeled/M998/VehParts/M997_maxi_ambulance_box_wreck.et"
+        }
+       }
+      }
+     }
+     coords 3.185 0.873 4.17
+     angleX 1.723
+     angleY 87.049
+     angleZ -19.119
+    }
+   }
+   $grp GenericEntity : "{91E9904BDB19D0FA}PrefabsEditable/Auto/Structure/A_riot_barrier.et" {
+    {
+     components {
+      MeshObject "{5872F0EB7FA40561}" {
+       Materials {
+        MaterialAssignClass "{6568F7D55A3752BD}" {
+         SourceMaterial "p2_FA824A58E4E51A88"
+         AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+        }
+       }
+      }
+     }
+     coords 6.211 -0.141 15.086
+    }
+    {
+     components {
+      MeshObject "{5872F0EB7FA40561}" {
+       Materials {
+        MaterialAssignClass "{6568F7D55A373496}" {
+         SourceMaterial "p2_FA824A58E4E51A88"
+         AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+        }
+       }
+      }
+     }
+     coords -1.794 0.002 15.086
+    }
+    {
+     components {
+      MeshObject "{5872F0EB7FA40561}" {
+       Materials {
+        MaterialAssignClass "{6568F7D55A37EAD9}" {
+         SourceMaterial "p2_FA824A58E4E51A88"
+         AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+        }
+       }
+      }
+     }
+     coords -6.329 0.09 15.086
+    }
+   }
+   $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+    {
+     coords 3.946 -0.106 15.086
+    }
+    {
+     coords 0.491 -0.05 15.086
+    }
+    {
+     coords -4.066 0.037 15.086
     }
    }
   }
  }
+ {
+  coords 4815.917 27.846 11160.393
+  angleY 90.243
+ }
+ {
+  coords 4818.493 29.266 11348.828
+  angleY -90
+ }
+ {
+  coords 4721.625 26.925 11962.603
+  angleY 92.822
+ }
 }
-StaticModelEntity : "{F8BFF80AC83FC6EA}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_base.et" {
- coords 4881.468 28.424 11970.309
- angleY 180
-}
-StaticModelEntity : "{F8E70CBC00C9E30E}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x5.et" {
- coords 4824.292 28.949 11701.359
+$grp StaticModelEntity : "{F8E70CBC00C9E30E}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x5.et" {
+ Shelter_01 {
+  coords 4732.453 27.844 11188.95
+  angleY -86.744
+  {
+   $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
+    {
+     coords -2.184 3.162 -3.404
+     angleY 90
+     angleZ -90
+    }
+    {
+     coords 2.401 3.162 -3.403
+     angleY 90
+     angleZ -90
+    }
+   }
+  }
+ }
+ {
+  coords 4815.265 23.219 12069.882
+  angleY 179.754
+ }
+ {
+  coords 4721.828 29.067 11815.586
+  angleY 93.994
+ }
 }

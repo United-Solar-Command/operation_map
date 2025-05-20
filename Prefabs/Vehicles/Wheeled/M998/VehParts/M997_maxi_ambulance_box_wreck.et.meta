@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{0A2D71ED99C97B4B}Prefabs/Vehicles/Wheeled/M998/VehParts/M997_maxi_ambulance_box_wreck.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

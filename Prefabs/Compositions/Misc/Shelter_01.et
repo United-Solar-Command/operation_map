@@ -1,0 +1,21 @@
+StaticModelEntity : "{F8E70CBC00C9E30E}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x5.et" {
+ ID "F0DBA538AC2A0552"
+ coords 4732.453 27.844 11188.95
+ angleY -86.744
+ {
+  $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
+   {
+    ID "6568F7CAB2C52496"
+    coords 2.401 3.162 -3.403
+    angleY 90
+    angleZ -90
+   }
+   {
+    ID "6568F7CAB2C5C982"
+    coords -2.184 3.162 -3.404
+    angleY 90
+    angleZ -90
+   }
+  }
+ }
+}

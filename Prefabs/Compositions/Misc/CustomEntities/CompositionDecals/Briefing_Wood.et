@@ -44,7 +44,7 @@ GenericEntity : "{B1E8ADDDA7D1EFF8}Prefabs/Compositions/Misc/CustomEntities/Comp
   $grp GenericEntity : "{AC98FF880BD0F2C2}Prefabs/Props/Furniture/Chair_01/Chair_01_base.et" {
    {
     ID "651724CA01A13301"
-    coords 1.055 1.005 1.125
+    coords 1.181 1.005 1.026
     angleY 180
    }
    {

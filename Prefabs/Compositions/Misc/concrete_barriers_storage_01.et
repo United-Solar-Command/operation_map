@@ -1,0 +1,266 @@
+GenericEntity {
+ ID "6568F7CE6C99F048"
+ components {
+  MeshObject "{65657B83EED22023}" {
+   Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+  }
+ }
+ coords 4738.077 28.496 11125.818
+ angleY -0.081
+ {
+  $grp GenericEntity {
+   {
+    ID "6568F7CE6C9802B2"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 14.177
+   }
+   {
+    ID "6568F7CE6C982C90"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 12.015
+   }
+   {
+    ID "6568F7CE6C982C91"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 13.641
+   }
+   {
+    ID "6568F7CE6C98E680"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 14.722
+   }
+   {
+    ID "6568F7CE6C98E683"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 15.275
+   }
+   {
+    ID "6568F7CE6C9A2BEF"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 7.137
+   }
+   {
+    ID "6568F7CE6C9AAB10"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 3.84
+   }
+   {
+    ID "6568F7CE6C9AAB11"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 3.263
+   }
+   {
+    ID "6568F7CE6C9AEDA4"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 7.671
+   }
+   {
+    ID "6568F7CE6C9B2FA9"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 1.082
+   }
+   {
+    ID "6568F7CE6C9B5148"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 2.716
+   }
+   {
+    ID "6568F7CE6C9B5149"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 1.628
+   }
+   {
+    ID "6568F7CE6C9B761D"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 2.181
+   }
+   {
+    ID "6568F7CE6C9B8A71"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 6.042
+   }
+   {
+    ID "6568F7CE6C9B8A76"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 6.588
+   }
+   {
+    ID "6568F7CE6C9BE43D"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 0.548
+   }
+   {
+    ID "6568F7CE6C9C1604"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 8.216
+   }
+   {
+    ID "6568F7CE6C9C1605"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 8.77
+   }
+   {
+    ID "6568F7CE6C9C4C36"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 12.552
+   }
+   {
+    ID "6568F7CE6C9C99CE"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 9.85
+   }
+   {
+    ID "6568F7CE6C9CE8E2"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 9.305
+   }
+   {
+    ID "6568F7CE6C9D05C9"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 4.923
+   }
+   {
+    ID "6568F7CE6C9D0BD1"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 11.509
+   }
+   {
+    ID "6568F7CE6C9D0BD2"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 5.507
+   }
+   {
+    ID "6568F7CE6C9D2486"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 4.374
+   }
+   {
+    ID "6568F7CE6C9DA8A1"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 13.094
+   }
+   {
+    ID "6568F7CE6C9F0EC0"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 10.969
+   }
+   {
+    ID "6568F7CE6C9F0ECF"
+    components {
+     MeshObject "{65657B83EED22023}" {
+      Object "{1C9F502E18C472E7}Assets/Barrier/Concrete barrier/Concrete barrier.xob"
+     }
+    }
+    coords 0 0 10.43
+   }
+  }
+ }
+}

@@ -1,0 +1,22 @@
+GenericEntity : "{91E9904BDB19D0FA}PrefabsEditable/Auto/Structure/A_riot_barrier.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  MeshObject "{5872F0EB7FA40561}" {
+   Materials {
+    MaterialAssignClass "{6568CDC5096930C4}" {
+     SourceMaterial "p2_FA824A58E4E51A88"
+     AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+    }
+   }
+  }
+ }
+ coords 4913.509 27.63 11467.818
+ angleY -142.955
+ {
+  GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
+   ID "6568E0689E1948A1"
+   coords 0 0.067 0.174
+   angleY -179.356
+  }
+ }
+}

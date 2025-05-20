@@ -1,0 +1,33 @@
+GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+ ID "65567ADD29FE0FC0"
+ coords 603.517 0 7384.501
+ scale 2
+ {
+  $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
+   {
+    ID "6568E06A3B5EFE8C"
+    coords -13.451 0 0
+   }
+   {
+    ID "6568E06A3B5EFE8F"
+    coords -30.642 0 0
+   }
+   {
+    ID "6568E06A3B5F3ED0"
+    coords -64.415 0 0
+   }
+   {
+    ID "6568E06A3B5F3ED7"
+    coords -41.87 0 0
+   }
+   {
+    ID "6568E06A3B5F8EBB"
+    coords -80.296 0 0
+   }
+  }
+  GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+   ID "6568E06A3B5F8EB8"
+   coords -91.195 0 0
+  }
+ }
+}

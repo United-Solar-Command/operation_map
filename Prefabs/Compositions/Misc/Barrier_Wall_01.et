@@ -1,0 +1,44 @@
+GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+ ID "F0DBA538AC2A0552"
+ coords 4896.464 28.594 11887.679
+ {
+  $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+   {
+    ID "6568F7DC3E76B378"
+    coords 3.547 0 0
+   }
+   {
+    ID "6568F7DC3E76E754"
+    coords 31.996 0 0
+   }
+   {
+    ID "6568F7DC3E771758"
+    coords 24.913 0 0
+   }
+   {
+    ID "6568F7DC3E771759"
+    coords 28.461 0 0
+   }
+   {
+    ID "6568F7DC3E772AC3"
+    coords 21.336 0 0
+   }
+   {
+    ID "6568F7DC3E772AC4"
+    coords 17.784 0 0
+   }
+   {
+    ID "6568F7DC3E772AC5"
+    coords 14.208 0 0
+   }
+   {
+    ID "6568F7DC3E77B679"
+    coords 7.088 0 0
+   }
+   {
+    ID "6568F7DC3E77B67A"
+    coords 10.645 0 0
+   }
+  }
+ }
+}

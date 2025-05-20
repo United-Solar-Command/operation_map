@@ -4,6 +4,14 @@ $grp GenericEntity {
    MeshObject "{65656C44728F1B2C}" {
     Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
    }
+   SlotManagerComponent "{6568F7DC1C17E58E}" {
+    Slots {
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Prefab "{8DB9884B4FAC1AD5}Prefabs/Weapons/AutoTurrets/AutoTurret_Dropship_Minigun_Enforcers.et"
+     }
+    }
+   }
   }
   coords 4926.409 28.776 11768.974
   angleY -90
@@ -16,6 +24,18 @@ $grp GenericEntity {
   }
   coords 4933.854 30.404 11779.057
   angleY -90.81
+  {
+   $grp GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
+    {
+     coords 1.22 -1.629 -2.112
+     angleY -179.19
+    }
+    {
+     coords -1.325 -1.629 2.484
+     angleY 0.81
+    }
+   }
+  }
  }
  {
   components {
@@ -25,16 +45,17 @@ $grp GenericEntity {
   }
   coords 4942.253 30.404 11766.211
   angleY -90
- }
- {
-  components {
-   MeshObject "{65656C4390E0E962}" {
-    Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+  {
+   $grp GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
+    {
+     coords -1.235 -1.629 3.357
+    }
+    {
+     coords 1.371 -1.629 -1.205
+     angleY -180
+    }
    }
   }
-  coords 4942.546 28.775 11773.624
-  angleY -81.012
-  angleZ -180
  }
  {
   components {
@@ -45,28 +66,113 @@ $grp GenericEntity {
   coords 4944.2 28.775 11772.973
   angleY -162.183
   angleZ 180
+  {
+   $grp GenericEntity {
+    {
+     components {
+      MeshObject "{65656C4390E0E962}" {
+       Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+      }
+     }
+     coords -1.774 0 -0.113
+     angleY -81.171
+    }
+    {
+     components {
+      MeshObject "{65656C4390E0E962}" {
+       Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+      }
+     }
+     coords -1.231 -0.245 1.257
+     angleX -29.1
+     angleY 138.443
+    }
+    {
+     components {
+      MeshObject "{65656C4390E0E962}" {
+       Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+      }
+     }
+     coords -3.666 -0.333 1.388
+     angleX 3.897
+     angleY -162.652
+     angleZ -25.978
+    }
+   }
+  }
  }
  {
   components {
-   MeshObject "{65656C4390E0E962}" {
+   MeshObject "{65657B8502353983}" {
     Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
    }
   }
-  coords 4942.643 29.02 11772.152
-  angleX 29.1
-  angleY 59.374
-  angleZ -180
+  coords 4919.445 28.775 11781.294
+  angleZ 180
+  {
+   $grp GenericEntity {
+    {
+     components {
+      MeshObject "{65657B8502353983}" {
+       Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+      }
+     }
+     coords -2.073 0 0.045
+     angleY -131.504
+    }
+    {
+     components {
+      MeshObject "{65657B8502353983}" {
+       Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+      }
+     }
+     coords 0.098 0 -1.968
+     angleY -50.428
+    }
+   }
+  }
  }
  {
   components {
-   MeshObject "{65656C4390E0E962}" {
-    Object "{4C9296F1EE12A20E}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Minigun.xob"
+   MeshObject "{65657B850B3D0D7D}" {
+    Object "{8418C4C58ADA8B8B}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_R.xob"
    }
   }
-  coords 4940.285 29.108 11772.773
-  angleX -3.897
-  angleY 0.469
-  angleZ 154.022
+  coords 4927.039 30.851 11780.688
+  angleY -85.675
+  {
+   $grp GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
+    {
+     coords -0.112 -2.076 2.185
+     angleY 175.675
+     scale 1.25
+    }
+    {
+     coords 0.014 -2.076 -2.392
+     angleY 175.675
+     scale 1.25
+    }
+   }
+  }
+ }
+ {
+  components {
+   MeshObject "{65657B8518D22E2F}" {
+    Object "{7513FC91F985BE67}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_L.xob"
+   }
+  }
+  coords 4931.237 31.588 11763.882
+  angleX 45.939
+  angleY -89.611
+  {
+   GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
+    coords 0.073 -0.212 -3.71
+    angleX 45.938
+    angleY 179.441
+    angleZ -0.402
+    scale 1.5
+   }
+  }
  }
 }
 $grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
@@ -124,24 +230,6 @@ $grp GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/Ars
  }
  {
   coords 4935.652 28.775 11745.546
- }
-}
-$grp GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
- {
-  coords 4935.948 28.775 11780.307
-  angleY 90
- }
- {
-  coords 4931.388 28.775 11777.697
-  angleY -90
- }
- {
-  coords 4938.896 28.775 11764.976
-  angleY -90
- }
- {
-  coords 4943.458 28.775 11767.582
-  angleY 90
  }
 }
 $grp GenericEntity : "{63358FFE9F6B18D8}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_HQ_US.et" {
@@ -295,9 +383,6 @@ $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_ba
  {
   coords 4917.749 28.775 11775.041
   angleY -90
- }
- {
-  coords 4935.324 28.757 11783.969
  }
  {
   coords 4933.156 28.775 11742.151
