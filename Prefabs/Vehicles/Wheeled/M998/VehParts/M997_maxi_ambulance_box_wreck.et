@@ -1,0 +1,84 @@
+GenericEntity : "{278E487E19D82680}Prefabs/Vehicles/Core/Vehicle_Cargo_Base.et" {
+ ID "4B42E71698F5739C"
+ components {
+  MeshObject "{4B42E716914465B9}" {
+   Object "{7E6313D053EA0F07}Assets/Vehicles/Wheeled/M998/VehParts/M997_maxi_ambulance_box_wreck.xob"
+   BoundingBox AABBBoundingVolume "{6568F7D4D63B4E34}" {
+    Mins -1.13 0.547 -4.3
+    Maxs 1.13 2.826 0.992
+   }
+  }
+  SCR_BaseCompartmentManagerComponent "{2CD4A765A7D52986}" {
+   Enabled 0
+  }
+  SCR_DamageManagerComponent "{3EBB276D48AFFF41}" {
+   "Additional hit zones" {
+    SCR_DestructibleHitzone Cargo {
+     m_pDestructionHandler SCR_DestructionBaseHandler "{5C77025948537C40}" {
+      m_sWreckModel "{7E6313D053EA0F07}Assets/Vehicles/Wheeled/M998/VehParts/M997_maxi_ambulance_box_wreck.xob"
+      m_bDeleteAfterParentDestroyed 0
+     }
+    }
+   }
+  }
+  SCR_HealSupportStationComponent "{5E1CF921D157B661}" : "{76E859B22B372797}Prefabs/Components/SupportStations/Heal/HealSupportStation_Vehicle.ct" {
+   m_fRange 7.5
+   m_vOffset 0 0 -0.5
+  }
+  SCR_LoadCasualtySupportStationComponent "{6568F7D4D63B4E2E}" {
+   m_bIsVehicle 1
+   m_bSendNotificationOnUse 0
+   m_bAllowGetFactionFromParent 1
+   m_eSupportStationPriority MEDIUM
+   m_fRange 7.5
+   m_vOffset 0 0 -0.5
+   m_eFactionUsageCheck 3
+   m_sOverrideUserActionName "#AR-UserAction_LoadCasualtyInAmbulance"
+  }
+  SCR_UniversalInventoryStorageComponent "{5E58C207959A9200}" {
+   Enabled 0
+  }
+  SlotManagerComponent "{6568F7D4D63B4E2A}" {
+  }
+  VehicleAnimationComponent "{50B812962B17E60B}" {
+   AnimGraph "{F69E99A97BC62086}Assets/Vehicles/Wheeled/M998/workspaces/M997.agr"
+   AnimInstance "{EF6D5ADDBDE1A838}Assets/Vehicles/Wheeled/M998/workspaces/M997_vehicle.asi"
+   StartNode "VehicleMasterControl"
+   AnimInjection AnimationAttachmentInfo "{50B812961A339FD2}" {
+    AnimGraph "{F69E99A97BC62086}Assets/Vehicles/Wheeled/M998/workspaces/M997.agr"
+    AnimInstance "{3E1B9F266F041170}Assets/Vehicles/Wheeled/M998/workspaces/M997_player.asi"
+   }
+   BindWithInjection 1
+   AutoVariablesBind 1
+   DeactivationDelay 2
+  }
+ }
+ coords 1166.144 51 1329.656
+ {
+  GenericEntity {
+   ID "6568F7D4D63B4E03"
+   components {
+    SCR_EditableEntityVehicleCompartmentVisibilityChildComponent "{6568F7D4D63B4EDF}" {
+     m_State 96
+    }
+    SCR_EditableEntityVisibilityChildComponent "{6568F7D4D63B4EDB}" {
+     Enabled 0
+     m_State 96
+    }
+    SCR_SupportStationAreaMeshComponent "{6568F7D4D63B4ED8}" {
+     m_vResolution 48
+     m_bStretchMaterial 1
+     m_Material "{0A8FAD171DB3DC49}Assets/Editor/VirtualArea/VirtualArea_01_Focused.emat"
+     m_bHideInWorkbench 1
+     m_eSearchForType HEAL
+     m_fRadius 7.5
+    }
+    RplComponent "{6568F7D4D63B4EC5}" {
+    }
+    Hierarchy "{6568F7D4D63B4EC2}" {
+    }
+   }
+   coords 0 0 -0.5
+  }
+ }
+}

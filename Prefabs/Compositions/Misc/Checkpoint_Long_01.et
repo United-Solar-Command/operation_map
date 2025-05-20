@@ -1,0 +1,62 @@
+GenericEntity : "{B904FC3DB708301A}Prefabs/Compositions/Misc/Checkpoint_03.et" {
+ ID "F0DBA538AC2A0552"
+ coords 4923.634 28.594 11667.584
+ angleY 0
+ {
+  GenericEntity {
+   ID "6568E068500B1346"
+   coords -2.354 0 -0.217
+   angleY -90
+  }
+  GenericEntity {
+   ID "6568E068500C422B"
+   coords 2.217 2.934 -0.433
+   angleY -180
+  }
+  GenericEntity {
+   ID "6568E068500C80B1"
+   coords -1.074 2.934 -0.433
+   angleY -180
+  }
+  GenericEntity {
+   ID "6568E068500C80B7"
+   coords 0.573 2.934 -0.433
+   angleY -180
+  }
+  GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
+   ID "6568E069C8C2A71F"
+   coords 2.183 0 -0.217
+   angleY -90
+  }
+  GenericEntity : "{91E9904BDB19D0FA}PrefabsEditable/Auto/Structure/A_riot_barrier.et" {
+   ID "6568E069C8C2A71D"
+   components {
+    MeshObject "{5872F0EB7FA40561}" {
+     Materials {
+      MaterialAssignClass "{6568E069C65AE89D}" {
+       SourceMaterial "p2_FA824A58E4E51A88"
+       AssignedMaterial "{0E8A0DC0E93872F3}Assets/Barrier/A_riot_barrier/Data/p3.emat"
+      }
+     }
+    }
+   }
+   coords 2.277 0 0
+  }
+  $grp GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
+   {
+    ID "6568E069C8C2A718"
+    coords 3.868 2.934 -0.433
+    angleY -180
+   }
+   {
+    ID "6568E069C8C2C18C"
+    coords 5.509 2.934 -0.433
+    angleY -180
+   }
+  }
+  GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+   ID "6568E069C8C2C192"
+   coords 4.571 0 0
+  }
+ }
+}

@@ -1,0 +1,316 @@
+GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+ ID "F0DBA538AC2A0552"
+ coords 4916.938 28.594 11667.521
+ angleY -90
+ {
+  $grp GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
+   {
+    ID "6568E061C3843BE8"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.084 0.223
+   }
+   {
+    ID "6568E061C3844828"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.084 1.4
+   }
+   {
+    ID "6568E061C384482F"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.084 1.916
+   }
+   {
+    ID "6568E061C3848659"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.906 2.588
+   }
+   {
+    ID "6568E061C384D5E6"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.906 0.737
+   }
+   {
+    ID "6568E061C384D5E7"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.906 0.223
+   }
+   {
+    ID "6568E061C384DCB0"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.906 1.401
+   }
+   {
+    ID "6568E061C384DCB3"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.906 1.916
+   }
+   {
+    ID "6568E061C384E545"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.084 0.737
+   }
+   {
+    ID "6568E061C385BC59"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.084 2.587
+   }
+   {
+    ID "6568E061C385BC5B"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.084 3.102
+   }
+   {
+    ID "6568E061C3874D33"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 0.906 3.104
+   }
+   {
+    ID "6568E061C3878688"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 1.727 0.223
+   }
+   {
+    ID "6568E061C387B452"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 1.727 0.737
+   }
+   {
+    ID "6568E061C387B45D"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 1.727 3.105
+   }
+   {
+    ID "6568E061C387C8BA"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 1.727 2.588
+   }
+   {
+    ID "6568E061C387F21A"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 1.727 1.916
+   }
+   {
+    ID "6568E061C387F21B"
+    components {
+     RigidBody "{5872F0EB7DFB5A9D}" {
+      Enabled 0
+     }
+     SCR_PreviewEntityComponent "{64C4BD22749177C3}" {
+      Enabled 0
+     }
+     RplComponent "{64C4BD22749177C8}" {
+      Enabled 0
+     }
+    }
+    coords -0.104 1.727 1.401
+   }
+  }
+  $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+   {
+    ID "6568E061C385F72C"
+    coords 1.084 0 1.636
+    angleY 90
+   }
+   {
+    ID "6568E061C385F72D"
+    coords -1.312 0 1.674
+    angleY -90
+   }
+   {
+    ID "6568E061C3861F33"
+    coords 0 0 3.307
+    angleY -180
+   }
+  }
+  $grp GenericEntity : "{CC66836BF4E211F9}Prefabs/Props/Military/Camps/Duckboard_01.et" {
+   {
+    ID "6568E061C3861F30"
+    coords -1.387 2.613 1.615
+    angleY -179.846
+    scale 1.1
+   }
+   {
+    ID "6568E061C386AA93"
+    coords -0.036 2.613 1.612
+    angleY -179.846
+    scale 1.1
+   }
+   {
+    ID "6568E061C3897355"
+    coords 1.302 2.613 1.608
+    angleY -179.846
+    scale 1.1
+   }
+  }
+ }
+}

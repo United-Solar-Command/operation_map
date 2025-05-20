@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{C9F9F26B27D4A11F}Prefabs/Structures/Military/Bunkers/AircraftShelter_E_01/AircraftShelter_E_01_camo_v2_closed.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

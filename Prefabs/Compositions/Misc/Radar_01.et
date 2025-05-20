@@ -1,0 +1,39 @@
+StaticModelEntity : "{979A564D476B5AAE}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_tall.et" {
+ ID "56ACD1C4DB91DB10"
+ coords 4734.98 0 10969.94
+ angleY 47.235
+ {
+  GenericEntity : "{A528F04F41F2A2D1}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_on.et" {
+   ID "6568F7FFD06DAB98"
+   coords 0.035 7.923 -0.293
+   scale 2
+   {
+    $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+     {
+      ID "6568F7FFD06DAB9B"
+      coords 0.091 -4.083 -0.025
+     }
+     {
+      ID "6568F7FFD06DF2F0"
+      coords 0.091 -2.612 -0.025
+     }
+     {
+      ID "6568F7FFD06DF2FE"
+      coords 0.091 -1.066 -0.025
+     }
+    }
+   }
+  }
+  $grp GenericEntity : "{F15B99F6B06E7200}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_generator.et" {
+   {
+    ID "6568F7FFD06DAB9C"
+    coords -1.28 4.843 0.16
+   }
+   {
+    ID "6568F7FFD06DAB9D"
+    coords 1.315 4.843 -0.08
+    angleY -180
+   }
+  }
+ }
+}

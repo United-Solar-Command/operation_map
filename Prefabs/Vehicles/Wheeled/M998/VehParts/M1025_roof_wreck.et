@@ -1,0 +1,13 @@
+GenericEntity : "{0B70147AE612A768}Prefabs/Vehicles/Wheeled/M998/VehParts/M1025_roof_empty.et" {
+ ID "4B42E71698F5739C"
+ components {
+  MeshObject "{4B42E716914465B9}" {
+   Materials {
+    MaterialAssignClass "{6568F7D4E12218A8}" {
+     SourceMaterial "Base"
+     AssignedMaterial "{E2562A6325E7A1C0}Assets/Vehicles/Wheeled/M998/Data/HMMWV_Wreck_Body.emat"
+    }
+   }
+  }
+ }
+}

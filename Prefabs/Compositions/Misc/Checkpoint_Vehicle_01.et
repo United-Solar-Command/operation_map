@@ -1,0 +1,12 @@
+GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+ ID "F0DBA538AC2A0552"
+ coords 4962.286 28.005 11654.457
+ angleY -160.957
+ {
+  GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
+   ID "6568E06A20B9E88B"
+   coords 0.005 0.066 0.185
+   angleY -179.631
+  }
+ }
+}

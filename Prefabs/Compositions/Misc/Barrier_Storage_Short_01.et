@@ -1,0 +1,81 @@
+GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+ ID "F0DBA538AC2A0552"
+ coords 4737.412 27.844 11141.707
+ angleY 178.415
+ {
+  $grp GenericEntity : "{074533605AD23B58}Prefabs/Compositions/Misc/concrete_barrier_01.et" {
+   {
+    ID "6568F7CC1897E360"
+    coords 0.006 1.643 16.233
+    angleY 180
+   }
+   {
+    ID "6568F7CC1897E368"
+    coords 0.003 0 16.237
+    angleY 180
+   }
+   {
+    ID "6568F7CC1897E36F"
+    coords 0.005 0.822 16.235
+    angleY 180
+   }
+  }
+  $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+   {
+    ID "6568F7CC1896161A"
+    coords -0.04 0 17.226
+    angleY 180
+   }
+   {
+    ID "6568F7CC1896289A"
+    coords 1.547 0 15.688
+    angleY -90
+   }
+   {
+    ID "6568F7CC1896289B"
+    coords 1.548 0 12.161
+    angleY -90
+   }
+   {
+    ID "6568F7CC1896289C"
+    coords 1.546 0 1.585
+    angleY -90
+   }
+   {
+    ID "6568F7CC18965A4E"
+    coords -1.576 0 1.542
+    angleY 90
+   }
+   {
+    ID "6568F7CC18965A4F"
+    coords -1.576 0 5.068
+    angleY 90
+   }
+   {
+    ID "6568F7CC1896C7E1"
+    coords 1.547 0 5.111
+    angleY -90
+   }
+   {
+    ID "6568F7CC1896C7E2"
+    coords 1.546 0 8.636
+    angleY -90
+   }
+   {
+    ID "6568F7CC1897AC21"
+    coords -1.577 0 8.593
+    angleY 90
+   }
+   {
+    ID "6568F7CC1897AC22"
+    coords -1.574 0 12.117
+    angleY 90
+   }
+   {
+    ID "6568F7CC1897E377"
+    coords -1.574 0 15.645
+    angleY 90
+   }
+  }
+ }
+}
