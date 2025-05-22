@@ -73,14 +73,13 @@ $grp GenericEntity : "{64454FA087931713}PrefabsEditable/SupportStationSystems/E_
   }
  }
  {
-  coords 4945.668 28.196 11869.602
+  coords 4943.985 28.375 11867.521
   angleY -90
   {
    GenericEntity : "{9AAB4B953C8111D8}Prefabs/Structures/Signs/Warnings/SignParking_01.et" {
-    coords 0.001 -0.048 0
+    coords 0.001 -0.215 0.002
     angleX 89.255
     angleY 180
-    angleZ -0
     scale 5
    }
   }

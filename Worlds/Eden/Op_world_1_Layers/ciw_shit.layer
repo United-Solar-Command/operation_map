@@ -1,0 +1,979 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5378.677 179.058 7046.202
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5351.752 176.745 7007.705
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5383.418 174.524 6979.4
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5276.873 172.429 7121.432
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5322.051 176.219 7120.253
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5306.483 173.358 6983.59
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5326.107 176.758 7084.212
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5252.428 171.808 7001.778
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5462.254 186.158 7066.323
+  angleX 4.379
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5424.716 185.757 7163.948
+  angleX -0.206
+  angleY 0.256
+  angleZ -4.586
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5384.719 176.437 7006.936
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5358.787 178.98 7062.899
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5355.907 177.621 7031.682
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5396.396 181.972 7084.195
+  angleX 2.981
+ }
+ {
+  components {
+   MeshObject "{656D653A62C076E9}" {
+    Object "{4C1CEB7D8C9D8A39}Assets/Vehicles/F3_Corvette/F3_Grey.xob"
+   }
+  }
+  coords 4794.468 855.252 6255.217
+  scale 5
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5129.583 175.951 7037.061
+  angleY 32.376
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5176.177 173.878 7085.814
+  angleY 32.376
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 5240.087 171.732 7033.223
+  angleY 139.752
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 4709.857 161.466 6980.655
+  angleX -1.212
+  angleY -62.257
+  angleZ -0.333
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 4688.334 160.465 6889.458
+  angleX -0.09
+  angleY -163.506
+  angleZ 1.254
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 4636.4 160.398 6919.363
+  angleX -1.212
+  angleY -62.257
+  angleZ -0.333
+ }
+ {
+  components {
+   MeshObject "{656D653B270C3129}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   SlotManagerComponent "{656D653B371A3EBD}" {
+    Slots {
+     RegisteringComponentSlotInfo Engine_Left {
+      PivotID "engine_left"
+      MergePhysics 1
+      Prefab "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Engine_Right {
+      PivotID "engine_right"
+      MergePhysics 1
+      Prefab "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et"
+      RegisterDamage 1
+     }
+     RegisteringComponentSlotInfo Minigun_Front {
+      PivotID "minigun_slot"
+      Offset 0 -1.9766 0
+      Prefab "{F58A1B8DFDF8DC78}Prefabs/Vehicles/Ships/Dropship/VehParts/WeaponSystems/Dropship_Turret_Minigun.et"
+      DisablePhysicsInteraction 1
+      RegisterActions 1
+      RegisterDamage 1
+      RegisterControllers 1
+      RegisterWeapons 1
+      RegisterCompartments 1
+      RegisterLights 1
+     }
+    }
+   }
+  }
+  coords 4604.977 157.651 6980.298
+  angleX -1.796
+  angleY -28.913
+  angleZ -0.945
+ }
+ {
+  components {
+   MeshObject "{656D653CB9FFED27}" {
+    Object "{132030863BD02031}6522EAB7461F248C/Assets/Vehicles/Support_Radar/radar_antenna.xob"
+   }
+  }
+  coords 5855.474 262.622 7258.191
+  angleX 90
+  angleY -149.604
+  angleZ 10.783
+  scale 2
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{18E55E3AA7C8C645}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_04.et" {
+ {
+  coords 4784.466 -2.296 12329.533
+  angleY 90
+ }
+ {
+  coords 4784.466 -2.296 12359.341
+  angleY -90
+ }
+ {
+  coords 4781.485 -2.296 12359.341
+  angleY -90
+ }
+ {
+  coords 4781.485 -2.296 12329.533
+  angleY 90
+ }
+}
+$grp GenericEntity : "{82D3208334C11D66}Prefabs/Compositions/Misc/CustomEntities/InteractionPoints/Arsenal_US_Note.et" {
+ {
+  components {
+   MeshObject "{56F2C6D1431AD85A}" {
+    Object "{0693164DA11258A7}Assets/Items/Equipment/Maps/Datapad/Enforcer_Datapad.xob"
+   }
+   ActionsManagerComponent "{56F2C6D1431ADB12}" {
+    ActionContexts {
+     UserActionContext "{56F2C6D1431ADB6E}" {
+      Position PointInfo "{56F2C6D1431ADB9D}" {
+       Offset 0 0.0081 0
+      }
+     }
+    }
+   }
+  }
+  coords 4920.855 44.936 11788.698
+  angleY 63.966
+ }
+ {
+  components {
+   MeshObject "{56F2C6D1431AD85A}" {
+    Object "{0693164DA11258A7}Assets/Items/Equipment/Maps/Datapad/Enforcer_Datapad.xob"
+   }
+   SCR_FactionAffiliationComponent "{5A50E7655452A21D}" {
+    "faction affiliation" "ENFORCERS"
+   }
+   ActionsManagerComponent "{56F2C6D1431ADB12}" {
+    ActionContexts {
+     UserActionContext "{56F2C6D1431ADB6E}" {
+      Position PointInfo "{56F2C6D1431ADB9D}" {
+       Offset 0 0.0081 0
+      }
+     }
+    }
+   }
+  }
+  coords 4921.183 44.936 11788.418
+  angleY 63.966
+ }
+}
+StaticModelEntity : "{A0190D51FD62FF68}Prefabs/Structures/Military/Radar/ApproachRadar_TPN19_01/ApproachRadar_TPN19_01.et" {
+ components {
+  MeshObject "{56ACD1C4DC78C87B}" {
+   Object "{132030863BD02031}6522EAB7461F248C/Assets/Vehicles/Support_Radar/radar_antenna.xob"
+  }
+  RigidBody "{56ACD1C4D3E9DDF0}" {
+   Enabled 0
+  }
+ }
+ coords 5856.219 31.143 7260.711
+ angleY 18.099
+ scale 3
+}
+$grp SCR_DestructibleBuildingEntity : "{C04D37FBDE41D819}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_02.et" {
+ {
+  coords 4784.466 -2.283 12335.482
+  angleY 90
+ }
+ {
+  coords 4784.466 -2.283 12341.439
+  angleY 90
+ }
+ {
+  coords 4784.466 -2.283 12353.354
+  angleY 90
+ }
+ {
+  coords 4784.466 -2.283 12347.396
+  angleY 90
+ }
+ {
+  coords 4784.766 -5.112 12372.208
+  angleY 90
+ }
+ {
+  coords 4784.766 -5.112 12366.247
+  angleY 90
+ }
+ {
+  coords 4784.766 -5.112 12378.104
+  angleY 90
+ }
+ {
+  coords 4802.72 -5.112 12366.173
+  angleY 90
+ }
+ {
+  coords 4802.72 -5.112 12372.131
+  angleY 90
+ }
+ {
+  coords 4802.72 -5.112 12378.03
+  angleY 90
+ }
+ {
+  coords 4789.229 -5.112 12361.654
+ }
+ {
+  coords 4795.22 -5.112 12361.654
+ }
+ {
+  coords 4801.238 -5.112 12361.654
+ }
+ {
+  coords 4793.541 -5.112 12366.091
+  angleY 90
+ }
+ {
+  coords 4793.541 -5.112 12371.991
+  angleY 90
+ }
+ {
+  coords 4793.541 -5.112 12377.948
+  angleY 90
+ }
+ {
+  coords 4783.373 -5.112 12361.653
+ }
+ {
+  coords 4777.552 -5.112 12361.652
+ }
+ {
+  coords 4775.924 -5.112 12366.247
+  angleY 90
+ }
+ {
+  coords 4775.924 -5.112 12372.208
+  angleY 90
+ }
+ {
+  coords 4775.924 -5.112 12378.104
+  angleY 90
+ }
+ {
+  coords 4781.485 -2.283 12353.354
+  angleY 90
+ }
+ {
+  coords 4781.485 -2.283 12347.396
+  angleY 90
+ }
+ {
+  coords 4781.485 -2.283 12341.439
+  angleY 90
+ }
+ {
+  coords 4781.485 -2.283 12335.482
+  angleY 90
+ }
+}

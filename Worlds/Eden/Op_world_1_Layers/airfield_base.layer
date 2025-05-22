@@ -1597,11 +1597,11 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
    }
    $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
     {
-     coords 301.828 -0.171 -77.398
+     coords 301.839 -0.171 -75.542
      angleY 90.348
     }
     {
-     coords 306.407 -0.171 -77.426
+     coords 306.418 -0.171 -75.57
      angleY 90.348
     }
    }
@@ -2330,6 +2330,1121 @@ SCR_DestructibleBuildingEntity : "{C9F9F26B27D4A11F}Prefabs/Structures/Military/
     }
    }
   }
+  GenericEntity SupplyBoxesWithoutSim : "{13A99500A14FA14C}Prefabs/Props/Military/SupplyBox/SupplyShippingContainers/SupplyShippingContainers_01/SupplyShippingContainers_01_20ft.et" {
+   components {
+    RigidBody "{5872F0EB7DFB5A9D}" {
+     Enabled 0
+    }
+    SCR_ResourceComponent "{5D247A59598D71AE}" {
+     Enabled 0
+    }
+    SCR_SoundDataComponent "{5D247A59598D719B}" {
+     Enabled 0
+    }
+    ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+     Enabled 0
+    }
+    RplComponent "{5624A88DC2D9928D}" {
+     Enabled 0
+    }
+    Hierarchy "{5DE32879AA471A9B}" {
+     Enabled 0
+    }
+   }
+   coords 5.983 0.001 -24.603
+   {
+    $grp GenericEntity : "{13A99500A14FA14C}Prefabs/Props/Military/SupplyBox/SupplyShippingContainers/SupplyShippingContainers_01/SupplyShippingContainers_01_20ft.et" {
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords 0 0 6.097
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords 0 0 12.227
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords 0 0 18.33
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -2.555 0 18.33
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -2.555 0 12.227
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -2.555 0 6.097
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -2.555 0 0
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -2.557 2.565 18.33
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -2.557 2.565 12.227
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -2.557 2.565 6.098
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -2.557 2.565 0
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -5.071 0 12.227
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -5.071 0 6.097
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -5.075 2.565 18.33
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -5.074 2.565 12.227
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -5.075 2.565 6.098
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -5.071 0 18.33
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.579 0 12.227
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.579 0 6.097
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.582 2.565 18.33
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.582 2.565 12.227
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.582 2.565 6.098
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.579 0 18.33
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -4.596 5.13 0
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -4.596 5.13 6.099
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -4.596 5.13 12.227
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -4.596 5.13 18.33
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.423 5.13 0
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.423 5.13 6.099
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.423 5.13 12.227
+     }
+     {
+      components {
+       RigidBody "{5872F0EB7DFB5A9D}" {
+        Enabled 0
+       }
+       SCR_ResourceComponent "{5D247A59598D71AE}" {
+        Enabled 0
+       }
+       SCR_SoundDataComponent "{5D247A59598D719B}" {
+        Enabled 0
+       }
+       ActionsManagerComponent "{5E16BA5C3D96AB20}" {
+        Enabled 0
+       }
+       RplComponent "{5624A88DC2D9928D}" {
+        Enabled 0
+       }
+       Hierarchy "{5DE32879AA471A9B}" {
+        Enabled 0
+       }
+      }
+      coords -7.423 5.13 18.33
+     }
+    }
+   }
+  }
+  GenericEntity SupplyBoxesWithSim : "{190CC54D175F52CB}Prefabs/Props/Military/SupplyBox/SupplyShippingContainers/SupplyShippingContainers_01/SupplyShippingContainers_01_10ft.et" {
+   coords 6.005 0.001 -1.665
+   {
+    $grp GenericEntity : "{1112756E8A13445B}Prefabs/Props/Industrial/Pallets/Pallet_01_Pile.et" {
+     {
+      coords -13.249 0 -25.496
+      angleY 0
+     }
+     {
+      coords -13.249 0 -24.138
+      angleY 0
+     }
+     {
+      coords -12.2 2.21 -20.602
+      angleY 90
+     }
+    }
+    $grp GenericEntity : "{13A99500A14FA14C}Prefabs/Props/Military/SupplyBox/SupplyShippingContainers/SupplyShippingContainers_01/SupplyShippingContainers_01_20ft.et" {
+     {
+      coords -5.093 0 -22.938
+     }
+     {
+      coords -5.097 2.565 -22.938
+     }
+     {
+      coords -7.601 0 -22.938
+     }
+     {
+      coords -7.604 2.565 -22.938
+     }
+     {
+      coords -10.119 0 -10.711
+     }
+     {
+      coords -10.119 0 -16.841
+     }
+     {
+      coords -10.119 0 -22.938
+     }
+     {
+      coords -10.122 2.565 -4.608
+     }
+     {
+      coords -10.122 2.565 -10.711
+     }
+     {
+      coords -10.122 2.565 -16.84
+     }
+     {
+      coords -10.122 2.565 -22.938
+     }
+     {
+      coords -10.119 0 -4.608
+     }
+    }
+    $grp GenericEntity : "{190CC54D175F52CB}Prefabs/Props/Military/SupplyBox/SupplyShippingContainers/SupplyShippingContainers_01/SupplyShippingContainers_01_10ft.et" {
+     {
+      coords -2.555 0 0
+     }
+     {
+      coords -2.555 2.565 0
+     }
+     {
+      coords -5.07 2.565 0
+     }
+     {
+      coords -5.069 0 0
+     }
+     {
+      coords -7.58 2.565 0
+     }
+     {
+      coords -7.579 0 0
+     }
+     {
+      coords -10.098 2.565 0
+     }
+     {
+      coords -10.097 0 0
+     }
+     {
+      coords -4.594 5.13 0
+     }
+     {
+      coords -7.42 5.13 0
+     }
+    }
+    $grp GenericEntity : "{24B10D01A8BFBAD5}Prefabs/Compositions/Misc/SubCompositions/PalletMRE_US_02.et" {
+     {
+      coords -12.627 -0.001 0.633
+      angleY 90
+      scale 1.5
+      {
+       GenericEntity {
+        ID "55E69204E3096662"
+        coords -0.016 0.09 -0.027
+       }
+      }
+     }
+     {
+      coords -12.627 1.353 0.634
+      angleY 90
+      scale 1.5
+     }
+     {
+      coords -12.627 1.353 -0.787
+      angleY 90
+      scale 1.5
+     }
+     {
+      coords -12.627 -0.001 -0.788
+      angleY 90
+      scale 1.5
+     }
+     {
+      coords -12.627 1.353 -2.512
+      angleY 90
+      scale 1.5
+     }
+     {
+      coords -12.627 -0.001 -2.513
+      angleY 90
+      scale 1.5
+     }
+     {
+      coords -12.627 1.353 -4.166
+      angleY 90
+      scale 1.5
+     }
+     {
+      coords -12.627 -0.001 -4.167
+      angleY 90
+      scale 1.5
+     }
+     {
+      coords -12.627 1.353 -5.663
+      angleY 90
+      scale 1.5
+     }
+     {
+      coords -12.627 -0.001 -5.664
+      angleY 90
+      scale 1.5
+     }
+    }
+    $grp GenericEntity : "{4BF528DF7A469909}Prefabs/Props/Construction/PalletJack_01.et" {
+     {
+      coords -11.862 -0.001 -19.444
+      angleY 0.257
+     }
+     {
+      coords -11.693 -0.001 -19.172
+      angleY -179.743
+     }
+     {
+      coords -12.581 -0.001 -19.44
+      angleY 0.257
+     }
+     {
+      coords -12.426 -0.001 -19.168
+      angleY -179.743
+     }
+     {
+      coords -13.146 -0.001 -19.168
+      angleY -179.743
+     }
+     {
+      coords -13.303 -0.001 -19.44
+      angleY 0.257
+     }
+     {
+      coords -13.139 -0.001 -17.415
+      angleY -179.743
+     }
+     {
+      coords -13.295 -0.001 -17.687
+      angleY 0.257
+     }
+     {
+      coords -12.574 -0.001 -17.687
+      angleY 0.257
+     }
+     {
+      coords -12.418 -0.001 -17.415
+      angleY -179.743
+     }
+     {
+      coords -11.686 -0.001 -17.419
+      angleY -179.743
+     }
+     {
+      coords -11.854 -0.001 -17.691
+      angleY 0.257
+     }
+     {
+      coords -13.132 -0.001 -15.657
+      angleY -179.743
+     }
+     {
+      coords -13.287 -0.001 -15.929
+      angleY 0.257
+     }
+     {
+      coords -12.566 -0.001 -15.929
+      angleY 0.257
+     }
+     {
+      coords -12.41 -0.001 -15.657
+      angleY -179.743
+     }
+     {
+      coords -11.679 -0.001 -15.661
+      angleY -179.743
+     }
+     {
+      coords -11.847 -0.001 -15.932
+      angleY 0.257
+     }
+     {
+      coords -13.124 -0.001 -13.943
+      angleY -179.743
+     }
+     {
+      coords -13.279 -0.001 -14.215
+      angleY 0.257
+     }
+     {
+      coords -12.559 -0.001 -14.215
+      angleY 0.257
+     }
+     {
+      coords -12.402 -0.001 -13.943
+      angleY -179.743
+     }
+     {
+      coords -11.672 -0.001 -13.947
+      angleY -179.743
+     }
+     {
+      coords -11.84 -0.001 -14.218
+      angleY 0.257
+     }
+     {
+      coords -13.116 -0.001 -12.157
+      angleY -179.743
+     }
+     {
+      coords -13.271 -0.001 -12.431
+      angleY 0.257
+     }
+     {
+      coords -12.553 -0.001 -12.431
+      angleY 0.257
+     }
+     {
+      coords -12.395 -0.001 -12.157
+      angleY -179.743
+     }
+     {
+      coords -11.664 -0.001 -12.161
+      angleY -179.743
+     }
+     {
+      coords -11.834 -0.001 -12.433
+      angleY 0.257
+     }
+     {
+      coords -13.109 -0.001 -10.455
+      angleY -179.743
+     }
+     {
+      coords -13.262 -0.001 -10.729
+      angleY 0.257
+     }
+     {
+      coords -12.549 -0.001 -10.729
+      angleY 0.257
+     }
+     {
+      coords -12.389 -0.001 -10.455
+      angleY -179.743
+     }
+     {
+      coords -11.657 -0.001 -10.459
+      angleY -179.743
+     }
+     {
+      coords -11.827 -0.001 -10.731
+      angleY 0.257
+     }
+     {
+      coords -12.685 0.054 -15.715
+      angleY 90.096
+     }
+     {
+      coords -12.416 0.054 -15.881
+      angleY -89.904
+     }
+     {
+      coords -12.688 0.054 -17.526
+      angleY 90.096
+     }
+     {
+      coords -12.419 0.054 -17.691
+      angleY -89.904
+     }
+     {
+      coords -12.69 0.054 -19.241
+      angleY 90.096
+     }
+     {
+      coords -12.422 0.054 -19.406
+      angleY -89.904
+     }
+     {
+      coords -12.682 0.054 -14.048
+      angleY 90.096
+     }
+     {
+      coords -12.413 0.054 -14.213
+      angleY -89.904
+     }
+     {
+      coords -12.68 0.054 -12.183
+      angleY 90.096
+     }
+     {
+      coords -12.41 0.054 -12.348
+      angleY -89.904
+     }
+     {
+      coords -12.678 0.054 -10.539
+      angleY 90.096
+     }
+     {
+      coords -12.407 0.054 -10.704
+      angleY -89.904
+     }
+    }
+    GenericEntity : "{5DF32BDA2A8C5A3D}Prefabs/Props/Military/Camps/PalletAmmo_01_US_camo.et" {
+     coords -12.513 -0.001 -22.537
+     angleY 90
+     scale 1.5
+    }
+    GenericEntity : "{D7F69BF7D2DCA0A8}Prefabs/Props/Industrial/Pallets/Pallet_01.et" {
+     coords -12.141 3.158 -20.556
+     angleY 90
+    }
+    $grp GenericEntity : "{DB4F61D5F37432F7}Prefabs/Props/Military/Camps/PalletFuel_01.et" {
+     {
+      coords -12.022 -0.001 -24.264
+     }
+     {
+      coords -12.022 1.216 -24.264
+     }
+     {
+      coords -12.391 1.349 -22.356
+      angleY 90
+     }
+     {
+      coords -12.018 2.586 -22.821
+     }
+    }
+    $grp GenericEntity : "{E2B01D303DD412D7}Prefabs/Props/Military/AmmoBoxes/AmmoBox_P150_Hydra_Container_US/AmmoBox_P150_Hydra_Container_Pallet_US.et" {
+     {
+      coords -12.441 -0.001 -20.559
+      angleY 90
+     }
+     {
+      coords -12.441 1.121 -20.559
+      angleY 90
+     }
+    }
+   }
+  }
   SCR_IndestructibleEnvironmentalEntity : "{AE73676ABA995907}Prefabs/Structures/BuildingParts/Entry/Entry_Block_Platform_01_3x12.et" {
    coords 5.889 -0.138 0.39
    angleY 89.652
@@ -2366,24 +3481,6 @@ SCR_DestructibleBuildingEntity : "{C9F9F26B27D4A11F}Prefabs/Structures/Military/
       coords -0.001 0 -11.768
      }
     }
-   }
-  }
-  $grp GameEntity : "{C16B9C07263AFA5A}PrefabsEditable/Auto/Props/Military/Generators/Military searchlight.et" {
-   {
-    coords 6.45 0 -1.876
-    angleY -145.694
-   }
-   {
-    coords -6.525 0 -25.942
-    angleY 46.234
-   }
-   {
-    coords -6.93 0 -1.688
-    angleY 143.454
-   }
-   {
-    coords 6.699 0 -26.41
-    angleY -30.918
    }
   }
   $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
