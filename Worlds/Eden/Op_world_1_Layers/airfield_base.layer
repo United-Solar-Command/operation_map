@@ -45,14 +45,8 @@ StaticModelEntity : "{6C6C936971C9D6FC}Prefabs/Compositions/Misc/Shelter_01.et" 
  coords 4817.995 28.452 11705.286
  angleY 0
 }
-$grp SCR_DestructibleBuildingEntity : "{8A8A7A558772D718}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_small.et" {
- {
-  coords 4805.277 29.175 11013.991
- }
- {
-  coords 4816.104 24.396 12107.446
-  angleY -122.468
- }
+SCR_DestructibleBuildingEntity : "{8A8A7A558772D718}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_small.et" {
+ coords 4805.277 29.175 11013.991
 }
 $grp StaticModelEntity : "{979A564D476B5AAE}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_tall.et" {
  {
@@ -1597,11 +1591,11 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
    }
    $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
     {
-     coords 301.839 -0.171 -75.542
+     coords 302.804 -0.171 -74.565
      angleY 90.348
     }
     {
-     coords 306.418 -0.171 -75.57
+     coords 307.383 -0.171 -74.593
      angleY 90.348
     }
    }
@@ -4797,7 +4791,7 @@ $grp StaticModelEntity : "{D0F17E2313DE33F1}Prefabs/Structures/Military/Fortific
 }
 $grp StaticModelEntity : "{F8BFF80AC83FC6EA}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_base.et" {
  {
-  coords 4881.468 28.424 11970.309
+  coords 4880.432 28.424 11970.309
   angleY 180
   {
    $grp GenericEntity {
@@ -5091,7 +5085,8 @@ $grp StaticModelEntity : "{F8BFF80AC83FC6EA}Prefabs/Structures/Military/Fortific
   angleY -90
  }
  {
-  coords 4721.625 26.925 11962.603
+  coords 4714.239 27.313 11960.086
+  angleX -1.463
   angleY 92.822
  }
 }
