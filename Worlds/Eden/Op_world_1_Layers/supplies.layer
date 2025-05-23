@@ -1,0 +1,170 @@
+$grp GenericEntity : "{ECB1A2E38746C6AB}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S.et" {
+ {
+  coords 4858 27.844 11114.935
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11120.086
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11130.331
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11125.195
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11135.474
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11140.59
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11150.877
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11145.734
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11156.013
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11161.177
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11171.453
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11166.333
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11176.59
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11181.746
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11192.021
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11186.893
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11207.475
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11202.345
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11197.195
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11109.746
+  angleY -90
+ }
+ {
+  coords 4858 27.844 11104.591
+  angleY -90
+ }
+ {
+  coords 4836.942 27.844 11118.991
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11149.782
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11139.495
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11144.64
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11154.918
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11160.082
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11170.359
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11165.238
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11175.495
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11180.652
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11190.926
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11185.798
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11206.377
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11196.104
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11201.25
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11108.652
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11134.376
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11113.837
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11103.496
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11124.104
+  angleY 90
+ }
+ {
+  coords 4836.942 27.844 11129.236
+  angleY 90
+ }
+}

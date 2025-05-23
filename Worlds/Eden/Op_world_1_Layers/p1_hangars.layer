@@ -1,0 +1,187 @@
+GenericEntity : "{00FD1283BE297412}Prefabs/Props/Command Center/MK_Props_Microphone.et" {
+ coords 4822.707 30.587 11680.279
+ angleY 88.634
+}
+$grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
+ {
+  coords 4816.429 28.682 11680
+  angleY 90
+ }
+ {
+  coords 4819.365 28.619 11685
+  angleY 90
+ }
+ {
+  coords 4819.365 28.619 11675
+  angleY 90
+ }
+}
+GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
+ coords 4802.374 28.619 11672.991
+ angleY -0.083
+}
+GenericEntity : "{0D5E512CAED58B5C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Launcher_US.et" {
+ coords 4804.261 28.619 11673.011
+ angleY -0.083
+}
+GenericEntity : "{0F199C77C5125534}Prefabs/Props/Furniture/BenchChurch_02/BenchChurch_02_short_front.et" {
+ coords 4822.515 29.878 11680.297
+ angleY -90
+ scale 0.8
+}
+$grp GenericEntity : "{28A2EE59C1996DC1}Prefabs/Items/Equipment/Maps/Datapad_Map.et" {
+ {
+  components {
+   InventoryItemComponent "{5222EB4D0C73006B}" {
+    Enabled 0
+   }
+   RigidBody "{50A65CD7214542E2}" {
+    Enabled 0
+   }
+   SCR_MapGadgetComponent "{516ACCA1BB4F79C6}" {
+    Enabled 0
+   }
+   SCR_SoundDataComponent "{5B18D20ED0099A17}" {
+    Enabled 0
+   }
+   ActionsManagerComponent "{508AB5952B584B2E}" {
+    Enabled 0
+   }
+   GadgetGamepadEffectsManagerComponent "{61E103D57E322BB5}" {
+    Enabled 0
+   }
+  }
+  coords 4822.643 30.731 11679.591
+  angleX 23.428
+  angleY -90
+ }
+ {
+  components {
+   InventoryItemComponent "{5222EB4D0C73006B}" {
+    Enabled 0
+   }
+   RigidBody "{50A65CD7214542E2}" {
+    Enabled 0
+   }
+   SCR_MapGadgetComponent "{516ACCA1BB4F79C6}" {
+    Enabled 0
+   }
+   SCR_SoundDataComponent "{5B18D20ED0099A17}" {
+    Enabled 0
+   }
+   ActionsManagerComponent "{508AB5952B584B2E}" {
+    Enabled 0
+   }
+   GadgetGamepadEffectsManagerComponent "{61E103D57E322BB5}" {
+    Enabled 0
+   }
+  }
+  coords 4822.643 30.731 11681.004
+  angleX 23.428
+  angleY -90
+ }
+}
+GenericEntity : "{2B2AA4AD1E2F4F17}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Briefing_Wood.et" {
+ coords 4824.065 28.888 11680
+ angleY 90
+ {
+  StaticModelEntity {
+   ID "651724CA01A133B0"
+   coords -4.036 0.962 1.035
+  }
+  $grp GenericEntity : "{706FCF984D96743C}Prefabs/Props/Furniture/Chair_03/Chair_03_Base.et" {
+   {
+    coords -0.279 0.988 1.129
+    angleY -180
+   }
+   {
+    coords -1.915 0.969 1.129
+    angleY -180
+   }
+   {
+    coords -2.778 0.966 1.129
+    angleY -180
+   }
+   {
+    coords 1.479 0.966 1.129
+    angleY -180
+   }
+   {
+    coords 2.342 0.994 1.129
+    angleY -180
+   }
+  }
+ }
+}
+GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
+ coords 4806.623 28.619 11687.195
+ angleY -179.978
+}
+GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
+ coords 4802.592 28.619 11687.18
+ angleY -179.978
+}
+GenericEntity : "{A18D9C677F47AC1C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_US.et" {
+ coords 4806.718 28.619 11673.123
+}
+SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/Bunkers/AircraftShelter_E_01/AircraftShelter_E_01_camo_v2.et" {
+ coords 4801 0.775 11680
+ angleY -90.348
+ {
+  $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
+   {
+    coords -17.004 -0.063 1.807
+    angleY -89.652
+   }
+   {
+    coords -17.075 -0.063 -9.926
+    angleY -89.652
+   }
+   {
+    coords -17.063 -0.063 -8.002
+    angleY -89.652
+   }
+   {
+    coords -17.052 -0.063 -6.054
+    angleY -89.652
+   }
+   {
+    coords -17.04 -0.063 -4.1
+    angleY -89.652
+   }
+   {
+    coords -17.028 -0.063 -2.144
+    angleY -89.652
+   }
+   {
+    coords -17.016 -0.063 -0.15
+    angleY -89.652
+   }
+   {
+    coords -9.356 -0.042 -34.707
+    angleY -89.652
+   }
+   {
+    coords -9.345 -0.042 -32.784
+    angleY -89.652
+   }
+   {
+    coords -9.333 -0.042 -30.944
+    angleY -89.652
+   }
+   {
+    coords 16.974 0.005 1.892
+    angleY 90
+    {
+     GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
+      coords 2.004 0 0
+     }
+    }
+   }
+  }
+ }
+}
+GenericEntity : "{F7D5D2A0D5095C84}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Helmet_Arsenal_Box.et" {
+ coords 4804.598 28.619 11687.196
+ angleY -179.978
+}

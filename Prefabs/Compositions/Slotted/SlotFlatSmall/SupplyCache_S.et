@@ -1,0 +1,27 @@
+GenericEntity : "{3BA9D94C4EE9B33B}Prefabs/Compositions/Slotted/CompositionBase.et" {
+ ID "5282DCB5DFC8538F"
+ components {
+  Hierarchy "{656F20C5C1CFA75B}" {
+   Enabled 1
+  }
+ }
+ coords 0 0 0
+ {
+  GenericEntity : "{24F98A215FAA249C}Prefabs/Structures/Signs/Military/Supplies/Sign_SupplyStorage_01_Supplies_FIA.et" {
+   ID "656F20C5C1CFB065"
+   components {
+    Hierarchy "{656F20C5C1CFA737}" {
+     Enabled 1
+    }
+   }
+   coords -1.075 0.003 3.486
+   angleX -1.002
+   angleY 2.417
+   angleZ 0.301
+  }
+  GenericEntity : "{2B2ADD56B888EBC0}Prefabs/Compositions/Misc/SubCompositions/Storage/Slotted/Storage_Supplies_Containers_FIA_02.et" {
+   ID "656F20C5C1CFB067"
+   coords -0.755 0.001 0.04
+  }
+ }
+}

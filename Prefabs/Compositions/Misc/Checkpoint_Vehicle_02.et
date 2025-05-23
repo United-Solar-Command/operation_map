@@ -1,0 +1,17 @@
+GenericEntity : "{30CC84240729285F}Prefabs/Compositions/Misc/Checkpoint_01.et" {
+ ID "F0DBA538AC2A0552"
+ coords 3924.74 13.697 8521.082
+ angleY -21.972
+ {
+  $grp GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
+   {
+    ID "656F0AEB52F896AA"
+    coords 0.857 0.066 0.228
+   }
+   {
+    ID "656F0AEB52F896AB"
+    coords -0.913 0.066 0.228
+   }
+  }
+ }
+}
