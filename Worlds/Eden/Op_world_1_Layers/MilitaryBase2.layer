@@ -257,7 +257,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  }
 }
 GenericEntity : "{6DBCA6BC92B1FF1C}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Turret_Post_AA.et" {
- coords 4673.235 174.938 7383.95
+ coords 4673.3 177.119 7383.731
 }
 $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
  {

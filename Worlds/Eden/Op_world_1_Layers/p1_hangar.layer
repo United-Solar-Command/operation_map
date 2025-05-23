@@ -186,6 +186,16 @@ $grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.
   coords 4930.083 28.775 11753.239
  }
 }
+$grp GenericEntity : "{0831D4051CEB3EC1}Prefabs/Props/Airport/JetBlastDeflector_01/JetBlastDeflector_E_01.et" {
+ {
+  coords 4914.087 28.594 11785.94
+  angleY -88.07
+ }
+ {
+  coords 4914.252 28.594 11790.849
+  angleY -88.07
+ }
+}
 $grp GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
  {
   coords 4942.989 28.785 11758.664

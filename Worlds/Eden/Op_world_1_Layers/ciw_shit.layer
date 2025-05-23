@@ -1,19 +1,27 @@
-$grp SCR_DestructibleBuildingEntity : "{18E55E3AA7C8C645}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_04.et" {
+SCR_DestructibleBuildingEntity : "{3AF49DBA17DF855E}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_small_base.et" {
+ coords 4807.682 24.659 12106.512
+ angleY -119.54
  {
-  coords 4784.466 -2.296 12329.533
-  angleY 90
- }
- {
-  coords 4784.466 -2.296 12359.341
-  angleY -90
- }
- {
-  coords 4781.485 -2.296 12359.341
-  angleY -90
- }
- {
-  coords 4781.485 -2.296 12329.533
-  angleY 90
+  GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
+   coords 2.367 -1.019 1.567
+   angleY -90.758
+  }
+  GenericEntity : "{0D5E512CAED58B5C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Launcher_US.et" {
+   coords 2.341 -1.019 3.422
+   angleY -90.758
+  }
+  GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
+   coords -2.215 -1.029 4.744
+   angleY 89.262
+  }
+  GenericEntity : "{63358FFE9F6B18D8}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_HQ_US.et" {
+   coords 2.315 -1.019 5.512
+   angleY -90.758
+  }
+  GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
+   coords -2.189 -1.029 2.878
+   angleY 89.262
+  }
  }
 }
 $grp GenericEntity : "{82D3208334C11D66}Prefabs/Compositions/Misc/CustomEntities/InteractionPoints/Arsenal_US_Note.et" {
@@ -69,101 +77,4 @@ StaticModelEntity : "{A0190D51FD62FF68}Prefabs/Structures/Military/Radar/Approac
  coords 5856.219 31.143 7260.711
  angleY 18.099
  scale 3
-}
-$grp SCR_DestructibleBuildingEntity : "{C04D37FBDE41D819}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_02.et" {
- {
-  coords 4784.466 -2.283 12335.482
-  angleY 90
- }
- {
-  coords 4784.466 -2.283 12341.439
-  angleY 90
- }
- {
-  coords 4784.466 -2.283 12353.354
-  angleY 90
- }
- {
-  coords 4784.466 -2.283 12347.396
-  angleY 90
- }
- {
-  coords 4784.766 -5.112 12372.208
-  angleY 90
- }
- {
-  coords 4784.766 -5.112 12366.247
-  angleY 90
- }
- {
-  coords 4784.766 -5.112 12378.104
-  angleY 90
- }
- {
-  coords 4802.72 -5.112 12366.173
-  angleY 90
- }
- {
-  coords 4802.72 -5.112 12372.131
-  angleY 90
- }
- {
-  coords 4802.72 -5.112 12378.03
-  angleY 90
- }
- {
-  coords 4789.229 -5.112 12361.654
- }
- {
-  coords 4795.22 -5.112 12361.654
- }
- {
-  coords 4801.238 -5.112 12361.654
- }
- {
-  coords 4793.541 -5.112 12366.091
-  angleY 90
- }
- {
-  coords 4793.541 -5.112 12371.991
-  angleY 90
- }
- {
-  coords 4793.541 -5.112 12377.948
-  angleY 90
- }
- {
-  coords 4783.373 -5.112 12361.653
- }
- {
-  coords 4777.552 -5.112 12361.652
- }
- {
-  coords 4775.924 -5.112 12366.247
-  angleY 90
- }
- {
-  coords 4775.924 -5.112 12372.208
-  angleY 90
- }
- {
-  coords 4775.924 -5.112 12378.104
-  angleY 90
- }
- {
-  coords 4781.485 -2.283 12353.354
-  angleY 90
- }
- {
-  coords 4781.485 -2.283 12347.396
-  angleY 90
- }
- {
-  coords 4781.485 -2.283 12341.439
-  angleY 90
- }
- {
-  coords 4781.485 -2.283 12335.482
-  angleY 90
- }
 }
