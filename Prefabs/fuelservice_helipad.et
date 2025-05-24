@@ -1,0 +1,10 @@
+GenericEntity : "{1693A2CCA4BFD922}Prefabs/Props/Military/Compositions/US/FuelService_US_Large.et" {
+ ID "F0DBA538AC2A0552"
+ coords 4878.181 28.444 11858.397
+ {
+  GenericEntity {
+   ID "5E6A90B022FE573D"
+   coords 0 0 11.413
+  }
+ }
+}
