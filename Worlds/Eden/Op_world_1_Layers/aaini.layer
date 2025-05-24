@@ -2,20 +2,5 @@ SCR_AIWorld : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
  coords 4880.464 28.594 11746.48
 }
 SCR_GameModeEditor GameMode_Editor_Full1 : "{DA3986AF1B5032B7}Prefabs/MP/Modes/Editor/GameMode_Editor_Full.et" {
- coords 4889.535 28.594 11750.34
- {
-  SCR_FactionManager "656F0AEBFC448023" {
-   ID "56E685E92F1B7E7A"
-   Factions {
-    SCR_Faction "{60AB36C32D620E8B}" {
-     m_bIsPlayable 0
-     m_bShowInWelcomeScreenIfNonPlayable 0
-    }
-    SCR_Faction "{60AB36C32C2345C0}" {
-     m_bIsPlayable 0
-     m_bShowInWelcomeScreenIfNonPlayable 0
-    }
-   }
-  }
- }
+ coords 4880.084 28.594 11761.575
 }
