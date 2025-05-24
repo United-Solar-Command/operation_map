@@ -1,0 +1,194 @@
+SCR_DestructibleBuildingEntity : "{84DEA01FFFE606FE}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_base.et" {
+ ID "F0DBA538AC2A0552"
+ components {
+  MeshObject "{506EDA9D46FC6C06}" {
+   Object "{6DD2F2275A673AB3}Assets/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_small.xob"
+  }
+ }
+ Flags 1027
+ SlotBoneMappings {
+  SlotBoneMappingObject "{59F6CB4BF96AC369}" {
+   Prefab ""
+  }
+  SlotBoneMappingObject "{59F6CB4BF929E699}" {
+   Prefab ""
+  }
+  SlotBoneMappingObject "{59F6CB4BC70333C1}" {
+   Prefab ""
+  }
+  SlotBoneMappingObject "{58FA72C7ABAB42D2}" {
+   BonePrefix "socket_door_bunker_E_B"
+   Prefab "{BD60F148F0218BDB}Prefabs/Structures/BuildingParts/Doors/Door_Bunker_E_03/DoorSet_Bunker_E_03_B_R_INT_COV_B.et"
+  }
+  SlotBoneMappingObject "{58FA72C72D8B509F}" {
+   Prefab ""
+  }
+ }
+ {
+  GenericEntity : "{07848CA53FAD246B}Prefabs/Structures/BuildingParts/Doors/DoorSet_Metal_02_R_INT_COV_B.et" {
+   ID "656E0105D3D2E40A"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     Enabled 1
+     PivotID "socket_Door_Metal_B_RIGHT_INT_COV_B_01"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  $grp GenericEntity : "{593C5C4530050392}Prefabs/Structures/BuildingParts/Eletrical/UtilityBoxInt_01/UtilityBoxInt_01_v1.et" {
+   {
+    ID "656E0105D3D2B0A4"
+    coords -0.703 0.317 7.603
+    angleX -1.122
+    angleY -90
+   }
+   {
+    ID "656E0105D3D2E40E"
+    coords -2.047 0.409 0.374
+    angleY 90
+   }
+  }
+  GenericEntity : "{6401BFEA3B30EBF7}Prefabs/Structures/BuildingParts/Eletrical/ElectricityJunction_02/ElectricityJunction_02.et" {
+   ID "656E0105D3D2B0AA"
+   coords 2.08 -0.248 0.372
+   angleY -90
+   angleZ 90
+  }
+  GenericEntity : "{74A8427A65A5B423}Prefabs/Structures/BuildingParts/Doors/Door_Bunker_E_03/DoorSet_Bunker_E_03_A_R_EXT_COV_B.et" {
+   ID "656E0105D3D2B0A9"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     Enabled 1
+     PivotID "socket_Door_Bunker_E_A_RIGHT_EXT_01"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  $grp GenericEntity : "{8F17372BAB5A9CF8}Prefabs/Structures/BuildingParts/Lights/LightIndustrial_02.et" {
+   {
+    ID "656E0105D3D24CC5"
+    coords 3.208 -0.433 3.987
+    angleX -8.52
+    angleY -90
+   }
+   {
+    ID "656E0105D3D253EA"
+    coords 3.208 -0.433 1.627
+    angleX -8.52
+    angleY -90
+   }
+   {
+    ID "656E0105D3D253F5"
+    coords -3.064 -0.433 1.638
+    angleX -8.52
+    angleY 90
+   }
+   {
+    ID "656E0105D3D264A6"
+    coords -3.064 -0.433 3.978
+    angleX -8.52
+    angleY 90
+   }
+   {
+    ID "656E0105D3D264A7"
+    coords -3.064 -0.433 6.338
+    angleX -8.52
+    angleY 90
+   }
+   {
+    ID "656E0105D3D28EDC"
+    coords 3.208 -0.433 6.327
+    angleX -8.52
+    angleY -90
+   }
+   {
+    ID "656E0105D3D28EDF"
+    coords 1.345 1.302 0.295
+    angleY 180
+   }
+   {
+    ID "656E0105D3D2B0AE"
+    coords -1.184 1.305 0.294
+    angleY 180
+   }
+  }
+  GenericEntity : "{BCC3261E8F3B4CDD}Prefabs/Structures/BuildingParts/Bunker/BunkerAirFiltration_01/BunkerAirFiltration_01.et" {
+   ID "656E0105D3D253F7"
+   components {
+    Hierarchy "{612AE78C95E98EEB}" {
+     Enabled 1
+     PivotID "socket_filtration"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{BD60F148F0218BDB}Prefabs/Structures/BuildingParts/Doors/Door_Bunker_E_03/DoorSet_Bunker_E_03_B_R_INT_COV_B.et" {
+   ID "656E0105D3D5C0E4"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     Enabled 1
+     PivotID "socket_Door_Bunker_E_B_RIGHT_INT_COV_B_01"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{CAF8666F26CEB7AD}Prefabs/Structures/BuildingParts/Entry/ConcreteStairs_02_Narrow.et" {
+   ID "656E0105D3D5C0E5"
+   components {
+    Hierarchy "{5488F0388A297CDE}" {
+     PivotID "socket_Door_Bunker_E_A_RIGHT_EXT_01"
+    }
+   }
+   coords 0 -0.177 1.702
+  }
+  $grp GenericEntity : "{E34303CB179E13D6}Prefabs/Structures/BuildingParts/Lights/LightIndustrial_01.et" {
+   {
+    ID "656E0105D3D53031"
+    coords 0.051 2.702 3.979
+    angleX -90
+    angleY 90
+    angleZ -90
+   }
+   {
+    ID "656E0105D3D58922"
+    coords 0.051 2.702 6.338
+    angleX -90
+    angleY 90
+    angleZ -90
+   }
+   {
+    ID "656E0105D3D58925"
+    coords 0.051 2.702 1.625
+    angleX -90
+    angleY 90
+    angleZ -90
+   }
+  }
+  GenericEntity : "{EA47C7B9C65402F8}Prefabs/Structures/BuildingParts/Doors/DoorSet_Metal_02_L_INT_COV_B.et" {
+   ID "656E0105D3D53B1C"
+   components {
+    Hierarchy "{612AE78C85563E26}" {
+     Enabled 1
+     PivotID "socket_Door_Metal_B_LEFT_INT_COV_B_01"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+  GenericEntity : "{EC52B3BFFBB1FABD}Prefabs/Structures/BuildingParts/Bunker/BunkerLatrine_01/BunkerLatrine_01.et" {
+   ID "656E0105D3D53B1D"
+   components {
+    Hierarchy "{612AE78C95E98EEB}" {
+     Enabled 1
+     PivotID "socket_latrine"
+     AutoTransform 1
+    }
+   }
+   coords 0 0 0
+  }
+ }
+}

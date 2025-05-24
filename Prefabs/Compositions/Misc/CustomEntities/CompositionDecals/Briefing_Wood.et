@@ -41,28 +41,6 @@ GenericEntity : "{B1E8ADDDA7D1EFF8}Prefabs/Compositions/Misc/CustomEntities/Comp
     angleY 0
    }
   }
-  $grp GenericEntity : "{AC98FF880BD0F2C2}Prefabs/Props/Furniture/Chair_01/Chair_01_base.et" {
-   {
-    ID "651724CA01A13301"
-    coords 1.181 1.005 1.026
-    angleY 180
-   }
-   {
-    ID "651724CA01A13311"
-    coords 0.248 1.005 1.143
-    angleY 180
-   }
-   {
-    ID "651724CA01A13368"
-    coords -1.553 1.005 1.118
-    angleY 180
-   }
-   {
-    ID "651724CA01A13370"
-    coords -0.624 1.005 1.123
-    angleY 180
-   }
-  }
   $grp SCR_DestructibleBuildingEntity : "{C04D37FBDE41D819}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_02.et" {
    {
     ID "651724CAE328BB84"
