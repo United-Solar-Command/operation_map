@@ -267,16 +267,3 @@ $grp GenericEntity : "{9AAB4B953C8111D8}Prefabs/Structures/Signs/Warnings/SignPa
   scale 5
  }
 }
-GenericEntity : "{D4F15B34CEB62C2C}PrefabsEditable/SupportStationSystems/E_SupportStationSystem_Heal_Medium.et" {
- components {
-  SCR_HealSupportStationComponent "{5E1CF9211233B176}" {
-   m_eSupportStationPriority VERY_HIGH
-   m_iSupplyCostDamageHealed 0
-   m_iSupplyCostBloodHealed 0
-  }
-  SCR_SupportStationAreaMeshComponent "{5B2AD5B869A9C26D}" {
-   m_eShape RECTANGLE
-  }
- }
- coords 4818.21 28.619 11680.2
-}

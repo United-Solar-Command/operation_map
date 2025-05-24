@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A2C06803A941F6F6}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_Enforcer.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

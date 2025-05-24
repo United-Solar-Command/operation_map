@@ -1,0 +1,596 @@
+GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
+ ID "617227549D58681F"
+ components {
+  MeshObject "{617227549D5ED9D2}" {
+   Materials {
+    MaterialAssignClass "{61722754E22780DF}" {
+     SourceMaterial "ATR_Logo"
+     AssignedMaterial "{8E84910B8F506154}Assets/Structures/Vanilla/Data/ATR_Logo.emat"
+    }
+    MaterialAssignClass "{61722754E2278024}" {
+     SourceMaterial "ATR_TowerNumber"
+     AssignedMaterial "{D7EC76C58FC9950A}Assets/Structures/Vanilla/Data/ATR_TowerNumber.emat"
+    }
+   }
+  }
+ }
+ coords 6996.041 96.026 8387.8
+ {
+  GenericEntity {
+   ID "61722754CABC2FC4"
+   components {
+    MeshObject "{611575FBA43A0498}" {
+     Materials {
+      MaterialAssignClass "{657129CB3DB1F1E5}" {
+       SourceMaterial "ATR_TowerNumber"
+       AssignedMaterial "{D7EC76C58FC9950A}Assets/Structures/Vanilla/Data/ATR_TowerNumber.emat"
+      }
+     }
+    }
+   }
+  }
+  GenericEntity {
+   ID "657129CBFA77C230"
+   components {
+    MeshObject "{611575FBA43A0498}" {
+     Object "{CE35BF3CFC3835DF}Assets/Structures/StackTower/ArmaTower_Reforged_STACK_KOTH.xob"
+     Materials {
+      MaterialAssignClass "{657129CBCF3C63C9}" {
+       SourceMaterial "ATR_TowerNumber"
+       AssignedMaterial "{D7EC76C58FC9950A}Assets/Structures/Vanilla/Data/ATR_TowerNumber.emat"
+      }
+     }
+    }
+    RigidBody "{611575FBA908FE11}" {
+     ModelGeometry 1
+     Static 1
+    }
+    SCR_EditableEntityComponent "{61651602213188D9}" {
+     m_UIInfo SCR_EditableEntityUIInfo "{616516039E1CA448}" {
+      Name "Arma Tower Reforged"
+      Description "A Replica of The Holy Arma 3 Tower."
+      m_Image "{A7041A855CFC7EA8}Assets/Structures/Vanilla/Data/ATR_Image.edds"
+      m_aAuthoredLabels {
+       1001
+      }
+     }
+     m_fMaxDrawDistance 10
+     m_Flags 321
+    }
+    SCR_PreviewEntityComponent "{6168F2B4FFB72945}" {
+     m_bRuntime 0
+     m_PreviewPrefab "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et"
+     m_aEntries {
+      SCR_BasePreviewEntry "{6168F2B437416C82}" {
+       m_Mesh "{8DE5DBE635F006BB}Assets/Structures/Vanilla/ArmaTower_Reforged.xob"
+      }
+     }
+    }
+    RplComponent "{616547CF29B526C6}" {
+    }
+    Hierarchy "{6168F2B5353CA164}" {
+    }
+   }
+   coords 0 35.344 0
+   {
+    $grp GenericEntity {
+     {
+      ID "657129CBFA7602B6"
+      components {
+       MeshObject "{61297809491C5A63}" {
+        Object "{5673896EAB9D4A9E}Assets/Structures/Windows/ATR_Handle.xob"
+       }
+       Hierarchy "{6168FD67ACFE661C}" {
+       }
+      }
+      coords -1.078 17.466 -7.231
+      angleY 90
+     }
+     {
+      ID "657129CBFA761C44"
+      components {
+       MeshObject "{61297809491C5A63}" {
+        Object "{5673896EAB9D4A9E}Assets/Structures/Windows/ATR_Handle.xob"
+       }
+       Hierarchy "{6168FD67D4206194}" {
+       }
+      }
+      coords -3.567 17.466 7.133
+      angleY -90
+     }
+     {
+      ID "657129CBFA761C45"
+      components {
+       MeshObject "{61297809491C5A63}" {
+        Object "{5673896EAB9D4A9E}Assets/Structures/Windows/ATR_Handle.xob"
+       }
+       Hierarchy "{6168FD67D1E012E2}" {
+       }
+      }
+      coords -4.931 14.791 -2.957
+      angleY 180
+     }
+     {
+      ID "657129CBFA764A62"
+      components {
+       MeshObject "{6159062DAC686FB8}" {
+        Object "{BC9E952EFB2C6D23}Assets/Structures/Vanilla/ArmaTower_Reforged_Antenna.xob"
+       }
+       RigidBody "{615EF8A0F7EFBC96}" {
+        ModelGeometry 1
+        Static 1
+       }
+       Hierarchy "{6159062D00EF782D}" {
+       }
+      }
+      coords 0 0 0
+     }
+     {
+      ID "657129CBFA764A65"
+      components {
+       MeshObject "{61297809491C5A63}" {
+        Object "{5673896EAB9D4A9E}Assets/Structures/Windows/ATR_Handle.xob"
+       }
+       Hierarchy "{6168FD67A625AEDB}" {
+       }
+      }
+      coords -3.634 17.466 -7.231
+      angleY 90
+     }
+     {
+      ID "657129CBFA76C000"
+      components {
+       MeshObject "{61297809491C5A63}" {
+        Object "{5673896EAB9D4A9E}Assets/Structures/Windows/ATR_Handle.xob"
+       }
+       Hierarchy "{6168FD67AECEFF68}" {
+       }
+      }
+      coords 1.17 14.9 6.083
+      angleY -90
+     }
+     DoorFix_Bottom_Right {
+      ID "657129CBFA77058A"
+      components {
+       MeshObject "{61255DB843725D07}" {
+        Object "{D09F8C9E288A2326}Assets/Structures/Door/ATR_DoorFix.xob"
+       }
+       RigidBody "{61255DBFDBF60FDF}" {
+        ModelGeometry 1
+        Static 1
+       }
+       Hierarchy "{61255DBFDF4C5C5C}" {
+        PivotID "Socket_Door_Right"
+       }
+      }
+      coords 0 -0.015 0
+      {
+       GenericEntity Door_Bottom_Right {
+        ID "657129CBFA77058B"
+        components {
+         DoorComponent "{612510447967E6C2}" {
+          DoorAction SCR_DoorUserAction "{61253361B9F6FA2B}" {
+           ParentContextList {
+            "SCR_DoorUserAction"
+           }
+          }
+          AngleRange -100
+          OpenTime 1.7
+          SoundFilename "{22ECEDB98FB13D3A}Sounds/Structures/_ShaderData/Doors/Structures_Door_Metal_Bunker.acp"
+         }
+         MeshObject "{6125104451842885}" {
+          Object "{6EFD8FD384AC4720}Assets/Structures/Door/ATR_Door.xob"
+         }
+         NavmeshCustomLinkComponent "{61255DB0B11AE036}" {
+          LinkType NavmeshDoorLink "{61255DB0B500C006}" {
+           "Navmesh setting presets" {
+            NavmeshCustomLinkSetting "{61255DB0B630B370}" {
+             BeginPoint -1.178 0 -0.569
+             EndPoint 0.962 0 -0.522
+             Radius 0.5
+             QueueDelay 0.5
+            }
+           }
+          }
+         }
+         RigidBody "{61251045EBAA14E6}" {
+          ModelGeometry 1
+         }
+         SCR_AISmartActionComponent "{61255DB0C4E61CB5}" {
+          AIBehaviorTree "{49E6280CE3FAAF4F}AI/BehaviorTrees/SmartActions/SA_OpenGate.bt"
+          Tags {
+           "OpenGate"
+          }
+         }
+         ActionsManagerComponent "{612533618DEE65AD}" {
+          ActionContexts {
+           UserActionContext "{61253361B09E01C6}" {
+            ContextName "SCR_DoorUserAction"
+            Position PointInfo "{61253362A1545111}" {
+             PivotID "socket_door_01"
+             Offset -0.0558 0.9622 -0.7362
+            }
+            Radius 0.44
+           }
+          }
+         }
+         RplComponent "{61253361C570A1A5}" {
+         }
+         Hierarchy "{61253369F99F8235}" {
+          PivotID "socket_door_01"
+         }
+        }
+        coords 0 0 0
+       }
+      }
+     }
+     {
+      ID "657129CBFA77C22F"
+      components {
+       MeshObject "{61297809491C5A63}" {
+        Object "{5673896EAB9D4A9E}Assets/Structures/Windows/ATR_Handle.xob"
+       }
+       Hierarchy "{6168FD67D737BB45}" {
+       }
+      }
+      coords 6.147 14.818 -4.573
+     }
+     DoorFix_Bottom_Left {
+      ID "657129CBFA77D049"
+      components {
+       MeshObject "{61255DB843725D07}" {
+        Object "{D09F8C9E288A2326}Assets/Structures/Door/ATR_DoorFix.xob"
+       }
+       RigidBody "{61255DBFDBF60FDF}" {
+        ModelGeometry 1
+        Static 1
+       }
+       Hierarchy "{61255DBFDF4C5C5C}" {
+        PivotID "Socket_Door_Left"
+       }
+      }
+      coords 0.023 -0.017 -0.029
+      angleY 90
+      {
+       GenericEntity Door_Bottom_Left {
+        ID "657129CBFA77D048"
+        components {
+         DoorComponent "{612510447967E6C2}" {
+          DoorAction SCR_DoorUserAction "{61253361B9F6FA2B}" {
+           ParentContextList {
+            "SCR_DoorUserAction"
+           }
+          }
+          AngleRange -160
+          OpenTime 2.4
+          SoundFilename "{22ECEDB98FB13D3A}Sounds/Structures/_ShaderData/Doors/Structures_Door_Metal_Bunker.acp"
+         }
+         MeshObject "{6125104451842885}" {
+          Object "{6EFD8FD384AC4720}Assets/Structures/Door/ATR_Door.xob"
+         }
+         NavmeshCustomLinkComponent "{61255DB0B11AE036}" {
+          LinkType NavmeshDoorLink "{61255DB0B500C006}" {
+           "Navmesh setting presets" {
+            NavmeshCustomLinkSetting "{61255DB0B630B370}" {
+             BeginPoint -1.178 0 -0.569
+             EndPoint 0.962 0 -0.522
+             Radius 0.5
+             QueueDelay 0.5
+            }
+           }
+          }
+         }
+         RigidBody "{61251045EBAA14E6}" {
+          ModelGeometry 1
+          Static 1
+          Kinematic 1
+         }
+         SCR_AISmartActionComponent "{61255DB0C4E61CB5}" {
+          AIBehaviorTree "{49E6280CE3FAAF4F}AI/BehaviorTrees/SmartActions/SA_OpenGate.bt"
+          Tags {
+           "OpenGate"
+          }
+         }
+         ActionsManagerComponent "{612533618DEE65AD}" {
+          ActionContexts {
+           UserActionContext "{61253361B09E01C6}" {
+            ContextName "SCR_DoorUserAction"
+            Position PointInfo "{61253362A1545111}" {
+             PivotID "socket_door_01"
+             Offset -0.0559 1.0576 -0.7488
+            }
+            Radius 0.44
+           }
+          }
+         }
+         RplComponent "{61253361C570A1A5}" {
+         }
+         Hierarchy "{61253369F99F8235}" {
+          PivotID "socket_door_01"
+         }
+        }
+        coords -0.002 0 -0.001
+       }
+      }
+     }
+     DoorFix_Top {
+      ID "657129CBFA77D04B"
+      components {
+       MeshObject "{61255DB843725D07}" {
+        Object "{D09F8C9E288A2326}Assets/Structures/Door/ATR_DoorFix.xob"
+       }
+       RigidBody "{61255DBFDBF60FDF}" {
+        ModelGeometry 1
+        Static 1
+       }
+       Hierarchy "{61255DBFDF4C5C5C}" {
+        PivotID "Socket_Door_Top"
+       }
+      }
+      coords 0.027 -0.043 0
+      {
+       GenericEntity Door_Top {
+        ID "657129CBFA77ABF7"
+        components {
+         DoorComponent "{612510447967E6C2}" {
+          DoorAction SCR_DoorUserAction "{61253361B9F6FA2B}" {
+           ParentContextList {
+            "SCR_DoorUserAction"
+           }
+          }
+          AngleRange -160
+          OpenTime 2.4
+          SoundFilename "{22ECEDB98FB13D3A}Sounds/Structures/_ShaderData/Doors/Structures_Door_Metal_Bunker.acp"
+         }
+         MeshObject "{6125104451842885}" {
+          Object "{6EFD8FD384AC4720}Assets/Structures/Door/ATR_Door.xob"
+         }
+         NavmeshCustomLinkComponent "{61255DB0B11AE036}" {
+          LinkType NavmeshDoorLink "{61255DB0B500C006}" {
+           "Navmesh setting presets" {
+            NavmeshCustomLinkSetting "{61255DB0B630B370}" {
+             BeginPoint -1.178 0 -0.569
+             EndPoint 0.962 0 -0.522
+             Radius 0.5
+             QueueDelay 0.5
+            }
+           }
+          }
+         }
+         RigidBody "{61251045EBAA14E6}" {
+          ModelGeometry 1
+          Static 1
+          Kinematic 1
+         }
+         SCR_AISmartActionComponent "{61255DB0C4E61CB5}" {
+          AIBehaviorTree "{49E6280CE3FAAF4F}AI/BehaviorTrees/SmartActions/SA_OpenGate.bt"
+          Tags {
+           "OpenGate"
+          }
+         }
+         ActionsManagerComponent "{612533618DEE65AD}" {
+          ActionContexts {
+           UserActionContext "{61253361B09E01C6}" {
+            ContextName "SCR_DoorUserAction"
+            Position PointInfo "{61253362A1545111}" {
+             PivotID "socket_door_01"
+             Offset -0.0559 1.0356 -0.6931
+            }
+            Radius 0.44
+           }
+          }
+         }
+         RplComponent "{616547CD0AE9D509}" {
+         }
+         Hierarchy "{61253369F99F8235}" {
+          PivotID "Scene_Root"
+         }
+        }
+       }
+      }
+     }
+    }
+    $grp GenericEntity : "{0DF7193ED2107E6A}Prefabs/Structures/_Utilities/Single/Glass.et" {
+     {
+      ID "657129CBFA744240"
+      coords -0.659 19.935 1.326
+      angleY 180
+     }
+     {
+      ID "657129CBFA748A00"
+      coords -4.936 17.309 1.94
+      angleY -90
+      angleZ 180
+     }
+     {
+      ID "657129CBFA751114"
+      coords -1.685 19.935 -4.679
+      angleY 180
+     }
+     {
+      ID "657129CBFA75111B"
+      coords 5.201 14.667 4.024
+      angleY -90
+     }
+     {
+      ID "657129CBFA753683"
+      coords -4.936 17.297 3.495
+      angleY -90
+      angleZ 0
+     }
+     {
+      ID "657129CBFA75AC82"
+      coords 1.836 17.297 7.175
+      angleY -180
+      angleZ -180
+     }
+     {
+      ID "657129CBFA75CFC2"
+      coords 1.217 14.605 -6.093
+      angleY 180
+      angleZ 0
+     }
+     {
+      ID "657129CBFA75CFC3"
+      coords 5.211 17.286 1.372
+      angleY -90
+      angleZ 0
+     }
+     {
+      ID "657129CBFA761641"
+      coords 2.302 14.605 -6.093
+      angleY 180
+     }
+     {
+      ID "657129CBFA761642"
+      coords 0.815 17.289 7.144
+      angleY -180
+      angleZ 0
+     }
+    }
+    $grp GenericEntity : "{40BBF2534F436FB1}Prefabs/Structures/_Utilities/Single/ATR_Hatch.et" {
+     {
+      ID "657129CBFA743D81"
+      components {
+       DoorComponent "{61255DAC1EEDA7F7}" {
+        AngleRange -120
+       }
+       MeshObject "{61255DABDC49B2E3}" {
+        Object "{DF603568703F374B}Assets/Structures/Windows/ATR_Window_Large.xob"
+       }
+       ActionsManagerComponent "{61255DAC57A9EF8A}" {
+        ActionContexts {
+         UserActionContext "{61255DAC4C56C5D2}" {
+          Position PointInfo "{61255DAC64A11F3C}" {
+           Offset -0.1074 0.1237 0
+          }
+          Radius 1.4
+          Height 1
+          Omnidirectional 1
+          VisibilityAngle 180
+         }
+        }
+       }
+       Hierarchy "{61273BC1E3BDFC64}" {
+        PivotID "Socket_Large_Hatch"
+       }
+      }
+      coords 0 0 0
+      angleY 0
+     }
+     {
+      ID "657129CBFA743D82"
+      components {
+       ActionsManagerComponent "{61255DAC57A9EF8A}" {
+        ActionContexts {
+         UserActionContext "{61255DAC4C56C5D2}" {
+          Position PointInfo "{61255DAC64A11F3C}" {
+           Offset -0.1074 0.1374 0
+          }
+          Radius 1.4
+          Height 1
+          Omnidirectional 1
+         }
+        }
+       }
+       Hierarchy "{61273BC1E3BDFC64}" {
+        PivotID "Socket__Top_Hatch_3"
+       }
+      }
+      coords 0 0 0
+      angleY 0
+     }
+     {
+      ID "657129CBFA744241"
+      components {
+       ActionsManagerComponent "{61255DAC57A9EF8A}" {
+        ActionContexts {
+         UserActionContext "{61255DAC4C56C5D2}" {
+          Position PointInfo "{61255DAC64A11F3C}" {
+           Offset -0.1074 0.1374 0
+          }
+          Radius 1.4
+          Height 1
+          Omnidirectional 1
+         }
+        }
+       }
+       Hierarchy "{61273BC1E3BDFC64}" {
+        PivotID "Socket__Top_Hatch_2"
+       }
+      }
+      coords 0 0 0
+      angleY 0
+     }
+     {
+      ID "657129CBFA745A05"
+      components {
+       ActionsManagerComponent "{61255DAC57A9EF8A}" {
+        ActionContexts {
+         UserActionContext "{61255DAC4C56C5D2}" {
+          Position PointInfo "{61255DAC64A11F3C}" {
+           Offset -0.1074 0.1374 0
+          }
+          Radius 1.4
+          Height 1
+          Omnidirectional 1
+         }
+        }
+       }
+       Hierarchy "{61273BC1E3BDFC64}" {
+        PivotID "Socket__Bottom_Hatch_2"
+       }
+      }
+      coords 0 0 0
+      angleY 0
+     }
+     {
+      ID "657129CBFA7B9085"
+      components {
+       ActionsManagerComponent "{61255DAC57A9EF8A}" {
+        ActionContexts {
+         UserActionContext "{61255DAC4C56C5D2}" {
+          Position PointInfo "{61255DAC64A11F3C}" {
+           Offset -0.1095 0.0609 0
+          }
+          Radius 1.4
+          Height 1
+          Omnidirectional 1
+          VisibilityAngle 180
+         }
+        }
+       }
+       Hierarchy "{61273BC1E3BDFC64}" {
+        PivotID "Socket_Bottom_Hatch_1"
+       }
+      }
+      coords 0 0 0
+      angleY 0
+     }
+     {
+      ID "657129CBFA7BE41B"
+      components {
+       ActionsManagerComponent "{61255DAC57A9EF8A}" {
+        ActionContexts {
+         UserActionContext "{61255DAC4C56C5D2}" {
+          Position PointInfo "{61255DAC64A11F3C}" {
+           Offset -0.1074 0.1374 0
+          }
+          Radius 1.4
+          Height 1
+          Omnidirectional 1
+         }
+        }
+       }
+       Hierarchy "{61273BC1E3BDFC64}" {
+        PivotID "Socket__Top_Hatch_1"
+       }
+      }
+      coords 0 0 0
+      angleY 0
+     }
+    }
+   }
+  }
+ }
+}

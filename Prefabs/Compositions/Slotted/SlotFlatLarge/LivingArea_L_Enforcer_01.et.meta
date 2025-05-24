@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{DE1E3E9D2C34A9ED}Prefabs/Compositions/Slotted/SlotFlatLarge/LivingArea_L_Enforcer_01.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
