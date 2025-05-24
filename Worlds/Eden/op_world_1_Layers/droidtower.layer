@@ -1,0 +1,28 @@
+LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+ coords 5856.183 279.222 7263.386
+ angleX -14.993
+ angleY 19.712
+ angleZ -5.296
+}
+$grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+ {
+  coords 5856.299 268.65 7260.665
+  angleY 19.015
+  scale 1.5
+ }
+ {
+  coords 5856.299 254.042 7260.665
+  angleY 19.015
+  scale 1.5
+ }
+ {
+  coords 5856.299 238.456 7260.665
+  angleY 19.015
+  scale 1.5
+ }
+}
+Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+ coords 5856.299 276.332 7260.665
+ angleY 1.896
+ scale 2
+}
