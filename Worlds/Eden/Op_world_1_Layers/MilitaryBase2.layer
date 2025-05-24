@@ -24,6 +24,47 @@ $grp GenericEntity : "{172D03072FE6ECAB}Prefabs/Compositions/Slotted/SlotRoadMed
   }
  }
 }
+$grp StaticModelEntity : "{250B0F950A4490E0}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/Trench_Line_2.et" {
+ {
+  coords 4783.789 1.17 8840.835
+  angleY 25.374
+  {
+   StaticModelEntity {
+    ID "62B0D70D803E1644"
+    coords 7.288 0.378 2.987
+   }
+  }
+ }
+ {
+  coords 4814.868 0.216 8826.089
+  angleY 25.374
+  angleZ -2.551
+  {
+   StaticModelEntity {
+    ID "62B0D70D803E1644"
+    coords 7.288 0.378 2.987
+   }
+  }
+ }
+ {
+  coords 4679.662 -0.147 8914.873
+  angleX -3.518
+  angleY 19.789
+  angleZ -2.265
+ }
+ {
+  coords 4175.441 0.047 8145.282
+  angleZ -9.316
+ }
+ {
+  coords 4209.504 0.499 8145.282
+  angleZ -8.252
+ }
+ {
+  coords 4243.597 0.649 8145.282
+  angleZ -8.268
+ }
+}
 $grp GenericEntity : "{3E0D296F4DD6270C}PrefabsEditable/Auto/Structure/Military_Concrete_block_angle.et" {
  {
   coords 3967.723 16.019 8505.588
@@ -271,6 +312,10 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
   coords 3749.464 0.527 8418.489
   angleY -171.936
  }
+ {
+  coords 7051.935 97.119 8385.919
+  angleY 149.927
+ }
 }
 SCR_DestructibleBuildingEntity : "{8A8A7A558772D718}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_small.et" {
  coords 3781.566 11.688 8478.229
@@ -303,4 +348,10 @@ GenericEntity : "{ECB8E313DFBD3415}Prefabs/Compositions/Slotted/SlotFlatSmall/Ve
    coords 10.84 0 2.821
   }
  }
+}
+StaticModelEntity : "{FADE3EDED50078AA}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/Trench_Z_1.et" {
+ coords 4659.36 0.817 8921.771
+ angleX -3.086
+ angleY 14.66
+ angleZ -0.424
 }
