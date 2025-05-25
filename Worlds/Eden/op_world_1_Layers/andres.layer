@@ -2,3 +2,22 @@ GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.
  coords 7058.821 96.853 8387.879
  angleY 151.442
 }
+GenericEntity : "{7CAD8FB0E25EF7B4}Prefabs/Props/HologramTable.et" {
+ coords 4974.735 28.615 11835.788
+ angleY 2.516
+}
+SCR_DestructibleBuildingEntity : "{8A8A7A558772D718}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_small.et" {
+ coords 4978.11 29.666 11835.634
+ angleX -0.258
+ angleY -85.725
+}
+$grp GenericEntity : "{D4FCD140C4A32C83}Prefabs/Systems/Arsenal/ArsenalBoxes/ENFORCERS/Enforcers_Arsenal_Box.et" {
+ {
+  coords 4978.892 28.671 11834.745
+  angleY -86.355
+ }
+ {
+  coords 4979.162 28.651 11836.876
+  angleY -86.624
+ }
+}
