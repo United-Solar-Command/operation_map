@@ -1,4 +1,4 @@
-GenericEntity : "{15A2329DA2CA954E}Prefabs/Structures/ReforgedTower/ReforgerTower_3Stack.et" {
- coords 6988.081 95.103 8386.013
- angleY -92.38
+GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ coords 7058.821 96.853 8387.879
+ angleY 151.442
 }
