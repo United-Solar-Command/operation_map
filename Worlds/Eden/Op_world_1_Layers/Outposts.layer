@@ -1,0 +1,202 @@
+StaticModelEntity : "{059125C8BBD5ECED}Prefabs/Compositions/Misc/SubCompositions/Tent_Medical_Cluttered_US_02.et" {
+ coords 10918.994 26.027 8675.543
+ angleY -80.501
+}
+StaticModelEntity : "{1BB9E9ECC5AD0E88}PrefabsEditable/Auto/Structures/Infrastructure/Towers/E_TransmitterTower_01.et" {
+ components {
+  SCR_EditableEntityComponent "{591A864AEFC9BBC6}" {
+   Enabled 0
+  }
+ }
+ coords 4295.082 70.812 8544.453
+ angleY -89.874
+}
+GenericEntity : "{2A40E71770BAD461}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/E_Sandbag_Corner_Right_US_01.et" {
+ coords 10931.042 25.308 8689.816
+}
+GenericEntity : "{47789BA6E9CA2928}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_03_Campaign.et" {
+ coords 10944.461 26.958 8659.194
+}
+$grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ {
+  coords 7058.821 96.853 8387.879
+  angleY 151.442
+ }
+ {
+  coords 5094.179 137.71 7750.764
+  angleY -180
+ }
+ {
+  coords 6702.912 4.282 9643.339
+  angleY 135
+ }
+ {
+  coords 6230.82 143.067 8064.083
+  angleY -180
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
+  coords 10927.325 25.63 8658.227
+  angleY -165
+ }
+}
+$grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_plastic.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 10935.56 25.395 8687.46
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 10938.332 25.395 8687.46
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 10940.72 25.395 8687.46
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 10943.108 25.395 8687.46
+ }
+}
+GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
+ components {
+  MeshObject "{617227549D5ED9D2}" {
+   Materials {
+    MaterialAssignClass "{61722754E22780DF}" {
+     SourceMaterial "ATR_Logo"
+     AssignedMaterial "{20380E9CB15631EC}Assets/Structures/Vanilla/Data/ATR_TowerNumber_Empty.emat"
+    }
+    MaterialAssignClass "{61722754E2278024}" {
+     SourceMaterial "ATR_TowerNumber"
+     AssignedMaterial "{20380E9CB15631EC}Assets/Structures/Vanilla/Data/ATR_TowerNumber_Empty.emat"
+    }
+   }
+  }
+  SCR_EditableEntityComponent "{617227549D5ED9DF}" {
+   Enabled 0
+  }
+ }
+ coords 4310.926 71.247 8547.57
+ angleY 142.912
+}
+$grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_plastic.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 10955.521 27.405 8660.11
+  angleY -39.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 10957.478 27.405 8661.727
+  angleY -39.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 10958.825 27.405 8663.363
+  angleY -65.95
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 10959.703 27.074 8665.331
+  angleY -65.95
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 10960.333 26.244 8666.742
+  angleY -65.95
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 10961.259 26.244 8668.816
+  angleY -65.95
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 10962.096 26.244 8670.691
+  angleY -65.95
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 10962.767 26.244 8672.193
+  angleY -65.95
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 10964.279 24.645 8672.893
+  angleY 2.571
+ }
+}
+StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Utility/E_Helipad_Lights_US_01.et" {
+ components {
+  SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
+   Enabled 0
+  }
+ }
+ coords 10968.917 0.961 8683.854
+}
+$grp SCR_DestructibleBuildingEntity : "{EE5219B38424AB12}Prefabs/Structures/Military/Bunkers/Bunker_01/Bunker_01_3fp.et" {
+ {
+  coords 10904.337 1.357 8665.262
+  angleY -125.983
+ }
+ {
+  coords 10870.181 0.275 8784.841
+  angleY -88.888
+ }
+}
