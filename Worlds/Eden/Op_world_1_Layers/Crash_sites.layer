@@ -1,0 +1,128 @@
+GenericEntity {
+ components {
+  MeshObject "{6583442DE7520E47}" {
+   Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+  }
+  RigidBody "{6583442DDD73E729}" {
+   Mass 6000
+   ModelGeometry 1
+  }
+ }
+ coords 5131.619 39.068 9011.51
+ angleX -11.991
+ angleY -155.51
+ angleZ -18.558
+}
+$grp ParticleEffectEntity {
+ {
+  coords 5121.239 41.128 9015.402
+  EffectPath "{D07F32799F6319ED}Prefabs/Systems/Fire/Fire_Small_NoFire.ptc"
+ }
+ {
+  coords 5148.207 38.471 9023.739
+  EffectPath "{D07F32799F6319ED}Prefabs/Systems/Fire/Fire_Small_NoFire.ptc"
+ }
+ {
+  coords 5136.395 40.604 9008.999
+  EffectPath "{D07F32799F6319ED}Prefabs/Systems/Fire/Fire_Small_NoFire.ptc"
+ }
+ {
+  coords 5130.166 41.637 9006.011
+  EffectPath "{D07F32799F6319ED}Prefabs/Systems/Fire/Fire_Small_NoFire.ptc"
+ }
+}
+GenericEntity : "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et" {
+ coords 5148.849 38.076 9024.648
+ angleX 0.258
+ angleY -158.822
+ angleZ -90.665
+}
+SCR_DestructibleBuildingEntity : "{2EBA3486062A5A53}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_big.et" {
+ coords 4408.981 97.662 8151.633
+ angleX 1.446
+ angleY -0.204
+ angleZ -8.028
+}
+$grp StaticModelEntity : "{39F7EE885940DC8F}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v1.et" {
+ {
+  coords 5128.186 0.816 9006.85
+  angleY -95.222
+ }
+ {
+  coords 5147.259 0.195 9026.314
+  angleX 0.819
+  angleY -62.077
+  angleZ 8.274
+ }
+}
+$grp StaticModelEntity : "{55A3DA68E58453A1}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
+ {
+  coords 5119.403 0.001 9016.277
+  angleY -70.631
+  angleZ 14.081
+ }
+ {
+  coords 5123.135 -0.015 9014.936
+  angleX 11.47
+  angleY -51.027
+  angleZ 8.191
+ }
+}
+GenericEntity : "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et" {
+ components {
+  RigidBody "{4B42E71692C2FB79}" {
+   Mass 6000
+  }
+ }
+ coords 5120.611 40.96 9015.187
+ angleX 49.266
+ angleY 46.845
+ angleZ -180
+}
+StaticModelEntity : "{82B378151A9AEF2F}Prefabs/Structures/Military/Fortifications/DirtPile_01/DirtPile_01_large.et" {
+ coords 5129.221 0.722 9005.146
+}
+$grp StaticModelEntity : "{B03F9691E961C4CA}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v3.et" {
+ {
+  coords 5131.251 0.665 9005.986
+  angleY -34.173
+ }
+ {
+  coords 5128.692 0.937 9010.113
+  angleY -71.411
+ }
+ {
+  coords 5133.656 0.685 9007.99
+  angleY -56.881
+ }
+ {
+  coords 5130.139 0.654 9013.365
+  angleY -54.481
+  angleZ 13.494
+ }
+ {
+  coords 5135.33 0.571 9012.059
+  angleY -70.018
+  angleZ 8.278
+ }
+}
+$grp StaticModelEntity : "{C1576E5555582214}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_short.et" {
+ {
+  coords 5121.452 0.291 9013.714
+  angleY -19.87
+  angleZ 8.761
+ }
+ {
+  coords 5119.167 0.353 9014.061
+  angleY -107.134
+  angleZ 13.213
+ }
+ {
+  coords 5146.541 0.379 9023.742
+  angleY -93.234
+ }
+ {
+  coords 5148.246 0.385 9022.289
+  angleY -171.598
+ }
+}

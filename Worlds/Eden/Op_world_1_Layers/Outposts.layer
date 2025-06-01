@@ -25,6 +25,12 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
   angleY -180
  }
 }
+SCR_DestructibleBuildingEntity : "{8A8A7A558772D718}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_small.et" {
+ coords 4283.272 71.591 8560.292
+ angleX 0.779
+ angleY 176.18
+ angleZ -1.309
+}
 GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
  components {
   MeshObject "{617227549D5ED9D2}" {
@@ -45,4 +51,19 @@ GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOT
  }
  coords 4310.926 71.247 8547.57
  angleY 142.912
+ {
+  GenericEntity {
+   ID "61722754CABC2FC4"
+   components {
+    MeshObject "{611575FBA43A0498}" {
+     Materials {
+      MaterialAssignClass "{6583442510F64703}" {
+       SourceMaterial "ATR_TowerNumber"
+       AssignedMaterial "{20380E9CB15631EC}Assets/Structures/Vanilla/Data/ATR_TowerNumber_Empty.emat"
+      }
+     }
+    }
+   }
+  }
+ }
 }
