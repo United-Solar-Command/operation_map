@@ -20,6 +20,10 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
   coords 6702.912 4.282 9643.339
   angleY 135
  }
+ {
+  coords 6230.82 143.067 8064.083
+  angleY -180
+ }
 }
 GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
  components {
