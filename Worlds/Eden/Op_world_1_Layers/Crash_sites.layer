@@ -1,17 +1,34 @@
-GenericEntity {
- components {
-  MeshObject "{6583442DE7520E47}" {
-   Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{6583442DE7520E47}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   RigidBody "{6583442DDD73E729}" {
+    Mass 6000
+    ModelGeometry 1
+   }
   }
-  RigidBody "{6583442DDD73E729}" {
-   Mass 6000
-   ModelGeometry 1
-  }
+  coords 5131.619 39.068 9011.51
+  angleX -11.991
+  angleY -155.51
+  angleZ -18.558
  }
- coords 5131.619 39.068 9011.51
- angleX -11.991
- angleY -155.51
- angleZ -18.558
+ {
+  components {
+   MeshObject "{658363C2491B20D5}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   RigidBody "{658363C22B6B74FD}" {
+    Mass 6000
+    ModelGeometry 1
+   }
+  }
+  coords 4811.011 26.706 11830.747
+  angleX -3.057
+  angleY -7.871
+  angleZ 22.582
+ }
 }
 $grp ParticleEffectEntity {
  {
@@ -30,18 +47,44 @@ $grp ParticleEffectEntity {
   coords 5130.166 41.637 9006.011
   EffectPath "{D07F32799F6319ED}Prefabs/Systems/Fire/Fire_Small_NoFire.ptc"
  }
+ {
+  coords 4806.924 27.407 11818.822
+  EffectPath "{D07F32799F6319ED}Prefabs/Systems/Fire/Fire_Small_NoFire.ptc"
+ }
+ {
+  coords 4818.662 28.333 11816.025
+  EffectPath "{D07F32799F6319ED}Prefabs/Systems/Fire/Fire_Small_NoFire.ptc"
+ }
+ {
+  coords 4811.677 27.605 11838.027
+  EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+ }
+ {
+  coords 4811.076 28.456 11837.068
+  EffectPath "{D07F32799F6319ED}Prefabs/Systems/Fire/Fire_Small_NoFire.ptc"
+ }
+ {
+  coords 4810.017 27.429 11830.883
+  angleZ -14.698
+  EffectPath "{FCBE7F8CB4E962AA}Prefabs/Systems/Fire/Fire_Medium.ptc"
+ }
+ {
+  coords 4809.452 28.168 11829.446
+  EffectPath "{D07F32799F6319ED}Prefabs/Systems/Fire/Fire_Small_NoFire.ptc"
+ }
 }
-GenericEntity : "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et" {
- coords 5148.849 38.076 9024.648
- angleX 0.258
- angleY -158.822
- angleZ -90.665
-}
-SCR_DestructibleBuildingEntity : "{2EBA3486062A5A53}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_big.et" {
- coords 4408.981 97.662 8151.633
- angleX 1.446
- angleY -0.204
- angleZ -8.028
+$grp GenericEntity : "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et" {
+ {
+  coords 5148.849 38.076 9024.648
+  angleX 0.258
+  angleY -158.822
+  angleZ -90.665
+ }
+ {
+  coords 4806.368 27.841 11821.731
+  angleY -5.958
+  angleZ -55.481
+ }
 }
 $grp StaticModelEntity : "{39F7EE885940DC8F}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v1.et" {
  {
@@ -68,19 +111,30 @@ $grp StaticModelEntity : "{55A3DA68E58453A1}Prefabs/Structures/Military/Fortific
   angleZ 8.191
  }
 }
-GenericEntity : "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et" {
- components {
-  RigidBody "{4B42E71692C2FB79}" {
-   Mass 6000
+$grp GenericEntity : "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et" {
+ {
+  components {
+   RigidBody "{4B42E71692C2FB79}" {
+    Mass 6000
+   }
   }
+  coords 5120.611 40.96 9015.187
+  angleX 49.266
+  angleY 46.845
+  angleZ -180
  }
- coords 5120.611 40.96 9015.187
- angleX 49.266
- angleY 46.845
- angleZ -180
+ {
+  coords 4818.888 27.965 11813.302
+  angleZ -45.255
+ }
 }
 StaticModelEntity : "{82B378151A9AEF2F}Prefabs/Structures/Military/Fortifications/DirtPile_01/DirtPile_01_large.et" {
  coords 5129.221 0.722 9005.146
+}
+Turret : "{A46C95A9C3A66E43}Prefabs/Weapons/HeavyWeapons/Dropship_Minigun_Turret.et" {
+ coords 4811.33 28.156 11838.793
+ angleX 40.046
+ angleZ -44.304
 }
 $grp StaticModelEntity : "{B03F9691E961C4CA}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v3.et" {
  {
@@ -104,6 +158,92 @@ $grp StaticModelEntity : "{B03F9691E961C4CA}Prefabs/Structures/Military/Fortific
   coords 5135.33 0.571 9012.059
   angleY -70.018
   angleZ 8.278
+ }
+ {
+  coords 4809.592 0.486 11837.113
+  angleY -81.21
+ }
+ {
+  coords 4809.441 0.454 11834.054
+  angleY -91.435
+ }
+ {
+  coords 4809.516 0.419 11831.057
+  angleY -91.435
+ }
+ {
+  coords 4809.515 0.419 11831.057
+  angleY -95.456
+ }
+ {
+  coords 4808.479 0.339 11830.01
+  angleX -14.217
+  angleY -95.456
+ }
+ {
+  coords 4809.917 0.359 11827.988
+  angleY -92.672
+ }
+ {
+  coords 4810.041 0.133 11825.33
+  angleY -92.672
+  angleZ -1.114
+ }
+ {
+  coords 4810.185 -0.178 11822.262
+  angleY -92.672
+  angleZ -4.949
+ }
+ {
+  coords 4814.175 0.171 11835.005
+  angleY 78.27
+ }
+ {
+  coords 4814.677 0.147 11832.586
+  angleY 78.27
+ }
+ {
+  coords 4815.151 0.094 11828.9
+  angleY 89.205
+ }
+ {
+  coords 4815.198 -0.18 11825.521
+  angleY 89.205
+  angleZ 3.365
+ }
+ {
+  coords 4815.241 -0.271 11822.433
+  angleY 89.205
+  angleZ 3.365
+ }
+ {
+  coords 4819.374 0.025 11816.017
+  angleY 69.712
+ }
+ {
+  coords 4817.987 -0.019 11815.917
+  angleY -60.592
+ }
+ {
+  coords 4817.322 0.073 11813.23
+  angleY -86.056
+ }
+ {
+  coords 4817.263 -0.138 11810.254
+  angleY -90.983
+  angleZ -5.274
+ }
+ {
+  coords 4805.73 -0 11819.131
+  angleY 80.604
+ }
+ {
+  coords 4805.212 -0.006 11821.716
+  angleY -96.856
+ }
+ {
+  coords 4804.96 -0.014 11823.301
+  angleY -77.706
  }
 }
 $grp StaticModelEntity : "{C1576E5555582214}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_short.et" {
