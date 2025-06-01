@@ -1,0 +1,44 @@
+StaticModelEntity : "{1BB9E9ECC5AD0E88}PrefabsEditable/Auto/Structures/Infrastructure/Towers/E_TransmitterTower_01.et" {
+ components {
+  SCR_EditableEntityComponent "{591A864AEFC9BBC6}" {
+   Enabled 0
+  }
+ }
+ coords 4295.082 70.812 8544.453
+ angleY -89.874
+}
+$grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ {
+  coords 7058.821 96.853 8387.879
+  angleY 151.442
+ }
+ {
+  coords 5094.179 137.71 7750.764
+  angleY -180
+ }
+ {
+  coords 6702.912 4.282 9643.339
+  angleY 135
+ }
+}
+GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
+ components {
+  MeshObject "{617227549D5ED9D2}" {
+   Materials {
+    MaterialAssignClass "{61722754E22780DF}" {
+     SourceMaterial "ATR_Logo"
+     AssignedMaterial "{20380E9CB15631EC}Assets/Structures/Vanilla/Data/ATR_TowerNumber_Empty.emat"
+    }
+    MaterialAssignClass "{61722754E2278024}" {
+     SourceMaterial "ATR_TowerNumber"
+     AssignedMaterial "{20380E9CB15631EC}Assets/Structures/Vanilla/Data/ATR_TowerNumber_Empty.emat"
+    }
+   }
+  }
+  SCR_EditableEntityComponent "{617227549D5ED9DF}" {
+   Enabled 0
+  }
+ }
+ coords 4310.926 71.247 8547.57
+ angleY 142.912
+}
