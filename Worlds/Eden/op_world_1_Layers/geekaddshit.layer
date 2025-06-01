@@ -1,0 +1,26 @@
+GenericEntity : "{75469B1D531EBD0D}Prefabs/Items/Backpack/Shield_Backpack.et" {
+ components {
+  SCR_MineInventoryItemComponent "{6093468EAF3DCCB8}" {
+   Enabled 0
+  }
+  SCR_PlaceableItemComponent "{6093468FB59F189D}" {
+   Enabled 0
+  }
+  ActionsManagerComponent "{511E9C6ADE70F786}" {
+   Enabled 0
+  }
+ }
+ coords 4903.753 36.295 9080.888
+ angleY 36.496
+ scale 10
+}
+BON_CustomMaterialAnimatorEntity : "{BF9DBB1A93E542AC}Prefabs/Props/ShieldBubble.et" {
+ components {
+  FactionAffiliationComponent "{6094B6EA11E722DF}" {
+   "faction affiliation" "CIV"
+  }
+ }
+ coords 4903.701 36.292 9080.879
+ angleY 36.496
+ scale 10
+}
