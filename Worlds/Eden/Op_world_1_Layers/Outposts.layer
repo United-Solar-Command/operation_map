@@ -2,6 +2,14 @@ StaticModelEntity : "{059125C8BBD5ECED}Prefabs/Compositions/Misc/SubCompositions
  coords 10918.994 26.027 8675.543
  angleY -80.501
 }
+$grp GenericEntity : "{1AF9E0A02075CBB0}Prefabs/MP/Campaign/Bases/Campaign_Antenna_US.et" {
+ {
+  coords 5366.61 42.792 11025.837
+ }
+ {
+  coords 5380.89 43.21 11052.04
+ }
+}
 StaticModelEntity : "{1BB9E9ECC5AD0E88}PrefabsEditable/Auto/Structures/Infrastructure/Towers/E_TransmitterTower_01.et" {
  components {
   SCR_EditableEntityComponent "{591A864AEFC9BBC6}" {
@@ -76,6 +84,15 @@ $grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sand
    }
   }
   coords 10943.108 25.395 8687.46
+ }
+}
+GenericEntity : "{825C3F60E8C2C5BC}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Antenna.et" {
+ coords 5381.082 42.638 11052.251
+ {
+  GenericEntity {
+   ID "64E4D78B7BCF3F16"
+   coords -5.653 0.255 4.245
+  }
  }
 }
 GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
@@ -180,6 +197,26 @@ $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sand
   }
   coords 10964.279 24.645 8672.893
   angleY 2.571
+ }
+}
+$grp GenericEntity : "{CF4F7AEE0BFA7B25}Prefabs/Props/Military/Compositions/US/Antenna_01_US.et" {
+ {
+  coords 5418.188 39.958 11080.683
+ }
+ {
+  coords 5381.534 42.827 11052.469
+ }
+ {
+  coords 5024.01 47.358 9493.086
+ }
+ {
+  coords 4944.354 114.94 8532.859
+ }
+ {
+  coords 6833.072 88.915 8156.092
+ }
+ {
+  coords 5915.266 53.708 8326.742
  }
 }
 StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Utility/E_Helipad_Lights_US_01.et" {
