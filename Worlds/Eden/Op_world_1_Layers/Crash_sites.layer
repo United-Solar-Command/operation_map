@@ -24,7 +24,8 @@ $grp GenericEntity {
    }
    RigidBody "{658363C22B6B74FD}" {
     Mass 6000
-    SimState None
+    SimState Collision
+    ResponseIndex "Normal"
     ModelGeometry 1
     Static 1
    }
