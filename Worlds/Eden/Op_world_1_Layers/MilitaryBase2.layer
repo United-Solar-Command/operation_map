@@ -260,6 +260,11 @@ $grp GenericEntity : "{8FF048995874037E}PrefabsEditable/Auto/Structure/Military_
  }
 }
 SCR_DestructibleBuildingEntity : "{BB3A4D0D66C39921}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Tent_Command.et" {
+ components {
+  SCR_EditableEntityComponent "{6558D7B662E703A2}" {
+   Enabled 0
+  }
+ }
  coords 3929.353 0.058 8464.797
  angleX -0.832
  angleY 2.356

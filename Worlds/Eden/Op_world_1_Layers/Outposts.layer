@@ -2,13 +2,8 @@ StaticModelEntity : "{059125C8BBD5ECED}Prefabs/Compositions/Misc/SubCompositions
  coords 10918.994 26.027 8675.543
  angleY -80.501
 }
-$grp GenericEntity : "{1AF9E0A02075CBB0}Prefabs/MP/Campaign/Bases/Campaign_Antenna_US.et" {
- {
-  coords 5366.61 42.792 11025.837
- }
- {
-  coords 5380.89 43.21 11052.04
- }
+GenericEntity : "{1AF9E0A02075CBB0}Prefabs/MP/Campaign/Bases/Campaign_Antenna_US.et" {
+ coords 5366.61 42.792 11025.837
 }
 StaticModelEntity : "{1BB9E9ECC5AD0E88}PrefabsEditable/Auto/Structures/Infrastructure/Towers/E_TransmitterTower_01.et" {
  components {
@@ -22,15 +17,49 @@ StaticModelEntity : "{1BB9E9ECC5AD0E88}PrefabsEditable/Auto/Structures/Infrastru
 GenericEntity : "{2A40E71770BAD461}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/E_Sandbag_Corner_Right_US_01.et" {
  coords 10931.042 25.308 8689.816
 }
+$grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
+ {
+  coords 7052.447 0.538 8346.999
+ }
+ {
+  coords 6233.286 0.559 8035.452
+ }
+ {
+  coords 6724.731 0.872 9634.748
+ }
+ {
+  coords 4291.349 1.831 8564.217
+ }
+ {
+  coords 3789.299 1.017 8484.146
+ }
+ {
+  coords 5162.033 1.358 7766.304
+ }
+ {
+  coords 7734.022 0.499 8142.881
+  angleY -50.45
+ }
+}
 GenericEntity : "{47789BA6E9CA2928}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_03_Campaign.et" {
  coords 10944.461 26.958 8659.194
 }
 $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 7058.821 96.853 8387.879
   angleY 151.442
  }
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 5094.179 137.71 7750.764
   angleY -180
  }
@@ -86,15 +115,6 @@ $grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sand
   coords 10943.108 25.395 8687.46
  }
 }
-GenericEntity : "{825C3F60E8C2C5BC}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Antenna.et" {
- coords 5381.082 42.638 11052.251
- {
-  GenericEntity {
-   ID "64E4D78B7BCF3F16"
-   coords -5.653 0.255 4.245
-  }
- }
-}
 GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
  components {
   MeshObject "{617227549D5ED9D2}" {
@@ -115,6 +135,16 @@ GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOT
  }
  coords 4310.926 71.247 8547.57
  angleY 142.912
+ {
+  GenericEntity {
+   ID "61722754CABC2FC4"
+   components {
+    SCR_EditableEntityComponent "{61651602213188D9}" {
+     Enabled 0
+    }
+   }
+  }
+ }
 }
 $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_plastic.et" {
  {
