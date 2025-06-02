@@ -6,7 +6,10 @@ $grp GenericEntity {
    }
    RigidBody "{6583442DDD73E729}" {
     Mass 6000
+    SimState None
+    ResponseIndex "Normal"
     ModelGeometry 1
+    Static 1
    }
   }
   coords 5131.619 39.068 9011.51
@@ -21,9 +24,12 @@ $grp GenericEntity {
    }
    RigidBody "{658363C22B6B74FD}" {
     Mass 6000
+    SimState None
     ModelGeometry 1
+    Static 1
    }
   }
+  Flags 1027
   coords 4811.011 26.706 11830.747
   angleX -3.057
   angleY -7.871
@@ -234,7 +240,7 @@ $grp StaticModelEntity : "{B03F9691E961C4CA}Prefabs/Structures/Military/Fortific
   angleZ -5.274
  }
  {
-  coords 4805.73 -0 11819.131
+  coords 4805.73 0 11819.131
   angleY 80.604
  }
  {
