@@ -1,0 +1,68 @@
+$grp GenericEntity : "{2323F9E4C524F047}Prefabs/Compositions/Slotted/SlotFlatSmall/MortarPlacement_S_US_01.et" {
+ {
+  coords 5045.463 38.729 9160.249
+  angleY 165
+ }
+ {
+  coords 5055.838 38.729 9172.164
+  angleY 165
+ }
+ {
+  coords 5070.082 38.729 9166.313
+  angleY 165
+ }
+ {
+  coords 5032.065 38.729 9165.796
+  angleY 165
+ }
+ {
+  coords 5078.201 38.729 9178.156
+  angleY 165
+ }
+}
+StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
+ coords 4986.262 -0.093 9163.85
+ angleY 26.912
+}
+GenericEntity : "{55D508179EF5E64A}Prefabs/Compositions/Slotted/SlotRoadMedium/Checkpoint_M_US_01.et" {
+ coords 5176.596 32.689 9110.599
+ angleX 4.2
+ angleY -119.838
+ angleZ 0.665
+}
+$grp GenericEntity : "{77F90F896D5145C8}Prefabs/Compositions/Slotted/SlotFlatSmall/LivingArea_S_US_01.et" {
+ {
+  coords 5014.332 37.741 9112.872
+  angleX -0.502
+  angleY 43.57
+  angleZ -0.707
+ }
+ {
+  coords 5026.098 37.547 9124.439
+  angleY -100.249
+  angleZ 1.407
+ }
+}
+GenericEntity : "{8B4B8BF44162B24E}Prefabs/Compositions/Slotted/SlotFlatSmall/Antenna_S_US_01.et" {
+ coords 5043.831 38.845 9207.21
+ angleY -102.477
+}
+GenericEntity : "{C7D38772154D45BB}Prefabs/Compositions/Slotted/SlotFlatSmall/Bunker_S_US_01.et" {
+ coords 5049.523 39.485 9193.189
+ angleY 173.526
+}
+GenericEntity : "{CDD0712FD6215F04}Prefabs/Compositions/Slotted/SlotFlatMedium/FieldHospital_M_US_01.et" {
+ coords 4993.708 37.097 9137.942
+ angleX 0.461
+ angleY 112.095
+ angleZ -0.529
+}
+GenericEntity : "{CEE9C4F4B37B3259}Prefabs/Compositions/Slotted/SlotFlatSmall/Storage_S_US_01.et" {
+ coords 5015.678 38.282 9161.801
+ angleY 75.942
+}
+GenericEntity : "{E74D2F51CD4F03D0}Prefabs/Compositions/Slotted/SlotRoadLarge/Checkpoint_L_US_01.et" {
+ coords 5027.699 38.649 9053.906
+ angleX -1.215
+ angleY 72.075
+}
