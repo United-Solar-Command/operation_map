@@ -488,10 +488,6 @@ $grp GenericEntity : "{F4B7F1D4D3ADE456}Prefabs/Structures/Signs/Military/Sign_V
   angleY -69.751
  }
  {
-  coords 4963.604 28.461 11846.854
-  angleY -155.535
- }
- {
   coords 4950.227 28.469 11647.063
   angleY 131.44
  }
@@ -824,6 +820,10 @@ StaticModelEntity : "{F8BFF80AC83FC6EA}Prefabs/Structures/Military/Fortification
    {
     coords 1.737 -0.087 15.123
    }
+  }
+  GenericEntity : "{F4B7F1D4D3ADE456}Prefabs/Structures/Signs/Military/Sign_VehicleRepair_US_01.et" {
+   coords -82.093 0.037 122.735
+   angleY 24.465
   }
  }
 }

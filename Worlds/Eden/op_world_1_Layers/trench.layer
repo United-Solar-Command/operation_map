@@ -439,12 +439,6 @@ GenericEntity : "{27E4C0ECA5EB1319}Prefabs/Structures/Military/Camps/Foundations
  coords 3946.768 33.323 8159.403
  angleY -90.911
 }
-SCR_DestructibleBuildingEntity : "{2EBA3486062A5A53}Prefabs/Structures/Military/Bunkers/AirfieldBunker_E_01/AirfieldBunker_E_01_big.et" {
- coords 4408.981 97.662 8151.633
- angleX 1.446
- angleY -0.204
- angleZ -8.028
-}
 $grp StaticModelEntity : "{57079BB7909D8CF8}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v22.et" {
  {
   coords 4424.552 0.846 8521.419

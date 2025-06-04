@@ -42,11 +42,11 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
   angleY 0.042
  }
  {
-  coords 5066.472 -0 9242.087
+  coords 5066.472 0 9242.087
   angleY 0.042
  }
  {
-  coords 5024.17 -0 9242.116
+  coords 5024.17 0 9242.116
   angleY 0.07
  }
 }
@@ -100,7 +100,6 @@ $grp GenericEntity : "{7B04AB6CD4AA3C6D}Prefabs/Compositions/Misc/SubComposition
   coords 5049.936 37.538 9126.457
   angleX 0.895
   angleY -0.014
-  angleZ -0
  }
 }
 GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {

@@ -19,9 +19,6 @@ GenericEntity : "{2A40E71770BAD461}PrefabsEditable/Auto/Compositions/Misc/SubCom
 }
 $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
  {
-  coords 7052.447 0.538 8346.999
- }
- {
   coords 6233.286 0.559 8035.452
  }
  {
