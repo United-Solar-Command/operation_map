@@ -1,22 +1,14 @@
 $grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
  {
-  coords 4816.429 28.682 11680
+  coords 4815.365 28.682 11680
   angleY 90
  }
  {
-  coords 4819.365 28.619 11685
+  coords 4818 28.619 11685.612
   angleY 90
  }
  {
-  coords 4819.365 28.619 11675
-  angleY 90
- }
- {
-  coords 4812.57 28.619 11674.565
-  angleY 90
- }
- {
-  coords 4812.571 28.619 11685.646
+  coords 4818 28.619 11674.606
   angleY 90
  }
 }
@@ -34,6 +26,22 @@ SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/
  coords 4801 0.775 11680
  angleY -90.348
  {
+  GenericEntity {
+   ID "570880A30752F475"
+   components {
+    ActionsManagerComponent "{F32B667C3C823800}" {
+     Enabled 1
+    }
+   }
+  }
+  GenericEntity {
+   ID "570880A30752F592"
+   components {
+    ActionsManagerComponent "{F32B667C3C823800}" {
+     Enabled 1
+    }
+   }
+  }
   $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
    {
     coords -17.004 -0.063 1.807

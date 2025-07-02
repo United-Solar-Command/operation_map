@@ -1,3 +1,25 @@
+$grp GenericEntity : "{0364A92598A826F3}Prefabs/Props/Furniture/BenchStadium_01.et" {
+ {
+  coords 4812.476 28.619 11674.604
+  angleY 90
+ }
+ {
+  coords 4812.476 28.619 11685.61
+  angleY 90
+ }
+ {
+  coords 4810.092 28.682 11680
+  angleY 90
+ }
+ {
+  coords 4807.291 28.619 11674.604
+  angleY 90
+ }
+ {
+  coords 4807.291 28.619 11685.608
+  angleY 90
+ }
+}
 $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
  {
   coords 4838.073 0 12118.973
@@ -39,12 +61,12 @@ $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/Ap
 }
 $grp StaticModelEntity : "{3077D0EF6E9C8ACF}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Radar_On_Destructible.et" {
  {
-  coords 4905.552 -0 12097.147
+  coords 4905.552 0 12097.147
   angleY 0
   scale 2
  }
  {
-  coords 4738.472 -0 12155.461
+  coords 4738.472 0 12155.461
   angleY 0
   scale 2
  }
@@ -64,21 +86,42 @@ $grp StaticModelEntity : "{341011A1EC5F233A}Prefabs/Structures/Military/Fortific
   angleY -86.726
  }
  {
-  coords 4810.688 26.238 11861.756
-  angleY 90
+  coords 4811.869 28.828 11861.756
+  angleY 88.618
  }
  {
   coords 4815.498 27.74 11162.19
   angleY -90
+ }
+ {
+  coords 4809.411 28.247 10924.111
+  angleY -1.697
  }
 }
 StaticModelEntity : "{3FE207D0029D97CC}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x13.et" {
  coords 4722.864 26.008 11882.881
  angleY 90
 }
-StaticModelEntity : "{410BC3D746AB53AE}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_13x18.et" {
- coords 4824.985 29.18 11288.979
- angleY -135
+$grp StaticModelEntity : "{410BC3D746AB53AE}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_13x18.et" {
+ {
+  coords 4824.985 29.18 11288.979
+  angleY -135
+ }
+ {
+  coords 4751.167 27.38 10914.497
+  angleY -16.452
+ }
+}
+$grp GenericEntity : "{4359114EC07F90A9}Prefabs/Props/Civilian/FanCeiling_01.et" {
+ {
+  coords 4804.982 36.908 11680.013
+ }
+ {
+  coords 4826.071 36.908 11680.013
+ }
+ {
+  coords 4819.438 36.908 11680.013
+ }
 }
 GenericEntity : "{9AEAB32FBB897AC1}Prefabs/Structures/Signs/Military/Sign_FuelStorage_US_01.et" {
  coords 4910.96 28.806 11947.042
@@ -256,11 +299,49 @@ GenericEntity : "{BFF74A287E8300FB}Prefabs/Structures/Signs/Military/Sign_Comman
  coords 4797.993 28.081 11670.728
  angleY -90.784
 }
+$grp GameEntity : "{C16B9C07263AFA5A}PrefabsEditable/Auto/Props/Military/Generators/Military searchlight.et" {
+ {
+  coords 4802.835 28.619 11686.573
+  angleY 115.69
+ }
+ {
+  coords 4803.259 28.619 11673.264
+  angleY 64.286
+ }
+ {
+  coords 4827.524 28.619 11673.67
+  angleY -60.451
+ }
+ {
+  coords 4827.786 28.619 11687.144
+  angleY -128.959
+ }
+ {
+  coords 4834.86 28.619 11680.428
+  angleY -89.872
+ }
+}
 $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/Bunkers/AircraftShelter_E_01/AircraftShelter_E_01_camo_v2.et" {
  {
   coords 4801 0.861 11620
   angleY -90.348
   {
+   GenericEntity {
+    ID "570880A30752F475"
+    components {
+     ActionsManagerComponent "{F32B667C3C823800}" {
+      Enabled 1
+     }
+    }
+   }
+   GenericEntity {
+    ID "570880A30752F592"
+    components {
+     ActionsManagerComponent "{F32B667C3C823800}" {
+      Enabled 1
+     }
+    }
+   }
    $grp GenericEntity : "{AC49D9D23A2BD1D8}Prefabs/Props/Furniture/BunkBed_01_Double.et" {
     {
      coords 6.294 0 -18.774
@@ -408,6 +489,22 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
   coords 4801 0.795 11500
   angleY -90.348
   {
+   GenericEntity {
+    ID "570880A30752F475"
+    components {
+     ActionsManagerComponent "{F32B667C3C823800}" {
+      Enabled 1
+     }
+    }
+   }
+   GenericEntity {
+    ID "570880A30752F592"
+    components {
+     ActionsManagerComponent "{F32B667C3C823800}" {
+      Enabled 1
+     }
+    }
+   }
    $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
     {
      coords -17.004 -0.063 1.807
@@ -465,6 +562,22 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
   coords 4801 0.715 11560
   angleY -90.348
   {
+   GenericEntity {
+    ID "570880A30752F475"
+    components {
+     ActionsManagerComponent "{F32B667C3C823800}" {
+      Enabled 1
+     }
+    }
+   }
+   GenericEntity {
+    ID "570880A30752F592"
+    components {
+     ActionsManagerComponent "{F32B667C3C823800}" {
+      Enabled 1
+     }
+    }
+   }
    $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {
     {
      coords -17.004 -0.063 1.807
@@ -531,6 +644,15 @@ $grp StaticModelEntity : "{D0F17E2313DE33F1}Prefabs/Structures/Military/Fortific
  {
   coords 4864.801 27.844 11084.052
   angleY -90
+ }
+ {
+  coords 4846.286 28.375 10936.674
+ }
+ {
+  coords 4721.437 25.395 11685.455
+  angleX -9.074
+  angleY -94.512
+  angleZ -0.337
  }
 }
 GenericEntity : "{D174C165E264E087}Prefabs/Structures/Signs/Military/SignRectangle_01_140x100/Sign_BaseEntrance_US_01.et" {
@@ -891,5 +1013,15 @@ $grp StaticModelEntity : "{F8E70CBC00C9E30E}Prefabs/Structures/Military/Fortific
  {
   coords 4741.832 27.845 11190.219
   angleY 90
+ }
+ {
+  coords 4736.797 27.535 11047.146
+ }
+ {
+  coords 4875.038 29.136 10932.004
+  angleY 20.737
+ }
+ {
+  coords 4860.67 29.131 11706.381
  }
 }
