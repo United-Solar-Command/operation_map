@@ -463,12 +463,20 @@ $grp StaticModelEntity : "{57079BB7909D8CF8}Prefabs/Structures/Military/Fortific
   angleZ 2.64
  }
 }
-GenericEntity : "{572738F32E383E3D}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_Model2_Curve.et" {
- coords 4049.471 37.128 7934.281
- angleX 4.056
- angleY 20.149
- angleZ -3.265
- scale 1.23
+$grp GenericEntity : "{572738F32E383E3D}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_Model2_Curve.et" {
+ {
+  coords 4049.471 37.128 7934.281
+  angleX 4.056
+  angleY 20.149
+  angleZ -3.265
+  scale 1.23
+ }
+ {
+  coords 4183.606 43.591 7701.812
+  angleX 0.81
+  angleY 141.267
+  angleZ 5.321
+ }
 }
 GenericEntity : "{96D71CB478F8DF27}Prefabs/Compositions/Misc/FreeRoamBuilding/FloodlightGenerator_S_US_01.et" {
  coords 4215.123 67.423 8421.602

@@ -2417,3 +2417,21 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
   scale 2
  }
 }
+$grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
+ {
+  coords 5097.955 761.039 7151.036
+ }
+ {
+  coords 3494.621 961.382 6948.349
+ }
+ {
+  coords 4256.128 1196.418 6665.134
+ }
+ {
+  coords 3867.813 1011.407 6771.534
+  scale 5
+ }
+ {
+  coords 3891.363 834.73 5939.52
+ }
+}
