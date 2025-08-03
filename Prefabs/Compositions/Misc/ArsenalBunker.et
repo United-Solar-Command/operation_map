@@ -1,4 +1,5 @@
 SCR_DestructibleBuildingEntity : "{BE248D0B31D3B097}Prefabs/Structures/Military/Bunkers/AmmoDump_E_02/AmmoDump_E_02.et" {
  ID "F0DBA538AC2A0552"
- coords 4825.252 29.748 11350.182
+ coords 4813.373 29.172 11749.567
+ angleY 180
 }

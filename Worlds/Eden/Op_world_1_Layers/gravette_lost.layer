@@ -1,0 +1,102 @@
+$grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/Prefabs/Structures/Factory_base.et" {
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 4177.719 46.014 7699.572
+  angleY 59.805
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 4206.83 45.514 7790.217
+  angleY 26.449
+  scale 2
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 4081.161 37.271 7881.99
+  angleX 6.168
+  angleY 45.551
+  scale 1.75
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+}
+GenericEntity : "{7BF0DC8F426943F5}Prefabs/Compositions/Slotted/Headquarters_S_Enforcers_01.et" {
+ coords 4334.79 86.436 7933.566
+ angleY 22.898
+}
+GenericEntity : "{8B4B8BF44162B24E}Prefabs/Compositions/Slotted/SlotFlatSmall/Antenna_S_US_01.et" {
+ coords 4307.101 86.664 7956.739
+ angleY 95.165
+}
+$grp GenericEntity : "{917158017F425567}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_US_01.et" {
+ {
+  coords 4315.052 84.222 7967.468
+  angleY -15.951
+ }
+ {
+  coords 4334.534 85.223 7964.589
+  angleY 27.123
+ }
+ {
+  coords 4345.694 87.111 7927.022
+  angleY 157.195
+ }
+ {
+  coords 4351.277 87.187 7946.956
+  angleY 75.112
+ }
+}
+GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
+ coords 4316.225 85.198 7942.229
+ angleY -145.21
+}
+GenericEntity : "{ECB8E313DFBD3415}Prefabs/Compositions/Slotted/SlotFlatSmall/VehicleMaintenance_S_US_01.et" {
+ coords 4378.143 89.794 7953.698
+ angleY -171.94
+ {
+  GenericEntity {
+   ID "5D088D17AECAF9D3"
+   coords -0.073 0.015 -3.299
+   angleX 6.305
+   angleY -90.513
+   angleZ -0.064
+  }
+ }
+}

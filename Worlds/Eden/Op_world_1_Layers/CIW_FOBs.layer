@@ -189,7 +189,7 @@ $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turret
   angleY 76.64
  }
  {
-  coords 4693.311 128.75 7796.542
+  coords 4629.158 122.076 7973.924
   angleY -4.158
  }
 }
@@ -279,11 +279,11 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
   angleY -45.464
  }
  {
-  coords 4679.285 129.989 7795.561
+  coords 4615.133 121.272 7972.943
   angleY -3.6
  }
  {
-  coords 4707.485 129.989 7797.548
+  coords 4643.332 122.487 7974.929
   angleY -3.6
  }
 }

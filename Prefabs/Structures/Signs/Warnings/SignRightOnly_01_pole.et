@@ -1,0 +1,41 @@
+GenericEntity : "{E58C42830756FF91}Prefabs/Structures/Signs/SignsWarning_Pole_Base.et" {
+ ID "50D67C36F4200F97"
+ components {
+  MeshObject "{54969A6AAAADA251}" {
+   Materials {
+    MaterialAssignClass "{660770FF8D9B49CA}" {
+     SourceMaterial "Sign_Restrictive_NoEntryBothDir"
+     AssignedMaterial "{B3B3A98CC2D925D5}Assets/Structures/Signs/Warnings/Data/Sign_Mandatory_AheadOnly_A.emat"
+    }
+    MaterialAssignClass "{660770FF8D9B49F8}" {
+     SourceMaterial "Sign_Restrictive_NoEntryBothDir_MLOD"
+     AssignedMaterial "{B44CF99286E52243}Assets/Structures/Signs/Warnings/Data/Sign_Mandatory_AheadOnly_A_MLOD.emat"
+    }
+   }
+  }
+  RigidBody "{54969A6AA8773997}" {
+   ResponseIndex "TinyDestructible"
+  }
+  SCR_DestructionMultiPhaseComponent "{5496C1EF00137501}" {
+   m_DestroySpawnObjects {
+    SCR_DebrisSpawnable "{660770FF8D9B49F1}" {
+     m_eMaterialSoundType METAL_LIGHT
+    }
+   }
+  }
+ }
+ coords 4810.604 27.389 11659.135
+ angleY -128.953
+ {
+  GenericEntity : "{4A8829F6DD2162F7}Prefabs/Structures/Signs/Warnings/SignAheadOnly_01.et" {
+   ID "660770FF8D9B49D2"
+   components {
+    Hierarchy "{569AF601019A3DF3}" {
+     PivotID "socket_sign_01"
+    }
+   }
+   coords 0 0 0
+   angleZ 89.993
+  }
+ }
+}

@@ -5,21 +5,12 @@ GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Obs
    Enabled 0
   }
  }
- coords 3527.304 4.31 7467.8
+ coords 3527.304 4.31 7458.382
  scale 2
  {
   $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
    {
-    ID "66075EC627E4F272"
-    components {
-     SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-      Enabled 0
-     }
-    }
-    coords -29.111 0 -0.032
-   }
-   {
-    ID "66075EC627E4F274"
+    ID "66075EC6100C3C88"
     components {
      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
       Enabled 0
@@ -28,7 +19,7 @@ GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Obs
     coords -13.23 0 -0.032
    }
    {
-    ID "66075EC627E571BD"
+    ID "66075EC6100C3C89"
     components {
      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
       Enabled 0
@@ -36,15 +27,15 @@ GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Obs
     }
     coords -46.301 0 -0.032
    }
-  }
-  GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
-   ID "66075EC627E571BC"
-   components {
-    SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-     Enabled 0
+   {
+    ID "66075EC6100CB4D9"
+    components {
+     SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+      Enabled 0
+     }
     }
+    coords -29.111 0 -0.032
    }
-   coords -59.688 0 0
   }
  }
 }

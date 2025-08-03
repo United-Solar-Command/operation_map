@@ -1,10 +1,5 @@
 $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
  {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
   coords 4790.757 158.81 7382.787
   scale 2
  }
@@ -167,11 +162,6 @@ $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turret
   scale 2
  }
  {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
   coords 4228.632 75.633 7383.731
   scale 2
  }
@@ -437,11 +427,6 @@ $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turret
   scale 2
  }
  {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
   coords 5287.044 154.341 7380.595
   angleZ -8.225
   scale 2
@@ -513,11 +498,6 @@ $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turret
   scale 2
  }
  {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
   coords 6354.561 175.605 7381.538
   angleZ 0.376
   scale 2
@@ -887,11 +867,6 @@ $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turret
   scale 2
  }
  {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
   coords 7144.674 44.12 7383.192
   angleZ 7.549
   scale 2
@@ -2419,7 +2394,8 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
 }
 $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
  {
-  coords 5097.955 761.039 7151.036
+  coords 4986.482 761.039 7070.929
+  scale 2
  }
  {
   coords 3494.621 961.382 6948.349
@@ -2428,10 +2404,23 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
   coords 4256.128 1196.418 6665.134
  }
  {
-  coords 3867.813 1011.407 6771.534
+  coords 3867.813 1011.407 6958.621
   scale 5
  }
  {
   coords 3891.363 834.73 5939.52
+ }
+ {
+  coords 2821.409 986.081 7019.292
+  scale 5
+ }
+ {
+  coords 2536.861 771.541 7367.025
+ }
+ {
+  coords 3732.177 771.541 7250.224
+ }
+ {
+  coords 4425.536 870.548 6859.74
  }
 }

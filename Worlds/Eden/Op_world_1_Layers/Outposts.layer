@@ -33,10 +33,6 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
  {
   coords 5162.033 1.358 7766.304
  }
- {
-  coords 7734.022 0.499 8142.881
-  angleY -50.45
- }
 }
 GenericEntity : "{47789BA6E9CA2928}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_03_Campaign.et" {
  coords 10944.461 26.958 8659.194

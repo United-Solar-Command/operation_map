@@ -2,6 +2,7 @@ GenericEntity : "{B1E8ADDDA7D1EFF8}Prefabs/Compositions/Misc/CustomEntities/Comp
  ID "56DEF7205C23FF67"
  components {
   SCR_EditableEntityComponent "{651724CAE328BB95}" {
+   Enabled 0
    m_UIInfo SCR_EditableEntityUIInfo "{651724CAE328BBA3}" {
     Name "Briefing Stage - Wood - Stripped"
     Icon "{251FF48A3B498C8F}Art/briefing stage.edds"
@@ -16,7 +17,8 @@ GenericEntity : "{B1E8ADDDA7D1EFF8}Prefabs/Compositions/Misc/CustomEntities/Comp
   RplComponent "{651724CAE328BBBA}" {
   }
  }
- coords 4924.867 29.52 11759.088
+ coords 0 0.269 -26.233
+ angleY -180
  {
   $grp SCR_DestructibleBuildingEntity : "{18E55E3AA7C8C645}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_04.et" {
    {
@@ -27,18 +29,6 @@ GenericEntity : "{B1E8ADDDA7D1EFF8}Prefabs/Compositions/Misc/CustomEntities/Comp
    {
     ID "651724CAE329C064"
     coords 7.018 -5.027 -0.032
-   }
-  }
-  $grp StaticModelEntity : "{3C4D65D0A5340774}Prefabs/Props/Military/Furniture/TableMilitary_US_01.et" {
-   {
-    ID "651724CA01A133B0"
-    coords -3.967 0.962 1.035
-    angleY 0
-   }
-   {
-    ID "651724CAE329C066"
-    coords 3.36 0.962 1.035
-    angleY 0
    }
   }
   $grp SCR_DestructibleBuildingEntity : "{C04D37FBDE41D819}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_02.et" {

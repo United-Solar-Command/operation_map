@@ -1,0 +1,112 @@
+$grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_wall_section_02.et" {
+ {
+  coords 2376.339 0 8161.018
+ }
+ {
+  coords 2497.19 0 8161.018
+ }
+ {
+  coords 2611.889 0 8161.018
+ }
+ {
+  coords 2728.719 0 8161.018
+ }
+ {
+  coords 9087.927 0 9533.713
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 8971.445 0 9533.713
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 8853.854 0 9533.713
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 8744.143 0 9533.713
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+}
+$grp GenericEntity : "{52867C2F322D2D3F}Prefabs/Compositions/Misc/Bacon_Droids_wall_section_01.et" {
+ {
+  coords 2257.692 0 8160.428
+ }
+ {
+  coords 9327.438 0 9533.983
+  {
+   GenericEntity {
+    ID "66075EC627E4F272"
+    coords -29.111 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC627E4F274"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC627E571BD"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC627E571BC"
+    coords -59.688 0 0
+   }
+  }
+ }
+}

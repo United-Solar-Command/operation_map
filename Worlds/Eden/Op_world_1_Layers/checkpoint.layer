@@ -1,0 +1,202 @@
+GenericEntity : "{172D03072FE6ECAB}Prefabs/Compositions/Slotted/SlotRoadMedium/Barricade_M_US_01.et" {
+ coords 4895.621 27.259 11471.862
+ angleY 177.613
+}
+$grp GenericEntity : "{24B7F96197053B39}Prefabs/Compositions/Slotted/SlotRoadSmall/Barricade_S_US_01.et" {
+ {
+  coords 4936.489 27.912 11476.283
+  angleY 34.221
+  angleZ -2.636
+ }
+ {
+  coords 4905.461 27.33 11474.354
+  angleY -32.089
+  {
+   GenericEntity {
+    ID "5CC6AA09EB402D5F"
+    coords 1.152 0 0.302
+    angleY 18.331
+    {
+     DecalEntity {
+      ID "56E0B29E17039037"
+      coords 0.001 0 -0.001
+      angleX -90
+      angleY -180
+      angleZ -180
+     }
+    }
+   }
+   GenericEntity {
+    ID "5CC6AA09EB402D7A"
+    coords -1.025 0 0.194
+    angleY -7.903
+    {
+     DecalEntity {
+      ID "56E0B29E17039037"
+      coords 0.001 0 -0.002
+      angleX -89.972
+      angleY -180
+      angleZ -180
+     }
+    }
+   }
+   GenericEntity {
+    ID "5CC6B4B0E08C8E09"
+    coords -1.492 0 -1.904
+    angleY 61.821
+   }
+   GenericEntity {
+    ID "5CC6B4B0E08C8E56"
+    coords 1.693 0 -1.822
+    angleY -92.358
+   }
+   StaticModelEntity {
+    ID "5CC6AA09EB402AA0"
+    coords -0.223 0 0.204
+    angleY -115.019
+   }
+   StaticModelEntity {
+    ID "5CC6AA09EB402A0C"
+    coords 0.988 0 -0.775
+    angleY -1.886
+   }
+   StaticModelEntity {
+    ID "5CC6AA09EB402A13"
+    coords -0.924 0 1.662
+    angleY -47.952
+   }
+   StaticModelEntity {
+    ID "5CC6AA09EB402A57"
+    coords 1.82 0 1.293
+    angleY 50.979
+   }
+   StaticModelEntity {
+    ID "5CC6AA09EB402AFE"
+    coords -1.871 0 -1.098
+    angleY -120.553
+   }
+   StaticModelEntity {
+    ID "5CC6AA09EB402A8E"
+    coords 1.943 0 0.326
+    angleY -74.751
+   }
+   StaticModelEntity {
+    ID "5CC6AA09EB402AD9"
+    coords -1.985 0 -0.131
+    angleY -99.697
+   }
+  }
+ }
+ {
+  coords 4943.167 28.281 11473.744
+  angleY 16.958
+ }
+ {
+  coords 4914.222 27.584 11475.207
+  angleY 7.159
+ }
+ {
+  coords 4921.025 27.812 11478.764
+ }
+}
+$grp GenericEntity : "{41FED15A066D06EC}Prefabs/GM_Props/GuardTower1_GM.et" {
+ {
+  coords 4911.886 26.712 11492.063
+  angleY 91.589
+ }
+ {
+  coords 4943.049 28.121 11487.964
+  angleY 5.877
+ }
+}
+GenericEntity : "{5C98B0C4BBEDA771}Prefabs/Compositions/Misc/Checkpoint_02.et" {
+ coords 4940.806 27.849 11529.813
+ angleY -160.451
+ angleZ 8.332
+}
+$grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Long_01.et" {
+ {
+  coords 4944.866 28.281 11477.803
+  angleY -172.151
+  {
+   GenericEntity {
+    ID "6568E069C8C2A71D"
+    coords 2.278 0 0.002
+   }
+   GenericEntity {
+    ID "6568E069C8C2C192"
+    coords 4.572 0 0.003
+   }
+   GenericEntity {
+    ID "6568E068500C422B"
+    coords 2.216 2.934 -0.432
+   }
+   GenericEntity {
+    ID "6568E068500C80B1"
+    coords -1.075 2.934 -0.433
+   }
+   GenericEntity {
+    ID "6568E068500C80B7"
+    coords 0.573 2.934 -0.433
+   }
+   GenericEntity {
+    ID "6568E069C8C2A71F"
+    coords 2.183 0 -0.216
+   }
+   GenericEntity {
+    ID "6568E069C8C2A718"
+    coords 3.868 2.934 -0.432
+   }
+   GenericEntity {
+    ID "6568E069C8C2C18C"
+    coords 5.508 2.934 -0.432
+   }
+  }
+ }
+ {
+  coords 4927.425 27.75 11535.712
+  angleY 160.221
+ }
+ {
+  coords 4915.352 27.492 11479.098
+  angleY -176.372
+  {
+   GenericEntity {
+    ID "6568E069C8C2A71D"
+    coords 2.277 -0.105 0.001
+   }
+   GenericEntity {
+    ID "6568E069C8C2C192"
+    coords 4.572 -0.169 0.002
+   }
+   GenericEntity {
+    ID "6568E068500C422B"
+    coords 2.216 2.934 -0.432
+   }
+   GenericEntity {
+    ID "6568E068500C80B1"
+    coords -1.075 2.934 -0.433
+   }
+   GenericEntity {
+    ID "6568E068500C80B7"
+    coords 0.573 2.934 -0.433
+   }
+   GenericEntity {
+    ID "6568E069C8C2A71F"
+    coords 2.183 0 -0.216
+   }
+   GenericEntity {
+    ID "6568E069C8C2A718"
+    coords 3.868 2.934 -0.432
+   }
+   GenericEntity {
+    ID "6568E069C8C2C18C"
+    coords 5.508 2.934 -0.432
+   }
+  }
+ }
+}
+GenericEntity : "{E74D2F51CD4F03D0}Prefabs/Compositions/Slotted/SlotRoadLarge/Checkpoint_L_US_01.et" {
+ coords 4929.791 27.661 11487.896
+ angleY -172.38
+}

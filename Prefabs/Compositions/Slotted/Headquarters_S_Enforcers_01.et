@@ -1,0 +1,157 @@
+GenericEntity : "{6E9190BC2713551D}Prefabs/Compositions/Slotted/BuildableComposition_Base.et" {
+ ID "5282DCB5DFC8538F"
+ components {
+  FactionAffiliationComponent "{66075EC812995664}" {
+   "faction affiliation" "ENFORCERS"
+  }
+  Hierarchy "{66075EC812995676}" {
+  }
+ }
+ coords 4334.79 86.436 7933.566
+ angleY 22.898
+ {
+  GenericEntity : "{6CD65604C7945A66}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/CompositionDecal_Dirt_Patch_03.et" {
+   ID "66075EC8129A2AFC"
+   Flags 1048576
+   coords 2.457 0 1.001
+   angleY -173.818
+  }
+  GenericEntity : "{C5EA2AA3BDEA88A2}Prefabs/Props/Military/Compositions/US/Antenna_02_US.et" {
+   ID "66075EC8129A2AF5"
+   components {
+    SCR_FactionAffiliationComponent "{5CB6D5B3749D59C3}" {
+     "faction affiliation" "ENFORCERS"
+    }
+   }
+   Flags 1048576
+   coords 1.77 0 -5.367
+   angleY 5.891
+  }
+  GenericEntity : "{E51E2E1D77B54223}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/CompositionDecal_Dirt_Patch_01.et" {
+   ID "66075EC81299C0DF"
+   Flags 1048576
+   coords -1.343 0 6.321
+   angleY -15.4
+   {
+    DecalEntity {
+     ID "56DEFDB4A2C87F38"
+     Flags 1048576
+    }
+   }
+  }
+  GenericEntity : "{F09296B9255F6704}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_CommandPost_US_01.et" {
+   ID "66075EC812999FEE"
+   Flags 1048576
+   coords -1.472 0 1.213
+   {
+    GenericEntity {
+     ID "5CB6B2BAE096C54C"
+     Flags 1048576
+    }
+    GenericEntity {
+     ID "5CB6B2BAE096C578"
+     Flags 1048576
+    }
+    GenericEntity {
+     ID "5CB6B2BAE096C57B"
+     Flags 1048576
+    }
+    GenericEntity {
+     ID "5CB6B2BAE096C57E"
+     Flags 1048576
+    }
+    GenericEntity {
+     ID "5D371AC8D914191C"
+     components {
+      SCR_FactionAffiliationComponent "{5CB66A0F780C9329}" {
+       "faction affiliation" "ENFORCERS"
+      }
+     }
+     Flags 1048576
+    }
+    GenericEntity {
+     ID "5DCAAA1125B094F7"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE0952263"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C538"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C542"
+     Flags 1048576
+     {
+      GenericEntity {
+       ID "5D371ACA987113B1"
+       components {
+        SCR_FactionAffiliationComponent "{5CB6D5B110622424}" {
+         "faction affiliation" "ENFORCERS"
+        }
+       }
+      }
+     }
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C54F"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C550"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C556"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C558"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C561"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C563"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C566"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C56B"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C56E"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C570"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C571"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C572"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C573"
+     Flags 1048576
+    }
+    StaticModelEntity {
+     ID "5CB6B2BAE096C574"
+     Flags 1048576
+    }
+   }
+  }
+ }
+}

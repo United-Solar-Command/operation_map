@@ -38,15 +38,6 @@ $grp GenericEntity : "{1693A2CCA4BFD922}Prefabs/Props/Military/Compositions/US/F
 }
 $grp GenericEntity : "{47B7E8CA1935BB28}PrefabsEditable/SupportStationSystems/E_SupportStationSystem_Fuel.et" {
  {
-  coords 4943.979 28.395 11867.382
- }
- {
-  coords 4976.918 28.288 11948.956
- }
- {
-  coords 4928.134 28.656 11914.067
- }
- {
   coords 4889.212 28.596 11661.377
  }
  {
@@ -58,24 +49,8 @@ $grp GenericEntity : "{47B7E8CA1935BB28}PrefabsEditable/SupportStationSystems/E_
 }
 $grp GenericEntity : "{64454FA087931713}PrefabsEditable/SupportStationSystems/E_SupportStationSystem_Repair.et" {
  {
-  coords 4976.627 28.054 11948.542
-  angleX 0.004
-  angleY 94.905
-  angleZ -0.048
- }
- {
-  coords 4928.196 28.422 11914.548
-  angleX -0.028
-  angleY 176.496
-  angleZ 0.002
- }
- {
   coords 4889.24 28.361 11661.257
   angleY -90
- }
- {
-  coords 4963.682 28.48 11821.322
-  scale 0.5
  }
  {
   coords 4930.456 28.361 11661.255
@@ -84,20 +59,6 @@ $grp GenericEntity : "{64454FA087931713}PrefabsEditable/SupportStationSystems/E_
  {
   coords 4910.075 28.361 11661.256
   angleY -90
- }
- {
-  coords 4943.985 28.375 11867.521
-  angleY -90
- }
- {
-  coords 4905.223 28.594 11955.204
-  angleY -90
-  scale 0.8
- }
- {
-  coords 4905.223 28.594 11970.578
-  angleY -90
-  scale 0.8
  }
  {
   coords 3918.853 15.313 8443.467
@@ -112,11 +73,169 @@ $grp GenericEntity : "{64454FA087931713}PrefabsEditable/SupportStationSystems/E_
 }
 $grp GenericEntity : "{6855584E6DE85098}Prefabs/Compositions/Misc/Barrier_Wall_01.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+    Enabled 0
+   }
+  }
   coords 4865.138 28.594 11888.061
+  {
+   GenericEntity {
+    ID "6568F7DC3E76B378"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E76E754"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E771758"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E771759"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E772AC3"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E772AC4"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E772AC5"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E77B679"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E77B67A"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+  }
  }
  {
+  components {
+   SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+    Enabled 0
+   }
+  }
   coords 4865.138 28.594 11782.891
   angleY -0.243
+  {
+   GenericEntity {
+    ID "6568F7DC3E76B378"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E76E754"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E771758"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E771759"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E772AC3"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E772AC4"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E772AC5"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E77B679"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+   GenericEntity {
+    ID "6568F7DC3E77B67A"
+    components {
+     SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+      Enabled 0
+     }
+    }
+   }
+  }
  }
 }
 $grp GenericEntity : "{7BDAD0F4A6195C01}PrefabsEditable/SupportStationSystems/E_SupportStationSystem_Repair_Helipad_BoundingBox.et" {
@@ -236,13 +355,6 @@ $grp GenericEntity : "{9AAB4B953C8111D8}Prefabs/Structures/Signs/Warnings/SignPa
   scale 5
  }
  {
-  coords 4928.195 28.422 11914.548
-  angleX 89.966
-  angleY -179.413
-  angleZ -175.909
-  scale 5
- }
- {
   coords 4889.24 28.361 11661.258
   angleX 90
   angleZ -90
@@ -258,12 +370,6 @@ $grp GenericEntity : "{9AAB4B953C8111D8}Prefabs/Structures/Signs/Warnings/SignPa
   coords 4910.076 28.361 11661.257
   angleX 90
   angleZ -90
-  scale 5
- }
- {
-  coords 4943.983 28.16 11867.521
-  angleX 89.255
-  angleY 90
   scale 5
  }
 }
