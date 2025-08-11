@@ -6,10 +6,6 @@ GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barri
  coords 4904.6 31.528 11645.774
  angleY -0.564
 }
-GenericEntity : "{B3BCE4B6920ED5C0}Prefabs/Structures/Signs/Military/Sign_AmmoStorage_US_01.et" {
- coords 4816.165 28.889 11749.138
- angleY -154.855
-}
 $grp GenericEntity : "{BDA27418B5EDAF66}Prefabs/Compositions/Misc/Checkpoint_Long_02.et" {
  {
   coords 4929.844 28.594 11645.827

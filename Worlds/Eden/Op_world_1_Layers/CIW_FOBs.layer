@@ -279,10 +279,22 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
   angleY -45.464
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
   coords 4615.133 121.272 7972.943
   angleY -3.6
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
   coords 4643.332 122.487 7974.929
   angleY -3.6
  }
