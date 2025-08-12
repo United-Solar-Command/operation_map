@@ -1,0 +1,76 @@
+$grp GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
+ {
+  coords 4803.686 28.495 11748.771
+  angleY 64.966
+ }
+ {
+  coords 4807.455 28.495 11750.454
+  angleY -115.467
+ }
+}
+$grp GenericEntity : "{0D5E512CAED58B5C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Launcher_US.et" {
+ {
+  coords 4802.8 28.508 11750.467
+  angleY 67.327
+ }
+ {
+  coords 4806.722 28.508 11752.104
+  angleY -112.788
+ }
+}
+$grp GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
+ {
+  coords 4816.801 28.542 11749.992
+  angleY -87.801
+ }
+ {
+  coords 4816.898 28.533 11752.544
+  angleY -87.801
+ }
+ {
+  coords 4817.096 28.544 11757.759
+  angleY -87.801
+ }
+ {
+  coords 4817.001 28.526 11755.207
+  angleY -87.801
+ }
+}
+$grp GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
+ {
+  coords 4812.647 28.564 11757.18
+  angleY 89.828
+ }
+ {
+  coords 4812.654 28.534 11754.861
+  angleY 89.828
+ }
+ {
+  coords 4812.667 28.546 11750.257
+  angleY 89.828
+ }
+ {
+  coords 4812.661 28.519 11752.572
+  angleY 89.828
+ }
+}
+$grp GenericEntity : "{A18D9C677F47AC1C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_US.et" {
+ {
+  coords 4826.687 28.714 11750.08
+  angleY -70.673
+ }
+ {
+  coords 4822.368 28.714 11751.595
+  angleY 110
+ }
+}
+$grp GenericEntity : "{CE74212FD2C25533}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Equipment_US.et" {
+ {
+  coords 4805.816 28.497 11753.848
+  angleY -112.151
+ }
+ {
+  coords 4801.869 28.497 11752.208
+  angleY 62.301
+ }
+}

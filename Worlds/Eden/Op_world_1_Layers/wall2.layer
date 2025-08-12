@@ -1,6 +1,6 @@
 $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_wall_section_02.et" {
  {
-  coords 1335.44 0 8161.018
+  coords 344.685 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -17,7 +17,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 1456.291 0 8161.018
+  coords 465.536 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -34,7 +34,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 1570.99 0 8161.018
+  coords 580.235 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -51,7 +51,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 1687.82 0 8161.018
+  coords 697.065 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -68,7 +68,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 9087.927 0 9883.097
+  coords 9570.482 0 9883.097
   angleY 180
   {
    GenericEntity {
@@ -86,7 +86,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 8971.445 0 9883.097
+  coords 9454.001 0 9883.097
   angleY 180
   {
    GenericEntity {
@@ -104,7 +104,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 8853.854 0 9883.097
+  coords 9336.409 0 9883.097
   angleY 180
   {
    GenericEntity {
@@ -122,7 +122,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 8744.143 0 9883.097
+  coords 9226.697 0 9883.097
   angleY 180
   {
    GenericEntity {
@@ -142,7 +142,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
 }
 $grp GenericEntity : "{52867C2F322D2D3F}Prefabs/Compositions/Misc/Bacon_Droids_wall_section_01.et" {
  {
-  coords 1216.793 0 8160.428
+  coords 226.038 0 8160.428
   {
    GenericEntity {
     ID "66075EC627E4F272"
@@ -163,7 +163,7 @@ $grp GenericEntity : "{52867C2F322D2D3F}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 9327.438 0 9883.366
+  coords 9809.994 0 9883.365
   {
    GenericEntity {
     ID "66075EC627E4F272"

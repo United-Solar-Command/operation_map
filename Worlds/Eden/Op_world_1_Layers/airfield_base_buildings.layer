@@ -25,48 +25,56 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
     ID "570880A30752F475"
     components {
      ActionsManagerComponent "{F32B667C3C823800}" {
-      Enabled 1
+      ActionContexts {
+       UserActionContext "{50888D37F529F720}" {
+       }
+      }
      }
     }
-    coords -5 0 0
    }
    GenericEntity {
     ID "570880A30752F592"
     components {
      ActionsManagerComponent "{F32B667C3C823800}" {
-      Enabled 1
+      ActionContexts {
+       UserActionContext "{50888D37F529F720}" {
+        Position PointInfo "{50888D37F0EB77E0}" {
+         Offset 0 0.8139 0.2993
+        }
+        Radius 1.3
+       }
+      }
      }
     }
-    coords 5 0 0
    }
    $grp GenericEntity : "{AC49D9D23A2BD1D8}Prefabs/Props/Furniture/BunkBed_01_Double.et" {
     {
-     coords 6.294 0 -18.774
-     angleY 90.348
+     coords 6.054 0 -18.635
+     angleY -90
     }
     {
-     coords 6.308 0 -16.543
-     angleY 90.348
+     coords 6.066 0 -16.404
+     angleY -90
     }
     {
-     coords 6.281 0 -20.868
-     angleY 90.348
+     coords 6.04 0 -20.729
+     angleY -90
     }
     {
-     coords 6.371 0 -6.095
-     angleY 90.348
+     coords 6.13 0 -5.957
+     angleY -90
     }
     {
-     coords 6.321 0 -14.227
-     angleY 90.348
+     coords 6.08 0 -14.088
+     angleY -90
     }
     {
-     coords 6.383 0 -4.082
-     angleY 90.348
+     coords 6.142 0 -3.943
+     angleY -90
     }
     {
-     coords 6.396 0 -1.851
-     angleY 90.348
+     coords 6.155 0 -1.712
+     angleY -90
     }
     {
      coords -6.119 0 -25.005
@@ -77,12 +85,12 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
      angleY -89.652
     }
     {
-     coords 6.268 0 -23.004
-     angleY 90.348
+     coords 6.026 0 -22.865
+     angleY -90
     }
     {
-     coords 6.334 0 -12.062
-     angleY 90.348
+     coords 6.093 0 -11.923
+     angleY -90
     }
     {
      coords -6.094 0 -20.855
@@ -121,12 +129,20 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
      angleY -89.652
     }
     {
-     coords 6.242 0 -27.25
-     angleY 90.348
+     coords 6.002 0 -27.026
+     angleY -88.702
     }
     {
-     coords 6.255 0 -25.106
-     angleY 90.348
+     coords 6.014 0 -24.967
+     angleY -90
+    }
+    {
+     coords 6.266 0 -9.815
+     angleY -90
+    }
+    {
+     coords 6.309 0 -7.896
+     angleY -90
     }
    }
    $grp GenericEntity : "{C1CE18FCDCE83CDE}Prefabs/Structures/BuildingParts/Entry/Doorstep_03_stairs.et" {

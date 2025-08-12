@@ -1,81 +1,3 @@
-$grp ParticleEffectEntity {
- {
-  coords 5386.878 16.542 8723.108
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 5391.646 15.833 8726.225
-  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
- }
- {
-  coords 5392.926 11.373 8726.269
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 5390.217 11.373 8724.571
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 5388.135 11.373 8723.466
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 5382.57 11.625 8721.07
-  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
- }
- {
-  coords 5376.626 12.387 8714.564
-  EffectPath "{000F941FF7EB64F8}Prefabs/Systems/Fire/Fire_V2_Medium.ptc"
- }
- {
-  coords 5383.803 18.125 8697.965
-  EffectPath "{000F941FF7EB64F8}Prefabs/Systems/Fire/Fire_V2_Medium.ptc"
- }
- {
-  coords 5376.314 16.389 8696.773
-  EffectPath "{000F941FF7EB64F8}Prefabs/Systems/Fire/Fire_V2_Medium.ptc"
- }
- {
-  coords 5377.125 20.081 8692.944
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 5385.154 17.771 8693.458
-  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
- }
- {
-  coords 5385.486 10.532 8702.147
-  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
- }
- {
-  coords 7391.742 3.257 9572.219
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 7386.453 1.914 9575.232
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 7397.381 4.314 9574.895
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 7392.604 2.439 9563.207
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 7381.433 1.722 9568.638
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 7399.333 3.191 9568.324
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
- {
-  coords 7403.92 3.479 9576.252
-  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
- }
-}
 $grp GenericEntity : "{1FE6CA907FA552E7}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_04.et" {
  {
   coords 5388.909 43.329 10560.541
@@ -104,16 +26,72 @@ $grp GenericEntity : "{22D2EFA80AC9DBD0}Prefabs/Compositions/Slotted/SlotFlatSma
   angleY 30.622
  }
 }
-GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
- coords 4940.425 115.076 8498.69
- angleY 18.137
+$grp GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
+ {
+  coords 4940.425 115.076 8498.69
+  angleY 18.137
+ }
+ {
+  coords 5405.514 10.531 8750.917
+  angleY 71.928
+ }
 }
 GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
  coords 4693.148 129.42 7797.347
 }
+$grp GenericEntity : "{362A646F1A24D078}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallShort.et" {
+ {
+  coords 4894.417 109.588 8111.648
+  angleY 35.191
+ }
+ {
+  coords 4906.912 108.254 8091.82
+  angleY 74.718
+ }
+ {
+  coords 4890.311 112.49 8059.366
+  angleY -75.25
+ }
+ {
+  coords 4872.283 113.827 8028.97
+  angleY -61.967
+ }
+ {
+  coords 4848.646 116.096 8143.767
+  angleY 4.961
+ }
+ {
+  coords 4832.953 117.49 8139.89
+  angleY -38.144
+ }
+ {
+  coords 4864.744 113.137 8143.52
+  angleY 34.695
+ }
+ {
+  coords 4816.673 117.415 8121.063
+  angleY -63.057
+ }
+ {
+  coords 4816.673 1197.861 8121.063
+  angleY -63.057
+ }
+ {
+  coords 4930.025 1197.861 8065
+  angleY -101.647
+ }
+ {
+  coords 4902.605 1197.861 8111.022
+  angleY -160.779
+ }
+ {
+  coords 4939.204 1197.861 8028.127
+  angleY 79.043
+ }
+}
 $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_wall_section_02.et" {
  {
-  coords 8624.999 0 9883.097
+  coords 9107.555 0 9883.097
   angleY 180
   {
    GenericEntity {
@@ -131,7 +109,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 8505.437 0 9883.097
+  coords 8987.992 0 9883.097
   angleY 180
   {
    GenericEntity {
@@ -149,7 +127,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 8389.07 0 9883.097
+  coords 8871.625 0 9883.097
   angleY 180
   {
    GenericEntity {
@@ -167,7 +145,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 1806.267 0 8161.018
+  coords 815.512 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -184,7 +162,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 1920.88 0 8161.018
+  coords 930.125 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -201,7 +179,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2037.162 0 8161.018
+  coords 1046.407 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -218,7 +196,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2148.725 0 8161.018
+  coords 1157.97 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -235,7 +213,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2256.305 0 8161.018
+  coords 1265.55 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -252,7 +230,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2367.372 0 8161.018
+  coords 1376.617 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -269,7 +247,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2472.175 0 8161.018
+  coords 1481.42 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -286,7 +264,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2583.61 0 8161.018
+  coords 1592.855 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -303,7 +281,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2698.526 0 8161.018
+  coords 1707.771 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -320,7 +298,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2802.716 0 8161.018
+  coords 1811.961 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -337,7 +315,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2904.674 0 8161.018
+  coords 1913.919 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -354,7 +332,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 3013.256 0 8161.018
+  coords 2022.501 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -371,7 +349,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 8272.122 0 9883.097
+  coords 8754.678 0 9883.097
   angleY 180
   {
    GenericEntity {
@@ -393,37 +371,19 @@ GenericEntity : "{44D4928445EB52A7}Prefabs/nogm/antenataticool_nogm.et" {
  coords 4969.218 57.035 9144.078
  angleY 48.017
 }
+GenericEntity : "{4780EEDA97B48C91}PrefabsEditable/Auto/Structure/Protective tower with staircase.et" {
+ coords 5334.121 12.848 8715.216
+ angleY 87.92
+}
 GenericEntity : "{4923E218F59644B9}Prefabs/Props/Wrecks/BoatWreck_01.et" {
  coords 5373.928 10.531 8691.942
  angleX 5.316
  angleY -20.615
  angleZ 28.895
 }
-$grp GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
- {
-  coords 5338.188 12.342 8763.842
-  angleY 174.825
- }
- {
-  coords 5337.905 13.739 8770.383
-  angleY 93.668
- }
- {
-  coords 5326.933 14.655 8769.247
-  angleY -1.662
- }
- {
-  coords 5327.148 14.104 8761.832
-  angleY -1.662
- }
- {
-  coords 5333.507 13.669 8756.878
-  angleY -84.474
- }
- {
-  coords 5328.341 13.019 8756.87
-  angleY -88.065
- }
+GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
+ coords 5387.383 10.531 8673.032
+ angleY 93.717
 }
 $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
  {
@@ -538,52 +498,120 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
   angleY -86.33
  }
  {
-  coords 5401.263 10.531 8721.85
-  angleY 61.869
- }
- {
-  coords 5352.818 11.06 8698.044
-  angleY -18.083
+  coords 5352.817 11.06 8698.044
+  angleY -25.208
  }
  {
   coords 5402.853 10.531 8676.318
   angleY 77.754
  }
-}
-GenericEntity : "{7783AE4B44D3CF29}Prefabs/Props/Wrecks/M923A1_wreck.et" {
- coords 5377.049 10.531 8712.768
- angleY -16.069
+ {
+  coords 5358.55 10.724 8687.188
+  angleY -27.353
+ }
+ {
+  coords 5412.124 10.531 8679.967
+  angleY -103.318
+ }
+ {
+  coords 5361.509 10.64 8682.617
+  angleY -43.16
+ }
+ {
+  coords 5355.787 10.826 8692.999
+  angleY -33.921
+ }
+ {
+  coords 5347.214 11.353 8708.201
+  angleY -38.655
+ }
+ {
+  coords 5341.77 12.31 8712.501
+  angleY 110.12
+ }
+ {
+  coords 5331.553 13.433 8714.65
+  angleX 6.286
+  angleY -90.737
+ }
+ {
+  coords 5320.617 14.646 8712.341
+  angleX 5.803
+  angleY -99.082
+ }
+ {
+  coords 5426.667 10.314 8709.368
+ }
+ {
+  coords 5426.667 10.314 8704.645
+ }
+ {
+  coords 5426.667 10.314 8699.962
+ }
+ {
+  coords 5426.667 10.314 8695.333
+ }
+ {
+  coords 5426.667 10.314 8690.504
+ }
+ {
+  coords 5422.521 10.561 8713.425
+  angleY -44.96
+ }
+ {
+  coords 5419.136 10.561 8716.813
+  angleY -44.96
+ }
+ {
+  coords 5417.314 10.561 8720.948
+  angleY -3.342
+ }
+ {
+  coords 5417.043 10.561 8725.595
+  angleY -3.342
+ }
+ {
+  coords 5416.764 10.561 8730.368
+  angleY -3.342
+ }
+ {
+  coords 5416.491 10.561 8735.055
+  angleY -3.342
+ }
+ {
+  coords 5415.049 10.561 8739.396
+  angleY -31.671
+ }
 }
 GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
- coords 5330.242 1.695 8763.155
+ coords 5330.242 14.186 8763.154
  angleZ 8.586
 }
-GenericEntity : "{7F29BE4FBFC98392}Prefabs/Props/Wrecks/UAZ452_wreck.et" {
- coords 5396.829 10.531 8731.179
- angleY 68.499
+GenericEntity : "{89D035BCE1274AC2}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Turret_Tower10.et" {
+ components {
+  SlotManagerComponent "{65567ACA726BA756}" {
+   Slots {
+    RegisteringComponentSlotInfo Turret {
+     Prefab ""
+    }
+   }
+  }
+ }
+ coords 7393.326 3.326 9576.591
+ angleY -64.059
+ scale 3
 }
 GenericEntity : "{8C33251343913E44}Prefabs/nogm/Crate.et" {
  coords 4968.5 54.542 9146.5
  angleY 0
 }
-$grp GenericEntity : "{8FF048995874037E}PrefabsEditable/Auto/Structure/Military_concrete_barrier.et" {
- {
-  coords 5373.04 10.531 8697.896
-  angleY -22.619
- }
- {
-  coords 5373.604 10.531 8699.282
-  angleY -90.312
- }
- {
-  coords 5373.426 10.531 8700.731
-  angleY -90.312
- }
- {
-  coords 5384.792 10.531 8726.07
-  angleY 62.976
-  scale 0.75
- }
+GenericEntity : "{8FF048995874037E}PrefabsEditable/Auto/Structure/Military_concrete_barrier.et" {
+ coords 5393.915 10.531 8675.003
+ angleY -99.354
+}
+GenericEntity : "{91E9904BDB19D0FA}PrefabsEditable/Auto/Structure/A_riot_barrier.et" {
+ coords 5410.992 10.76 8744.667
+ angleY 50.256
 }
 $grp GenericEntity : "{962EB289CF844AA2}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_06.et" {
  {
@@ -600,9 +628,6 @@ GenericEntity : "{9FFB7FFA1B700ED8}Prefabs/Structures/KOTH/ArmaTowerReforged_KOT
  angleY -89.694
 }
 $grp GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
- {
-  coords 5394.488 10.531 8671.884
- }
  {
   coords 4948.747 115.586 8497.811
  }
@@ -621,38 +646,18 @@ $grp GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_
   coords 4945.616 115.709 8498.531
  }
 }
-$grp GenericEntity : "{AC98FF880BD0F2C2}Prefabs/Props/Furniture/Chair_01/Chair_01_base.et" {
- {
-  coords 5399.089 10.638 8726.576
-  angleY -24.342
- }
- {
-  components {
-   SlotManagerComponent "{6052BBAD1C818478}" {
-    Enabled 0
-   }
-  }
-  coords 5399.424 10.943 8730.563
-  angleX 89.539
- }
-}
 $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
  {
-  coords 5339.451 12.549 8761.935
-  angleY -87.847
+  coords 5418.531 10.532 8683.376
+  angleY 146.065
  }
  {
-  coords 5339.317 12.549 8758.402
-  angleY -87.847
+  coords 5408.182 10.532 8676.409
+  angleY 161.075
  }
  {
-  coords 5417.233 10.532 8691.543
- }
- {
-  coords 5417.233 10.532 8693.354
- }
- {
-  coords 5417.233 10.532 8695.146
+  coords 5396.601 10.532 8667.604
+  angleY 147.619
  }
  {
   coords 4953.725 115.712 8497.625
@@ -691,16 +696,26 @@ $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_ba
   coords 4943.363 115.359 8500.844
   angleY -176.252
  }
+ {
+  coords 5376.63 10.531 8671.683
+  angleY -158.608
+ }
+ {
+  coords 5382.091 10.531 8654.807
+  angleY 147.208
+ }
+ {
+  coords 5412.714 10.76 8742.712
+  angleY 48.361
+ }
+ {
+  coords 5408.024 10.76 8747.987
+  angleY 48.361
+ }
 }
 GenericEntity : "{C74EA351062C4CBB}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_02.et" {
  coords 5450.545 45.733 10469.602
  angleY 10.699
-}
-GenericEntity : "{EB084C400AABD1D3}Prefabs/Props/Wrecks/M151A2_wreck.et" {
- coords 5391.49 12.284 8716.435
- angleX 85.661
- angleY -146.457
- angleZ -39.15
 }
 $grp GenericEntity : "{FA7A86697340C58C}Prefabs/Compositions/Slotted/SlotFlatSmall/SupplyCache_S_FIA_05.et" {
  {

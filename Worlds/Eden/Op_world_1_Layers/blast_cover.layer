@@ -2,13 +2,9 @@ GenericEntity : "{012F232A282503AC}Prefabs/Structures/Military/Camps/Shelters/Sh
  coords 4908.031 28.594 11983.733
  angleY 14.806
 }
-StaticModelEntity : "{01AE5FD77A9A4C21}Prefabs/Structures/Military/Camps/TentSmallUS_01/TentSmallUS_01.et" {
- coords 4896.703 28.594 11950.347
- angleY 54.319
-}
 StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
  coords 4804.72 28.324 11751.38
- angleY 176.03
+ angleY 155.798
 }
 $grp StaticModelEntity : "{341011A1EC5F233A}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_22x18.et" {
  {
@@ -16,11 +12,11 @@ $grp StaticModelEntity : "{341011A1EC5F233A}Prefabs/Structures/Military/Fortific
   angleY -90
  }
  {
-  coords 4816.558 26.238 11947.008
-  angleY -86.726
+  coords 4820.348 25.264 11995.191
+  angleY -88.123
  }
  {
-  coords 4815.304 28.828 11861.959
+  coords 4810.866 28.828 11861.713
   angleY 90.734
  }
  {
@@ -32,9 +28,15 @@ $grp StaticModelEntity : "{341011A1EC5F233A}Prefabs/Structures/Military/Fortific
   angleY -1.697
  }
 }
-StaticModelEntity : "{3FE207D0029D97CC}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x13.et" {
- coords 4722.864 26.008 11882.881
- angleY 90
+$grp StaticModelEntity : "{3FE207D0029D97CC}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x13.et" {
+ {
+  coords 4720.929 26.008 11882.881
+  angleY 90
+ }
+ {
+  coords 4883.534 29.055 11968.806
+  angleY -179.952
+ }
 }
 $grp StaticModelEntity : "{410BC3D746AB53AE}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_13x18.et" {
  {
@@ -51,7 +53,7 @@ GenericEntity : "{736C875F2F2C1C6B}Prefabs/Structures/Military/Camps/Shelters/Sh
  angleY -12.225
 }
 StaticModelEntity : "{942358281B820A96}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSRMedical_01_foundation.et" {
- coords 4824.505 28.54 11754.584
+ coords 4824.41 28.54 11750.842
  angleY -160.432
 }
 StaticModelEntity : "{94FB3A1BFFFF1A19}Prefabs/Structures/Military/Camps/TentUS_01/TentUS_01_Assembled_foundation.et" {
@@ -59,7 +61,7 @@ StaticModelEntity : "{94FB3A1BFFFF1A19}Prefabs/Structures/Military/Camps/TentUS_
 }
 $grp SCR_DestructibleBuildingEntity : "{BE248D0B31D3B097}Prefabs/Structures/Military/Bunkers/AmmoDump_E_02/AmmoDump_E_02.et" {
  {
-  coords 4818.67 28.166 11813.239
+  coords 4818.67 28.166 11808.581
   angleY 180
  }
  {
@@ -87,273 +89,6 @@ $grp StaticModelEntity : "{D0F17E2313DE33F1}Prefabs/Structures/Military/Fortific
   angleX -9.074
   angleY -94.512
   angleZ -0.337
- }
-}
-StaticModelEntity : "{F8BFF80AC83FC6EA}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_base.et" {
- coords 4881.511 28.424 11969.589
- angleY 180
- {
-  GenericEntity : "{1D0B32AA80873228}Prefabs/Props/Wrecks/LAV25_wreck.et" {
-   coords -5.405 0.042 2.767
-   angleY 180
-  }
-  $grp GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
-   {
-    coords -0.131 4.026 -3.35
-    angleY 180
-   }
-   {
-    coords -3.42 4.026 -3.35
-    angleY 180
-   }
-   {
-    coords -5.073 4.026 -3.35
-    angleY 180
-   }
-   {
-    coords -1.78 4.026 -3.35
-    angleY 180
-   }
-   {
-    coords 1.526 4.026 -3.35
-    angleY 180
-   }
-   {
-    coords 4.821 4.026 -3.349
-    angleY 180
-   }
-   {
-    coords -6.717 4.026 -3.35
-    angleY 180
-   }
-   {
-    coords 3.174 4.026 -3.35
-    angleY 180
-   }
-   {
-    coords 6.476 4.026 -3.347
-    angleY 180
-   }
-  }
-  GenericEntity : "{2B24356C351A2538}Prefabs/Props/Wrecks/M113_wreck.et" {
-   coords 4.036 -0.22 -1.408
-   angleY 90.207
-  }
-  GenericEntity : "{3386EAA823BE462E}Prefabs/Props/Wrecks/UAZ469_wreck_static.et" {
-   coords 3.705 2.915 2.179
-   angleY 180
-  }
-  GenericEntity : "{38E750A0E7C3B350}Prefabs/Props/Wrecks/Mi8MT_wreck.et" {
-   coords 1.319 1.678 10.248
-   angleY 93.374
-  }
-  GenericEntity : "{45D056CC11985141}Prefabs/Props/Wrecks/S1203_wreck.et" {
-   coords -3.314 -0.023 1.336
-   angleY 180
-  }
-  $grp GenericEntity : "{4A0EB5570B2BB36C}Prefabs/Props/Wrecks/Ural4320_wreck.et" {
-   {
-    coords -5.598 -0.055 10.349
-    angleY 180
-   }
-   {
-    coords -2.555 -0.055 10.349
-    angleY 180
-   }
-  }
-  $grp GenericEntity : "{75FEF1CA582431F3}Prefabs/Props/Wrecks/BTR70_wreck.et" {
-   {
-    coords 4.936 -0.193 8.059
-    angleY 180
-   }
-   {
-    coords 2.044 -0.193 8.059
-    angleY 180
-   }
-  }
-  GenericEntity : "{77F237994998613F}Prefabs/Props/Wrecks/UH1H_wreck.et" {
-   coords 2.591 -0.1 13.12
-   angleY 89.103
-  }
-  $grp GenericEntity : "{7F29BE4FBFC98392}Prefabs/Props/Wrecks/UAZ452_wreck.et" {
-   {
-    coords 4.883 -0.252 1.941
-    angleY 180
-   }
-   {
-    coords 2.886 -0.252 1.942
-    angleY 180
-   }
-   {
-    coords 3.978 1.479 0.98
-    angleY 90.32
-   }
-   {
-    coords 3.99 1.479 2.957
-    angleY 90.32
-   }
-   {
-    coords 3.965 1.836 -1.455
-    angleY 90.32
-   }
-  }
-  $grp GenericEntity : "{84CBCE9163176B3E}Prefabs/Props/Wrecks/S105_wreck.et" {
-   {
-    coords -4.664 0.005 -2.016
-    angleY 92.49
-   }
-   {
-    coords -0.215 -0.12 3.152
-    angleY 93.411
-   }
-   {
-    coords -0.215 1.288 3.148
-    angleY 93.411
-   }
-   {
-    coords -0.373 1.601 0.502
-    angleY 93.411
-   }
-   {
-    coords -0.49 1.601 -1.474
-    angleY 93.411
-   }
-  }
-  GenericEntity : "{90299A76FC1AE10F}Prefabs/Props/Wrecks/T62_wreck_turret.et" {
-   coords -3.938 1.693 0.645
-   angleY 17.988
-  }
-  $grp GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
-   {
-    coords -7.176 4.028 9.011
-    angleY 90
-   }
-   {
-    coords -7.176 4.028 2.398
-    angleY 90
-   }
-   {
-    coords -7.176 4.028 13.97
-    angleY 90
-   }
-   {
-    coords -7.176 4.028 5.699
-    angleY 90
-   }
-   {
-    coords -7.176 4.028 7.353
-    angleY 90
-   }
-   {
-    coords -7.176 4.028 -2.526
-    angleY 90
-   }
-   {
-    coords -7.176 4.028 4.049
-    angleY 90
-   }
-   {
-    coords -7.176 4.028 -0.879
-    angleY 90
-   }
-   {
-    coords -7.176 4.028 0.776
-    angleY 90
-   }
-   {
-    coords -7.176 4.028 12.314
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 12.314
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 13.968
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 9.011
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 10.664
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 2.396
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 4.049
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 7.353
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 -0.879
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 -2.528
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 0.775
-    angleY 90
-   }
-   {
-    coords 6.996 4.028 5.699
-    angleY 90
-   }
-  }
-  $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
-   {
-    coords 5.258 -0.138 15.123
-   }
-   {
-    coords -1.812 -0.027 15.123
-   }
-   {
-    coords -5.363 0.059 15.123
-   }
-   {
-    coords 1.737 -0.087 15.123
-   }
-  }
-  GenericEntity : "{C707F02B5A64AA08}Prefabs/Props/Wrecks/BRDM2_wreck.et" {
-   coords 3.34 1.391 5.8
-   angleY 88.233
-   angleZ 13.847
-  }
-  GenericEntity : "{D99955DFCF7D3962}Prefabs/Props/Wrecks/CannonWreck_01.et" {
-   coords -0.517 -0.073 8.32
-   angleY -0.112
-  }
-  GenericEntity : "{DE59CB05202006E8}Prefabs/Props/Agriculture/CultivatorWreck_01.et" {
-   coords 0.394 -0.118 2.024
-   angleY 180
-  }
-  $grp GenericEntity : "{EB084C400AABD1D3}Prefabs/Props/Wrecks/M151A2_wreck.et" {
-   {
-    coords 0.34 -0.137 -0.565
-    angleY 180
-   }
-   {
-    coords -1.508 -0.137 -0.564
-    angleY 180
-   }
-   {
-    coords -0.503 0.817 -1.649
-    angleY -89.577
-   }
-   {
-    coords -0.488 0.847 0.288
-    angleY -89.577
-   }
-  }
  }
 }
 $grp StaticModelEntity : "{F8E70CBC00C9E30E}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x5.et" {

@@ -348,13 +348,6 @@ $grp GameEntity : "{82A575F7D83C3231}Prefabs/Props/Military/Compositions/US/Heli
 }
 $grp GenericEntity : "{9AAB4B953C8111D8}Prefabs/Structures/Signs/Warnings/SignParking_01.et" {
  {
-  coords 4976.627 28.054 11948.542
-  angleX 89.948
-  angleY 0.142
-  angleZ 85.237
-  scale 5
- }
- {
   coords 4889.24 28.361 11661.258
   angleX 90
   angleZ -90
