@@ -1,3 +1,121 @@
+$grp ParticleEffectEntity {
+ {
+  coords 7034.519 100.538 8344.783
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7033.313 101.379 8348.728
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7030.59 102.721 8348.656
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7031.254 103.353 8345.492
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7038.699 97.768 8355.414
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7044.066 96.309 8358.729
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7045.379 94.308 8352.428
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7027.708 99.091 8347.364
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7024.559 98.356 8346.818
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7027.948 92.604 8341.609
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7024.1 96.071 8351.646
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7028.127 98.365 8352.362
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7031.04 95.539 8342.951
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7037.233 98.228 8350.666
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7030.197 99.97 8343.504
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7024.07 93.078 8347.689
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7032.351 97.483 8350.245
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7028.832 96.689 8346.446
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 7027.85 97.418 8349.547
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4320.308 97.203 7956.724
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4330.372 102.656 7971.245
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4325.304 96.035 7950.079
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4320.157 95.094 7952.349
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4320.149 88.413 7945.185
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4320.886 91.98 7959.666
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4330.214 106.845 7962.444
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4330.484 109.308 7966.13
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4337.83 107.133 7961.08
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4328.576 94.749 7951.278
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+}
 $grp GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
  {
   coords 4803.686 28.495 11748.771

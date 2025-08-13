@@ -84,8 +84,42 @@ $grp GenericEntity : "{917158017F425567}Prefabs/Compositions/Slotted/SlotFlatSma
  }
 }
 GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
- coords 4316.225 85.198 7942.229
+ components {
+  MeshObject "{617227549D5ED9D2}" {
+   Materials {
+    MaterialAssignClass "{61722754E22780DF}" {
+     SourceMaterial "ATR_Logo"
+     AssignedMaterial "{8E84910B8F506154}Assets/Structures/Vanilla/Data/ATR_Logo.emat"
+    }
+    MaterialAssignClass "{61722754E2278024}" {
+     SourceMaterial "ATR_TowerNumber"
+     AssignedMaterial "{4F9328E9B1A36D83}Assets/Structures/Vanilla/Data/ATR_TowerNumber_2.emat"
+    }
+   }
+  }
+ }
+ coords 4318.418 81.47 7945.388
+ angleX 50.022
  angleY -145.21
+ {
+  GenericEntity {
+   ID "61722754CABC2FC4"
+   components {
+    MeshObject "{611575FBA43A0498}" {
+     Materials {
+      MaterialAssignClass "{661ADD886EBF8444}" {
+       SourceMaterial "ATR_TowerNumber"
+       AssignedMaterial "{4F9328E9B1A36D83}Assets/Structures/Vanilla/Data/ATR_TowerNumber_2.emat"
+      }
+     }
+    }
+   }
+   coords -0.647 16.585 -4.904
+   angleX -13.977
+   angleY 111.254
+   angleZ 31.84
+  }
+ }
 }
 GenericEntity : "{ECB8E313DFBD3415}Prefabs/Compositions/Slotted/SlotFlatSmall/VehicleMaintenance_S_US_01.et" {
  coords 4378.143 89.794 7953.698
