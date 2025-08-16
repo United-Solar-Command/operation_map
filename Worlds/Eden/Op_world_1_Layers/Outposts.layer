@@ -63,7 +63,8 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
   angleY 135
  }
  {
-  coords 6230.82 143.067 8064.083
+  coords 6232.626 140.251 8053.963
+  angleX -49.241
   angleY -180
  }
  {
