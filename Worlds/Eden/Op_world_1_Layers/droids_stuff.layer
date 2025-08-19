@@ -1,0 +1,1587 @@
+$grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/Prefabs/Structures/Factory_base.et" {
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 7026.16 98.583 8386.944
+  angleY -51.414
+  scale 1.8
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 6928.343 86.291 8427.276
+  angleX -6.034
+  angleY -60.836
+  scale 1.8
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 7033.468 88.959 8313.237
+  angleX 2.412
+  angleY -51.823
+  angleZ -7.854
+  scale 1.8
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 7656.072 13.545 8196.916
+  angleY 130.573
+  scale 2.5
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 7601.478 12.358 8150.156
+  angleY -139.431
+  scale 2.5
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 6890.906 69.024 8644.241
+  angleY 130.648
+  scale 2.5
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 7673.922 12.969 8101.731
+  angleY 40.796
+  scale 2.5
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 5197.105 133.809 6693.309
+  angleY 59.235
+  scale 2.5
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 4636.446 159.074 6784.718
+  angleY 97.844
+  scale 2.5
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 4348.413 114.659 7261.13
+  angleX 13.53
+  angleY 94.588
+  scale 2.5
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 4177.719 46.014 7699.572
+  angleY 59.805
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 4206.83 45.514 7790.217
+  angleY 26.449
+  scale 2
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+ {
+  components {
+   Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
+    Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
+   SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
+    Enabled 0
+   }
+   SCR_FactionAffiliationComponent "{6572C630E8E9F2E4}" {
+    Enabled 0
+   }
+  }
+  coords 4081.161 37.271 7881.99
+  angleX 6.168
+  angleY 45.551
+  scale 1.75
+  m_ProducedPrefab ""
+  m_fProductionTime 0
+  m_iMaxUnits 0
+ }
+}
+$grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
+ Bacon_Droids_short_wall_01 {
+  coords 4693.148 129.42 7797.347
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+       m_bVisible 0
+      }
+     }
+     coords 11.991 0.506 0.007
+     scale 1.5
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+       m_bVisible 0
+      }
+     }
+     coords -12.978 0.506 0.007
+     scale 1.5
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6353.673 180.729 7566.821
+  angleY -104.207
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6331.79 180.729 7561.28
+  angleY -104.207
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6345.503 178.696 7553.04
+  angleY -14.207
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6339.931 180.729 7575.055
+  angleY -14.207
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7231.131 48.676 7710.559
+  angleY -45.425
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7214.455 48.676 7693.633
+  angleY -45.425
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7247.075 48.676 7710.552
+  angleY 44.575
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6345.503 180.729 7553.04
+  angleY -14.207
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7210.58 48.66 7674.004
+  angleY 36.863
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7229.441 48.66 7659.861
+  angleY 36.863
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7248.104 48.66 7645.867
+  angleY 36.863
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7266.775 48.66 7631.867
+  angleY 36.863
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7266.775 48.18 7631.867
+  angleY 36.863
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7278.897 48.66 7622.777
+  angleY 36.863
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7278.896 47.82 7622.777
+  angleY 36.863
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7256.492 48.676 7701.273
+  angleY 44.575
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7259.345 48.676 7698.461
+  angleY 44.575
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7286.829 48.66 7627.813
+  angleY 76.64
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7286.829 47.528 7627.813
+  angleY 76.64
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7281.418 48.66 7650.588
+  angleY 76.64
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7276.864 48.66 7669.764
+  angleY 76.64
+ }
+}
+$grp GenericEntity : "{362A646F1A24D078}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallShort.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7203.949 48.667 7682.917
+  angleY -45.838
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7272.296 53.762 7685.575
+  angleY 44.983
+  scale 0.76
+ }
+}
+$grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_UIInfo SCR_EditableVehicleUIInfo "{65567ADD29FE0F7D}" {
+     m_sFaction "CIW"
+    }
+    m_bStatic 1
+   }
+  }
+  coords 6533.014 11.48 8764.772
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_UIInfo SCR_EditableVehicleUIInfo "{65567ADD29FE0F7D}" {
+     m_sFaction "CIW"
+    }
+    m_bStatic 1
+   }
+  }
+  coords 6027.533 1.235 8640.05
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_UIInfo SCR_EditableVehicleUIInfo "{65567ADD29FE0F7D}" {
+     m_sFaction "CIW"
+    }
+    m_bStatic 1
+   }
+  }
+  coords 5582.05 2.436 8531.021
+ }
+ {
+  coords 6407.065 63.493 8516.758
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_UIInfo SCR_EditableVehicleUIInfo "{65567ADD29FE0F7D}" {
+     m_sFaction "CIW"
+    }
+    m_bStatic 1
+   }
+  }
+  coords 6647.59 3.679 8756.333
+ }
+ {
+  coords 7463.277 3.038 9494.433
+  angleY -59.044
+ }
+ {
+  coords 7156.614 0.54 9103.665
+  angleY -83.454
+ }
+ {
+  coords 6937.759 0.318 9173.747
+  angleY -83.454
+ }
+ {
+  coords 6727.269 0.995 9155.392
+  angleY -111.211
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5855.956 238.456 7262.783
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 16.236 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 8.11 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    components {
+     WeaponSoundComponent "{6543307351F8242D}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_AutoSpawnCrewOnInitComponent "{6543307351F8241C}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_RobotVehicleCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_VehicleFactionAffiliationComponentNotifyParent "{6543307351F83BA6}" {
+      Enabled 0
+     }
+     TurretControllerComponent "{51ACD09C61C183E4}" {
+      Enabled 0
+      components {
+       AITurretAimingComponent "{5549077A3C06B25E}" {
+        Enabled 0
+       }
+      }
+     }
+     VehiclePerceivableComponent "{654330732BD69C5D}" {
+      Enabled 0
+     }
+     TurretComponent "{6543307351F83B88}" {
+      Enabled 0
+      components {
+       SCR_2DSightsComponent "{6543307351F83B8B}" {
+        Enabled 0
+       }
+      }
+     }
+     WeaponSlotComponent "{51ACD09C6BFEEE6A}" {
+      Enabled 0
+     }
+     ActionsManagerComponent "{51ACD09C7181BA0B}" {
+      Enabled 0
+     }
+     VehicleAnimationComponent "{6543307351F81A2A}" {
+      Enabled 0
+     }
+    }
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    m_fAIMinimumWeaponFireRange 0
+    m_fAIMaximumWeaponFireRange 0
+    m_fAIMinimumDistanceFromTarget 0
+    m_fMaxAimErrorDegrees 0
+    m_bIsCritical 0
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3327.011 1.725 7233.058
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    components {
+     WeaponSoundComponent "{6543307351F8242D}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_AutoSpawnCrewOnInitComponent "{6543307351F8241C}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_RobotVehicleCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_VehicleFactionAffiliationComponentNotifyParent "{6543307351F83BA6}" {
+      Enabled 0
+     }
+     TurretControllerComponent "{51ACD09C61C183E4}" {
+      Enabled 0
+      components {
+       AITurretAimingComponent "{5549077A3C06B25E}" {
+        Enabled 0
+       }
+      }
+     }
+     VehiclePerceivableComponent "{654330732BD69C5D}" {
+      Enabled 0
+     }
+     TurretComponent "{6543307351F83B88}" {
+      Enabled 0
+      components {
+       SCR_2DSightsComponent "{6543307351F83B8B}" {
+        Enabled 0
+       }
+      }
+     }
+     WeaponSlotComponent "{51ACD09C6BFEEE6A}" {
+      Enabled 0
+     }
+     ActionsManagerComponent "{51ACD09C7181BA0B}" {
+      Enabled 0
+     }
+     VehicleAnimationComponent "{6543307351F81A2A}" {
+      Enabled 0
+     }
+    }
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    m_fAIMinimumWeaponFireRange 0
+    m_fAIMaximumWeaponFireRange 0
+    m_fAIMinimumDistanceFromTarget 0
+    m_fMaxAimErrorDegrees 0
+    m_bIsCritical 0
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3920.072 34.605 7279.632
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    components {
+     WeaponSoundComponent "{6543307351F8242D}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_AutoSpawnCrewOnInitComponent "{6543307351F8241C}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_RobotVehicleCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_VehicleFactionAffiliationComponentNotifyParent "{6543307351F83BA6}" {
+      Enabled 0
+     }
+     TurretControllerComponent "{51ACD09C61C183E4}" {
+      Enabled 0
+      components {
+       AITurretAimingComponent "{5549077A3C06B25E}" {
+        Enabled 0
+       }
+      }
+     }
+     VehiclePerceivableComponent "{654330732BD69C5D}" {
+      Enabled 0
+     }
+     TurretComponent "{6543307351F83B88}" {
+      Enabled 0
+      components {
+       SCR_2DSightsComponent "{6543307351F83B8B}" {
+        Enabled 0
+       }
+      }
+     }
+     WeaponSlotComponent "{51ACD09C6BFEEE6A}" {
+      Enabled 0
+     }
+     ActionsManagerComponent "{51ACD09C7181BA0B}" {
+      Enabled 0
+     }
+     VehicleAnimationComponent "{6543307351F81A2A}" {
+      Enabled 0
+     }
+    }
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    m_fAIMinimumWeaponFireRange 0
+    m_fAIMaximumWeaponFireRange 0
+    m_fAIMinimumDistanceFromTarget 0
+    m_fMaxAimErrorDegrees 0
+    m_bIsCritical 0
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4625.339 153.763 7306.334
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    components {
+     WeaponSoundComponent "{6543307351F8242D}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_AutoSpawnCrewOnInitComponent "{6543307351F8241C}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_RobotVehicleCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_VehicleFactionAffiliationComponentNotifyParent "{6543307351F83BA6}" {
+      Enabled 0
+     }
+     TurretControllerComponent "{51ACD09C61C183E4}" {
+      Enabled 0
+      components {
+       AITurretAimingComponent "{5549077A3C06B25E}" {
+        Enabled 0
+       }
+      }
+     }
+     VehiclePerceivableComponent "{654330732BD69C5D}" {
+      Enabled 0
+     }
+     TurretComponent "{6543307351F83B88}" {
+      Enabled 0
+      components {
+       SCR_2DSightsComponent "{6543307351F83B8B}" {
+        Enabled 0
+       }
+      }
+     }
+     WeaponSlotComponent "{51ACD09C6BFEEE6A}" {
+      Enabled 0
+     }
+     ActionsManagerComponent "{51ACD09C7181BA0B}" {
+      Enabled 0
+     }
+     VehicleAnimationComponent "{6543307351F81A2A}" {
+      Enabled 0
+     }
+    }
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    m_fAIMinimumWeaponFireRange 0
+    m_fAIMaximumWeaponFireRange 0
+    m_fAIMinimumDistanceFromTarget 0
+    m_fMaxAimErrorDegrees 0
+    m_bIsCritical 0
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5277.214 165.271 7283.702
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    components {
+     WeaponSoundComponent "{6543307351F8242D}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_AutoSpawnCrewOnInitComponent "{6543307351F8241C}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_RobotVehicleCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_VehicleFactionAffiliationComponentNotifyParent "{6543307351F83BA6}" {
+      Enabled 0
+     }
+     TurretControllerComponent "{51ACD09C61C183E4}" {
+      Enabled 0
+      components {
+       AITurretAimingComponent "{5549077A3C06B25E}" {
+        Enabled 0
+       }
+      }
+     }
+     VehiclePerceivableComponent "{654330732BD69C5D}" {
+      Enabled 0
+     }
+     TurretComponent "{6543307351F83B88}" {
+      Enabled 0
+      components {
+       SCR_2DSightsComponent "{6543307351F83B8B}" {
+        Enabled 0
+       }
+      }
+     }
+     WeaponSlotComponent "{51ACD09C6BFEEE6A}" {
+      Enabled 0
+     }
+     ActionsManagerComponent "{51ACD09C7181BA0B}" {
+      Enabled 0
+     }
+     VehicleAnimationComponent "{6543307351F81A2A}" {
+      Enabled 0
+     }
+    }
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    m_fAIMinimumWeaponFireRange 0
+    m_fAIMaximumWeaponFireRange 0
+    m_fAIMinimumDistanceFromTarget 0
+    m_fMaxAimErrorDegrees 0
+    m_bIsCritical 0
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6506.521 162.781 7304.657
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    components {
+     WeaponSoundComponent "{6543307351F8242D}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_AutoSpawnCrewOnInitComponent "{6543307351F8241C}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_RobotVehicleCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_VehicleFactionAffiliationComponentNotifyParent "{6543307351F83BA6}" {
+      Enabled 0
+     }
+     TurretControllerComponent "{51ACD09C61C183E4}" {
+      Enabled 0
+      components {
+       AITurretAimingComponent "{5549077A3C06B25E}" {
+        Enabled 0
+       }
+      }
+     }
+     VehiclePerceivableComponent "{654330732BD69C5D}" {
+      Enabled 0
+     }
+     TurretComponent "{6543307351F83B88}" {
+      Enabled 0
+      components {
+       SCR_2DSightsComponent "{6543307351F83B8B}" {
+        Enabled 0
+       }
+      }
+     }
+     WeaponSlotComponent "{51ACD09C6BFEEE6A}" {
+      Enabled 0
+     }
+     ActionsManagerComponent "{51ACD09C7181BA0B}" {
+      Enabled 0
+     }
+     VehicleAnimationComponent "{6543307351F81A2A}" {
+      Enabled 0
+     }
+    }
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    m_fAIMinimumWeaponFireRange 0
+    m_fAIMaximumWeaponFireRange 0
+    m_fAIMinimumDistanceFromTarget 0
+    m_fMaxAimErrorDegrees 0
+    m_bIsCritical 0
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7135.764 63.85 7325.803
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    components {
+     WeaponSoundComponent "{6543307351F8242D}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_AutoSpawnCrewOnInitComponent "{6543307351F8241C}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_RobotVehicleCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_VehicleFactionAffiliationComponentNotifyParent "{6543307351F83BA6}" {
+      Enabled 0
+     }
+     TurretControllerComponent "{51ACD09C61C183E4}" {
+      Enabled 0
+      components {
+       AITurretAimingComponent "{5549077A3C06B25E}" {
+        Enabled 0
+       }
+      }
+     }
+     VehiclePerceivableComponent "{654330732BD69C5D}" {
+      Enabled 0
+     }
+     TurretComponent "{6543307351F83B88}" {
+      Enabled 0
+      components {
+       SCR_2DSightsComponent "{6543307351F83B8B}" {
+        Enabled 0
+       }
+      }
+     }
+     WeaponSlotComponent "{51ACD09C6BFEEE6A}" {
+      Enabled 0
+     }
+     ActionsManagerComponent "{51ACD09C7181BA0B}" {
+      Enabled 0
+     }
+     VehicleAnimationComponent "{6543307351F81A2A}" {
+      Enabled 0
+     }
+    }
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    m_fAIMinimumWeaponFireRange 0
+    m_fAIMaximumWeaponFireRange 0
+    m_fAIMinimumDistanceFromTarget 0
+    m_fMaxAimErrorDegrees 0
+    m_bIsCritical 0
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7303.812 5.58 9329.288
+  angleY -57.851
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords 0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    components {
+     WeaponSoundComponent "{6543307351F8242D}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_AutoSpawnCrewOnInitComponent "{6543307351F8241C}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_RobotVehicleCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+      Enabled 0
+     }
+     Bacon_6522EAB7461F248C_VehicleFactionAffiliationComponentNotifyParent "{6543307351F83BA6}" {
+      Enabled 0
+     }
+     TurretControllerComponent "{51ACD09C61C183E4}" {
+      Enabled 0
+      components {
+       AITurretAimingComponent "{5549077A3C06B25E}" {
+        Enabled 0
+       }
+      }
+     }
+     VehiclePerceivableComponent "{654330732BD69C5D}" {
+      Enabled 0
+     }
+     TurretComponent "{6543307351F83B88}" {
+      Enabled 0
+      components {
+       SCR_2DSightsComponent "{6543307351F83B8B}" {
+        Enabled 0
+       }
+      }
+     }
+     WeaponSlotComponent "{51ACD09C6BFEEE6A}" {
+      Enabled 0
+     }
+     ActionsManagerComponent "{51ACD09C7181BA0B}" {
+      Enabled 0
+     }
+     VehicleAnimationComponent "{6543307351F81A2A}" {
+      Enabled 0
+     }
+    }
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    m_fAIMinimumWeaponFireRange 0
+    m_fAIMaximumWeaponFireRange 0
+    m_fAIMinimumDistanceFromTarget 0
+    m_fMaxAimErrorDegrees 0
+    m_bIsCritical 0
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6334.576 181.128 7568.901
+  angleY -13.878
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6347.537 181.128 7572.104
+  angleY -13.878
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7268.579 49.378 7689.286
+  angleY -45.072
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7276.028 49.378 7681.854
+  angleY -45.072
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7208.731 48.921 7681.346
+  angleY -47.341
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7281.894 46.504 7626.756
+  angleY -71.746
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7238.81 49.817 7712.27
+  angleY -45.464
+ }
+ {
+  coords 3931.762 30.5 7959.384
+  scale 2
+ }
+ {
+  coords 4593.465 120.233 8121.033
+  scale 0.75
+ }
+ {
+  coords 4481.281 109.151 8121.032
+  scale 0.75
+ }
+ {
+  coords 4387.826 94.393 8121.031
+  scale 0.75
+ }
+ {
+  coords 4228.02 73.13 8118.363
+  scale 0.75
+ }
+ {
+  coords 4037.208 45.611 8140.005
+  scale 0.75
+ }
+ {
+  coords 3954.95 36.962 8140.294
+  scale 0.75
+ }
+ {
+  coords 3859.784 9.689 8100.973
+  angleY -29.552
+  scale 0.75
+ }
+ {
+  coords 4611.243 120.312 8132.803
+  scale 1.5
+ }
+}
+GenericEntity : "{89D035BCE1274AC2}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Turret_Tower10.et" {
+ components {
+  Bacon_6522EAB7461F248C_SetFireOnDamageThresholdComponent "{65926D112C7B4224}" {
+   Enabled 0
+  }
+  SCR_DamageManagerComponent "{65567ACA23BD4EB0}" {
+   EnableDamage 0
+  }
+  SCR_VehicleFactionAffiliationComponent "{65567ACAB54DF4CC}" {
+   "faction affiliation" "CIW"
+  }
+  SlotManagerComponent "{65567ACA726BA756}" {
+   Slots {
+    RegisteringComponentSlotInfo Turret {
+     Prefab ""
+    }
+   }
+  }
+ }
+ coords 7393.326 3.326 9576.591
+ angleY -64.059
+ scale 3
+}
+GenericEntity : "{C1D570023D9B08C5}Prefabs/Compositions/Misc/Bacon_Droids_short_wall_01.et" {
+ coords 4633.073 120.284 7977.054
+ angleY -10.457
+}

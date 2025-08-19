@@ -1,10 +1,47 @@
-GenericEntity : "{012F232A282503AC}Prefabs/Structures/Military/Camps/Shelters/ShelterStorageUS_01_damaged_light.et" {
- coords 4908.031 28.594 11983.733
- angleY 14.806
-}
 StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
  coords 4804.72 28.324 11751.38
  angleY 155.798
+ {
+  CommentEntity {
+   coords 0.031 2.531 4.002
+   angleY -179.385
+   m_Comment "US Arsenals"
+   m_Color 0.016 0.552 0.905
+   m_VisibleOverall 1
+   m_VisibleIngame 1
+   m_TextBackground 1
+  }
+  $grp GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
+   {
+    coords 2.014 0.171 1.955
+    angleY -90.832
+   }
+   {
+    coords -2.114 0.171 1.966
+    angleY 88.735
+   }
+  }
+  $grp GenericEntity : "{0D5E512CAED58B5C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Launcher_US.et" {
+   {
+    coords 2.127 0.184 0.046
+    angleY -88.471
+   }
+   {
+    coords -2.122 0.184 0.161
+    angleY 91.414
+   }
+  }
+  $grp GenericEntity : "{CE74212FD2C25533}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Equipment_US.et" {
+   {
+    coords -2.01 0.173 -1.802
+    angleY 92.051
+   }
+   {
+    coords 2.262 0.173 -1.924
+    angleY -93.497
+   }
+  }
+ }
 }
 $grp StaticModelEntity : "{341011A1EC5F233A}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_22x18.et" {
  {
@@ -48,16 +85,79 @@ $grp StaticModelEntity : "{410BC3D746AB53AE}Prefabs/Structures/Military/Fortific
   angleY -16.452
  }
 }
-GenericEntity : "{736C875F2F2C1C6B}Prefabs/Structures/Military/Camps/Shelters/ShelterStorageUS_01.et" {
- coords 4901.435 28.594 11982.546
- angleY -12.225
-}
 StaticModelEntity : "{942358281B820A96}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSRMedical_01_foundation.et" {
  coords 4824.41 28.54 11750.842
  angleY -160.432
+ {
+  CommentEntity {
+   coords -0.002 2.549 3.969
+   angleY 178.871
+   m_Comment "Medical"
+   m_Color 0.429 0.031 0.031
+   m_VisibleOverall 1
+   m_VisibleIngame 1
+   m_TextBackground 1
+  }
+  $grp GenericEntity : "{A18D9C677F47AC1C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_US.et" {
+   {
+    coords -2.401 0.174 -0.045
+    angleY 89.759
+   }
+   {
+    coords 2.176 0.174 -0.024
+    angleY -89.568
+   }
+  }
+ }
 }
 StaticModelEntity : "{94FB3A1BFFFF1A19}Prefabs/Structures/Military/Camps/TentUS_01/TentUS_01_Assembled_foundation.et" {
  coords 4814.812 28.406 11752.521
+ {
+  CommentEntity {
+   coords 0.004 3.075 -3.768
+   m_Comment "USC Arsenals"
+   m_Color 0.357 0.569 0.898
+   m_VisibleOverall 1
+   m_VisibleIngame 1
+   m_TextBackground 1
+  }
+  $grp GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
+   {
+    coords 1.989 0.136 -2.529
+    angleY -87.801
+   }
+   {
+    coords 2.086 0.127 0.022
+    angleY -87.801
+   }
+   {
+    coords 2.284 0.138 5.237
+    angleY -87.801
+   }
+   {
+    coords 2.189 0.12 2.686
+    angleY -87.801
+   }
+  }
+  $grp GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
+   {
+    coords -2.165 0.158 4.658
+    angleY 89.828
+   }
+   {
+    coords -2.158 0.128 2.34
+    angleY 89.828
+   }
+   {
+    coords -2.145 0.14 -2.265
+    angleY 89.828
+   }
+   {
+    coords -2.151 0.113 0.051
+    angleY 89.828
+   }
+  }
+ }
 }
 $grp SCR_DestructibleBuildingEntity : "{BE248D0B31D3B097}Prefabs/Structures/Military/Bunkers/AmmoDump_E_02/AmmoDump_E_02.et" {
  {
@@ -99,9 +199,6 @@ $grp StaticModelEntity : "{F8E70CBC00C9E30E}Prefabs/Structures/Military/Fortific
  {
   coords 4736.704 27.845 11190.219
   angleY 90
- }
- {
-  coords 4734.854 28.231 11050.697
  }
  {
   coords 4875.038 29.136 10932.004

@@ -69,46 +69,53 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  }
  {
   coords 5426.667 10.314 8709.368
- }
- {
-  coords 5426.667 10.314 8704.645
- }
- {
-  coords 5426.667 10.314 8699.962
- }
- {
-  coords 5426.667 10.314 8695.333
- }
- {
-  coords 5426.667 10.314 8690.504
+  {
+   $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
+    {
+     coords 0 0 -4.724
+    }
+    {
+     coords 0 0 -9.406
+    }
+    {
+     coords 0 0 -14.035
+    }
+    {
+     coords 0 0 -18.864
+    }
+   }
+  }
  }
  {
   coords 5422.521 10.561 8713.425
   angleY -44.96
- }
- {
-  coords 5419.136 10.561 8716.813
-  angleY -44.96
- }
- {
-  coords 5417.314 10.561 8720.948
-  angleY -3.342
- }
- {
-  coords 5417.043 10.561 8725.595
-  angleY -3.342
- }
- {
-  coords 5416.764 10.561 8730.368
-  angleY -3.342
- }
- {
-  coords 5416.491 10.561 8735.055
-  angleY -3.342
- }
- {
-  coords 5415.049 10.561 8739.396
-  angleY -31.671
+  {
+   $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
+    {
+     coords 0 0 4.79
+    }
+    {
+     coords 1.633 0 9.002
+     angleY 41.618
+    }
+    {
+     coords 4.724 0 12.482
+     angleY 41.618
+    }
+    {
+     coords 7.899 0 16.057
+     angleY 41.618
+    }
+    {
+     coords 11.018 0 19.566
+     angleY 41.618
+    }
+    {
+     coords 13.065 0 23.657
+     angleY 13.289
+    }
+   }
+  }
  }
 }
 GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {

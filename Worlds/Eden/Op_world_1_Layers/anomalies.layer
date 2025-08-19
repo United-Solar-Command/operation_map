@@ -1,21 +1,6 @@
-$grp SCR_IndestructibleEnvironmentalEntity : "{44B52C0139AB1199}Prefabs/Anomalys/Organic/Root_1.et" {
- {
-  coords 4897.818 0 8423.873
-  angleY 89.806
-  scale 0.5
- }
- {
-  coords 4906.981 0 8435.174
-  angleY 24.491
-  scale 0.3
- }
- {
-  coords 4889.53 0 8431.462
-  angleX -3.966
-  angleY -153.632
-  angleZ -6.639
-  scale 0.5
- }
+SCR_IndestructibleEnvironmentalEntity : "{222C1EE5EC0F0185}Prefabs/Anomalys/GravityDefiant/Floating_2_Forest.et" {
+ coords 5875.983 -0 9795.333
+ angleX 38.027
 }
 Tree : "{63DC62906A5917F3}Prefabs/Vegetation/Tree/t_populus_nigra/t_populus_nigra_3s.et" {
  coords 5828.636 23.779 9764.483
@@ -84,7 +69,17 @@ $grp GenericEntity : "{88A64A32F78CFB77}Prefabs/Props/Industrial/CargoContainers
  }
 }
 SCR_IndestructibleEnvironmentalEntity : "{A253B37D58B59474}Prefabs/Anomalys/Distortion/Distortion_1.et" {
- coords 5835.079 27.181 9739.173
+ coords 5835.079 39.28 9739.173
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{A3627A01D7D35D03}Prefabs/Anomalys/GravityDefiant/Floating_3_Forest_2.et" {
+ {
+  coords 5884.758 4.374 9753.521
+ }
+ {
+  coords 5884.758 8.058 9753.521
+  angleX -25.055
+  angleY -124.373
+ }
 }
 $grp GenericEntity : "{ADE39FE043B89B0A}Prefabs/Props/Industrial/ConcretePanel_01_B.et" {
  {
@@ -136,11 +131,27 @@ $grp GenericEntity : "{ADE39FE043B89B0A}Prefabs/Props/Industrial/ConcretePanel_0
  }
 }
 GravitySinkEntity : "{C96A161B85C92909}Prefabs/Anomalys/Anomaly/Anomaly_GravityWell.et" {
+ components {
+  SCR_EditableEntityComponent "{64B71B6A0458C8DC}" {
+   m_fMaxDrawDistance 100
+  }
+ }
  coords 5835.079 39.28 9739.173
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{D85AE739BA95E151}Prefabs/Anomalys/GravityDefiant/Floating_1.et" {
+ {
+  coords 5819.634 -3.375 9713.042
+ }
+ {
+  coords 5815.984 16.07 9731.444
+ }
 }
 GenericEntity : "{E5C8E180652682BC}Prefabs/Props/Industrial/GasTank_01_base.et" {
  coords 5835.552 49.961 9744.312
  angleX -38.426
  angleY -9.82
  angleZ 105.563
+}
+SCR_IndestructibleEnvironmentalEntity : "{FC147D5A84584D3B}Prefabs/Anomalys/Anomaly/Anomaly_Electric.et" {
+ coords 5818.527 -0.001 9794.641
 }

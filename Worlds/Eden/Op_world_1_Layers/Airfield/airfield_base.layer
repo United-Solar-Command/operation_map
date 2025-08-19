@@ -99,6 +99,96 @@ $grp GenericEntity : "{24B7F96197053B39}Prefabs/Compositions/Slotted/SlotRoadSma
   coords 4921.025 27.812 11478.764
  }
 }
+$grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+ {
+  coords 4750.583 0.278 10969.674
+  scale 2
+  {
+   StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+    coords 0 1.486 0
+   }
+   GenericEntity : "{C5341109EB1AB7B5}Prefabs/Destructible/GMFX_Destructible_Radar_RPL5.et" {
+    coords 0 2.597 0
+   }
+  }
+ }
+ {
+  coords 4809.109 -0.105 10967.239
+  scale 2
+  {
+   StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+    coords 0 1.486 0
+   }
+   GenericEntity : "{C5341109EB1AB7B5}Prefabs/Destructible/GMFX_Destructible_Radar_RPL5.et" {
+    coords 0 2.597 0
+   }
+  }
+ }
+ {
+  coords 4800.43 0 11005.659
+  scale 2
+  {
+   StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+    coords 0 1.486 0
+   }
+   GenericEntity : "{C5341109EB1AB7B5}Prefabs/Destructible/GMFX_Destructible_Radar_RPL5.et" {
+    coords 0 2.597 0
+   }
+  }
+ }
+ {
+  coords 4756.251 0 12090.143
+  scale 2
+  {
+   StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+    coords 0 1.486 0
+   }
+   GenericEntity : "{C5341109EB1AB7B5}Prefabs/Destructible/GMFX_Destructible_Radar_RPL5.et" {
+    coords 0 2.597 0
+   }
+  }
+ }
+ {
+  coords 4956.993 -0.417 12075.701
+  angleY -24.958
+  scale 4
+  {
+   StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+    coords 0 1.486 0
+   }
+   GenericEntity : "{C5341109EB1AB7B5}Prefabs/Destructible/GMFX_Destructible_Radar_RPL5.et" {
+    coords 0 2.597 0
+   }
+  }
+ }
+}
+$grp StaticModelEntity : "{3077D0EF6E9C8ACF}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Radar_On_Destructible.et" {
+ {
+  coords 4741.205 0.001 11013.746
+  angleY 0
+  scale 2
+ }
+ {
+  coords 4810.061 0 11037.024
+  angleY 0
+  scale 2
+ }
+ {
+  coords 4815.957 0 12097.449
+  angleY 0
+  scale 2
+ }
+ {
+  coords 4905.552 0 12097.146
+  angleY 0
+  scale 2
+ }
+ {
+  coords 4738.472 0 12155.461
+  angleY 0
+  scale 2
+ }
+}
 $grp GenericEntity : "{41FED15A066D06EC}Prefabs/GM_Props/GuardTower1_GM.et" {
  {
   coords 4911.886 26.712 11492.063
@@ -113,6 +203,29 @@ GenericEntity : "{5C98B0C4BBEDA771}Prefabs/Compositions/Misc/Checkpoint_02.et" {
  coords 4940.806 27.849 11529.813
  angleY -160.451
  angleZ 8.332
+}
+GenericEntity : "{9AEAB32FBB897AC1}Prefabs/Structures/Signs/Military/Sign_FuelStorage_US_01.et" {
+ coords 4910.96 28.806 11947.042
+ angleY -160.835
+}
+GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
+ coords 4904.6 31.528 11645.774
+ angleY -0.564
+}
+$grp GenericEntity : "{BDA27418B5EDAF66}Prefabs/Compositions/Misc/Checkpoint_Long_02.et" {
+ {
+  coords 4929.844 28.594 11645.827
+  angleY 179.019
+ }
+ {
+  coords 4902.802 28.594 11645.363
+  angleY 179.019
+ }
+}
+GenericEntity : "{D174C165E264E087}Prefabs/Structures/Signs/Military/SignRectangle_01_140x100/Sign_BaseEntrance_US_01.et" {
+ coords 4962.412 28.477 11656.37
+ angleY -158.842
+ scale 1.5
 }
 $grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Long_01.et" {
  {
@@ -199,4 +312,18 @@ $grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Lon
 GenericEntity : "{E74D2F51CD4F03D0}Prefabs/Compositions/Slotted/SlotRoadLarge/Checkpoint_L_US_01.et" {
  coords 4929.791 27.661 11487.896
  angleY -172.38
+}
+$grp GenericEntity : "{F4B7F1D4D3ADE456}Prefabs/Structures/Signs/Military/Sign_VehicleRepair_US_01.et" {
+ {
+  coords 4917.075 28.923 11920.201
+  angleY -69.751
+ }
+ {
+  coords 4950.227 28.469 11647.063
+  angleY 131.44
+ }
+ {
+  coords 4951.685 28.402 11668.72
+  angleY 12.997
+ }
 }

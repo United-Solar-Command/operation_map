@@ -4,7 +4,7 @@ $grp GenericEntity : "{4BB9FB8ABBC5BA46}Prefabs/Structures/Signs/Warnings/SignLe
   angleY -129.303
  }
  {
-  coords 4795.589 28.186 11681.196
+  coords 4796.688 28.186 11680.065
   angleY -91.106
  }
 }
@@ -797,10 +797,6 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
     {
      coords 0.065 -1.497 -24.581
     }
-   }
-   GenericEntity : "{BFF74A287E8300FB}Prefabs/Structures/Signs/Military/Sign_CommandPost_US_01.et" {
-    coords -3.548 -0.121 2.996
-    angleY 2.572
    }
    SCR_DestructibleBuildingEntity : "{C04D37FBDE41D819}Prefabs/Structures/Infrastructure/Naval/Piers/Pier_02.et" {
     coords 0.018 -4.741 -29.227

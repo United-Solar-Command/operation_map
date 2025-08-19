@@ -452,7 +452,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 2600.755 -11.159 8161.018
+  coords 2600.755 -10.56 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
