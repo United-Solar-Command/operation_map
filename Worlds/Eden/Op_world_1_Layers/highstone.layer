@@ -1,0 +1,66 @@
+GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barrier_Yellow.et" {
+ coords 4940.425 115.076 8498.69
+ angleY 18.137
+}
+GenericEntity : "{9FFB7FFA1B700ED8}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_1.et" {
+ coords 4943.137 115.05 8533.323
+ angleY -89.694
+}
+$grp GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
+ {
+  coords 4930.138 114.005 8501.211
+  angleY 43.242
+ }
+ {
+  coords 4948.747 115.586 8497.811
+ }
+ {
+  coords 4958.073 115.692 8498.3
+ }
+ {
+  coords 4967.847 115.758 8504.252
+  angleY -50.504
+ }
+ {
+  coords 4945.616 115.709 8498.531
+ }
+}
+$grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+ {
+  coords 4953.725 115.712 8497.625
+  angleY -177.361
+ }
+ {
+  coords 4959.394 115.839 8504.552
+  angleY 163.936
+ }
+ {
+  coords 4964.984 115.929 8511.528
+  angleY 131.732
+ }
+ {
+  coords 4924.325 113.262 8505.821
+  angleY -129.697
+ }
+ {
+  coords 4922.744 113.085 8516.534
+  angleY -91.042
+ }
+ {
+  coords 4936.524 114.723 8499.127
+  angleY -165.037
+ }
+ {
+  coords 4939.48 114.917 8527.352
+ }
+ {
+  coords 4943.001 115.176 8527.352
+ }
+ {
+  coords 4946.518 115.357 8527.352
+ }
+ {
+  coords 4943.363 115.359 8500.844
+  angleY -176.252
+ }
+}

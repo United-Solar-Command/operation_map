@@ -4,6 +4,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
    }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
    }
@@ -22,6 +36,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
   components {
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
    }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
@@ -42,6 +70,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
    }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
    }
@@ -61,6 +103,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
    }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
    }
@@ -79,6 +135,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
   components {
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
    }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
@@ -101,6 +171,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
    }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
    }
@@ -121,6 +205,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
    }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
    }
@@ -139,6 +237,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
   components {
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
+   }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
    }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
@@ -159,6 +271,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
    }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
    }
@@ -178,6 +304,20 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
    Bacon_6522EAB7461F248C_CameraShakeComponent "{6572A1E9110E466B}" {
     Enabled 0
    }
+   Bacon_6522EAB7461F248C_EditableEntityComponentWithFaction "{6572C630E4261C3E}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6572C630FE7382D1}" {
+     Description ""
+     m_sFaction "CIW"
+     m_EntityBudgetCost {
+      SCR_EntityBudgetValue "{65730E84C5022FC8}" {
+       m_Value 0
+      }
+      SCR_EntityBudgetValue "{65730E84CAE4A63C}" {
+       m_Value 0
+      }
+     }
+    }
+   }
    SCR_DamageManagerComponent "{656EDA1FD17D349F}" {
     Enabled 0
    }
@@ -192,75 +332,5 @@ $grp Bacon_6522EAB7461F248C_RobotFactory : "{308E6EF12B0C43BE}6522EAB7461F248C/P
   m_ProducedPrefab ""
   m_fProductionTime 0
   m_iMaxUnits 0
- }
-}
-$grp GenericEntity : "{B904FC3DB708301A}Prefabs/Compositions/Misc/Checkpoint_03.et" {
- {
-  coords 3937.15 20.878 8368.07
-  angleY -150.879
-  {
-   GenericEntity {
-    ID "6568E068500B1346"
-    coords -2.324 0 -0.196
-   }
-   GenericEntity {
-    ID "6568E068500C422B"
-    coords 1.584 2.935 -0.469
-   }
-   GenericEntity {
-    ID "6568E068500C80B1"
-    coords -1.705 2.935 -0.469
-   }
-   GenericEntity {
-    ID "6568E068500C80B7"
-    coords -0.057 2.935 -0.413
-   }
-  }
- }
- {
-  coords 4263.823 70.257 8548.854
-  angleY -177.751
- }
- {
-  coords 4231.266 68.753 8537.89
-  angleY 175.922
- }
-}
-$grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Long_01.et" {
- {
-  coords 3808.346 0.816 8308.293
-  angleY 174.556
- }
- {
-  coords 4014.201 23.498 8380.537
-  angleY 153.454
- }
- {
-  coords 4533.647 79.637 8447.604
-  angleY 167.26
- }
- {
-  coords 4636.708 88.659 8470.659
-  angleY -175.736
- }
- {
-  coords 4433.962 78.061 8465.194
-  angleY -174.779
- }
- {
-  coords 4301.096 72.305 8530.879
-  angleY -175.571
- }
- {
-  coords 4283.911 69.841 8544.033
-  angleY -171.902
- }
- {
-  coords 4324.934 72.377 8547.111
-  angleY 134.306
- }
- {
-  coords 4201.628 65.945 8412.188
-  angleY -172.824
  }
 }

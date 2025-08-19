@@ -1,9 +1,3 @@
-LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
- coords 5857.086 279.222 7266.001
- angleX -14.993
- angleY 19.712
- angleZ -5.296
-}
 $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
  {
   components {
@@ -11,9 +5,42 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
     Enabled 0
    }
   }
-  coords 5857.203 268.65 7263.28
-  angleY 19.015
-  scale 1.5
+  coords 5855.956 238.456 7262.783
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 16.236 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 8.11 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
  }
  {
   components {
@@ -21,9 +48,42 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
     Enabled 0
    }
   }
-  coords 5857.203 254.042 7263.28
-  angleY 19.015
-  scale 1.5
+  coords 3920.072 34.605 7279.632
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
  }
  {
   components {
@@ -31,13 +91,257 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
     Enabled 0
    }
   }
-  coords 5857.203 238.456 7263.28
-  angleY 19.015
-  scale 1.5
+  coords 3327.011 1.725 7233.058
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
  }
-}
-Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
- coords 5857.203 276.332 7263.28
- angleY 1.896
- scale 2
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4625.339 153.763 7306.334
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5277.214 165.271 7283.702
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6506.521 162.781 7304.657
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7135.764 63.85 7325.803
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7303.812 5.58 9329.288
+  angleY -57.851
+  scale 2.5
+  {
+   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 8.11 0
+    }
+    {
+     components {
+      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+       Enabled 0
+      }
+     }
+     coords -0 16.236 0
+    }
+   }
+   Bacon_6522EAB7461F248C_RobotTurret : "{FC85F3CA4BD261CB}6522EAB7461F248C/Prefabs/Vehicles/Turrets/Support/SupportRadar.et" {
+    coords 0.339 22.361 -0.508
+    angleY 1.896
+    scale 0.8
+    {
+     LightEntity : "{26BAA32341638B77}6522EAB7461F248C/Prefabs/Vehicles/Drone/Drone_Searchlight.et" {
+      coords -0.717 4.743 1.957
+      angleX -15.869
+      angleZ -0.612
+      scale 0.5
+      LV 20
+     }
+    }
+   }
+  }
+ }
 }

@@ -68,8 +68,133 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 9570.482 0 9883.097
+  coords 9570.482 0 8837.107
   angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 9454.001 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 9336.409 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 9226.694 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 9107.555 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 8987.992 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.229 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.3 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.11 0 -0.033
+   }
+  }
+ }
+ {
+  coords 8871.623 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 815.512 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -86,8 +211,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 9454.001 0 9883.097
-  angleY 180
+  coords 930.125 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -104,8 +228,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 9336.409 0 9883.097
-  angleY 180
+  coords 1046.407 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -122,8 +245,7 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 9226.697 0 9883.097
-  angleY 180
+  coords 1157.97 0 8161.018
   {
    GenericEntity {
     ID "66075EC6100C3C88"
@@ -136,6 +258,317 @@ $grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_w
    GenericEntity {
     ID "66075EC6100CB4D9"
     coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 1265.55 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 1376.617 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 1481.42 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 1592.855 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 1707.771 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 1811.961 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 1913.919 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 2022.501 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 8754.678 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 8634.943 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 8283.191 -9.799 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 2600.755 -11.159 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 2140.104 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 8400.183 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
+   }
+  }
+ }
+ {
+  coords 2257.588 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 2369.402 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 2485.871 0 8161.018
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.032
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.032
+   }
+  }
+ }
+ {
+  coords 8517.74 0 8837.107
+  angleY 180
+  {
+   GenericEntity {
+    ID "66075EC6100C3C88"
+    coords -13.23 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100C3C89"
+    coords -46.301 0 -0.033
+   }
+   GenericEntity {
+    ID "66075EC6100CB4D9"
+    coords -29.111 0 -0.033
    }
   }
  }
@@ -163,7 +596,7 @@ $grp GenericEntity : "{52867C2F322D2D3F}Prefabs/Compositions/Misc/Bacon_Droids_w
   }
  }
  {
-  coords 9809.994 0 9883.365
+  coords 9809.994 0 8837.377
   {
    GenericEntity {
     ID "66075EC627E4F272"

@@ -1,0 +1,31 @@
+GenericEntity Bacon_Droids_short_wall_01 : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
+ coords 4693.148 129.42 7797.347
+ {
+  $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+   {
+    components {
+     SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+      Enabled 0
+      m_bVisible 0
+     }
+    }
+    coords 11.991 0.506 0.007
+    scale 1.5
+   }
+   {
+    components {
+     SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+      Enabled 0
+      m_bVisible 0
+     }
+    }
+    coords -12.978 0.506 0.007
+    scale 1.5
+   }
+  }
+ }
+}
+GenericEntity : "{C1D570023D9B08C5}Prefabs/Compositions/Misc/Bacon_Droids_short_wall_01.et" {
+ coords 4633.073 120.284 7977.054
+ angleY -10.457
+}

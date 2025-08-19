@@ -1,0 +1,7 @@
+StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
+ coords 6724.731 0.872 9634.748
+}
+GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ coords 6702.912 4.282 9643.339
+ angleY 135
+}

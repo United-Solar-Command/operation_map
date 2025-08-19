@@ -235,21 +235,6 @@ $grp StaticModelEntity : "{57079BB7909D8CF8}Prefabs/Structures/Military/Fortific
   angleZ 2.64
  }
 }
-$grp GenericEntity : "{572738F32E383E3D}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_Model2_Curve.et" {
- {
-  coords 4049.471 37.128 7934.281
-  angleX 4.056
-  angleY 20.149
-  angleZ -3.265
-  scale 1.23
- }
- {
-  coords 4183.606 43.591 7701.812
-  angleX 0.81
-  angleY 141.267
-  angleZ 5.321
- }
-}
 GenericEntity : "{96D71CB478F8DF27}Prefabs/Compositions/Misc/FreeRoamBuilding/FloodlightGenerator_S_US_01.et" {
  coords 4215.123 67.423 8421.602
  angleY -33.912
@@ -259,13 +244,6 @@ GenericEntity : "{972F01488E5B23C2}Prefabs/Structures/Military/CamoNets/US/CamoN
  coords 4416.067 75.44 8525.762
  angleY -123.956
  scale 1.5
-}
-GenericEntity : "{C0BCE9A4077AF642}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_Model2_T.et" {
- coords 3977.806 30.59 7965.225
- angleX -2.27
- angleY -18.521
- angleZ -3.951
- scale 1.46
 }
 StaticModelEntity : "{CF1FFB7BAA1A0769}Prefabs/Structures/Military/Camps/HelipadImprovised_01/HelipadImprovised_US_01.et" {
  coords 4205.212 0.762 8434.534

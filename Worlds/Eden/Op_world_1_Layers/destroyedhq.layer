@@ -1,0 +1,390 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{661B27658118A801}" {
+    Object "{8418C4C58ADA8B8B}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_R.xob"
+   }
+  }
+  coords 4355.861 86.91 7975.532
+  angleX 38.129
+  angleY -81.075
+ }
+ {
+  components {
+   MeshObject "{661B276582201D79}" {
+    Object "{7513FC91F985BE67}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_L.xob"
+   }
+  }
+  coords 4376.635 89.203 7967.686
+  angleX 51.268
+  angleY 75.132
+ }
+ {
+  components {
+   MeshObject "{661B2765A0EF8922}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+  }
+  coords 4364.594 87.241 7965.897
+  angleX -30.654
+  angleY -135.775
+ }
+}
+$grp ParticleEffectEntity {
+ {
+  coords 4320.308 97.203 7956.724
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4325.304 96.035 7950.079
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4320.157 95.094 7952.349
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4320.149 88.413 7945.185
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4320.886 91.98 7959.666
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4328.576 94.749 7951.278
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4333.735 93.588 7973.006
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4330.232 91.986 7973.241
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4336.433 95.688 7968.526
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4332.064 92.343 7975.632
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4333.036 93.595 7971.344
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4336.605 85.133 7975.166
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4344.032 85.553 7970.8
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4324.922 84.899 7961.335
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4330.024 85.418 7959.14
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4326.787 89.729 7959.738
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4323.236 90.708 7961.614
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4323.762 90.1 7962.415
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4308.57 89.88 7960.014
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4304.694 89.871 7958.721
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4311.642 85.319 7969.095
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4315.474 84.917 7969.677
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4317.01 85.449 7970.357
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4334.668 89.843 7933.871
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4337.329 87.397 7935.688
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4334.217 88.355 7939.36
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4380.523 92.126 7956.501
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4376.581 92.039 7957.409
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4375.492 89.504 7951.82
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4380.348 89.993 7951.13
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4378.967 90.082 7954.367
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4377.948 90.571 7955.969
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4365.708 93.357 7967.307
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4360.372 91.086 7968.908
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4366.24 91.354 7962.944
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4360.471 88.947 7963.127
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4368.598 95.884 7970.11
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4377.511 91.757 7967.973
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4368.955 88.119 7968.657
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 4356.539 87.302 7975.204
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 4354.006 88.137 7975.608
+  EffectPath "{000F941FF7EB64F8}Prefabs/Systems/Fire/Fire_V2_Medium.ptc"
+ }
+}
+$grp StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
+ {
+  coords 4319.174 0.275 7939.615
+  angleX -3.198
+  angleY 33.663
+  angleZ 0.073
+  scale 0.8
+ }
+ {
+  coords 4356.637 0.215 7974.299
+  angleX -1.27
+  angleY -31.33
+  angleZ -8.037
+ }
+ {
+  coords 4362.735 -0.051 7967.401
+  angleX -12.873
+  angleY -40.858
+  angleZ -14.533
+ }
+ {
+  coords 4333.397 -0.183 7971.52
+  angleX -0.956
+  angleY -74.975
+  angleZ -3.395
+  scale 3
+ }
+ {
+  coords 4324.218 -0.005 7949.877
+  angleX -12.078
+  angleY 36.317
+  scale 1.25
+ }
+ {
+  coords 4365.844 -0.076 7963.91
+  angleX 9.123
+  angleY -55.09
+  angleZ -7.469
+ }
+ {
+  coords 4376.755 0.182 7968.011
+  angleY -13.68
+ }
+ {
+  coords 4377.137 0.067 7967.03
+ }
+ {
+  coords 4326.12 0.23 7956.875
+  angleX -22.325
+  angleY 32.181
+  scale 3
+ }
+ {
+  coords 4356.878 0.077 7976.058
+  angleY 32.955
+  angleZ -0.622
+ }
+ {
+  coords 4339.171 -0.439 7973.921
+  angleX -2.597
+  angleY -141.115
+  angleZ 12.685
+  scale 4
+ }
+ {
+  coords 4366.063 -0.097 7963.748
+  angleX -14.181
+  angleY -50.124
+  angleZ -7.152
+ }
+ {
+  coords 4362.154 0.076 7961.558
+  angleY -6.167
+ }
+ {
+  coords 4342.759 1.441 7966.479
+  angleX -12.943
+  angleY -62.498
+  scale 2
+ }
+ {
+  coords 4321.219 -0.107 7945.799
+  angleX -12.078
+  angleY 36.317
+  scale 1.25
+ }
+ {
+  coords 4337.457 0.282 7966.518
+  angleX -12.692
+  angleY 33.172
+  angleZ -13.064
+  scale 3
+ }
+ {
+  coords 4365.018 -0.018 7966.733
+  angleY 31.731
+ }
+ {
+  coords 4362.545 -0.011 7967.596
+  angleX 10.211
+  angleY -46.768
+  angleZ -14.393
+ }
+ {
+  coords 4312.58 0.492 7943.982
+  angleX -3.198
+  angleY 33.663
+  angleZ 0.073
+  scale 0.8
+ }
+ {
+  coords 4360.279 0.087 7963.447
+  angleY 103.951
+ }
+}
+GenericEntity : "{7BF0DC8F426943F5}Prefabs/Compositions/Slotted/Headquarters_S_Enforcers_01.et" {
+ coords 4334.79 86.436 7933.566
+ angleY 22.898
+}
+GenericEntity : "{8B4B8BF44162B24E}Prefabs/Compositions/Slotted/SlotFlatSmall/Antenna_S_US_01.et" {
+ coords 4307.101 86.664 7956.739
+ angleY 95.165
+}
+$grp GenericEntity : "{917158017F425567}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_US_01.et" {
+ {
+  coords 4315.052 84.222 7967.468
+  angleY -15.951
+ }
+ {
+  coords 4334.534 85.223 7964.589
+  angleY 27.123
+ }
+ {
+  coords 4345.694 87.111 7927.022
+  angleY 157.195
+ }
+ {
+  coords 4351.277 87.187 7946.956
+  angleY 75.112
+ }
+}
+GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_4_(Stacked).et" {
+ components {
+  MeshObject "{617227549D5ED9D2}" {
+   Materials {
+    MaterialAssignClass "{61722754E22780DF}" {
+     SourceMaterial "ATR_Logo"
+     AssignedMaterial "{8E84910B8F506154}Assets/Structures/Vanilla/Data/ATR_Logo.emat"
+    }
+    MaterialAssignClass "{61722754E2278024}" {
+     SourceMaterial "ATR_TowerNumber"
+     AssignedMaterial "{4F9328E9B1A36D83}Assets/Structures/Vanilla/Data/ATR_TowerNumber_2.emat"
+    }
+   }
+  }
+ }
+ coords 4318.418 81.47 7945.388
+ angleX 50.022
+ angleY -145.21
+ {
+  GenericEntity {
+   ID "61722754CABC2FC4"
+   components {
+    MeshObject "{611575FBA43A0498}" {
+     Materials {
+      MaterialAssignClass "{661ADD886EBF8444}" {
+       SourceMaterial "ATR_TowerNumber"
+       AssignedMaterial "{4F9328E9B1A36D83}Assets/Structures/Vanilla/Data/ATR_TowerNumber_2.emat"
+      }
+     }
+    }
+   }
+   coords -0.647 16.585 -4.904
+   angleX -13.977
+   angleY 111.254
+   angleZ 31.84
+  }
+ }
+}
+GenericEntity : "{ECB8E313DFBD3415}Prefabs/Compositions/Slotted/SlotFlatSmall/VehicleMaintenance_S_US_01.et" {
+ coords 4378.143 89.794 7953.698
+ angleY -171.94
+ {
+  GenericEntity {
+   ID "5D088D17AECAF9D3"
+   coords -0.073 0.015 -3.299
+   angleX 6.305
+   angleY -90.513
+   angleZ -0.064
+  }
+ }
+}

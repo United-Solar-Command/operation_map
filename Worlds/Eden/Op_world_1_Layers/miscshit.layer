@@ -1,0 +1,38 @@
+GenericEntity : "{1AF9E0A02075CBB0}Prefabs/MP/Campaign/Bases/Campaign_Antenna_US.et" {
+ coords 5366.61 42.792 11025.837
+}
+$grp GenericEntity : "{CF4F7AEE0BFA7B25}Prefabs/Props/Military/Compositions/US/Antenna_01_US.et" {
+ {
+  coords 5418.188 39.958 11080.683
+ }
+ {
+  coords 5381.534 42.827 11052.469
+ }
+ {
+  coords 5024.01 47.358 9493.086
+ }
+ {
+  coords 6833.072 88.915 8156.092
+ }
+ {
+  coords 5915.266 53.708 8326.742
+ }
+}
+$grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Long_01.et" {
+ {
+  coords 4503.493 78.19 8451.623
+  angleY -176.646
+ }
+ {
+  coords 4433.962 78.061 8465.194
+  angleY -174.779
+ }
+ {
+  coords 4536.238 79.922 8452.947
+  angleY 176.344
+ }
+ {
+  coords 4636.708 88.659 8470.659
+  angleY -175.736
+ }
+}

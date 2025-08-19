@@ -1,0 +1,83 @@
+$grp GenericEntity : "{362A646F1A24D078}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallShort.et" {
+ {
+  coords 4848.646 116.096 8143.767
+  angleY 4.961
+ }
+ {
+  coords 4832.953 117.49 8139.89
+  angleY -38.144
+ }
+ {
+  coords 4816.673 117.415 8121.063
+  angleY -63.057
+ }
+ {
+  coords 4888.059 110.3 8126.833
+  angleY 44.219
+  angleZ 3.814
+ }
+ {
+  coords 4888.754 112.668 8056.001
+  angleY -59.716
+  angleZ 3.981
+ }
+ {
+  coords 4875.36 114.226 8033.329
+  angleY -59.219
+ }
+ {
+  coords 4864.876 113.611 8143.427
+  angleY 34.695
+  angleZ 16.035
+ }
+ {
+  coords 4823.687 117.18 8131.084
+  angleY -48.435
+ }
+ {
+  coords 4814.631 117.415 8108.372
+  angleY -90.967
+ }
+ {
+  coords 4879.979 111.13 8134.099
+  angleX 0.39
+  angleY 40.703
+  angleZ 5.66
+ }
+ {
+  coords 4896.464 109.409 8116.297
+  angleX -0.889
+  angleY 57.687
+  angleZ 3.709
+ }
+ {
+  coords 4904.807 108.467 8103.073
+  angleX -0.79
+  angleY 66.909
+  angleZ -0.681
+ }
+ {
+  coords 4904.11 108.674 8091.125
+  angleY -74.889
+ }
+ {
+  coords 4901.122 108.584 8080.057
+  angleY -62.314
+ }
+ {
+  coords 4894.375 111.225 8065.626
+  angleY -59.716
+  angleZ 7.377
+ }
+ {
+  coords 4882.56 113.652 8045.394
+  angleX -0.218
+  angleY -56.588
+  angleZ 3.975
+ }
+ {
+  coords 4867.562 115.704 8020.238
+  angleY -59.219
+  angleZ 13.408
+ }
+}

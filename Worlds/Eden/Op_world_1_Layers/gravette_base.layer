@@ -1,36 +1,42 @@
-$grp GenericEntity : "{3E0D296F4DD6270C}PrefabsEditable/Auto/Structure/Military_Concrete_block_angle.et" {
- {
-  components {
-   SCR_EditableEntityComponent "{6486F30929E0D77A}" {
-    Enabled 0
-   }
+GenericEntity : "{3E0D296F4DD6270C}PrefabsEditable/Auto/Structure/Military_Concrete_block_angle.et" {
+ components {
+  SCR_EditableEntityComponent "{6486F30929E0D77A}" {
+   m_bStatic 1
   }
-  coords 3967.723 16.019 8505.588
-  scale 2.34
  }
- {
-  components {
-   SCR_EditableEntityComponent "{6486F30929E0D77A}" {
-    Enabled 0
-   }
-  }
-  coords 3938.859 17.006 8384.508
-  angleY 98.596
-  scale 2.34
- }
+ coords 3967.723 16.019 8505.588
+ scale 2.34
+}
+StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
+ coords 3789.299 1.017 8484.146
 }
 $grp SCR_DestructibleBuildingEntity : "{5E611F88D50169BE}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Tent_Vazio_Dormit.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{6558D7B57025F12B}" {
+    m_bStatic 1
+   }
+  }
   coords 3945.328 0.233 8464.24
   angleX 2.907
   angleY 93.97
  }
  {
+  components {
+   SCR_EditableEntityComponent "{6558D7B57025F12B}" {
+    m_bStatic 1
+   }
+  }
   coords 3944.552 0.165 8453.086
   angleX 2.907
   angleY 93.97
  }
  {
+  components {
+   SCR_EditableEntityComponent "{6558D7B57025F12B}" {
+    m_bStatic 1
+   }
+  }
   coords 3943.813 0.244 8440.82
   angleX 2.895
   angleY 99.242
@@ -38,6 +44,11 @@ $grp SCR_DestructibleBuildingEntity : "{5E611F88D50169BE}Prefabs/Compositions/Mi
  }
 }
 GenericEntity : "{68226950F7E32DD7}Prefabs/Compositions/Misc/Checkpoint_Vehicle_02.et" {
+ components {
+  SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+   m_bStatic 1
+  }
+ }
  coords 3924.762 13.645 8523.362
  angleY 0
 }
@@ -45,7 +56,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3927.345 13.734 8511.782
@@ -55,7 +66,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3937.752 14.482 8511.316
@@ -65,7 +76,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3948.306 15.567 8510.985
@@ -76,7 +87,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3966.885 16.057 8495.194
@@ -86,7 +97,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3965.458 16.057 8485.122
@@ -96,7 +107,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3963.961 16.057 8474.681
@@ -106,7 +117,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3962.438 16.057 8464.263
@@ -116,7 +127,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3960.636 16.057 8453.966
@@ -126,7 +137,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3958.362 16.057 8443.768
@@ -136,7 +147,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3955.775 16.057 8433.604
@@ -146,7 +157,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3953.117 16.057 8423.268
@@ -156,7 +167,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3950.461 16.015 8412.796
@@ -168,7 +179,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3947.814 16.366 8402.21
@@ -179,7 +190,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3928.406 16.989 8385.746
@@ -189,7 +200,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3917.955 16.432 8386.721
@@ -199,7 +210,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3907.615 15.694 8387.685
@@ -209,7 +220,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3897.411 14.828 8388.632
@@ -220,7 +231,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3886.671 14.196 8389.843
@@ -230,7 +241,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3876.184 13.454 8391.267
@@ -240,7 +251,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3865.768 12.939 8392.65
@@ -251,7 +262,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3855.439 12.147 8394.104
@@ -262,7 +273,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3845.061 11.453 8395.568
@@ -273,7 +284,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3834.638 11.116 8397.04
@@ -284,7 +295,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3824.06 10.476 8398.657
@@ -296,7 +307,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3813.716 9.77 8400.438
@@ -308,7 +319,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3804.042 9.229 8402.101
@@ -320,7 +331,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3794.327 6.161 8403.774
@@ -332,7 +343,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3784.061 4.087 8405.541
@@ -344,7 +355,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3773.712 2.953 8407.318
@@ -356,7 +367,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3763.505 1.008 8409.075
@@ -368,7 +379,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3752.898 0.066 8410.9
@@ -380,7 +391,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3742.838 -0.976 8412.631
@@ -392,7 +403,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3732.506 -2.108 8414.409
@@ -404,7 +415,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{6486F30CBA01C111}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3722.188 -3.02 8416.185
@@ -418,30 +429,51 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
  {
   components {
    SCR_EditableEntityComponent "{61651602213188D9}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
-  coords 3944.262 15.044 8503.463
+  coords 3944.262 2.421 8503.463
+  {
+   GenericEntity {
+    ID "61697982A6512635"
+    {
+     GenericEntity {
+      ID "61697982A6514D81"
+      components {
+       ActionsManagerComponent "{612533618DEE65AD}" {
+        Enabled 0
+       }
+      }
+     }
+    }
+   }
+  }
  }
  {
   components {
    SCR_EditableEntityComponent "{61651602213188D9}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3921.949 15.262 8394.05
   angleY -171.936
  }
  {
-  coords 3749.464 0.527 8418.489
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    m_bStatic 1
+   }
+  }
+  coords 3749.92 -2.285 8420.161
   angleY -171.936
+  angleZ -47.601
  }
 }
 $grp GenericEntity : "{8FF048995874037E}PrefabsEditable/Auto/Structure/Military_concrete_barrier.et" {
  {
   components {
    SCR_EditableEntityComponent "{64C4BD2F730B6174}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3955.186 16.008 8510.838
@@ -451,7 +483,7 @@ $grp GenericEntity : "{8FF048995874037E}PrefabsEditable/Auto/Structure/Military_
  {
   components {
    SCR_EditableEntityComponent "{64C4BD2F730B6174}" {
-    Enabled 0
+    m_bStatic 1
    }
   }
   coords 3946.228 16.651 8395.812
@@ -459,14 +491,46 @@ $grp GenericEntity : "{8FF048995874037E}PrefabsEditable/Auto/Structure/Military_
   scale 2.34
  }
 }
+GenericEntity : "{B904FC3DB708301A}Prefabs/Compositions/Misc/Checkpoint_03.et" {
+ coords 3937.15 20.138 8368.07
+ angleY -150.879
+ {
+  GenericEntity {
+   ID "6568E068500B1346"
+   coords -2.324 0 -0.196
+  }
+  GenericEntity {
+   ID "6568E068500C422B"
+   coords 1.584 2.935 -0.469
+  }
+  GenericEntity {
+   ID "6568E068500C80B1"
+   coords -1.705 2.935 -0.469
+  }
+  GenericEntity {
+   ID "6568E068500C80B7"
+   coords -0.057 2.935 -0.413
+  }
+ }
+}
 SCR_DestructibleBuildingEntity : "{BB3A4D0D66C39921}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Tent_Command.et" {
  components {
   SCR_EditableEntityComponent "{6558D7B662E703A2}" {
-   Enabled 0
+   m_bStatic 1
   }
  }
  coords 3929.353 0.058 8464.797
  angleX -0.832
  angleY 2.356
  angleZ -1.707
+}
+$grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Long_01.et" {
+ {
+  coords 3808.346 0.816 8308.293
+  angleY 174.556
+ }
+ {
+  coords 4014.201 23.498 8380.537
+  angleY 153.454
+ }
 }

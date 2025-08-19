@@ -1,0 +1,417 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{6626958AAD1E1D23}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   RigidBody "{6626958A9A7DD05C}" {
+    SimState Collision
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 3697.147 -6.22 8570.588
+  angleX -65.229
+  angleY 131.249
+ }
+ {
+  components {
+   MeshObject "{6626958A8591286F}" {
+    Object "{7513FC91F985BE67}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_L.xob"
+   }
+   RigidBody "{662695897613175F}" {
+    SimState Collision
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 3700.922 1.198 8586.711
+  angleX -22.831
+  angleY 177.538
+  angleZ -23.656
+ }
+ {
+  components {
+   MeshObject "{6626958970F59DEC}" {
+    Object "{8418C4C58ADA8B8B}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_R.xob"
+   }
+   RigidBody "{662695897A0E6CD4}" {
+    SimState Collision
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 3679.119 0.499 8558.576
+  angleX -47.116
+  angleY 116.153
+ }
+ {
+  components {
+   MeshObject "{65856D561937028F}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   RigidBody "{65856D560C219D5B}" {
+    SimState Collision
+    ModelGeometry 1
+    Static 1
+   }
+   SCR_DamageManagerComponent "{66269589A3924F5F}" {
+    Enabled 0
+    m_iMinimumBurningState BURNING
+   }
+   RplComponent "{66269589B6017F0F}" {
+   }
+   Hierarchy "{66269589B538FBFC}" {
+   }
+  }
+  coords 3939.442 14.516 8497.878
+  angleX -23.6
+  angleY 35.008
+  angleZ 2.392
+ }
+}
+$grp ParticleEffectEntity {
+ {
+  coords 3753.315 7.03 8414.782
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3759.298 10.592 8412.408
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3763.519 8.706 8413.964
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3759.811 13.737 8421.501
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3757.397 12.205 8414.978
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3762.301 9.78 8424.588
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3759.466 1.509 8420.058
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3765.062 3.034 8424.169
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3748.115 1.215 8425.97
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3750.701 3.813 8420.259
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3756.109 11.466 8421.98
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3753.561 1.163 8424.711
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3761.158 11.814 8417.534
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3765.967 10.806 8420.464
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3753.561 1.373 8417.998
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3946.082 20.417 8500.354
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3943.596 22.95 8502.126
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3949.95 20.318 8500.726
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3940.18 20.417 8500.556
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3941.719 20.417 8507.302
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3946.1 20.417 8508.611
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3944.108 20.417 8505.445
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3925.904 17.926 8505.456
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3928.509 17.865 8508.799
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3922.609 18.014 8508.653
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3922.482 18.011 8504.397
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3911.86 18.183 8506.107
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3901.043 19.169 8490.147
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3903.182 18.483 8482.075
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3924.731 15.287 8468.358
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3938.091 15.878 8450.274
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3939.14 15.817 8467.004
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3782.559 12.075 8477.854
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3796.898 12.052 8476.263
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3796.326 12.075 8491.161
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3676.189 1.424 8560.229
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3678.364 1.778 8557.799
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3700.593 2.215 8585.93
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3700.373 1.333 8590.118
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3696.508 3.68 8570.228
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3697.942 2.058 8569.816
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3811.86 21.209 8409.524
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3689.047 1.351 8576.028
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3680.64 2.678 8572.383
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3685.841 2.203 8580.11
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3947.64 17.507 8495.604
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3938.259 20.451 8495.738
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3945.973 23.975 8502.161
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3674.373 1.487 8565.769
+  EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
+ }
+ {
+  coords 3698.657 3.337 8572.15
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3701.571 3.352 8587.14
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3679.086 2.144 8559.358
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3682.017 1.37 8568.6
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3691.854 1.333 8583.41
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3710.229 8.89 8607.932
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3678.444 1.357 8553.075
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3685.972 1.317 8547.118
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+ {
+  coords 3685.625 2.161 8543.652
+  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+ }
+}
+$grp StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
+ {
+  coords 3941.678 -0.186 8496.802
+  angleX -0.03
+  angleY -46.431
+  angleZ 18.595
+ }
+ {
+  coords 3938.311 -0.114 8500.006
+  angleX -0.03
+  angleY -46.431
+  angleZ 18.595
+ }
+ {
+  coords 3939.285 0.187 8497.532
+  angleX 18.595
+  angleY -136.486
+  angleZ 0.011
+ }
+ {
+  coords 3939.399 0.125 8508.177
+  angleX -8.838
+  angleY -90.588
+ }
+ {
+  coords 3939.427 0.358 8505.385
+  angleX -8.838
+  angleY -90.588
+ }
+ {
+  coords 3939.453 0.223 8502.762
+  angleX -8.838
+  angleY -90.588
+ }
+ {
+  coords 3939.481 0.006 8500.083
+  angleX -8.838
+  angleY -90.588
+ }
+ {
+  coords 3943.546 -0.013 8497.843
+  angleZ -11.46
+ }
+ {
+  coords 3946.628 -0.047 8497.608
+  angleZ -3.055
+ }
+ {
+  coords 3948.189 0.064 8494.466
+  angleX -0.491
+  angleY -9.239
+  angleZ -3.016
+ }
+ {
+  coords 3949.832 0.083 8496.309
+  angleX -3.051
+  angleY -86.954
+  angleZ -0.162
+ }
+ {
+  coords 3946.785 0.059 8495.732
+  angleX -3.051
+  angleY -86.954
+  angleZ -0.162
+ }
+ {
+  coords 3950.257 0.034 8499.149
+  angleY -91.745
+ }
+ {
+  coords 3950.213 0.349 8502.229
+  angleX 11.822
+  angleY -97.982
+ }
+ {
+  coords 3949.316 0.441 8504.633
+  angleX -0.572
+  angleY -91.41
+  angleZ -0.066
+ }
+ {
+  coords 3949.473 0.131 8507.848
+  angleX -0.572
+  angleY -91.41
+  angleZ -0.066
+ }
+}
+GenericEntity : "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et" {
+ components {
+  SCR_DamageManagerComponent "{3EBB276D48AFFF41}" {
+   Enabled 0
+   m_iMinimumBurningState BURNING
+  }
+ }
+ coords 3945.794 22.408 8502.951
+ angleX 38.762
+ angleY -111.988
+ angleZ -4.578
+}
+GenericEntity : "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et" {
+ components {
+  SCR_DamageManagerComponent "{3EBB276D48AFFF41}" {
+   Enabled 0
+   m_iMinimumBurningState BURNING
+  }
+ }
+ coords 3948.315 16.507 8496.421
+ angleX 7.943
+ angleY -178.447
+ angleZ 93.872
+}
