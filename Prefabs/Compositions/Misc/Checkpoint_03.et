@@ -7,22 +7,10 @@ GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrier
    coords -2.324 0 -0.197
    angleY -90
   }
-  $grp GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
-   {
-    ID "6568E068500C422B"
-    coords 1.584 2.935 -0.469
-    angleY -180
-   }
-   {
-    ID "6568E068500C80B1"
-    coords -1.705 2.935 -0.469
-    angleY -180
-   }
-   {
-    ID "6568E068500C80B7"
-    coords -0.057 2.935 -0.414
-    angleY -180
-   }
+  GenericEntity : "{A46B934D3820FDDE}PrefabsEditable/Auto/Structure/Concrete_barrier.et" {
+   ID "6568E068500C422B"
+   coords 1.584 2.935 -0.469
+   angleY -180
   }
  }
 }

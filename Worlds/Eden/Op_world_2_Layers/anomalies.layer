@@ -1,0 +1,186 @@
+GenericEntity : "{1112756E8A13445B}Prefabs/Props/Industrial/Pallets/Pallet_01_Pile.et" {
+ coords 5841.421 15.688 9784.104
+ angleX -36.047
+ angleY -12.167
+ angleZ 62.773
+}
+SCR_IndestructibleEnvironmentalEntity : "{222C1EE5EC0F0185}Prefabs/Anomalys/GravityDefiant/Floating_2_Forest.et" {
+ coords 5875.983 0 9795.333
+ angleX 38.027
+}
+SCR_DestructibleEntity : "{3E4497B965824BD3}Prefabs/Props/Decorations/Flowerpots/FlowerpotStreet_01/FlowerpotStreet_01_octa_Base.et" {
+ coords 5834.261 27.116 9789.74
+ angleX -43.824
+ angleY 67.885
+ angleZ 160.394
+}
+Tree : "{63DC62906A5917F3}Prefabs/Vegetation/Tree/t_populus_nigra/t_populus_nigra_3s.et" {
+ coords 5828.636 23.779 9764.483
+ angleX -35.679
+ angleY -94.092
+ angleZ -39.474
+}
+$grp GenericEntity : "{7D52C517720EF2F5}Prefabs/Props/Industrial/BarrelMetal_01_blue.et" {
+ {
+  coords 5837.845 28.77 9736.18
+  angleX -14.834
+  angleY 28.986
+  angleZ -65.196
+ }
+ {
+  coords 5828.695 33.771 9737.147
+  angleX -52.152
+  angleY 0.916
+  angleZ 14.886
+ }
+ {
+  coords 5833.811 44.018 9739.653
+  angleX -17.332
+  angleY -106.826
+  angleZ 56.833
+ }
+ {
+  coords 4973.404 36.915 9149.121
+ }
+ {
+  coords 4973.628 36.915 9148.174
+ }
+ {
+  coords 4973.493 36.915 9147.257
+ }
+ {
+  coords 3922.823 14.437 8508.675
+ }
+ {
+  coords 3922.823 15.494 8508.675
+ }
+}
+$grp GenericEntity : "{88A64A32F78CFB77}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_20ft_blue.et" {
+ {
+  coords 5802.631 24.498 9740.147
+  angleX 70.022
+  angleY 29.829
+  angleZ 143.343
+ }
+ {
+  coords 5806.197 35.275 9732.159
+  angleX -3.883
+  angleY 27.591
+  angleZ 71.191
+ }
+ {
+  coords 5809.115 30.605 9744.76
+  angleX -35.163
+  angleY -77.069
+  angleZ 39.225
+ }
+ {
+  coords 5794.804 23.311 9725.377
+  angleX 52.491
+  angleZ 58.109
+ }
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{A3627A01D7D35D03}Prefabs/Anomalys/GravityDefiant/Floating_3_Forest_2.et" {
+ {
+  coords 5884.758 4.374 9753.521
+ }
+ {
+  coords 5884.758 8.058 9753.521
+  angleX -25.055
+  angleY -124.373
+ }
+}
+$grp GenericEntity : "{ADE39FE043B89B0A}Prefabs/Props/Industrial/ConcretePanel_01_B.et" {
+ {
+  coords 5812.739 17.275 9721.618
+  angleX 38.555
+  angleY -79.898
+ }
+ {
+  coords 5817.396 20.601 9724.485
+  angleX 38.555
+  angleY -79.898
+  angleZ -107.504
+ }
+ {
+  coords 5814.827 24.865 9726.613
+  angleX 53.369
+  angleY -143.662
+  angleZ -97.668
+ }
+ {
+  coords 5840.788 44.123 9732.731
+  angleX 24.977
+  angleY -79.272
+  angleZ -85.426
+ }
+ {
+  coords 5843.367 42.9 9741.337
+  angleX 58.029
+  angleY 13.394
+  angleZ 5.185
+ }
+ {
+  coords 5839.887 49.46 9740.522
+  angleX 58.029
+  angleY 13.394
+  angleZ 111.64
+ }
+ {
+  coords 5828.816 49.984 9742.296
+  angleX 13.106
+  angleY 14.798
+  angleZ 178.948
+ }
+ {
+  coords 5834.125 47.399 9728.688
+  angleX -54.205
+  angleY 17.706
+  angleZ 86.931
+ }
+}
+$grp GenericEntity : "{D7F69BF7D2DCA0A8}Prefabs/Props/Industrial/Pallets/Pallet_01.et" {
+ {
+  coords 5847.215 13.55 9775.364
+  angleY -9.251
+  angleZ -57.714
+ }
+ {
+  coords 5841.997 18.178 9774.515
+  angleX 31.474
+  angleY -84.923
+  angleZ -99.087
+ }
+ {
+  coords 5844.008 23.795 9767.401
+  angleX 6.549
+  angleY -147.561
+  angleZ -122.037
+ }
+ {
+  coords 5839.504 35.102 9749.539
+  angleX -16.864
+  angleY 81.058
+  angleZ 30.876
+ }
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{D85AE739BA95E151}Prefabs/Anomalys/GravityDefiant/Floating_1.et" {
+ {
+  coords 5819.634 -3.375 9713.042
+ }
+ {
+  coords 5815.984 16.07 9731.444
+ }
+}
+GenericEntity : "{E5C8E180652682BC}Prefabs/Props/Industrial/GasTank_01_base.et" {
+ coords 5835.552 49.961 9744.312
+ angleX -38.426
+ angleY -9.82
+ angleZ 105.563
+}
+Tree : "{F0B4F9601CEF4BE3}Prefabs/Vegetation/Tree/t_alnus_glutinosa/t_alnus_glutinosa_3s.et" {
+ coords 5869.563 49.415 9753.446
+ angleX 34.593
+ angleY 180
+ angleZ -180
+}

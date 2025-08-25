@@ -234,8 +234,10 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
     m_bStatic 1
    }
   }
-  coords 3886.671 14.196 8389.843
-  angleY 97.639
+  coords 3886.338 15.818 8387.356
+  angleX 5.807
+  angleY 100.458
+  angleZ -65.925
   scale 2.34
  }
  {
@@ -244,8 +246,10 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
     m_bStatic 1
    }
   }
-  coords 3876.184 13.454 8391.267
-  angleY 97.58
+  coords 3876.278 15.853 8392.019
+  angleX 9.112
+  angleY 97.475
+  angleZ 95.868
   scale 2.34
  }
  {
@@ -334,10 +338,10 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
     m_bStatic 1
    }
   }
-  coords 3794.327 6.161 8403.774
-  angleX 7.022
-  angleY 99.764
-  angleZ 0.056
+  coords 3794.129 7.018 8403.696
+  angleX 14.699
+  angleY 101.043
+  angleZ -82.666
   scale 2.34
  }
  {
@@ -346,10 +350,10 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
     m_bStatic 1
    }
   }
-  coords 3784.061 4.087 8405.541
+  coords 3782.314 4.365 8395.59
   angleX 7.022
   angleY 99.764
-  angleZ 0.056
+  angleZ 111.821
   scale 2.34
  }
  {
@@ -358,10 +362,10 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
     m_bStatic 1
    }
   }
-  coords 3773.712 2.953 8407.318
+  coords 3773.712 2.953 8407.316
   angleX 5.14
   angleY 99.762
-  angleZ 0.055
+  angleZ -63.198
   scale 2.34
  }
  {
@@ -373,7 +377,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
   coords 3763.505 1.008 8409.075
   angleX 5.14
   angleY 99.762
-  angleZ 0.055
+  angleZ -8.747
   scale 2.34
  }
  {
@@ -452,37 +456,6 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
     }
     {
      components {
-      MeshObject "{6626958A8591286F}" {
-       Object "{7513FC91F985BE67}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_L.xob"
-      }
-      RigidBody "{662695897613175F}" {
-       SimState Collision
-       ModelGeometry 1
-       Static 1
-      }
-     }
-     coords -243.34 -1.223 83.248
-     angleX -22.831
-     angleY 177.538
-     angleZ -23.656
-    }
-    {
-     components {
-      MeshObject "{6626958970F59DEC}" {
-       Object "{8418C4C58ADA8B8B}Assets/Vehicles/Dropship/VehParts/Enforcer_Dropship_Engine_R.xob"
-      }
-      RigidBody "{662695897A0E6CD4}" {
-       SimState Collision
-       ModelGeometry 1
-       Static 1
-      }
-     }
-     coords -265.143 -1.922 55.113
-     angleX -47.116
-     angleY 116.153
-    }
-    {
-     components {
       MeshObject "{65856D561937028F}" {
        Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
       }
@@ -504,240 +477,6 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
      angleX -23.6
      angleY 35.008
      angleZ 2.392
-    }
-   }
-   $grp ParticleEffectEntity {
-    {
-     coords -190.947 4.609 -88.681
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -184.964 8.171 -91.055
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -180.743 6.285 -89.499
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -184.451 11.316 -81.962
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -186.865 9.784 -88.485
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -181.961 7.359 -78.875
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -184.796 -0.912 -83.405
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -179.2 0.613 -79.294
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -196.147 -1.206 -77.493
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -193.561 1.392 -83.204
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -188.153 9.045 -81.482
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -190.701 -1.258 -78.752
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -183.104 9.393 -85.929
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -178.295 8.385 -82.999
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -190.701 -1.048 -85.465
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords 1.82 17.996 -3.109
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -0.666 20.529 -1.337
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords 5.688 17.897 -2.737
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -4.082 17.996 -2.907
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -2.543 17.996 3.839
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords 1.838 17.996 5.148
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -0.154 17.996 1.982
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -18.358 15.505 1.993
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -15.753 15.444 5.336
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -21.653 15.593 5.19
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -21.78 15.59 0.935
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -32.402 15.762 2.645
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -43.219 16.748 -13.315
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -41.08 16.062 -21.388
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -19.531 12.866 -35.104
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -6.171 13.457 -53.188
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -5.122 13.396 -36.459
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -161.703 9.654 -25.609
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -147.364 9.631 -27.2
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -147.936 9.654 -12.302
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -268.073 -0.997 56.766
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -265.898 -0.643 54.336
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -243.669 -0.206 82.467
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -243.889 -1.088 86.655
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -247.754 1.259 66.765
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -246.32 -0.363 66.354
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -132.402 18.788 -93.938
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -255.215 -1.07 72.565
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -263.622 0.257 68.92
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -258.421 -0.218 76.647
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords 3.378 15.086 -7.859
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -6.003 18.03 -7.725
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords 1.711 21.554 -1.302
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -269.889 -0.934 62.306
-     EffectPath "{BF0D10C4DAB74770}Prefabs/Systems/Fire/Fire_V2_Large.ptc"
-    }
-    {
-     coords -245.605 0.916 68.688
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -242.691 0.931 83.677
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -265.176 -0.277 55.896
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -262.245 -1.051 65.137
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -252.408 -1.088 79.947
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -234.033 6.469 104.469
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -265.818 -1.064 49.612
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -258.29 -1.104 43.655
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
-    }
-    {
-     coords -258.637 -0.26 40.189
-     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
     }
    }
    GenericEntity {
@@ -920,14 +659,6 @@ GenericEntity : "{B904FC3DB708301A}Prefabs/Compositions/Misc/Checkpoint_03.et" {
    ID "6568E068500C422B"
    coords 1.584 2.935 -0.469
   }
-  GenericEntity {
-   ID "6568E068500C80B1"
-   coords -1.705 2.935 -0.469
-  }
-  GenericEntity {
-   ID "6568E068500C80B7"
-   coords -0.057 2.935 -0.413
-  }
  }
 }
 SCR_DestructibleBuildingEntity : "{BB3A4D0D66C39921}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Military_Tent_Command.et" {
@@ -936,7 +667,7 @@ SCR_DestructibleBuildingEntity : "{BB3A4D0D66C39921}Prefabs/Compositions/Misc/Cu
    m_bStatic 1
   }
  }
- coords 3929.353 0.058 8464.797
+ coords 3929.336 0.058 8464.396
  angleX -0.832
  angleY 2.356
  angleZ -1.707

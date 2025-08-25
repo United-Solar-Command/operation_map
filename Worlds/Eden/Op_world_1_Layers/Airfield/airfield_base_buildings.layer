@@ -704,7 +704,7 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
      angleY -180
     }
     {
-     coords -0.037 1.275 -29.27
+     coords -0.037 1.303 -29.098
     }
     {
      coords 0 0 -1.136
@@ -763,18 +763,6 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
     {
      coords 3.924 0 -24.156
      angleY 0.242
-    }
-    {
-     coords -3.863 1.288 -27.305
-    }
-    {
-     coords -2.863 1.288 -27.305
-    }
-    {
-     coords 3.637 1.288 -27.305
-    }
-    {
-     coords 2.637 1.288 -27.305
     }
     {
      coords -9.815 0 -1.342
@@ -950,47 +938,6 @@ $grp SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Mili
      angleY -89.652
     }
    }
-  }
- }
-}
-GenericEntity : "{DE1E3E9D2C34A9ED}Prefabs/Compositions/Slotted/SlotFlatLarge/LivingArea_L_Enforcer_01.et" {
- coords 4880.944 28.594 11909.919
- {
-  GameEntity {
-   ID "657129CD8DCF9C09"
-   coords -6.982 0 14.431
-  }
-  GenericEntity {
-   ID "657129CD8DDB6690"
-   coords -5.452 0.021 14.514
-  }
-  GenericEntity {
-   ID "657129CD8DDA67DA"
-   coords -8.544 0 13.215
-  }
-  GenericEntity {
-   ID "657129CD8DDBD673"
-   coords -8.443 0 12.965
-  }
-  GenericEntity {
-   ID "657129CD8DDBD67C"
-   coords -8.013 0 13.172
-  }
-  GenericEntity {
-   ID "657129CD8DD3596B"
-   coords -9.008 0 14.426
-  }
-  StaticModelEntity {
-   ID "657129CD8DD94CB3"
-   coords -7.633 0 12.884
-  }
-  StaticModelEntity {
-   ID "657129CD8DD60AFA"
-   coords -5.428 0 13.73
-  }
-  StaticModelEntity {
-   ID "657129CD8DD61D87"
-   coords -8.813 0.188 13.468
   }
  }
 }

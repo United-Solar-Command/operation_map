@@ -1,0 +1,25 @@
+GenericEntity : "{55D508179EF5E64A}Prefabs/Compositions/Slotted/SlotRoadMedium/Checkpoint_M_US_01.et" {
+ coords 4669.837 17.267 10586.776
+ angleY 117.222
+}
+$grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ {
+  coords 4552.784 16.362 10451.022
+  angleY -122.134
+ }
+ {
+  coords 4014.648 1.055 10688.896
+  angleY -147.267
+ }
+ {
+  coords 4551.684 15.245 11043.256
+  angleY 127.6
+ }
+ {
+  coords 5008.223 29.393 10889.383
+ }
+ {
+  coords 4628.914 19.682 10623.658
+  angleY 94.419
+ }
+}

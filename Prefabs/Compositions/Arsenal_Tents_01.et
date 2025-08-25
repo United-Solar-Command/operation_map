@@ -1,4 +1,5 @@
-GenericEntity Arsenal_Tents_01 {
+GenericEntity {
+ ID "6632F8BDCCA0CEBC"
  components {
   RplComponent "{6632F8BD05499074}" {
   }
@@ -8,35 +9,42 @@ GenericEntity Arsenal_Tents_01 {
  coords 4814.832 28.406 11747.94
  {
   StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
+   ID "6632F8BDCCBF7010"
    coords -10.111 -0.082 3.439
    angleY 155.798
    {
     $grp GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
      {
+      ID "6632F8BDCCBF7011"
       coords 2.014 0.171 1.955
       angleY -90.832
      }
      {
+      ID "6632F8BDCCBFE876"
       coords -2.114 0.171 1.966
       angleY 88.735
      }
     }
     $grp GenericEntity : "{0D5E512CAED58B5C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Launcher_US.et" {
      {
-      coords 2.127 0.184 0.046
-      angleY -88.471
-     }
-     {
+      ID "6632F8BDCCBE1C02"
       coords -2.122 0.184 0.161
       angleY 91.414
+     }
+     {
+      ID "6632F8BDCCBFE874"
+      coords 2.127 0.184 0.046
+      angleY -88.471
      }
     }
     $grp GenericEntity : "{CE74212FD2C25533}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Equipment_US.et" {
      {
+      ID "6632F8BDCCBE5B73"
       coords -2.01 0.173 -1.802
       angleY 92.051
      }
      {
+      ID "6632F8BDCCBE5B74"
       coords 2.262 0.173 -1.924
       angleY -93.497
      }
@@ -44,15 +52,18 @@ GenericEntity Arsenal_Tents_01 {
    }
   }
   StaticModelEntity : "{942358281B820A96}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSRMedical_01_foundation.et" {
+   ID "6632F8BDCCBF3CD8"
    coords 9.578 0.134 2.901
    angleY -160.432
    {
     $grp GenericEntity : "{A18D9C677F47AC1C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_US.et" {
      {
+      ID "6632F8BDCCBF3CDD"
       coords -2.401 0.174 -0.045
       angleY 89.759
      }
      {
+      ID "6632F8BDCCBF700C"
       coords 2.176 0.174 -0.024
       angleY -89.568
      }
@@ -60,117 +71,54 @@ GenericEntity Arsenal_Tents_01 {
    }
   }
   StaticModelEntity : "{94FB3A1BFFFF1A19}Prefabs/Structures/Military/Camps/TentUS_01/TentUS_01_Assembled_foundation.et" {
+   ID "6632F8BDCCA0CEBB"
    coords -0.02 0 4.58
    {
     $grp GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
      {
+      ID "6632F8BDCCA0CEB4"
       coords 1.989 0.136 -2.529
       angleY -87.801
      }
      {
+      ID "6632F8BDCCA0CEB7"
       coords 2.086 0.127 0.022
       angleY -87.801
      }
      {
-      coords 2.284 0.138 5.237
+      ID "6632F8BDCCA0F00B"
+      coords 2.189 0.12 2.686
       angleY -87.801
      }
      {
-      coords 2.189 0.12 2.686
+      ID "6632F8BDCCA0F00D"
+      coords 2.284 0.138 5.237
       angleY -87.801
      }
     }
     $grp GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
      {
+      ID "6632F8BDCCA0F00A"
       coords -2.165 0.158 4.658
       angleY 89.828
      }
      {
+      ID "6632F8BDCCBF0286"
       coords -2.158 0.128 2.34
       angleY 89.828
      }
      {
+      ID "6632F8BDCCBF3CEC"
       coords -2.145 0.14 -2.265
       angleY 89.828
      }
      {
+      ID "6632F8BDCCBF3CEF"
       coords -2.151 0.113 0.051
       angleY 89.828
      }
     }
    }
   }
- }
-}
-$grp StaticModelEntity : "{341011A1EC5F233A}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_22x18.et" {
- {
-  coords 4820.348 25.264 11995.191
-  angleY -88.123
- }
- {
-  coords 4810.866 28.828 11861.713
-  angleY 90.734
- }
- {
-  coords 4821.446 27.74 11157.072
-  angleY -90
- }
- {
-  coords 4809.411 28.247 10924.111
-  angleY -1.697
- }
-}
-StaticModelEntity : "{3FE207D0029D97CC}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x13.et" {
- coords 4720.929 26.008 11882.881
- angleY 90
-}
-$grp StaticModelEntity : "{410BC3D746AB53AE}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_13x18.et" {
- {
-  coords 4824.985 29.18 11288.979
-  angleY -135
- }
- {
-  coords 4751.167 27.38 10914.497
-  angleY -16.452
- }
-}
-$grp StaticModelEntity : "{D0F17E2313DE33F1}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_18x5.et" {
- {
-  coords 4731.128 27.844 11120.537
-  angleY -90
- }
- {
-  coords 4727.418 27.717 11781.838
-  angleY 90
- }
- {
-  coords 4864.106 28.155 11087.067
-  angleY -91.805
- }
- {
-  coords 4846.286 28.375 10936.674
- }
- {
-  coords 4721.437 25.395 11685.455
-  angleX -9.074
-  angleY -94.512
-  angleZ -0.337
- }
-}
-$grp StaticModelEntity : "{F8E70CBC00C9E30E}Prefabs/Structures/Military/Fortifications/BlastCover_E_01/BlastCover_E_01_8x5.et" {
- {
-  coords 4819.844 29.723 11353.845
-  angleY -90
- }
- {
-  coords 4736.704 27.845 11190.219
-  angleY 90
- }
- {
-  coords 4875.038 29.136 10932.004
-  angleY 20.737
- }
- {
-  coords 4860.67 29.131 11706.381
  }
 }
