@@ -1,13 +1,3 @@
-$grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
- {
-  coords 4795.35 27.781 10981.981
-  angleY 87.085
- }
- {
-  coords 4891.267 28.594 11614.619
-  angleY 179.624
- }
-}
 GenericEntity : "{8108030C9418162E}Prefabs/Structures/Signs/Warnings/SignNoEntryOneDir_01_pole.et" {
  coords 4833.067 27.609 11667.843
  angleY -176.456
@@ -23,6 +13,7 @@ SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/
      Enabled 1
     }
    }
+   coords 0 0 0
   }
   GenericEntity {
    ID "570880A30752F592"
@@ -31,6 +22,7 @@ SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/
      Enabled 1
     }
    }
+   coords 0 0 0
   }
   GenericEntity {
    ID "570880A30752F5D1"
@@ -66,6 +58,14 @@ SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/
     angleY -180
    }
    {
+    coords 4.1 0 -1.136
+    angleY -180
+   }
+   {
+    coords -4.1 0 -1.136
+    angleY -180
+   }
+   {
     coords -5.3 0 -15
     angleY -180
    }
@@ -78,7 +78,11 @@ SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/
     angleY -180
    }
    {
-    coords -0.034 1.373 -28.935
+    coords -0.037 1.303 -29.098
+   }
+   {
+    coords 0 0 -1.136
+    angleY -180
    }
    {
     coords 0 0 -11
@@ -141,10 +145,10 @@ SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/
   }
   $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
    {
-    coords 1.713 0 -30.288
+    coords 1.713 0.889 -30.9
    }
    {
-    coords -1.814 0 -30.288
+    coords -1.814 0.889 -30.9
    }
    {
     coords -3.462 -1.497 -24.581
@@ -170,11 +174,11 @@ SCR_DestructibleBuildingEntity : "{C526728F8920399A}Prefabs/Structures/Military/
     angleY 141.896
    }
    {
-    coords -7.041 0 -27.126
+    coords -7.09 0 -27.172
     angleY 29.549
    }
    {
-    coords 7.42 0 -27.604
+    coords 7.436 0 -27.674
     angleY -50.886
    }
    {

@@ -32,6 +32,16 @@ GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOT
   }
  }
 }
+$grp GenericEntity : "{B904FC3DB708301A}Prefabs/Compositions/Misc/Checkpoint_03.et" {
+ {
+  coords 4263.823 70.257 8548.854
+  angleY -177.751
+ }
+ {
+  coords 4231.266 68.753 8537.89
+  angleY 175.922
+ }
+}
 $grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Long_01.et" {
  {
   coords 4301.096 72.305 8530.879

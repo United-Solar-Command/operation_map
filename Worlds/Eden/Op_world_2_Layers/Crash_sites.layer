@@ -1,0 +1,312 @@
+$grp GenericEntity {
+ {
+  components {
+   MeshObject "{65856D561937028F}" {
+    Object "{7B697F93C0DA60B1}Assets/Vehicles/Dropship/Enforcer_Dropship_Body.xob"
+   }
+   RigidBody "{65856D560C219D5B}" {
+    SimState Collision
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 3915.004 18.255 8312.051
+  angleX -3.201
+  angleY 29.74
+  angleZ -13.563
+ }
+ {
+  components {
+   MeshObject "{65856D5123AAA61F}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3918.775 19.201 8316.813
+  angleX 4.322
+  angleY -74.357
+  angleZ -11.755
+ }
+ {
+  components {
+   MeshObject "{65856D5123AAA61F}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3917.885 19.124 8314.686
+  angleX 6.624
+  angleY -62.713
+  angleZ -10.64
+ }
+ {
+  components {
+   MeshObject "{65856D5123AAA61F}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3916.405 18.993 8311.98
+  angleX 6.624
+  angleY -62.713
+  angleZ -10.64
+ }
+ {
+  components {
+   MeshObject "{65856D5123AAA61F}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3914.976 18.874 8309.321
+  angleX 6.624
+  angleY -62.713
+  angleZ -10.64
+ }
+ {
+  components {
+   MeshObject "{65856D5123AAA61F}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3913.791 18.801 8307.153
+  angleX 6.624
+  angleY -62.713
+  angleZ -10.64
+ }
+ {
+  components {
+   MeshObject "{65856D5123AAA61F}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3912.395 18.687 8304.604
+  angleX 6.624
+  angleY -62.713
+  angleZ -14.423
+ }
+ {
+  components {
+   MeshObject "{65856D5123AAA61F}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3911.049 18.584 8302.149
+  angleX 6.624
+  angleY -62.713
+  angleZ -14.423
+ }
+ {
+  components {
+   MeshObject "{65856D5123AAA61F}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3909.616 18.487 8299.546
+  angleX 6.624
+  angleY -62.713
+  angleZ -14.423
+ }
+ {
+  components {
+   MeshObject "{65856D5123AAA61F}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3908.193 18.361 8296.958
+  angleX 6.624
+  angleY -62.713
+  angleZ -18.442
+ }
+ {
+  components {
+   MeshObject "{65856D50E2287FA4}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3915.194 19.224 8318.554
+  angleX -3.681
+  angleY -38.258
+  angleZ -7.172
+ }
+ {
+  components {
+   MeshObject "{65856D50E2287FA4}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3913.371 19.066 8316.618
+  angleX -5.285
+  angleY -52.016
+  angleZ -6.092
+ }
+ {
+  components {
+   MeshObject "{65856D50E2287FA4}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3911.807 18.973 8314.585
+  angleX -5.285
+  angleY -52.016
+  angleZ -6.092
+ }
+ {
+  components {
+   MeshObject "{65856D50E2287FA4}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3909.922 18.882 8311.603
+  angleX 1.397
+  angleY -63.609
+  angleZ -6.446
+ }
+ {
+  components {
+   MeshObject "{65856D50E2287FA4}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3908.657 18.748 8309.188
+  angleX 1.397
+  angleY -63.609
+  angleZ -11.218
+ }
+ {
+  components {
+   MeshObject "{65856D50E2287FA4}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3907.601 18.648 8306.545
+  angleX 1.397
+  angleY -63.609
+  angleZ -19.698
+ }
+ {
+  components {
+   MeshObject "{65856D50E2287FA4}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3906.51 18.583 8304.416
+  angleX 1.397
+  angleY -63.609
+  angleZ -19.698
+ }
+ {
+  components {
+   MeshObject "{65856D50E2287FA4}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3905.375 18.51 8302.639
+  angleX 1.397
+  angleY -63.609
+  angleZ -19.698
+ }
+ {
+  components {
+   MeshObject "{65856D50A3C379A9}" {
+    Object "{280755F721BE9EAB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_02.xob"
+   }
+  }
+  coords 3896.094 17.922 8291.298
+  angleX -3.257
+  angleY 100.594
+  angleZ 12.089
+ }
+ {
+  components {
+   MeshObject "{65856D50A3C379A9}" {
+    Object "{280755F721BE9EAB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_02.xob"
+   }
+  }
+  coords 3894.024 17.985 8292.334
+  angleX -10.563
+  angleY 142.899
+  angleZ 12.824
+ }
+ {
+  components {
+   MeshObject "{65856D5090AE2B50}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3895.008 17.836 8288.562
+  angleX 6.355
+  angleY -64.146
+  angleZ -10.802
+ }
+ {
+  components {
+   MeshObject "{65856D5090AE2B50}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3893.877 17.846 8286.015
+  angleX 6.355
+  angleY -64.146
+  angleZ -17.036
+ }
+ {
+  components {
+   MeshObject "{65856D508ADB079E}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3922.632 20.356 8305.82
+  angleX 1.298
+  angleY -88.406
+  angleZ -12.447
+ }
+ {
+  components {
+   MeshObject "{65856D508ADB079E}" {
+    Object "{5F0D3D7FD51C71DB}Assets/Structures/Military/Fortifications/DirtMounds/DirtCover_01_long_03.xob"
+   }
+  }
+  coords 3920.822 19.713 8307.022
+  angleX 10.679
+  angleY -36.091
+  angleZ -6.561
+ }
+}
+Turret {
+ coords 3918.167 19.273 8318.662
+ angleX 35.445
+ angleY 29.587
+ angleZ -29.713
+}
+StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
+ coords 4360.201 0.442 7961.547
+ angleX -4.141
+ angleY 45.472
+ angleZ -2.485
+ scale 0.75
+}
+GenericEntity : "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et" {
+ coords 3894.284 17.945 8290.819
+ angleX 19.06
+ angleY 24.152
+ angleZ -14.623
+}
+GenericEntity : "{36D873BC68DC0215}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_Dst_3_NoDecal.et" {
+ coords 3907.368 18.524 8302.047
+ angleY -63.268
+}
+GenericEntity : "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et" {
+ coords 3920.974 19.945 8305.444
+ angleX 17.878
+ angleY 23.797
+ angleZ 70.503
+}
+GenericEntity : "{7D39683D0F8EDB59}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_Dst_3_dark.et" {
+ coords 3909.441 18.592 8302.842
+}
+$grp GenericEntity : "{DE31BAA70E260BE9}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_Dst_3_decal_01.et" {
+ {
+  coords 3912.667 18.864 8309.319
+ }
+ {
+  coords 3901.505 18.051 8292.578
+  angleY -106.54
+ }
+}

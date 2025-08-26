@@ -17,16 +17,6 @@ $grp SCR_DestructibleBuildingEntity : "{5E611F88D50169BE}Prefabs/Compositions/Mi
     m_bStatic 1
    }
   }
-  coords 3945.328 0.233 8464.24
-  angleX 2.907
-  angleY 93.97
- }
- {
-  components {
-   SCR_EditableEntityComponent "{6558D7B57025F12B}" {
-    m_bStatic 1
-   }
-  }
   coords 3944.552 0.165 8453.086
   angleX 2.907
   angleY 93.97
@@ -234,10 +224,8 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
     m_bStatic 1
    }
   }
-  coords 3886.338 15.818 8387.356
-  angleX 5.807
-  angleY 100.458
-  angleZ -65.925
+  coords 3886.671 14.196 8389.843
+  angleY 97.639
   scale 2.34
  }
  {
@@ -246,10 +234,8 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
     m_bStatic 1
    }
   }
-  coords 3876.278 15.853 8392.019
-  angleX 9.112
-  angleY 97.475
-  angleZ 95.868
+  coords 3876.184 13.454 8391.267
+  angleY 97.58
   scale 2.34
  }
  {
@@ -280,9 +266,10 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
     m_bStatic 1
    }
   }
-  coords 3845.061 11.453 8395.568
-  angleX 1.832
-  angleY 98.035
+  coords 3844.94 13.671 8395.32
+  angleX 2.529
+  angleY 98.123
+  angleZ 99.941
   scale 2.34
  }
  {
@@ -658,6 +645,14 @@ GenericEntity : "{B904FC3DB708301A}Prefabs/Compositions/Misc/Checkpoint_03.et" {
   GenericEntity {
    ID "6568E068500C422B"
    coords 1.584 2.935 -0.469
+  }
+  $grp GenericEntity {
+   {
+    coords -1.705 2.935 -0.469
+   }
+   {
+    coords -0.057 2.935 -0.413
+   }
   }
  }
 }

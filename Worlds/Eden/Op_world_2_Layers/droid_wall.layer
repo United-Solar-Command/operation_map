@@ -1758,7 +1758,7 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
     Enabled 0
    }
   }
-  coords 6365.739 20.068 8787.861
+  coords 6365.763 19.359 8785.651
   angleY -90.612
   scale 2
  }

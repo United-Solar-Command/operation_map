@@ -101,7 +101,7 @@ $grp GenericEntity : "{24B7F96197053B39}Prefabs/Compositions/Slotted/SlotRoadSma
 }
 $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
  {
-  coords 4750.583 0.278 10969.674
+  coords 4809.109 -0.105 10967.239
   scale 2
   {
    StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
@@ -126,10 +126,17 @@ $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/Ap
   }
  }
 }
-StaticModelEntity : "{3077D0EF6E9C8ACF}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Radar_On_Destructible.et" {
- coords 4810.061 0 11037.024
- angleY 0
- scale 2
+$grp StaticModelEntity : "{3077D0EF6E9C8ACF}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Radar_On_Destructible.et" {
+ {
+  coords 4741.205 0.001 11013.746
+  angleY 0
+  scale 2
+ }
+ {
+  coords 4815.957 0 12097.449
+  angleY 0
+  scale 2
+ }
 }
 $grp GenericEntity : "{41FED15A066D06EC}Prefabs/GM_Props/GuardTower1_GM.et" {
  {
@@ -139,20 +146,6 @@ $grp GenericEntity : "{41FED15A066D06EC}Prefabs/GM_Props/GuardTower1_GM.et" {
  {
   coords 4943.049 28.121 11487.964
   angleY 5.877
- }
-}
-$grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
- {
-  coords 5115.889 0.55 9237.851
-  angleY 0.042
- }
- {
-  coords 5071.331 0.558 9228.6
-  angleY 0.042
- }
- {
-  coords 5096.155 1.174 9273.565
-  angleY 0.042
  }
 }
 GenericEntity : "{5C98B0C4BBEDA771}Prefabs/Compositions/Misc/Checkpoint_02.et" {
@@ -200,6 +193,14 @@ $grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Lon
     ID "6568E068500C422B"
     coords 2.216 2.934 -0.432
    }
+   $grp GenericEntity {
+    {
+     coords -1.075 2.934 -0.433
+    }
+    {
+     coords 0.573 2.934 -0.433
+    }
+   }
    GenericEntity {
     ID "6568E069C8C2A71F"
     coords 2.183 0 -0.216
@@ -233,6 +234,14 @@ $grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Lon
    GenericEntity {
     ID "6568E068500C422B"
     coords 2.216 2.934 -0.432
+   }
+   $grp GenericEntity {
+    {
+     coords -1.075 2.934 -0.433
+    }
+    {
+     coords 0.573 2.934 -0.433
+    }
    }
    GenericEntity {
     ID "6568E069C8C2A71F"

@@ -209,24 +209,6 @@ $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sand
   angleY 2.571
  }
 }
-$grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Long_01.et" {
- {
-  coords 4503.493 78.19 8451.623
-  angleY -176.646
- }
- {
-  coords 4433.962 78.061 8465.194
-  angleY -174.779
- }
- {
-  coords 4536.238 79.922 8452.947
-  angleY 176.344
- }
- {
-  coords 4636.708 88.659 8470.659
-  angleY -175.736
- }
-}
 StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Utility/E_Helipad_Lights_US_01.et" {
  components {
   SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
