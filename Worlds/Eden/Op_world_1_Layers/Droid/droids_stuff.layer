@@ -1,30 +1,3 @@
-GenericEntity Bacon_Droids_short_wall_01 : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
- coords 4693.148 129.42 7797.347
- {
-  $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
-   {
-    components {
-     SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-      Enabled 0
-      m_bVisible 0
-     }
-    }
-    coords 11.991 0.506 0.007
-    scale 1.5
-   }
-   {
-    components {
-     SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-      Enabled 0
-      m_bVisible 0
-     }
-    }
-    coords -12.978 0.506 0.007
-    scale 1.5
-   }
-  }
- }
-}
 $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
  {
   components {
@@ -47,18 +20,6 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
    }
   }
   coords 5582.05 2.436 8531.021
- }
- {
-  coords 7156.614 0.54 9103.665
-  angleY -83.454
- }
- {
-  coords 6937.759 0.318 9173.747
-  angleY -83.454
- }
- {
-  coords 6727.269 0.995 9155.392
-  angleY -111.211
  }
  {
   components {
@@ -85,35 +46,6 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
       }
      }
      coords 0 8.11 0
-    }
-   }
-  }
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 3920.072 37.541 7279.632
-  scale 2.5
-  {
-   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
-    {
-     components {
-      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-       Enabled 0
-      }
-     }
-     coords 0 8.11 0
-    }
-    {
-     components {
-      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-       Enabled 0
-      }
-     }
-     coords 0 16.236 0
     }
    }
   }

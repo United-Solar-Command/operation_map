@@ -2,12 +2,6 @@ SCR_IndestructibleEnvironmentalEntity : "{222C1EE5EC0F0185}Prefabs/Anomalys/Grav
  coords 5875.983 0 9795.333
  angleX 38.027
 }
-Tree : "{63DC62906A5917F3}Prefabs/Vegetation/Tree/t_populus_nigra/t_populus_nigra_3s.et" {
- coords 5828.636 23.779 9764.483
- angleX -35.679
- angleY -94.092
- angleZ -39.474
-}
 $grp GenericEntity : "{7D52C517720EF2F5}Prefabs/Props/Industrial/BarrelMetal_01_blue.et" {
  {
   coords 5837.845 28.77 9736.18
@@ -26,15 +20,6 @@ $grp GenericEntity : "{7D52C517720EF2F5}Prefabs/Props/Industrial/BarrelMetal_01_
   angleX -17.332
   angleY -106.826
   angleZ 56.833
- }
- {
-  coords 4973.404 36.915 9149.121
- }
- {
-  coords 4973.628 36.915 9148.174
- }
- {
-  coords 4973.493 36.915 9147.257
  }
  {
   coords 3922.823 14.437 8508.675

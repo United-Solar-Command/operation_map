@@ -88,9 +88,3 @@ $grp GenericEntity : "{D7F69BF7D2DCA0A8}Prefabs/Props/Industrial/Pallets/Pallet_
   angleZ 30.876
  }
 }
-Tree : "{F0B4F9601CEF4BE3}Prefabs/Vegetation/Tree/t_alnus_glutinosa/t_alnus_glutinosa_3s.et" {
- coords 5869.563 49.415 9753.446
- angleX 34.593
- angleY 180
- angleZ -180
-}

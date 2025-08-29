@@ -1179,7 +1179,7 @@ $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turret
     Enabled 0
    }
   }
-  coords 2785.023 9.633 7384.501
+  coords 2807.693 9.619 7384.713
   scale 2
  }
  {
@@ -1188,16 +1188,7 @@ $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turret
     Enabled 0
    }
   }
-  coords 2823.05 9.619 7384.501
-  scale 2
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 2887.972 7.934 7384.501
+  coords 2887.972 5.945 7384.501
   scale 2
  }
  {
@@ -1557,7 +1548,7 @@ $grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turret
     Enabled 0
    }
   }
-  coords 2849.982 9.619 7384.501
+  coords 2849.982 9.411 7384.501
   scale 2
  }
  {
@@ -2168,7 +2159,7 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
     Enabled 0
    }
   }
-  coords 2832.096 9.619 7384.501
+  coords 2832.096 11.7 7384.501
   scale 2
  }
  {

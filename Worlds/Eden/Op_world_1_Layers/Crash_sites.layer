@@ -269,49 +269,6 @@ $grp GenericEntity {
   angleZ -6.561
  }
 }
-$grp ParticleEffectEntity {
- {
-  coords 3917.52 19.284 8319.342
-  angleX 10.816
-  angleY 26.331
-  angleZ 6.332
-  EffectPath "{3FEEFBF34A5A515C}Particles/Vehicle/Vehicle_fire_engine_BTR70_01.ptc"
- }
- {
-  coords 3920.761 20.068 8304.153
-  angleX 10.816
-  angleY 26.331
-  angleZ 6.332
-  EffectPath "{4D5CD8B2B5DE8916}Particles/Vehicle/Vehicle_fire_engine_medium.ptc"
- }
- {
-  coords 3922.102 20.05 8306.96
-  angleX 10.816
-  angleY 26.331
-  angleZ 6.332
-  EffectPath "{79DD3A5F1F3069CD}Particles/Vehicle/Vehicle_fire_engine_small.ptc"
- }
- {
-  coords 3892.915 17.913 8287.666
-  angleX 10.816
-  angleY 26.331
-  angleZ 6.332
-  EffectPath "{9844DEEBADA36BAB}Particles/Vehicle/Vehicle_fire_engine_Ural4320_01.ptc"
- }
- {
-  coords 3910.95 18.81 8308.656
-  angleX 10.816
-  angleY 26.331
-  angleZ 6.332
-  EffectPath "{79DD3A5F1F3069CD}Particles/Vehicle/Vehicle_fire_engine_small.ptc"
- }
-}
-Turret {
- coords 3918.167 19.273 8318.662
- angleX 35.445
- angleY 29.587
- angleZ -29.713
-}
 StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
  coords 4360.201 0.442 7961.547
  angleX -4.141
@@ -325,25 +282,9 @@ GenericEntity : "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Drop
  angleY 24.152
  angleZ -14.623
 }
-GenericEntity : "{36D873BC68DC0215}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_Dst_3_NoDecal.et" {
- coords 3907.368 18.524 8302.047
- angleY -63.268
-}
 GenericEntity : "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et" {
  coords 3920.974 19.945 8305.444
  angleX 17.878
  angleY 23.797
  angleZ 70.503
-}
-GenericEntity : "{7D39683D0F8EDB59}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_Dst_3_dark.et" {
- coords 3909.441 18.592 8302.842
-}
-$grp GenericEntity : "{DE31BAA70E260BE9}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/Dst/CrateStack_01_Dst_3_decal_01.et" {
- {
-  coords 3912.667 18.864 8309.319
- }
- {
-  coords 3901.505 18.051 8292.578
-  angleY -106.54
- }
 }
