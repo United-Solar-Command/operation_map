@@ -287,10 +287,6 @@ GenericEntity : "{6E9190BC2713551D}Prefabs/Compositions/Slotted/BuildableComposi
    coords -7.674 0 8.365
    angleY 88.502
   }
-  GenericEntity : "{963527D2A22A18C1}Prefabs/Structures/FlagPole_02/FlagPole_01_V1_Enforcers.et" {
-   ID "657129CE23A2C729"
-   coords 4.239 0 16.981
-  }
   GenericEntity : "{972F01488E5B23C2}Prefabs/Structures/Military/CamoNets/US/CamoNet_Medium_Top_US.et" {
    ID "657129CD8DD13432"
    coords 0.858 0.1 0

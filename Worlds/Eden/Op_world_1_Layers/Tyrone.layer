@@ -1,14 +1,68 @@
-GenericEntity : "{1693A2CCA4BFD922}Prefabs/Props/Military/Compositions/US/FuelService_US_Large.et" {
- coords 4996.63 37.355 9164.04
- angleX 0.076
- angleY -61.249
- angleZ -2
+GenericEntity tent01 {
+ coords 5039.64 38.35 9082.661
  {
-  GenericEntity {
-   ID "5E6A90B022FE573D"
-   coords -5.902 0 9.382
+  SCR_DestructibleBuildingEntity : "{4E331E7D8DAD1EAD}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01.et" {
+   coords 0 -0.082 -0.001
+   {
+    GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
+     coords -2.189 0.071 2.545
+     angleY 90
+    }
+    GenericEntity : "{0D5E512CAED58B5C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Launcher_US.et" {
+     coords -2.189 0.083 1.09
+     angleY 90
+    }
+    GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
+     coords 2.109 0.067 -1.87
+     angleY -90
+    }
+    GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
+     coords 2.109 0.066 1.936
+     angleY -90
+    }
+    GenericEntity : "{A18D9C677F47AC1C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_US.et" {
+     coords -2.189 0.068 -0.572
+     angleY 90
+    }
+    GenericEntity : "{B3C3E866F3AFFA03}Prefabs/Structures/Military/Camps/Foundations/Foundation_TentUSSR_01.et" {
+     coords 0 0.027 0
+    }
+    GenericEntity : "{CE74212FD2C25533}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Equipment_US.et" {
+     coords -2.188 0.072 -2.058
+     angleY 90
+    }
+    GenericEntity : "{F7D5D2A0D5095C84}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Helmet_Arsenal_Box.et" {
+     coords 2.109 0.086 -0.048
+     angleY -90
+    }
+   }
   }
  }
+}
+StaticModelEntity : "{059125C8BBD5ECED}Prefabs/Compositions/Misc/SubCompositions/Tent_Medical_Cluttered_US_02.et" {
+ coords 5032.5 38.25 9097.735
+ angleY -90
+}
+$grp GenericEntity : "{192A4FF528CB9DD0}Prefabs/Structures/Military/Camps/Foundations/Foundation_TentUS_01.et" {
+ {
+  coords 5040.262 38.25 9105.4
+  angleY -90
+ }
+ {
+  coords 5040.262 38.25 9099.017
+  angleY -90
+ }
+ {
+  coords 5040.262 38.25 9091.939
+  angleY -90
+ }
+ {
+  coords 5040.262 38.25 9090.418
+ }
+}
+StaticModelEntity : "{2158926839D195F3}Prefabs/Compositions/Misc/SubCompositions/Tent_Barrack_Cluttered_US_04.et" {
+ coords 5032.5 38.25 9105.4
+ angleY -90
 }
 $grp GenericEntity : "{2323F9E4C524F047}Prefabs/Compositions/Slotted/SlotFlatSmall/MortarPlacement_S_US_01.et" {
  {
@@ -34,19 +88,15 @@ $grp GenericEntity : "{2323F9E4C524F047}Prefabs/Compositions/Slotted/SlotFlatSma
 }
 $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
  {
-  coords 4986.262 -0.093 9163.85
-  angleY 26.912
- }
- {
   coords 5103.002 0.782 9242.061
   angleY 0.042
  }
  {
-  coords 5066.472 0 9242.087
+  coords 5062.507 0 9242.09
   angleY 0.042
  }
  {
-  coords 5024.17 0 9242.116
+  coords 5024.17 0.515 9242.114
   angleY 0.07
  }
 }
@@ -56,28 +106,16 @@ GenericEntity : "{55D508179EF5E64A}Prefabs/Compositions/Slotted/SlotRoadMedium/C
  angleY -119.842
  angleZ 0.216
 }
-GenericEntity : "{76D4FE49EA6C57F3}Prefabs/Compositions/Slotted/SlotFlatLarge/LivingArea_L_US_01.et" {
- components {
-  FactionAffiliationComponent "{5D06E95ACF783B47}" {
-   "faction affiliation" "Enforcers"
-  }
- }
- coords 5039.492 38.015 9095.551
- angleX 0.778
- angleY 172.936
- angleZ -0.998
+StaticModelEntity : "{69C51128071163C3}Prefabs/Compositions/Misc/SubCompositions/Tent_Medical_Cluttered_US_01.et" {
+ coords 5032.5 38.25 9090
+ angleY -90
 }
 $grp GenericEntity : "{77F90F896D5145C8}Prefabs/Compositions/Slotted/SlotFlatSmall/LivingArea_S_US_01.et" {
  {
-  coords 5014.332 37.741 9112.872
-  angleX -0.502
-  angleY 43.57
-  angleZ -0.707
- }
- {
-  coords 5026.098 37.547 9124.439
-  angleY -100.249
-  angleZ 1.407
+  coords 5013.032 37.662 9117.939
+  angleX -0.353
+  angleY 54.909
+  angleZ -0.792
  }
  {
   components {
@@ -85,68 +123,79 @@ $grp GenericEntity : "{77F90F896D5145C8}Prefabs/Compositions/Slotted/SlotFlatSma
     "faction affiliation" "Enforcers"
    }
   }
-  coords 5035.2 37.588 9139.215
-  angleX 1.712
-  angleY -4.648
-  angleZ -1.037
+  coords 5089.045 37.829 9132.733
+  angleX -0.956
+  angleY -90.529
  }
 }
 $grp GenericEntity : "{7B04AB6CD4AA3C6D}Prefabs/Compositions/Misc/SubCompositions/CanvasCover_Cluttered_US_02.et" {
  {
-  coords 5040.091 37.468 9126.457
+  coords 5067.527 37.499 9119.943
   angleY -0.014
  }
  {
-  coords 5049.936 37.538 9126.457
+  coords 5077.372 37.521 9119.943
   angleX 0.895
   angleY -0.014
  }
 }
-GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
- coords 4970.471 36.534 9144.949
- angleX 0.895
- angleY -0.014
- angleZ -0.895
-}
-GameEntity : "{82A575F7D83C3231}Prefabs/Props/Military/Compositions/US/HeliWeapons_ArsenalBox_HeliPad_US.et" {
- coords 4995.385 37.288 9161.011
- angleX -1.204
- angleY -153.037
- angleZ 0.392
+$grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
  {
-  GenericEntity {
-   ID "61B2A377DDDEF07E"
-   coords 9.847 0 2.174
-  }
+  coords 4970.471 36.804 9144.949
+  angleX 0.895
+  angleY -0.014
+  angleZ -0.895
  }
-}
-GenericEntity : "{8B4B8BF44162B24E}Prefabs/Compositions/Slotted/SlotFlatSmall/Antenna_S_US_01.et" {
- coords 5043.831 38.845 9207.21
- angleY -102.477
+ {
+  coords 5105.709 38.566 9173.985
+  angleX 0.895
+  angleY -0.014
+  angleZ -0.895
+ }
+ {
+  coords 5009.797 43.136 8991.938
+  angleX 0.895
+  angleY -0.014
+  angleZ -0.895
+ }
+ {
+  coords 4827.498 35.951 9065.838
+  angleX 0.895
+  angleY -0.014
+  angleZ -0.895
+ }
+ {
+  coords 4938.868 23.208 9252.248
+  angleX 0.895
+  angleY -0.014
+  angleZ -0.895
+ }
+ {
+  coords 4953.221 23.503 9244.696
+  angleX 0.895
+  angleY -0.014
+  angleZ -0.895
+ }
 }
 $grp StaticModelEntity : "{95A4CF49FC9C0481}Prefabs/Compositions/Misc/SubCompositions/Tent_Barrack_Cluttered_US_01.et" {
  {
-  coords 5044.448 37.745 9141.213
-  angleX -0.808
-  angleY 174.669
-  angleZ 0.974
+  coords 5087.715 37.937 9142.103
+  angleX 0.956
+  angleY 88.788
+  angleZ -0.011
  }
  {
-  coords 5051.194 37.858 9141.841
-  angleX -1.699
-  angleY 174.652
-  angleZ 1.058
+  coords 5087.574 38.153 9148.876
+  angleX 0.956
+  angleY 88.771
+  angleZ -0.012
  }
  {
-  coords 5057.972 37.984 9142.473
-  angleX -1.699
-  angleY 174.652
-  angleZ 1.058
+  coords 5087.422 38.423 9155.683
+  angleX 0.956
+  angleY 88.771
+  angleZ -0.012
  }
-}
-GenericEntity : "{C7D38772154D45BB}Prefabs/Compositions/Slotted/SlotFlatSmall/Bunker_S_US_01.et" {
- coords 5049.523 39.485 9193.189
- angleY 173.526
 }
 GenericEntity : "{CDD0712FD6215F04}Prefabs/Compositions/Slotted/SlotFlatMedium/FieldHospital_M_US_01.et" {
  coords 4993.708 37.097 9137.942
@@ -154,38 +203,43 @@ GenericEntity : "{CDD0712FD6215F04}Prefabs/Compositions/Slotted/SlotFlatMedium/F
  angleY 112.095
  angleZ -0.529
 }
-GenericEntity : "{CEE9C4F4B37B3259}Prefabs/Compositions/Slotted/SlotFlatSmall/Storage_S_US_01.et" {
- components {
-  FactionAffiliationComponent "{5D06E95D3BF135DB}" {
-   "faction affiliation" "Enforcers"
-  }
+$grp GenericEntity : "{D6F8A419B10274F2}PrefabsEditable/Auto/Props/Military/Camps/E_Duckboard_01.et" {
+ {
+  coords 5038.798 37.862 9110.335
+  angleX -11.975
  }
- coords 5015.677 37.796 9161.801
- angleX 2.17
- angleY 75.991
- angleZ 1.303
-}
-GenericEntity : "{E74D2F51CD4F03D0}Prefabs/Compositions/Slotted/SlotRoadLarge/Checkpoint_L_US_01.et" {
- coords 5027.699 38.662 9053.906
- angleX -0.852
- angleY 72.077
- angleZ 0.275
+ {
+  coords 5037.535 37.873 9110.281
+  angleX -11.975
+ }
+ {
+  coords 5040.064 37.846 9110.407
+  angleX -11.975
+ }
+ {
+  coords 5041.343 37.841 9110.432
+  angleX -11.975
+ }
+ {
+  coords 5042.627 37.851 9110.566
+  angleX -13.45
+ }
 }
 StaticModelEntity : "{EE6C590D25FF8AD3}Prefabs/Compositions/Misc/SubCompositions/Tent_HQ_Camo_Cluttered_USSR_01.et" {
- coords 5010.7 37.296 9128.122
- angleX 1.863
- angleY 36.588
- angleZ -0.731
+ coords 5070.52 39 9099.799
+ angleY -94.5
 }
-StaticModelEntity : "{F1C5F8E2EF1105F9}Prefabs/Compositions/Misc/SubCompositions/Tent_HQ_Camo_Cluttered_US_01.et" {
- coords 5018.68 37.417 9140.378
- angleX 0.724
- angleY 53.969
- angleZ -0.527
-}
-GenericEntity : "{FB18EFE9C1A81E29}Prefabs/Compositions/Slotted/SlotFlatMedium/VehicleMaintenance_M_US_01.et" {
- coords 4977.017 37.292 9187.354
- angleX 0.798
- angleY -153.048
- angleZ 0.406
+$grp StaticModelEntity : "{F1C5F8E2EF1105F9}Prefabs/Compositions/Misc/SubCompositions/Tent_HQ_Camo_Cluttered_US_01.et" {
+ {
+  coords 5047.5 38.25 9090
+  angleY 90
+ }
+ {
+  coords 5047.5 38.25 9097.735
+  angleY 90
+ }
+ {
+  coords 5047.5 38.25 9105.4
+  angleY 90
+ }
 }

@@ -32,7 +32,7 @@ $grp GenericEntity {
 }
 $grp StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
  {
-  coords 4319.174 0.275 7939.615
+  coords 4319.173 0.267 7939.614
   angleX -3.198
   angleY 33.663
   angleZ 0.073
@@ -101,7 +101,7 @@ $grp StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortific
   angleZ -7.152
  }
  {
-  coords 4362.154 0.076 7961.558
+  coords 4362.154 0.238 7961.558
   angleY -6.167
  }
  {
@@ -141,7 +141,7 @@ $grp StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortific
   scale 0.8
  }
  {
-  coords 4360.279 0.087 7963.447
+  coords 4360.279 0.462 7963.447
   angleY 103.951
  }
 }
@@ -150,7 +150,99 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
   coords 5162.033 1.358 7766.304
  }
  {
-  coords 6233.286 0.559 8035.452
+  components {
+   SCR_CampaignBuildingObstructionExceptionComponent "{5F18D0C53C86C027}" {
+    Enabled 0
+   }
+   SCR_HorizontalAlignComponent "{5E308349BAD51B11}" {
+    Enabled 0
+   }
+   SCR_SlotCompositionComponent "{5E308349B5DDD079}" {
+    Enabled 0
+   }
+   Hierarchy "{5E308349DDA8410F}" {
+    Enabled 0
+   }
+  }
+  coords 6233.286 0 8035.452
+  {
+   GenericEntity {
+    ID "5D1EB45993212F43"
+    {
+     GenericEntity {
+      ID "5A26B380A63C2147"
+      coords 0 -0.816 0.064
+     }
+    }
+   }
+   GenericEntity {
+    ID "5D1EB45993212F49"
+    {
+     GenericEntity {
+      ID "5A26B380A63C2147"
+      coords 0 -0.731 0.064
+     }
+    }
+   }
+   GenericEntity {
+    ID "5D1EB45993212F4A"
+    {
+     GenericEntity {
+      ID "5A26B380A63C2147"
+      coords 0 -0.269 0.064
+     }
+    }
+   }
+   GenericEntity {
+    ID "5D1EB45993212F4B"
+    {
+     GenericEntity {
+      ID "5A26B380A63C2147"
+      coords 0 -0.454 0.062
+     }
+    }
+   }
+   GenericEntity {
+    ID "5D1EB45993212F4C"
+    {
+     GenericEntity {
+      ID "5A26B380A63C2147"
+      coords 0 -0.36 0.062
+     }
+    }
+   }
+   GenericEntity {
+    ID "5D1EB45993212F4E"
+    {
+     GenericEntity {
+      ID "5A26B380A63C2147"
+      coords 0 -0.499 0.062
+     }
+    }
+   }
+   GenericEntity {
+    ID "5D1EB45993212F54"
+    {
+     GenericEntity {
+      ID "5A26B380A63C2147"
+      coords 0 -0.702 0.064
+     }
+    }
+   }
+   GenericEntity {
+    ID "5D1EB45993212F55"
+    {
+     GenericEntity {
+      ID "5A26B380A63C2147"
+      coords 0 -0.793 0.064
+     }
+    }
+   }
+   GenericEntity {
+    ID "5E92E720B6346009"
+    coords -0.5 0.004 -0.5
+   }
+  }
  }
 }
 $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
@@ -165,20 +257,29 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
   angleZ 60.45
  }
  {
-  coords 6232.626 140.251 8053.963
-  angleX -49.241
-  angleY -180
- }
- {
   components {
    SCR_EditableEntityComponent "{61651602213188D9}" {
     Enabled 0
    }
+   SCR_PreviewEntityComponent "{6168F2B4FFB72945}" {
+    Enabled 0
+   }
+   RplComponent "{616547CF29B526C6}" {
+    Enabled 0
+   }
+   Hierarchy "{6168F2B5353CA164}" {
+    Enabled 0
+   }
   }
-  coords 7041.955 90.629 8354.632
-  angleX 63.519
-  angleY 97.189
-  angleZ 32.597
+  coords 6232.626 143.023 8053.963
+  angleX -49.241
+  angleY 180
+  {
+   GenericEntity {
+    ID "61697982A6536A6E"
+    coords 0 0 0
+   }
+  }
  }
 }
 GenericEntity : "{7BF0DC8F426943F5}Prefabs/Compositions/Slotted/Headquarters_S_Enforcers_01.et" {
@@ -186,7 +287,7 @@ GenericEntity : "{7BF0DC8F426943F5}Prefabs/Compositions/Slotted/Headquarters_S_E
  angleY 22.898
 }
 GenericEntity : "{8B4B8BF44162B24E}Prefabs/Compositions/Slotted/SlotFlatSmall/Antenna_S_US_01.et" {
- coords 4307.101 86.664 7956.739
+ coords 4307.101 84.313 7956.739
  angleY 95.165
 }
 $grp GenericEntity : "{917158017F425567}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_US_01.et" {

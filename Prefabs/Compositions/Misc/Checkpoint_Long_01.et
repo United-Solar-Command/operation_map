@@ -1,7 +1,6 @@
 GenericEntity : "{B904FC3DB708301A}Prefabs/Compositions/Misc/Checkpoint_03.et" {
  ID "F0DBA538AC2A0552"
  coords 4923.634 28.594 11667.584
- angleY 0
  {
   GenericEntity {
    ID "6568E068500B1346"
@@ -11,16 +10,6 @@ GenericEntity : "{B904FC3DB708301A}Prefabs/Compositions/Misc/Checkpoint_03.et" {
   GenericEntity {
    ID "6568E068500C422B"
    coords 2.217 2.934 -0.433
-   angleY -180
-  }
-  GenericEntity {
-   ID "6568E068500C80B1"
-   coords -1.074 2.934 -0.433
-   angleY -180
-  }
-  GenericEntity {
-   ID "6568E068500C80B7"
-   coords 0.573 2.934 -0.433
    angleY -180
   }
   GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
