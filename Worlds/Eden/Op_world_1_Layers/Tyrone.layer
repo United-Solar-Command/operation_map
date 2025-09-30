@@ -43,9 +43,47 @@ StaticModelEntity : "{059125C8BBD5ECED}Prefabs/Compositions/Misc/SubCompositions
  coords 5032.5 38.25 9097.735
  angleY -90
 }
-StaticModelEntity : "{14E9375155427C56}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/TrenchOld_01_6m_metal_end.et" {
- coords 5380.426 -0.626 9262.251
- angleY -81.089
+$grp GenericEntity : "{0AE6B56F94A76C37}Prefabs/GM_Props/Helipad_Decal.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{65B715A390330D54}" {
+    Enabled 0
+   }
+  }
+  coords 5328.501 18.372 9563.145
+  angleY 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65B715A390330D54}" {
+    Enabled 0
+   }
+  }
+  coords 5354.27 19.355 9563.145
+  angleX -1.577
+  angleY 0.044
+  angleZ -1.61
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65B715A390330D54}" {
+    Enabled 0
+   }
+  }
+  coords 5381.954 20.736 9563.144
+  angleX -1.026
+  angleY 0.034
+  angleZ -1.869
+ }
+}
+GenericEntity : "{18B92018CF634D22}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_US_03.et" {
+ components {
+  SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+   Enabled 0
+  }
+ }
+ coords 5342.078 27.965 9293.215
+ angleY -180
 }
 $grp GenericEntity : "{192A4FF528CB9DD0}Prefabs/Structures/Military/Camps/Foundations/Foundation_TentUS_01.et" {
  {
@@ -92,16 +130,10 @@ $grp GenericEntity : "{2323F9E4C524F047}Prefabs/Compositions/Slotted/SlotFlatSma
 }
 $grp StaticModelEntity : "{250B0F950A4490E0}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/Trench_Line_2.et" {
  {
-  coords 5314.052 0.041 9291.814
-  angleX 0.041
-  angleY 2.138
-  angleZ -1.084
- }
- {
-  coords 5348.389 0.143 9290.531
-  angleX 0.041
-  angleY 2.138
-  angleZ -2.886
+  coords 5300.922 0 9284.878
+  angleX -0.477
+  angleY -26.093
+  angleZ -0.974
  }
  {
   coords 5416.175 -0.001 9287.997
@@ -154,16 +186,18 @@ $grp StaticModelEntity : "{250B0F950A4490E0}Prefabs/Structures/Military/Fortific
   angleZ 5.019
  }
 }
-GenericEntity : "{2F9B8A926C704A11}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_T_1.et" {
+GenericEntity : "{258D0520BA0FC415}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_US_04.et" {
+ coords 5356.071 28.728 9292.227
+ angleY 180
+}
+GenericEntity : "{2D60BA8C416641F9}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_bunker_plastic.et" {
  components {
-  SCR_EditableEntityComponent "{62B0D714DCCCC14E}" {
+  SCR_EditableEntityComponent "{5A3C896A210DBDB0}" {
    Enabled 0
   }
  }
- coords 5380.57 28.722 9261.576
- angleX -1.621
- angleY -177.202
- angleZ 2.889
+ coords 5339.695 27.811 9297.146
+ angleY 180
 }
 $grp StaticModelEntity : "{3ABBC2184F70ED6B}Prefabs/Structures/Houses/Garage/Garage_E_01/Dst/Garage_E_01_Ruin.et" {
  {
@@ -181,17 +215,6 @@ $grp StaticModelEntity : "{3ABBC2184F70ED6B}Prefabs/Structures/Houses/Garage/Gar
   coords 5003.829 38.844 9080.224
   angleY 121.118
  }
-}
-GenericEntity : "{43CFBE72D0B4C53F}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_T_2.et" {
- components {
-  SCR_EditableEntityComponent "{62B0D70CC482A52D}" {
-   Enabled 0
-  }
- }
- coords 5381.533 29.837 9289.155
- angleX 1.915
- angleY 2.049
- angleZ -4.131
 }
 $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
  {
@@ -302,6 +325,33 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
   coords 4929.768 34.487 9268.286
   angleY -40.423
  }
+ {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
+  coords 5390.549 30.909 9310.608
+  angleY 180
+ }
+}
+Tree : "{81EE8FAE7539DAA1}Prefabs/Vegetation/Bush/b_juniperus_communis_0.et" {
+ coords 5313.696 0 9285.831
+}
+$grp GenericEntity : "{917158017F425567}Prefabs/Compositions/Slotted/SlotFlatSmall/SandbagPosition_S_US_01.et" {
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5332.889 27.602 9292.72
+  angleY 180
+ }
+ {
+  coords 5364.604 29.283 9291.66
+  angleY -174.482
+ }
 }
 $grp StaticModelEntity : "{95A4CF49FC9C0481}Prefabs/Compositions/Misc/SubCompositions/Tent_Barrack_Cluttered_US_01.et" {
  {
@@ -323,6 +373,74 @@ $grp StaticModelEntity : "{95A4CF49FC9C0481}Prefabs/Compositions/Misc/SubComposi
   angleZ -0.012
  }
 }
+$grp Tree : "{A43BE7E364B5CD67}Prefabs/Vegetation/Bush/b_juniperus_communis_2w.et" {
+ {
+  coords 5310.908 -0 9284.711
+ }
+ {
+  coords 5315.645 0 9286.96
+  angleY -25.614
+ }
+ {
+  coords 5308.479 -0 9283.619
+ }
+ {
+  coords 5299.069 -0 9278.811
+ }
+}
+Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
+ coords 5307.113 0 9282.896
+ angleY 0
+}
+$grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_barrierX3.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+    Enabled 0
+   }
+  }
+  coords 5352.462 28.529 9296.455
+  angleY -180
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+    Enabled 0
+   }
+  }
+  coords 5355.97 28.754 9296.455
+  angleY 180
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+    Enabled 0
+   }
+  }
+  coords 5359.467 28.994 9296.274
+  angleY -174.622
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+    Enabled 0
+   }
+  }
+  coords 5363.06 29.224 9295.939
+  angleY -174.622
+  angleZ 1.971
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{64E957BAF882C08A}" {
+    Enabled 0
+   }
+  }
+  coords 5366.609 29.365 9295.603
+  angleY -174.622
+  angleZ 0.744
+ }
+}
 GenericEntity : "{BEE03358A9311FF1}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Briefing_Wood_Blank.et" {
  components {
   SCR_EditableEntityComponent "{6656C64B5701E160}" {
@@ -332,9 +450,107 @@ GenericEntity : "{BEE03358A9311FF1}Prefabs/Compositions/Misc/CustomEntities/Comp
  coords 5025.562 39.86 9190.91
  angleY 82.323
 }
+$grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_plastic.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 5328.428 27.462 9295.438
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 5330.985 27.5 9295.439
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 5333.621 27.59 9295.44
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 5336.194 27.671 9295.44
+ }
+}
+GenericEntity : "{C7D38772154D45BB}Prefabs/Compositions/Slotted/SlotFlatSmall/Bunker_S_US_01.et" {
+ components {
+  SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+   Enabled 0
+  }
+ }
+ coords 5323.46 27.296 9292.765
+ angleY -180
+}
+$grp GenericEntity : "{CDE80E823669F91D}Prefabs/Compositions/Misc/SubCompositions/Fortifications/Sandbag_Corner_Right_US_01.et" {
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5376.773 20.723 9552.396
+  angleY 177.772
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5347.448 19.185 9551.256
+  angleY 177.772
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5319.966 18.115 9550.187
+  angleY 177.772
+ }
+}
+$grp GenericEntity : "{D320BFF57E696FE6}Prefabs/Compositions/Misc/FreeRoamBuilding/SandbagWallSolidPlastic_S_US_01.et" {
+ {
+  coords 5347.092 28.193 9297.056
+ }
+ {
+  coords 5349.758 28.36 9297.056
+  {
+   GenericEntity {
+    ID "5D72D01CA4AF92BD"
+    coords -0.407 0 0
+   }
+  }
+ }
+}
 StaticModelEntity : "{D54273207AB1D9F6}Prefabs/Structures/Airport/Helipad/MK_Landing_Lamp_Pole.et" {
  coords 5043.265 37.446 9086.223
  angleY -25.122
+}
+GenericEntity : "{D6D5331B30A2C7C6}Prefabs/Compositions/Misc/FreeRoamBuilding/CamoNetMedium_S_US_01.et" {
+ components {
+  SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+   Enabled 0
+  }
+ }
+ coords 5344.174 27.909 9312.544
+ angleY 99.79
+}
+Tree : "{D6EC31A48403A52A}Prefabs/Vegetation/Bush/b_sambucus_nigra_1.et" {
+ coords 5296.367 -0 9277.566
 }
 $grp GenericEntity : "{D6F8A419B10274F2}PrefabsEditable/Auto/Props/Military/Camps/E_Duckboard_01.et" {
  {
@@ -383,6 +599,62 @@ $grp GenericEntity : "{D6F8A419B10274F2}PrefabsEditable/Auto/Props/Military/Camp
   angleX -13.45
  }
 }
+$grp GenericEntity : "{DDF59362051B28BC}Prefabs/Props/Military/Fortification/BarbedTape_KnifeRest.et" {
+ {
+  coords 5348.822 28.359 9287.585
+  angleY -89.313
+ }
+ {
+  coords 5352.476 28.434 9287.181
+  angleY -88.515
+ }
+ {
+  coords 5355.904 28.638 9286.92
+  angleY -88.304
+ }
+ {
+  coords 5359.597 28.865 9286.682
+  angleY -88.979
+ }
+}
+$grp GenericEntity : "{E2BE65DAC2E6111A}Prefabs/Compositions/Misc/SubCompositions/Fortifications/Sandbag_Corner_Left_US_02.et" {
+ {
+  components {
+   SCR_SlotCompositionComponent "{5D06E2B30153DB8F}" {
+    Enabled 0
+   }
+  }
+  coords 5334.876 18.65 9550.704
+  angleY -180
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{5D06E2B30153DB8F}" {
+    Enabled 0
+   }
+  }
+  coords 5364.228 20.062 9551.809
+  angleY 180
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{5D06E2B30153DB8F}" {
+    Enabled 0
+   }
+  }
+  coords 5391.431 21.49 9553.195
+  angleY 180
+ }
+}
+GenericEntity : "{E670320529E50E93}Prefabs/Compositions/Misc/FreeRoamBuilding/CamoNetSmall_S_US_01.et" {
+ components {
+  SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+   Enabled 0
+  }
+ }
+ coords 5340.084 27.807 9302.825
+ angleY -5.604
+}
 StaticModelEntity : "{EE6C590D25FF8AD3}Prefabs/Compositions/Misc/SubCompositions/Tent_HQ_Camo_Cluttered_USSR_01.et" {
  coords 5070.52 38.057 9099.799
  angleY -94.5
@@ -399,5 +671,139 @@ $grp StaticModelEntity : "{F1C5F8E2EF1105F9}Prefabs/Compositions/Misc/SubComposi
  {
   coords 5047.5 38.25 9105.4
   angleY 90
+ }
+}
+$grp GenericEntity : "{FB67EB578876F366}PrefabsEditable/Auto/Props/Industrial/CargoContainers/CargoContainer_01/E_CargoContainer_01_10ft_grey.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{5CD0ACAE15613764}" {
+    Enabled 0
+   }
+  }
+  coords 5346.982 26.054 9291.871
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5CD0ACAE15613764}" {
+    Enabled 0
+   }
+  }
+  coords 5349.494 26.054 9291.871
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5CD0ACAE15613764}" {
+    Enabled 0
+   }
+  }
+  coords 5349.477 26.054 9294.912
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5CD0ACAE15613764}" {
+    Enabled 0
+   }
+  }
+  coords 5346.968 26.054 9294.909
+ }
+}
+$grp GenericEntity : "{FD426896698B4615}Prefabs/Compositions/Misc/FreeRoamBuilding/Dragonsteeth_S_US_01.et" {
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5347 28.156 9289.147
+  angleY -3.1
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5349.354 28.287 9288.964
+  {
+   StaticModelEntity {
+    ID "5E64F5E7596006C9"
+    coords 0 0 0
+   }
+  }
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5351.143 28.396 9288.769
+  {
+   StaticModelEntity {
+    ID "5E64F5E7596006C9"
+    coords 0 0 0
+    angleY -31.116
+   }
+  }
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5353.321 28.5 9288.732
+  {
+   StaticModelEntity {
+    ID "5E64F5E7596006C9"
+    coords 0 0 0
+    angleY -77.643
+   }
+  }
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5355.692 28.674 9288.68
+  {
+   StaticModelEntity {
+    ID "5E64F5E7596006C9"
+    coords 0 0 0
+    angleY 85.519
+   }
+  }
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5357.984 28.812 9288.569
+  {
+   StaticModelEntity {
+    ID "5E64F5E7596006C9"
+    coords 0 0 0
+    angleY -40.196
+   }
+  }
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5360.511 28.946 9288.469
+  {
+   StaticModelEntity {
+    ID "5E64F5E7596006C9"
+    coords 0 0 0
+    angleY -29.777
+   }
+  }
  }
 }
