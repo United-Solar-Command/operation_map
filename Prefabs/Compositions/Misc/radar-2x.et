@@ -1,0 +1,15 @@
+StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+ ID "56ACD1C4DB91DB10"
+ coords 4839.967 0 11261.268
+ scale 2
+ {
+  StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+   ID "666758DCCF411701"
+   coords 0 1.486 0
+  }
+  GenericEntity : "{C5341109EB1AB7B5}Prefabs/Destructible/GMFX_Destructible_Radar_RPL5.et" {
+   ID "666758DCCF411702"
+   coords 0 2.597 0
+  }
+ }
+}

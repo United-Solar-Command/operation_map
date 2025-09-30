@@ -12,18 +12,10 @@ GenericEntity : "{4923E218F59644B9}Prefabs/Props/Wrecks/BoatWreck_01.et" {
  angleY -20.615
  angleZ 28.895
 }
-GenericEntity : "{51946BE1CFD75905}PrefabsEditable/Auto/Structure/Protective tower.et" {
- coords 5387.383 10.531 8673.032
- angleY 93.717
-}
 $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
  {
   coords 5365.468 10.591 8678.65
   angleY -51.301
- }
- {
-  coords 5385.02 10.531 8672.86
-  angleY -86.33
  }
  {
   coords 5352.817 11.06 8698.044
@@ -36,6 +28,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   coords 5358.55 10.724 8687.188
   angleY -27.353
+  angleZ -90.523
  }
  {
   coords 5412.124 10.531 8679.967
@@ -56,6 +49,7 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  {
   coords 5341.77 12.31 8712.501
   angleY 110.12
+  angleZ -79.588
  }
  {
   coords 5331.553 13.433 8714.65
@@ -73,12 +67,15 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
    $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_concrete_barrierX3.et" {
     {
      coords 0 0 -4.724
+     angleZ -88.477
     }
     {
      coords 0 0 -9.406
+     angleZ -88.477
     }
     {
      coords 0 0 -14.035
+     angleZ -88.477
     }
     {
      coords 0 0 -18.864
@@ -119,6 +116,11 @@ $grp GenericEntity : "{6A6C046054919415}PrefabsEditable/Auto/Structure/Military_
  }
 }
 GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ components {
+  SCR_EditableEntityComponent "{61651602213188D9}" {
+   Enabled 0
+  }
+ }
  coords 5330.242 14.186 8763.154
  angleZ 8.586
 }
@@ -145,7 +147,9 @@ $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_ba
  }
  {
   coords 5376.63 10.531 8671.683
-  angleY -158.608
+  angleX 84.997
+  angleY -170.651
+  angleZ -12.088
  }
  {
   coords 5382.091 10.531 8654.807

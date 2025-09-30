@@ -43,6 +43,10 @@ StaticModelEntity : "{059125C8BBD5ECED}Prefabs/Compositions/Misc/SubCompositions
  coords 5032.5 38.25 9097.735
  angleY -90
 }
+StaticModelEntity : "{14E9375155427C56}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/TrenchOld_01_6m_metal_end.et" {
+ coords 5380.426 -0.626 9262.251
+ angleY -81.089
+}
 $grp GenericEntity : "{192A4FF528CB9DD0}Prefabs/Structures/Military/Camps/Foundations/Foundation_TentUS_01.et" {
  {
   coords 5040.262 38.25 9105.4
@@ -86,17 +90,120 @@ $grp GenericEntity : "{2323F9E4C524F047}Prefabs/Compositions/Slotted/SlotFlatSma
   angleY 165
  }
 }
+$grp StaticModelEntity : "{250B0F950A4490E0}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/Trench_Line_2.et" {
+ {
+  coords 5314.052 0.041 9291.814
+  angleX 0.041
+  angleY 2.138
+  angleZ -1.084
+ }
+ {
+  coords 5348.389 0.143 9290.531
+  angleX 0.041
+  angleY 2.138
+  angleZ -2.886
+ }
+ {
+  coords 5416.175 -0.001 9287.997
+  angleX 0.041
+  angleY 2.138
+  angleZ -1.311
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{62B0D70D8039A365}" {
+    Enabled 0
+   }
+  }
+  coords 5063.44 0.636 9046.847
+  angleX -2.249
+  angleY -20.011
+  angleZ 1.298
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{62B0D70D8039A365}" {
+    Enabled 0
+   }
+  }
+  coords 5095.517 0.636 9058.502
+  angleX -2.249
+  angleY -20.011
+  angleZ 1.298
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{62B0D70D8039A365}" {
+    Enabled 0
+   }
+  }
+  coords 5127.649 0.636 9070.167
+  angleX -2.249
+  angleY -20.011
+  angleZ 5.019
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{62B0D70D8039A365}" {
+    Enabled 0
+   }
+  }
+  coords 5159.979 0.634 9081.814
+  angleX -2.25
+  angleY -20.011
+  angleZ 5.019
+ }
+}
+GenericEntity : "{2F9B8A926C704A11}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_T_1.et" {
+ components {
+  SCR_EditableEntityComponent "{62B0D714DCCCC14E}" {
+   Enabled 0
+  }
+ }
+ coords 5380.57 28.722 9261.576
+ angleX -1.621
+ angleY -177.202
+ angleZ 2.889
+}
+$grp StaticModelEntity : "{3ABBC2184F70ED6B}Prefabs/Structures/Houses/Garage/Garage_E_01/Dst/Garage_E_01_Ruin.et" {
+ {
+  coords 5024.913 39.468 9044.765
+  angleX -3.519
+  angleY -10.97
+  angleZ 0.245
+ }
+ {
+  coords 5016.652 39.476 9043.884
+  angleX -2.226
+  angleY -4.644
+ }
+ {
+  coords 5003.829 38.844 9080.224
+  angleY 121.118
+ }
+}
+GenericEntity : "{43CFBE72D0B4C53F}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_T_2.et" {
+ components {
+  SCR_EditableEntityComponent "{62B0D70CC482A52D}" {
+   Enabled 0
+  }
+ }
+ coords 5381.533 29.837 9289.155
+ angleX 1.915
+ angleY 2.049
+ angleZ -4.131
+}
 $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
  {
-  coords 5103.002 0.782 9242.061
+  coords 5103.002 1.615 9242.061
   angleY 0.042
  }
  {
-  coords 5062.507 0 9242.09
+  coords 5068.965 2.058 9271.351
   angleY 0.042
  }
  {
-  coords 5024.17 0.515 9242.114
+  coords 5027.052 1.351 9231.454
   angleY 0.07
  }
 }
@@ -112,10 +219,8 @@ StaticModelEntity : "{69C51128071163C3}Prefabs/Compositions/Misc/SubCompositions
 }
 $grp GenericEntity : "{77F90F896D5145C8}Prefabs/Compositions/Slotted/SlotFlatSmall/LivingArea_S_US_01.et" {
  {
-  coords 5013.032 37.662 9117.939
-  angleX -0.353
-  angleY 54.909
-  angleZ -0.792
+  coords 4990.375 37.089 9142.946
+  angleY 79.325
  }
  {
   components {
@@ -126,6 +231,10 @@ $grp GenericEntity : "{77F90F896D5145C8}Prefabs/Compositions/Slotted/SlotFlatSma
   coords 5089.045 37.829 9132.733
   angleX -0.956
   angleY -90.529
+ }
+ {
+  coords 5000.866 37.089 9129.272
+  angleY 18.619
  }
 }
 $grp GenericEntity : "{7B04AB6CD4AA3C6D}Prefabs/Compositions/Misc/SubCompositions/CanvasCover_Cluttered_US_02.et" {
@@ -141,40 +250,57 @@ $grp GenericEntity : "{7B04AB6CD4AA3C6D}Prefabs/Compositions/Misc/SubComposition
 }
 $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 4970.471 36.804 9144.949
   angleX 0.895
   angleY -0.014
   angleZ -0.895
  }
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 5105.709 38.566 9173.985
   angleX 0.895
   angleY -0.014
   angleZ -0.895
  }
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 5009.797 43.136 8991.938
   angleX 0.895
   angleY -0.014
   angleZ -0.895
  }
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 4827.498 35.951 9065.838
-  angleX 0.895
-  angleY -0.014
-  angleZ -0.895
+  angleX -0.231
+  angleY -55.549
+  angleZ -1.244
  }
  {
-  coords 4938.868 23.208 9252.248
-  angleX 0.895
-  angleY -0.014
-  angleZ -0.895
- }
- {
-  coords 4953.221 23.503 9244.696
-  angleX 0.895
-  angleY -0.014
-  angleZ -0.895
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
+  coords 4929.768 34.487 9268.286
+  angleY -40.423
  }
 }
 $grp StaticModelEntity : "{95A4CF49FC9C0481}Prefabs/Compositions/Misc/SubCompositions/Tent_Barrack_Cluttered_US_01.et" {
@@ -197,36 +323,68 @@ $grp StaticModelEntity : "{95A4CF49FC9C0481}Prefabs/Compositions/Misc/SubComposi
   angleZ -0.012
  }
 }
-GenericEntity : "{CDD0712FD6215F04}Prefabs/Compositions/Slotted/SlotFlatMedium/FieldHospital_M_US_01.et" {
- coords 4993.708 37.097 9137.942
- angleX 0.461
- angleY 112.095
- angleZ -0.529
+GenericEntity : "{BEE03358A9311FF1}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Briefing_Wood_Blank.et" {
+ components {
+  SCR_EditableEntityComponent "{6656C64B5701E160}" {
+   Enabled 0
+  }
+ }
+ coords 5025.562 39.86 9190.91
+ angleY 82.323
+}
+StaticModelEntity : "{D54273207AB1D9F6}Prefabs/Structures/Airport/Helipad/MK_Landing_Lamp_Pole.et" {
+ coords 5043.265 37.446 9086.223
+ angleY -25.122
 }
 $grp GenericEntity : "{D6F8A419B10274F2}PrefabsEditable/Auto/Props/Military/Camps/E_Duckboard_01.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A69A0F13A}" {
+    Enabled 0
+   }
+  }
   coords 5038.798 37.862 9110.335
   angleX -11.975
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A69A0F13A}" {
+    Enabled 0
+   }
+  }
   coords 5037.535 37.873 9110.281
   angleX -11.975
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A69A0F13A}" {
+    Enabled 0
+   }
+  }
   coords 5040.064 37.846 9110.407
   angleX -11.975
  }
  {
-  coords 5041.343 37.841 9110.432
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A69A0F13A}" {
+    Enabled 0
+   }
+  }
+  coords 5041.343 37.841 9110.433
   angleX -11.975
  }
  {
-  coords 5042.627 37.851 9110.566
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A69A0F13A}" {
+    Enabled 0
+   }
+  }
+  coords 5042.627 37.851 9110.565
   angleX -13.45
  }
 }
 StaticModelEntity : "{EE6C590D25FF8AD3}Prefabs/Compositions/Misc/SubCompositions/Tent_HQ_Camo_Cluttered_USSR_01.et" {
- coords 5070.52 39 9099.799
+ coords 5070.52 38.057 9099.799
  angleY -94.5
 }
 $grp StaticModelEntity : "{F1C5F8E2EF1105F9}Prefabs/Compositions/Misc/SubCompositions/Tent_HQ_Camo_Cluttered_US_01.et" {

@@ -322,6 +322,9 @@ GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOT
     }
    }
   }
+  SCR_EditableEntityComponent "{617227549D5ED9DF}" {
+   Enabled 0
+  }
  }
  coords 4318.418 81.47 7945.388
  angleX 50.022
@@ -343,19 +346,6 @@ GenericEntity : "{ABC93329FA725C45}Prefabs/Structures/KOTH/ArmaTowerReforged_KOT
    angleX -13.977
    angleY 111.254
    angleZ 31.84
-  }
- }
-}
-GenericEntity : "{ECB8E313DFBD3415}Prefabs/Compositions/Slotted/SlotFlatSmall/VehicleMaintenance_S_US_01.et" {
- coords 4378.143 89.794 7953.698
- angleY -171.94
- {
-  GenericEntity {
-   ID "5D088D17AECAF9D3"
-   coords -0.073 0.015 -3.299
-   angleX 6.305
-   angleY -90.513
-   angleZ -0.064
   }
  }
 }

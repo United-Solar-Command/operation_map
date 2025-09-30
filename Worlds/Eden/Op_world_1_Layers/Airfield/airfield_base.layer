@@ -101,8 +101,9 @@ $grp GenericEntity : "{24B7F96197053B39}Prefabs/Compositions/Slotted/SlotRoadSma
 }
 $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
  {
-  coords 4750.583 0.278 10969.674
-  scale 3
+  coords 4735.09 0 11027.132
+  angleY -16.613
+  scale 2
   {
    StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
     coords 0 1.486 0
@@ -113,8 +114,8 @@ $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/Ap
   }
  }
  {
-  coords 4956.993 -0.417 12075.701
-  angleY -24.958
+  coords 4900.323 0 12103.063
+  angleY -56.657
   scale 4
   {
    StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
@@ -125,22 +126,29 @@ $grp StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/Ap
    }
   }
  }
-}
-$grp StaticModelEntity : "{3077D0EF6E9C8ACF}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Radar_On_Destructible.et" {
  {
-  coords 4810.061 -0.612 11037.023
-  angleY 0
+  coords 4823.2 0 11284.113
   scale 2
+  {
+   StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+    coords 0 1.486 0
+   }
+   GenericEntity : "{C5341109EB1AB7B5}Prefabs/Destructible/GMFX_Destructible_Radar_RPL5.et" {
+    coords 0 2.597 0
+   }
+  }
  }
  {
-  coords 4846.302 -0.497 12088.483
-  angleY 0
-  scale 2
- }
- {
-  coords 4738.472 -0.367 12155.461
-  angleY 0
-  scale 2
+  coords 4724.025 0 11868.968
+  scale 3
+  {
+   StaticModelEntity : "{2BC7C6DE43AC49E2}Prefabs/Structures/Military/Radar/ApproachRadar_RPL5_01/ApproachRadar_RPL5_01_short.et" {
+    coords 0 1.486 0
+   }
+   GenericEntity : "{C5341109EB1AB7B5}Prefabs/Destructible/GMFX_Destructible_Radar_RPL5.et" {
+    coords 0 2.597 0
+   }
+  }
  }
 }
 $grp GenericEntity : "{41FED15A066D06EC}Prefabs/GM_Props/GuardTower1_GM.et" {
@@ -323,6 +331,25 @@ $grp GenericEntity : "{6855584E6DE85098}Prefabs/Compositions/Misc/Barrier_Wall_0
     }
    }
   }
+ }
+}
+$grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
+  coords 4888.489 28.323 11989.161
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
+  coords 4682.818 28.445 11104.986
+  angleY 180
  }
 }
 GenericEntity : "{9AEAB32FBB897AC1}Prefabs/Structures/Signs/Military/Sign_FuelStorage_US_01.et" {

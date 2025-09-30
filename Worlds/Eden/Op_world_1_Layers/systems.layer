@@ -1,0 +1,74 @@
+$grp ScriptedGameTriggerEntity {
+ Wall_Trigger_1 {
+  components {
+   SpawnOnActivateComponent "{667B038D620D4EAA}" {
+    m_sPrefabToSpawn "{EA5FB153B0ABEFB0}Prefabs/Weapons/OrbitalStrike/OrbitalStrike_Red.et"
+   }
+  }
+  coords 2362.921 144.238 6951.822
+  TriggerShapeType Sphere
+  SphereRadius 1000
+  DrawShape 1
+  TriggerActivationType "Every query"
+ }
+ Wall_Trigger_2 {
+  components {
+   SpawnOnActivateComponent "{667B038D616A711E}" {
+    m_sPrefabToSpawn "{EA5FB153B0ABEFB0}Prefabs/Weapons/OrbitalStrike/OrbitalStrike_Red.et"
+   }
+  }
+  coords 3638.873 144.238 6696.817
+  TriggerShapeType Sphere
+  SphereRadius 1000
+  DrawShape 1
+  TriggerActivationType "Every query"
+ }
+ Wall_Trigger_3 {
+  components {
+   SpawnOnActivateComponent "{667B038D6902C944}" {
+    m_sPrefabToSpawn "{EA5FB153B0ABEFB0}Prefabs/Weapons/OrbitalStrike/OrbitalStrike_Red.et"
+   }
+  }
+  coords 4746.861 144.238 6696.817
+  TriggerShapeType Sphere
+  SphereRadius 1000
+  DrawShape 1
+  TriggerActivationType "Every query"
+ }
+ Wall_Trigger_4 {
+  components {
+   SpawnOnActivateComponent "{667B038D513502A2}" {
+    m_sPrefabToSpawn "{EA5FB153B0ABEFB0}Prefabs/Weapons/OrbitalStrike/OrbitalStrike_Red.et"
+   }
+  }
+  coords 5803.065 144.238 6696.817
+  TriggerShapeType Sphere
+  SphereRadius 1000
+  DrawShape 1
+  TriggerActivationType "Every query"
+ }
+ Wall_Trigger_5 {
+  components {
+   SpawnOnActivateComponent "{667B038D5A721172}" {
+    m_sPrefabToSpawn "{EA5FB153B0ABEFB0}Prefabs/Weapons/OrbitalStrike/OrbitalStrike_Red.et"
+   }
+  }
+  coords 6867.036 144.238 7167.854
+  TriggerShapeType Sphere
+  SphereRadius 1000
+  DrawShape 1
+  TriggerActivationType "Every query"
+ }
+ Wall_Trigger_6 {
+  components {
+   SpawnOnActivateComponent "{667B038C88B1D1B4}" {
+    m_sPrefabToSpawn "{EA5FB153B0ABEFB0}Prefabs/Weapons/OrbitalStrike/OrbitalStrike_Red.et"
+   }
+  }
+  coords 6947.676 144.238 8480.469
+  TriggerShapeType Sphere
+  SphereRadius 1000
+  DrawShape 1
+  TriggerActivationType "Every query"
+ }
+}

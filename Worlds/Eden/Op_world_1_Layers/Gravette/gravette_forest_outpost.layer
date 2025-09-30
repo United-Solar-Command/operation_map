@@ -61,10 +61,6 @@ $grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Lon
   angleY -171.902
  }
  {
-  coords 4324.934 72.377 8547.111
-  angleY 134.306
- }
- {
   coords 4201.628 65.945 8412.188
   angleY -172.824
  }

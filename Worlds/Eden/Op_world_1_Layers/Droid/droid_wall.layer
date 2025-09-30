@@ -1733,6 +1733,33 @@ $grp GenericEntity : "{362A646F1A24D078}6522EAB7461F248C/Prefabs/Vehicles/Turret
   scale 2
  }
 }
+$grp GenericEntity : "{3ED248CF8EE9A211}Prefabs/Compositions/Misc/Bacon_Droids_wall_section_02.et" {
+ {
+  coords 6362.885 0 9055.006
+  angleY -90.612
+ }
+ {
+  coords 6473.109 0 9171.122
+ }
+ {
+  coords 6823.683 0 9171.119
+ }
+ {
+  coords 6707.37 0 9171.12
+ }
+ {
+  coords 6364.131 0 8938.345
+  angleY -90.612
+  angleZ 6.61
+ }
+ {
+  coords 6361.645 0 9171.051
+  angleY -90.612
+ }
+ {
+  coords 6590.521 0 9171.121
+ }
+}
 $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
  {
   components {
@@ -1741,16 +1768,6 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
    }
   }
   coords 3527.304 4.31 7384.565
-  scale 2
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 6365.386 15.381 8820.903
-  angleY -90.612
   scale 2
  }
  {
@@ -2352,35 +2369,8 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
   scale 2
  }
 }
-$grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
- {
-  coords 4986.482 761.039 7070.929
-  scale 2
- }
- {
-  coords 3494.621 961.382 6948.349
- }
- {
-  coords 4256.128 1196.418 6665.134
- }
- {
-  coords 3867.813 1011.407 6958.621
-  scale 5
- }
- {
-  coords 3891.363 834.73 5939.52
- }
- {
-  coords 2821.409 986.081 7019.292
-  scale 5
- }
- {
-  coords 2536.861 771.541 7367.025
- }
- {
-  coords 3732.177 771.541 7250.224
- }
- {
-  coords 4425.536 870.548 6859.74
- }
+GenericEntity : "{52867C2F322D2D3F}Prefabs/Compositions/Misc/Bacon_Droids_wall_section_01.et" {
+ coords 6365.407 15.705 8818.908
+ angleY -90.612
+ angleZ 9.223
 }

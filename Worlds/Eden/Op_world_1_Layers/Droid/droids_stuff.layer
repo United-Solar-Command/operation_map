@@ -81,7 +81,80 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
   }
  }
 }
+$grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
+ {
+  coords 6291.045 752.311 8569.836
+  scale 2
+ }
+ {
+  coords 3494.621 961.382 7791.406
+ }
+ {
+  coords 4660.529 407.643 8058.878
+ }
+ {
+  coords 5237.885 538.365 8109.731
+  scale 5
+ }
+ {
+  coords 3336.234 495.385 8551.566
+ }
+ {
+  coords 4142.777 639.689 7809.097
+  scale 5
+ }
+ {
+  coords 4528.955 853.448 8607.096
+ }
+ {
+  coords 3895.695 729.919 8420.645
+ }
+ {
+  coords 5374.469 527.089 8707.266
+ }
+ {
+  coords 5858.029 516.558 8939.71
+ }
+ {
+  coords 7054.073 637.614 8358.202
+  scale 2.438
+ }
+}
 GenericEntity : "{C1D570023D9B08C5}Prefabs/Compositions/Misc/Bacon_Droids_short_wall_01.et" {
  coords 4633.073 120.284 7977.054
  angleY -10.457
+}
+$grp StaticModelEntity : "{D54273207AB1D9F6}Prefabs/Structures/Airport/Helipad/MK_Landing_Lamp_Pole.et" {
+ {
+  coords 4977.88 35.375 9257.207
+  angleY 161.133
+ }
+ {
+  coords 5044.151 39.379 9200.434
+  angleY -1.344
+ }
+ {
+  coords 5047.335 39.445 9191.37
+  angleY 171.476
+ }
+ {
+  coords 5075.424 37.446 9107.943
+  angleY -25.122
+ }
+ {
+  coords 5010.521 37.767 9108.544
+  angleY 65.104
+ }
+ {
+  coords 4980.728 36.824 9125.241
+  angleY 38.948
+ }
+ {
+  coords 4919.888 36.246 9161.718
+  angleY 61.793
+ }
+ {
+  coords 4920.675 36.775 9227.904
+  angleY 84.849
+ }
 }
