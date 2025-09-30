@@ -136,10 +136,10 @@ $grp StaticModelEntity : "{250B0F950A4490E0}Prefabs/Structures/Military/Fortific
   angleZ -0.974
  }
  {
-  coords 5416.175 -0.001 9287.997
-  angleX 0.041
-  angleY 2.138
-  angleZ -1.311
+  coords 5390.332 -0 9288.962
+  angleX 0.177
+  angleY 5.964
+  angleZ -2.026
  }
  {
   components {
@@ -375,17 +375,17 @@ $grp StaticModelEntity : "{95A4CF49FC9C0481}Prefabs/Compositions/Misc/SubComposi
 }
 $grp Tree : "{A43BE7E364B5CD67}Prefabs/Vegetation/Bush/b_juniperus_communis_2w.et" {
  {
-  coords 5310.908 -0 9284.711
+  coords 5310.908 0 9284.711
  }
  {
   coords 5315.645 0 9286.96
   angleY -25.614
  }
  {
-  coords 5308.479 -0 9283.619
+  coords 5308.479 0 9283.619
  }
  {
-  coords 5299.069 -0 9278.811
+  coords 5299.069 0 9278.811
  }
 }
 Tree : "{AED5759B653DF6D0}Prefabs/Vegetation/Bush/b_rosa_canina_1s.et" {
@@ -550,7 +550,7 @@ GenericEntity : "{D6D5331B30A2C7C6}Prefabs/Compositions/Misc/FreeRoamBuilding/Ca
  angleY 99.79
 }
 Tree : "{D6EC31A48403A52A}Prefabs/Vegetation/Bush/b_sambucus_nigra_1.et" {
- coords 5296.367 -0 9277.566
+ coords 5296.367 0 9277.566
 }
 $grp GenericEntity : "{D6F8A419B10274F2}PrefabsEditable/Auto/Props/Military/Camps/E_Duckboard_01.et" {
  {

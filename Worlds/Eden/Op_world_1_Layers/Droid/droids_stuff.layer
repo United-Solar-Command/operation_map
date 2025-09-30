@@ -93,10 +93,6 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
   coords 4660.529 407.643 8058.878
  }
  {
-  coords 5237.885 538.365 8109.731
-  scale 5
- }
- {
   coords 3336.234 495.385 8551.566
  }
  {
@@ -111,9 +107,6 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
  }
  {
   coords 5374.469 527.089 8707.266
- }
- {
-  coords 5858.029 516.558 8939.71
  }
  {
   coords 7054.073 637.614 8358.202
