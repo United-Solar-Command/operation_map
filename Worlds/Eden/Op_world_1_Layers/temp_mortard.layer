@@ -1,0 +1,194 @@
+GenericEntity Arsenal_Tents_2 {
+ components {
+  RplComponent "{6632F8BD05499074}" {
+  }
+  Hierarchy "{6632F8BD061A6604}" {
+  }
+ }
+ coords 5002.813 25.613 9968.397
+ angleY -25.492
+ {
+  StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
+   coords -10.111 -0.082 3.439
+   angleY 155.798
+   {
+    $grp GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
+     {
+      coords 2.014 0.171 1.955
+      angleY -90.832
+     }
+     {
+      coords -2.114 0.171 1.966
+      angleY 88.735
+     }
+    }
+    $grp GenericEntity : "{0D5E512CAED58B5C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Launcher_US.et" {
+     {
+      coords 2.127 0.184 0.046
+      angleY -88.471
+     }
+     {
+      coords -2.122 0.184 0.161
+      angleY 91.414
+     }
+    }
+    $grp GenericEntity : "{CE74212FD2C25533}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Equipment_US.et" {
+     {
+      coords -2.01 0.173 -1.802
+      angleY 92.051
+     }
+     {
+      coords 2.262 0.173 -1.924
+      angleY -93.497
+     }
+    }
+   }
+  }
+  StaticModelEntity : "{942358281B820A96}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSRMedical_01_foundation.et" {
+   coords 9.578 0.134 2.901
+   angleY -160.432
+   {
+    $grp GenericEntity : "{A18D9C677F47AC1C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_US.et" {
+     {
+      coords -2.401 0.174 -0.045
+      angleY 89.759
+     }
+     {
+      coords 2.176 0.174 -0.024
+      angleY -89.568
+     }
+    }
+   }
+  }
+  StaticModelEntity : "{94FB3A1BFFFF1A19}Prefabs/Structures/Military/Camps/TentUS_01/TentUS_01_Assembled_foundation.et" {
+   coords -0.02 0 4.58
+   {
+    $grp GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
+     {
+      coords 1.989 0.136 -2.529
+      angleY -87.801
+     }
+     {
+      coords 2.086 0.127 0.022
+      angleY -87.801
+     }
+     {
+      coords 2.284 0.138 5.237
+      angleY -87.801
+     }
+     {
+      coords 2.189 0.12 2.686
+      angleY -87.801
+     }
+    }
+    $grp GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
+     {
+      coords -2.165 0.158 4.658
+      angleY 89.828
+     }
+     {
+      coords -2.158 0.128 2.34
+      angleY 89.828
+     }
+     {
+      coords -2.145 0.14 -2.265
+      angleY 89.828
+     }
+     {
+      coords -2.151 0.113 0.051
+      angleY 89.828
+     }
+    }
+   }
+  }
+ }
+}
+Turret : "{8094D99689ABE241}Prefabs/Weapons/Mortars/M252/Mortar_M252.et" {
+ coords 4997.527 26.306 9943.508
+ angleY -178.953
+}
+GenericEntity : "{C1AB654F77ABA58B}PrefabsEditable/Auto/Props/Military/Compositions/US/E_ArsenalBox_US.et" {
+ coords 4991.244 25.273 9961.604
+ angleY 33.732
+}
+GenericEntity : "{CF4F7AEE0BFA7B25}Prefabs/Props/Military/Compositions/US/Antenna_01_US.et" {
+ components {
+  SCR_FactionAffiliationComponent "{5CB6D5B3749D59C3}" {
+   "faction affiliation" "ENFORCER"
+  }
+  ScriptedRadioComponent "{5CB8818C71F12C73}" {
+   "Encryption key" "PewPew"
+   "Turned on" 1
+   Transceivers {
+    RelayTransceiver "{5CB8819A2D055A05}" {
+     ChannelFrequency 60000
+     "Transmitting Range" 20000
+    }
+   }
+  }
+ }
+ coords 5022.818 26.358 9990.685
+ angleY 23.49
+}
+GenericEntity : "{D79FECA12AC8F646}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Sandbag_Artillery.et" {
+ coords 4997.597 26.278 9943.008
+ angleY -178.16
+ {
+  GenericEntity {
+   ID "62DCD7092A18519E"
+   coords -3.748 0.019 -2.478
+  }
+  GenericEntity {
+   ID "62DCD7092A185202"
+   coords -0.259 -0.004 -3.582
+  }
+  GenericEntity {
+   ID "62DCD7092A18521D"
+   coords -1.608 -0.003 3.711
+  }
+  GenericEntity {
+   ID "62DCD7092A185221"
+   coords 3.869 -0.112 -2.478
+  }
+  GenericEntity {
+   ID "62DCD7092A185236"
+   coords 1.834 -0.004 -3.581
+  }
+  GenericEntity {
+   ID "62DCD7092A185245"
+   coords 3.869 -0.112 2.535
+  }
+  GenericEntity {
+   ID "62DCD7092A185255"
+   coords 3.869 -0.112 0.769
+  }
+  GenericEntity {
+   ID "62DCD7092A185262"
+   coords -3.748 0.003 0.767
+  }
+  GenericEntity {
+   ID "62DCD7092A1852EF"
+   coords 1.736 0.017 3.711
+  }
+  GenericEntity {
+   ID "62DCD7092A185188"
+   coords -1.959 0 2.112
+  }
+  GenericEntity {
+   ID "62DCD7092A1851A5"
+   coords 2.225 0 2.111
+  }
+  GenericEntity {
+   ID "62DCD7092A1851D1"
+   coords 2.225 0 -2.049
+  }
+  GenericEntity {
+   ID "62DCD7092A1851E2"
+   coords -2.056 0 -2.049
+  }
+ }
+}
+GenericEntity : "{E1FD1ACDA98123AE}Prefabs/Props/Military/Arsenal/AmmoBoxes/US/AmmoBoxArsenal_Mortar_US.et" {
+ coords 4995.083 26.289 9945.484
+ angleY 130.494
+}

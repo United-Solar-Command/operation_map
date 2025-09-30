@@ -14,55 +14,25 @@ $grp GenericEntity : "{1112756E8A13445B}Prefabs/Props/Industrial/Pallets/Pallet_
   angleY -91.178
  }
  {
-  coords 5851.835 7.728 9781.346
+  coords 5851.833 8.946 9781.392
   angleY -91.178
+  angleZ -91.443
  }
 }
-StaticModelEntity : "{156E5334CC3A5038}Prefabs/Structures/Industrial/Containers/FuelTanks/FuelTank_01/FuelTank_01_Ruin.et" {
- components {
-  MeshObject "{5CAE9B8B9983D35F}" {
-   Materials {
-    MaterialAssignClass "{6626CD2B55856296}" {
-     SourceMaterial "FuelTank_01"
-     AssignedMaterial "{9434BC794937840D}Assets/Structures/Industrial/Containers/FuelTanks/FuelTank_01/data/FuelTank_01.emat"
-    }
-    MaterialAssignClass "{6626CD2B55856275}" {
-     SourceMaterial "FuelTank_01_Ruin_MLOD"
-     AssignedMaterial "{4402FF6D9CA9543C}Assets/Structures/Industrial/Containers/FuelTanks/FuelTank_01/data/FuelTank_01_MLOD.emat"
-    }
-   }
-  }
- }
- coords 5885.502 4.691 9695.196
-}
-SCR_DestructibleEntity : "{3E4497B965824BD3}Prefabs/Props/Decorations/Flowerpots/FlowerpotStreet_01/FlowerpotStreet_01_octa_Base.et" {
- coords 5834.261 27.116 9789.74
- angleX -43.824
- angleY 67.885
- angleZ 160.394
-}
-$grp GenericEntity : "{D1F640F809292048}Prefabs/Compositions/Misc/Checkpoint_Long_01.et" {
+$grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
  {
-  coords 4503.493 78.19 8451.623
-  angleY -176.646
+  coords 5128.356 1.59 12320.794
+  angleY 0.042
  }
  {
-  coords 4433.962 78.061 8465.194
-  angleY -174.779
- }
- {
-  coords 4536.238 79.922 8452.947
-  angleY 176.344
- }
- {
-  coords 4636.708 88.659 8470.659
-  angleY -175.736
+  coords 5190.896 2.306 12363.137
+  angleY 0.042
  }
 }
 $grp GenericEntity : "{D7F69BF7D2DCA0A8}Prefabs/Props/Industrial/Pallets/Pallet_01.et" {
  {
-  coords 5850.457 8.554 9779.862
-  angleY 35.794
+  coords 5850.277 8.554 9779.895
+  angleY 53.901
  }
  {
   coords 5847.215 13.55 9775.364

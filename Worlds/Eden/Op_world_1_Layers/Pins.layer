@@ -1,0 +1,97 @@
+$grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{6668E921D46949A9}" {
+   }
+   SCR_EditableEntityComponent "{6668E921C728CF1B}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6668E921BE8E9059}" {
+     Name "Helipad (Lights)"
+     m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
+     m_aAuthoredLabels {
+      1001
+     }
+    }
+   }
+  }
+  coords 1159.456 2.472 11694.463
+  angleY -44.019
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{6668E921B36142F5}" {
+   }
+   SCR_EditableEntityComponent "{6668E921C728CF1B}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6668E921BE8E9059}" {
+     Name "Helipad (Lights)"
+     m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
+     m_aAuthoredLabels {
+      1001
+     }
+    }
+   }
+  }
+  coords 1114.543 1.188 11532.547
+  angleY 0.042
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{6668E921B7B85860}" {
+   }
+   SCR_EditableEntityComponent "{6668E921C728CF1B}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6668E921BE8E9059}" {
+     Name "Helipad (Lights)"
+     m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
+     m_aAuthoredLabels {
+      1001
+     }
+    }
+   }
+  }
+  coords 1293.916 1.902 11478.418
+  angleY 0.042
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{6668E921CE0C2357}" {
+   }
+   SCR_EditableEntityComponent "{6668E921C728CF1B}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6668E921BE8E9059}" {
+     Name "Helipad (Lights)"
+     m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
+     m_aAuthoredLabels {
+      1001
+     }
+    }
+   }
+  }
+  coords 1155.045 1.353 11554.743
+  angleY 0.042
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{6668E921C728CF1B}" {
+    m_UIInfo SCR_EditableEntityUIInfo "{6668E921BE8E9059}" {
+     Name "Helipad (Lights)"
+     m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
+     m_aAuthoredLabels {
+      1001
+     }
+    }
+   }
+  }
+  coords 1190.759 2.231 11498.002
+  angleY 0.042
+ }
+}
+$grp StaticModelEntity : "{60FC4D0A88486975}Prefabs/Compositions/Misc/radar-7x.et" {
+ {
+  coords 1288.254 -0.523 11197.762
+  angleY -170.849
+  scale 4
+ }
+ {
+  coords 1676.891 -1.821 11273.445
+  angleY 109.586
+  scale 4
+ }
+}

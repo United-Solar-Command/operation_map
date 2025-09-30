@@ -1,0 +1,98 @@
+$grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Granite/GraniteCliff_01.et" {
+ {
+  coords 10868.014 5.504 8721.548
+  angleX 27.039
+  angleY -88.133
+  angleZ -85.899
+ }
+ {
+  coords 10875.413 8.795 8653.674
+  angleX 27.799
+  angleY -160.95
+  angleZ -87.894
+ }
+ {
+  coords 10887.151 16.569 8704.452
+  angleX -69.204
+  angleY -93.36
+  angleZ 175.822
+ }
+}
+$grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10893.017 19.189 8793.695
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10956.581 16.188 8833.622
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10911.824 25.209 8673.053
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10910.105 17.257 8566.329
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11066.76 4.155 8636.264
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11019.563 3.283 8746.402
+ }
+}
+GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ components {
+  SCR_EditableEntityComponent "{61651602213188D9}" {
+   Enabled 0
+  }
+ }
+ coords 10928.146 22.118 8661.295
+ angleX 53.648
+ angleY -165
+}
+StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Utility/E_Helipad_Lights_US_01.et" {
+ components {
+  SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
+   Enabled 0
+  }
+ }
+ coords 10968.917 0.961 8683.854
+}
+$grp SCR_DestructibleBuildingEntity : "{EE5219B38424AB12}Prefabs/Structures/Military/Bunkers/Bunker_01/Bunker_01_3fp.et" {
+ {
+  coords 10904.337 1.357 8665.262
+  angleY -125.983
+ }
+ {
+  coords 10870.181 0.275 8784.841
+  angleY -88.888
+ }
+}

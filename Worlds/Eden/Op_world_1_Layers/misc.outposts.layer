@@ -2,81 +2,16 @@ GenericEntity : "{26EFDFD1701649D8}PrefabsEditable/Auto/Structure/Concrete_barri
  coords 4940.425 115.076 8498.69
  angleY 18.137
 }
-$grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Granite/GraniteCliff_01.et" {
- {
-  coords 10868.014 5.504 8721.548
-  angleX 27.039
-  angleY -88.133
-  angleZ -85.899
- }
- {
-  coords 10875.413 8.795 8653.674
-  angleX 27.799
-  angleY -160.95
-  angleZ -87.894
- }
- {
-  coords 10887.151 16.569 8704.452
-  angleX -69.204
-  angleY -93.36
-  angleZ 175.822
- }
-}
 StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
  coords 6724.731 0.872 9634.748
 }
-$grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 10893.017 19.189 8793.695
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 10956.581 16.188 8833.622
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 10911.824 25.209 8673.053
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 10910.105 17.257 8566.329
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 11066.76 4.155 8636.264
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 11019.563 3.283 8746.402
- }
-}
 $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 6702.912 4.282 9643.339
   angleY 135
  }
@@ -86,48 +21,60 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
     Enabled 0
    }
   }
-  coords 10928.146 22.118 8661.295
-  angleX 53.648
-  angleY -165
- }
- {
-  coords 10823.832 19.57 11758.406
- }
- {
-  coords 11018.714 24.16 11685.79
- }
- {
   coords 4888.605 27.267 11435.208
  }
  {
-  coords 4682.818 28.445 11104.986
-  angleY 180
- }
- {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 4620.327 14.396 10388.669
   angleY 180
  }
  {
-  coords 4888.489 28.323 11989.161
- }
- {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 4311.915 1.124 9493.655
   angleY 165.312
  }
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 4346.139 1.562 11000.316
   angleY -122.622
  }
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 4591.968 8.801 9318.848
   angleY 113.317
  }
  {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
   coords 11556.051 20.097 10921.955
   angleY 138.558
  }
 }
 GenericEntity : "{9FFB7FFA1B700ED8}Prefabs/Structures/KOTH/ArmaTowerReforged_KOTH_1.et" {
+ components {
+  SCR_EditableEntityComponent "{617227540B77727D}" {
+   Enabled 0
+  }
+ }
  coords 4943.137 115.05 8533.323
  angleY -89.694
 }
@@ -187,79 +134,5 @@ $grp GenericEntity : "{BECA7A196FFC6BD1}PrefabsEditable/Auto/Structure/A_riot_ba
  {
   coords 4943.363 115.359 8500.844
   angleY -176.252
- }
-}
-$grp StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Utility/E_Helipad_Lights_US_01.et" {
- {
-  components {
-   SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
-    Enabled 0
-   }
-  }
-  coords 10968.917 0.961 8683.854
- }
- {
-  components {
-   SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
-    Enabled 0
-   }
-  }
-  coords 11080.173 0 11837.992
-  angleY 35.094
- }
- {
-  components {
-   SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
-    Enabled 0
-   }
-  }
-  coords 11050.872 0.758 11857.945
-  angleY 35.094
- }
- {
-  components {
-   SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
-    Enabled 0
-   }
-  }
-  coords 11024.421 0 11877.165
-  angleY 35.094
- }
- {
-  components {
-   SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
-    Enabled 0
-   }
-  }
-  coords 11056.046 1.102 11912.996
-  angleY 38.065
- }
- {
-  components {
-   SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
-    Enabled 0
-   }
-  }
-  coords 11080.599 0 11893.769
-  angleY 38.065
- }
- {
-  components {
-   SCR_EditableEntityComponent "{5EF0B7B337DD4DA1}" {
-    Enabled 0
-   }
-  }
-  coords 11104.92 -0 11874.722
-  angleY 38.065
- }
-}
-$grp SCR_DestructibleBuildingEntity : "{EE5219B38424AB12}Prefabs/Structures/Military/Bunkers/Bunker_01/Bunker_01_3fp.et" {
- {
-  coords 10904.337 1.357 8665.262
-  angleY -125.983
- }
- {
-  coords 10870.181 0.275 8784.841
-  angleY -88.888
  }
 }

@@ -429,6 +429,7 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
  {
   components {
    SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
     m_bStatic 1
    }
   }
@@ -473,19 +474,6 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
      angleX -23.6
      angleY 35.008
      angleZ 2.392
-    }
-   }
-   GenericEntity {
-    ID "61697982A6512635"
-    {
-     GenericEntity {
-      ID "61697982A6514D81"
-      components {
-       ActionsManagerComponent "{612533618DEE65AD}" {
-        Enabled 0
-       }
-      }
-     }
     }
    }
    $grp StaticModelEntity : "{0C3B2727C604593E}Prefabs/Structures/Military/Fortifications/DirtCover_01/DirtCover_01_long_v2.et" {
@@ -604,6 +592,7 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
  {
   components {
    SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
     m_bStatic 1
    }
   }
@@ -613,6 +602,7 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
  {
   components {
    SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
     m_bStatic 1
    }
   }
@@ -655,13 +645,13 @@ GenericEntity : "{B904FC3DB708301A}Prefabs/Compositions/Misc/Checkpoint_03.et" {
    ID "6568E068500C422B"
    coords 1.584 2.935 -0.469
   }
-  GenericEntity {
-   ID "6568E068500C80B1"
-   coords -1.705 2.935 -0.469
-  }
-  GenericEntity {
-   ID "6568E068500C80B7"
-   coords -0.057 2.935 -0.413
+  $grp GenericEntity {
+   {
+    coords -1.705 2.935 -0.469
+   }
+   {
+    coords -0.057 2.935 -0.413
+   }
   }
  }
 }

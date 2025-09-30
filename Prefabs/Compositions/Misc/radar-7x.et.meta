@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{250B0F950A4490E0}Prefabs/Structures/Military/Fortifications/Trenches/TrenchOld_01/Trench_Line_2.et"
+ Name "{60FC4D0A88486975}Prefabs/Compositions/Misc/radar-7x.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
