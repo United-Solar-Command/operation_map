@@ -113,9 +113,19 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
   scale 2.438
  }
 }
-GenericEntity : "{C1D570023D9B08C5}Prefabs/Compositions/Misc/Bacon_Droids_short_wall_01.et" {
- coords 4633.073 120.284 7977.054
- angleY -10.457
+$grp GenericEntity : "{C1D570023D9B08C5}Prefabs/Compositions/Misc/Bacon_Droids_short_wall_01.et" {
+ {
+  coords 4633.073 120.284 7977.054
+  angleY -10.457
+ }
+ {
+  coords 4921.635 36.746 9194.904
+  angleY -22.225
+ }
+ {
+  coords 5253.843 25.75 9185.845
+  angleY 12.771
+ }
 }
 $grp StaticModelEntity : "{D54273207AB1D9F6}Prefabs/Structures/Airport/Helipad/MK_Landing_Lamp_Pole.et" {
  {
