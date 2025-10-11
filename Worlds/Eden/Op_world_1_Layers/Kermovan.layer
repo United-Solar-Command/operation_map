@@ -137,6 +137,6 @@ SCR_DestructibleBuildingEntity : "{B668684CA41FE0B2}Prefabs/Compositions/Misc/Cu
  angleZ 1.547
 }
 GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
- coords 7074.285 118.478 9446.258
+ coords 6844.25 118.478 9507.896
  angleY -75
 }
