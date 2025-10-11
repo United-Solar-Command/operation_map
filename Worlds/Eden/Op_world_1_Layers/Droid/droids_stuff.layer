@@ -119,10 +119,6 @@ GenericEntity : "{C1D570023D9B08C5}Prefabs/Compositions/Misc/Bacon_Droids_short_
 }
 $grp StaticModelEntity : "{D54273207AB1D9F6}Prefabs/Structures/Airport/Helipad/MK_Landing_Lamp_Pole.et" {
  {
-  coords 4977.88 35.375 9257.207
-  angleY 161.133
- }
- {
   coords 5044.151 39.379 9200.434
   angleY -1.344
  }
@@ -131,23 +127,7 @@ $grp StaticModelEntity : "{D54273207AB1D9F6}Prefabs/Structures/Airport/Helipad/M
   angleY 171.476
  }
  {
-  coords 5075.424 37.446 9107.943
-  angleY -25.122
- }
- {
-  coords 5010.521 37.767 9108.544
-  angleY 65.104
- }
- {
-  coords 4980.728 36.824 9125.241
-  angleY 38.948
- }
- {
   coords 4919.888 36.246 9161.718
   angleY 61.793
- }
- {
-  coords 4920.675 36.775 9227.904
-  angleY 84.849
  }
 }
