@@ -1,0 +1,102 @@
+$grp SCR_FiringRangeTarget : "{379D34B0D41DA810}Prefabs/Props/Military/Training/TargetInfantry_01.et" {
+ {
+  coords 5432.185 45.281 10480.561
+  angleY 31.54
+ }
+ {
+  coords 5430.434 45.281 10481.634
+  angleY 31.54
+ }
+ {
+  coords 5428.801 45.281 10482.637
+  angleY 31.54
+ }
+ {
+  coords 5427.058 45.281 10483.707
+  angleY 31.54
+ }
+ {
+  coords 5425.248 45.281 10484.815
+  angleY 31.54
+ }
+ {
+  coords 5423.836 45.281 10485.683
+  angleY 31.54
+ }
+ {
+  coords 5395.123 44.973 10504.556
+  angleY 35.671
+ }
+ {
+  coords 5393.109 45.121 10501.751
+  angleY 35.671
+ }
+ {
+  coords 5390.834 45.156 10498.583
+  angleY 35.671
+ }
+ {
+  coords 5388.599 45.239 10495.469
+  angleY 35.671
+ }
+ {
+  coords 5386.723 45.238 10492.855
+  angleY 35.671
+ }
+ {
+  coords 5384.457 45.263 10489.701
+  angleY 35.671
+ }
+ {
+  coords 5488.31 44.27 10568.692
+  angleY -102.584
+ }
+ {
+  coords 5490.641 44.27 10566.89
+  angleY -102.584
+ }
+ {
+  coords 5489.553 44.27 10571.763
+  angleY -102.584
+ }
+ {
+  coords 5491.756 44.27 10574.545
+  angleY -102.584
+ }
+ {
+  coords 5493.857 44.27 10565.128
+  angleY -102.584
+ }
+ {
+  coords 5492.822 44.27 10569.765
+  angleY -102.584
+ }
+ {
+  coords 5434.575 43.089 10582.835
+  angleY 72.436
+ }
+ {
+  coords 5431.911 43.089 10577.396
+  angleY 72.436
+ }
+ {
+  coords 5425.934 43.089 10580.063
+  angleY 72.436
+ }
+ {
+  coords 5419.568 43.089 10573.954
+  angleY 72.436
+ }
+ {
+  coords 5411.133 43.089 10576.181
+  angleY 72.436
+ }
+ {
+  coords 5406.109 43.089 10570.637
+  angleY 72.436
+ }
+}
+SCR_SpawnPoint : "{CEA2B24051A44525}PrefabsEditable/SpawnPoints/E_SpawnPoint_US.et" {
+ coords 4818.865 28.5 11726.89
+ m_sFaction "ENFORCERS"
+}

@@ -87,7 +87,7 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
   scale 2
  }
  {
-  coords 3494.621 961.382 7791.406
+  coords 3494.621 961.382 8525.522
  }
  {
   coords 4660.529 407.643 8058.878
@@ -100,10 +100,10 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
   scale 5
  }
  {
-  coords 4528.955 853.448 8607.096
+  coords 4528.955 853.448 8964.397
  }
  {
-  coords 3895.695 729.919 8420.645
+  coords 3895.695 729.919 8762.488
  }
  {
   coords 5374.469 527.089 8707.266
@@ -111,6 +111,20 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
  {
   coords 7054.073 637.614 8358.202
   scale 2.438
+ }
+ {
+  coords 5325.891 1463.189 6756.928
+  angleY 86.958
+  scale 28.179
+ }
+ {
+  coords 6152.453 264.171 8217.332
+ }
+ {
+  coords 6285.577 182.549 8301.505
+ }
+ {
+  coords 6033.303 313.981 8301.505
  }
 }
 $grp GenericEntity : "{C1D570023D9B08C5}Prefabs/Compositions/Misc/Bacon_Droids_short_wall_01.et" {

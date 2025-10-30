@@ -1,0 +1,45 @@
+CommentEntity {
+ ID "6626B7E2C95649F6"
+ coords 4883 31 11895
+ angleY 90
+ m_Comment "Staggered Column"
+ m_Size 0.7
+ m_Color 1 0 0
+ m_VisibleOverall 1
+ m_VisibleIngame 1
+ m_TextBackground 1
+ {
+  $grp SCR_FiringRangeTarget : "{379D34B0D41DA810}Prefabs/Props/Military/Training/TargetInfantry_01.et" {
+   {
+    ID "6626B7E2C9518745"
+    coords 3 -2.406 0
+    angleY 180
+   }
+   {
+    ID "6626B7E2C9562EC8"
+    coords -3 -2.406 15
+    angleY 180
+   }
+   {
+    ID "6626B7E2C95649F2"
+    coords -3 -2.406 3
+    angleY 180
+   }
+   {
+    ID "6626B7E2C95649F3"
+    coords 3 -2.406 6
+    angleY 180
+   }
+   {
+    ID "6626B7E2C9567592"
+    coords 3 -2.406 12
+    angleY 180
+   }
+   {
+    ID "6626B7E2C956759C"
+    coords -3 -2.406 9
+    angleY 180
+   }
+  }
+ }
+}

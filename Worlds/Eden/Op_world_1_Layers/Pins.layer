@@ -1,8 +1,6 @@
 $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
  {
   components {
-   SCR_EditableEntityComponent "{6668E921D46949A9}" {
-   }
    SCR_EditableEntityComponent "{6668E921C728CF1B}" {
     m_UIInfo SCR_EditableEntityUIInfo "{6668E921BE8E9059}" {
      Name "Helipad (Lights)"
@@ -11,6 +9,8 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
       1001
      }
     }
+   }
+   SCR_EditableEntityComponent "{6668E921D46949A9}" {
    }
   }
   coords 1159.456 2.472 11694.463
@@ -52,8 +52,6 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
  }
  {
   components {
-   SCR_EditableEntityComponent "{6668E921CE0C2357}" {
-   }
    SCR_EditableEntityComponent "{6668E921C728CF1B}" {
     m_UIInfo SCR_EditableEntityUIInfo "{6668E921BE8E9059}" {
      Name "Helipad (Lights)"
@@ -62,6 +60,8 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
       1001
      }
     }
+   }
+   SCR_EditableEntityComponent "{6668E921CE0C2357}" {
    }
   }
   coords 1155.045 1.353 11554.743
@@ -93,5 +93,43 @@ $grp StaticModelEntity : "{60FC4D0A88486975}Prefabs/Compositions/Misc/radar-7x.e
   coords 1676.891 -1.821 11273.445
   angleY 109.586
   scale 4
+ }
+}
+GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ coords 1103.661 37.025 11774.679
+ angleY 175.253
+ {
+  SCR_DestructibleEntity : "{B31031F1F682586E}Prefabs/Props/Furniture/BenchWooden_02_Base.et" {
+   coords 0.51 17.996 -3.22
+   angleY 90.133
+  }
+  GenericEntity : "{BBBC235B9B053092}Prefabs/Props/Furniture/Armchair_02.et" {
+   coords -0.291 17.996 2.231
+   angleY 0.889
+  }
+  $grp GenericEntity : "{C452AB0C327C11D8}Prefabs/Props/Furniture/DeckChair_01/DeckChair_01_base.et" {
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Materials {
+       MaterialAssignClass "{55BA8871BCEE89F0}" {
+        SourceMaterial "DeckChair_01"
+        AssignedMaterial "{3C038129B0E3DDD8}Assets/Props/Furniture/DeckChair_01/Data/DeckChair_01_greenstripe.emat"
+       }
+       MaterialAssignClass "{55BA8871BCEE8916}" {
+        SourceMaterial "DeckChair_01_MLOD"
+        AssignedMaterial "{89CCEDCB302F2920}Assets/Props/Furniture/DeckChair_01/Data/DeckChair_01_greenstripe_MLOD.emat"
+       }
+      }
+     }
+    }
+    coords -2.162 17.996 3.248
+    angleY 30.673
+   }
+   {
+    coords 1.598 17.996 3.057
+    angleY -30.067
+   }
+  }
  }
 }

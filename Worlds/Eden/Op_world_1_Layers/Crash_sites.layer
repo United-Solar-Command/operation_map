@@ -255,18 +255,3 @@ GenericEntity : "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Drop
  coords 5382.311 25.867 9171.164
  angleX -55.425
 }
-$grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
- {
-  coords 5157.44 1463.189 4788.155
-  scale 28.179
- }
- {
-  coords 6152.453 264.171 8217.332
- }
- {
-  coords 6285.577 182.549 8301.505
- }
- {
-  coords 6033.303 313.981 8301.505
- }
-}
