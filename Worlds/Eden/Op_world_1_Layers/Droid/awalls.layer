@@ -1,0 +1,377 @@
+$grp GenericEntity {
+ tower03 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 3795.741 -12.2 7378.097
+  angles 0 -90 0
+  scale 23
+ }
+ tower01 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+   RigidBody "{68AD598CBDC3613B}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 218.205 0 7378.027
+  angles 0 -90 0
+  scale 23
+ }
+ tower12 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 11550.118 0 7380.578
+  angles 0 -90 0
+  scale 23
+ }
+ tower11 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 10200.576 0 7380.578
+  angles 0 -90 0
+  scale 23
+ }
+ tower05 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 5660.389 161.587 7378.243
+  angles 0 -90 0
+  scale 23
+ }
+ tower10 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 9062.552 0 7380.578
+  angles 0 -90 0
+  scale 23
+ }
+ tower06 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 5893.826 161.587 7378.243
+  angles 0 -90 0
+  scale 23
+ }
+ tower02 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 1971.076 0 7378.027
+  angles 0 -90 0
+  scale 23
+ }
+ tower07 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 6604.438 126.658 7390.197
+  angles 0 -90 0
+  scale 23
+ }
+ tower04 {
+  components {
+   MeshObject "{68AD598D8DDEC585}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 4720.173 134.225 7370.121
+  angles 0 -90 0
+  scale 23
+ }
+ tower09 {
+  components {
+   MeshObject "{68AD598D5339C68E}" {
+    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
+   }
+  }
+  coords 7258.785 4.035 7378.254
+  angles 0 -90 0
+  scale 23
+ }
+ Wall01 {
+  components {
+   MeshObject "{689F6CB96564465B}" {
+    Object "{57D7F124B30C148E}Assets/Structures/Wall_1/wall_01.xob"
+   }
+   RigidBody "{68AD598B4BEC62B3}" {
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 2988.693 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+}
+$grp GenericEntity : "{5DDBD597A5BA2DBC}Prefabs/Structures/Walls/Wall01.et" {
+ {
+  coords 1836.612 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 330.481 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 546.073 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 759.646 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 974.676 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 1195.069 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 1407.447 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 1623.039 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 6697.761 107.537 7379.088
+  angles 9.026 -90 0
+  scale 20
+ }
+ {
+  coords 6011.163 165.899 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 2530.057 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 4837.332 136.891 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 3677.345 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 8273.303 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 7147.205 34.411 7379.088
+  angles 9.874 -90 0
+  scale 20
+ }
+ {
+  coords 2103.739 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 8055.424 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 5780 186.295 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 2309.711 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 3440.573 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 4613.58 123.903 7379.088
+  angles -6.363 -90 0
+  scale 20
+ }
+ {
+  coords 4386.739 89.212 7379.088
+  angles -10.908 -90 0
+  scale 20
+ }
+ {
+  coords 5548.888 143.295 7379.088
+  angles -2.891 -90 0
+  scale 20
+ }
+ {
+  coords 3210.216 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 7827.717 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 11445.842 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 10975.9 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 11210.551 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 7374.035 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 2755.376 -8.341 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 6249.822 165.899 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 3913.56 10.787 7379.088
+  angles -8.775 -90 0
+  scale 20
+ }
+ {
+  coords 5073.523 136.864 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 8507.953 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 10758.021 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 10530.314 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 9855.384 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 9175.147 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 9620.733 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 8956.758 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 9402.854 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 10090.675 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 10311.925 -10 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 5309.972 136.94 7379.088
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 6468.11 149.868 7379.088
+  angles 9.026 -90 0
+  scale 20
+ }
+ {
+  coords 7609.327 -10 7379.087
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 8743.244 -10 7379.087
+  angles 0 -90 0
+  scale 20
+ }
+ {
+  coords 4149.193 47.483 7379.088
+  angles -9.112 -90 0
+  scale 20
+ }
+ {
+  coords 6923.223 71.33 7379.088
+  angles 9.026 -90 0
+  scale 20
+ }
+}

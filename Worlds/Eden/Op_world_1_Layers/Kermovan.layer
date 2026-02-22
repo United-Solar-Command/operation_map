@@ -1,142 +1,26 @@
 $grp GameEntity : "{0E94F28FD722B1D8}Prefabs/Props/Military/Generators/GeneratorFloodlight_US_01.et" {
  {
   coords 6351.581 5.665 9656.251
-  angleY -165
+  angles 0 -165 0
  }
  {
   coords 6347.6 5.666 9637.501
-  angleY 3.031
+  angles 0 3.031 0
  }
  {
   coords 6360.906 5.884 9650.385
-  angleY -105.389
+  angles 0 -105.389 0
  }
  {
   coords 6356.876 5.732 9638.307
-  angleY -32.71
- }
-}
-$grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
- {
-  coords 6355.889 7.226 9833.813
-  angleY -90
-  angleZ 4.643
- }
- {
-  coords 6355.888 9.65 9810.452
-  angleY -90
-  angleZ 7.358
- }
- {
-  coords 6354.692 13.008 9787.987
-  angleX -1.145
-  angleY -83.484
-  angleZ 9.704
- }
- {
-  coords 6352.001 15.969 9764.971
-  angleX -1.145
-  angleY -83.484
-  angleZ 4.932
- }
- {
-  coords 6349.314 17.196 9741.682
-  angleX -1.145
-  angleY -83.484
-  angleZ 0.991
- }
- {
-  coords 6197.049 2.815 9657.42
-  angleY -79.151
-  angleZ -11.394
- }
- {
-  coords 6205.944 8.734 9711.442
-  angleY -81.417
-  angleZ -3.895
- }
- {
-  coords 6209.488 10.646 9734.931
-  angleY -81.417
-  angleZ -5.376
- }
- {
-  coords 6212.951 12.466 9757.879
-  angleY -81.417
-  angleZ -3.542
- }
-}
-$grp GenericEntity : "{362A646F1A24D078}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallShort.et" {
- {
-  coords 6355.778 1.338 9905.168
-  angleY -90
-  angleZ 3.537
- }
- {
-  coords 6355.778 0.875 9912.653
-  angleY -90
-  angleZ 3.537
- }
- {
-  coords 6199.856 5.437 9672.224
-  angleY -79.811
-  angleZ -4.78
- }
- {
-  coords 6201.444 7.623 9681.055
-  angleY -79.811
-  angleZ -22.441
- }
-}
-$grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
- {
-  coords 6355.912 4.94 9848.155
- }
- {
-  coords 6355.911 2.509 9899.434
- }
- {
-  coords 6355.91 0 9918.111
- }
- {
-  coords 6350.625 16.252 9753.34
-  angleY 4.841
- }
- {
-  coords 6194.83 1.561 9646.432
-  angleY 13.968
- }
- {
-  coords 6202.004 8.581 9684.664
-  angleY 7.963
- }
- {
-  coords 6203.849 8.581 9697.853
-  angleY 7.963
- }
- {
-  coords 6214.966 13.014 9771.35
-  angleY 7.754
- }
- {
-  coords 6347.688 18.146 9727.977
-  angleY 6.504
- }
- {
-  coords 6447.156 10.496 9655.408
-  angleY -22.002
- }
- {
-  coords 6460.58 10.496 9622.188
-  angleY -22.002
+  angles 0 -32.71 0
  }
 }
 SCR_DestructibleBuildingEntity : "{B668684CA41FE0B2}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Hangar_Shed.et" {
- coords 6471.57 1.001 9644.763
- angleY 158.179
- angleZ 1.547
+ coords 6471.732 -5.495 9644.828
+ angles 0 158.179 1.547
 }
 GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
  coords 6844.25 118.478 9507.896
- angleY -75
+ angles 0 -75 0
 }

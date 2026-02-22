@@ -1,0 +1,15 @@
+GenericEntity {
+ ID "68AD598B5CCF9AB9"
+ components {
+  MeshObject "{689F6CB96564465B}" {
+   Object "{57D7F124B30C148E}Assets/Structures/Wall_1/wall_01.xob"
+  }
+  RigidBody "{68AD598B4BEC62B3}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ coords 2988.693 -8.341 7379.088
+ angles 0 -90 0
+ scale 20
+}

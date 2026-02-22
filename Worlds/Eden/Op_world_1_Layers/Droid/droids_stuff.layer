@@ -1,157 +1,149 @@
-$grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    m_UIInfo SCR_EditableVehicleUIInfo "{65567ADD29FE0F7D}" {
-     m_sFaction "CIW"
-    }
-    m_bStatic 1
-   }
-  }
-  coords 6027.533 1.235 8640.05
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    m_UIInfo SCR_EditableVehicleUIInfo "{65567ADD29FE0F7D}" {
-     m_sFaction "CIW"
-    }
-    m_bStatic 1
-   }
-  }
-  coords 5582.05 2.436 8531.021
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 5855.956 238.456 7262.783
-  scale 2.5
-  {
-   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
-    {
-     components {
-      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-       Enabled 0
-      }
-     }
-     coords 0 16.236 0
-    }
-    {
-     components {
-      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-       Enabled 0
-      }
-     }
-     coords 0 8.11 0
-    }
-   }
-  }
- }
- {
-  components {
-   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-    Enabled 0
-   }
-  }
-  coords 7395.521 5.58 9577.354
-  angleY -57.851
-  scale 2.5
-  {
-   $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
-    {
-     components {
-      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-       Enabled 0
-      }
-     }
-     coords 0 8.11 0
-    }
-    {
-     components {
-      SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
-       Enabled 0
-      }
-     }
-     coords 0 16.236 0
-    }
-   }
-  }
- }
-}
 $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
  {
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
   coords 6291.045 752.311 8569.836
-  scale 2
  }
  {
-  coords 3494.621 961.382 8525.522
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 3494.621 961.382 8964.077
  }
  {
-  coords 4660.529 407.643 8058.878
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 4660.529 407.643 8497.433
  }
  {
-  coords 3336.234 495.385 8551.566
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 3336.234 495.385 8990.121
  }
  {
-  coords 4142.777 639.689 7809.097
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 4142.777 710.801 8509.012
   scale 5
  }
  {
-  coords 4528.955 853.448 8964.397
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 4528.955 628.09 9435.674
  }
  {
-  coords 3895.695 729.919 8762.488
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 3895.695 729.919 9201.043
  }
  {
-  coords 5374.469 527.089 8707.266
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 5374.469 527.089 9145.82
  }
  {
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
   coords 7054.073 637.614 8358.202
   scale 2.438
  }
  {
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
   coords 5325.891 1463.189 6756.928
-  angleY 86.958
+  angles 0 86.958 0
   scale 28.179
  }
  {
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
   coords 6152.453 264.171 8217.332
  }
  {
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
   coords 6285.577 182.549 8301.505
  }
  {
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
   coords 6033.303 313.981 8301.505
- }
-}
-$grp GenericEntity : "{C1D570023D9B08C5}Prefabs/Compositions/Misc/Bacon_Droids_short_wall_01.et" {
- {
-  coords 4633.073 120.284 7977.054
-  angleY -10.457
- }
- {
-  coords 4921.635 36.746 9194.904
-  angleY -22.225
- }
- {
-  coords 5253.843 25.75 9185.845
-  angleY 12.771
- }
-}
-$grp StaticModelEntity : "{D54273207AB1D9F6}Prefabs/Structures/Airport/Helipad/MK_Landing_Lamp_Pole.et" {
- {
-  coords 5044.151 39.379 9200.434
-  angleY -1.344
- }
- {
-  coords 5047.335 39.445 9191.37
-  angleY 171.476
- }
- {
-  coords 4919.888 36.246 9161.718
-  angleY 61.793
  }
 }
