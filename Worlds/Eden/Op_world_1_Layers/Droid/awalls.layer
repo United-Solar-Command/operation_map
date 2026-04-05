@@ -1,377 +1,210 @@
-$grp GenericEntity {
- tower03 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 3795.741 -12.2 7378.097
-  angles 0 -90 0
-  scale 23
+$grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
+ {
+  coords 4887.85 173.757 7395.425
+  scale 15
  }
- tower01 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-   RigidBody "{68AD598CBDC3613B}" {
-    ModelGeometry 1
-    Static 1
-   }
-  }
-  coords 218.205 0 7378.027
-  angles 0 -90 0
-  scale 23
+ {
+  coords 4547.357 141.965 7395.425
+  angles 0 0 -10.491
+  scale 15
  }
- tower12 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 11550.118 0 7380.578
-  angles 0 -90 0
-  scale 23
+ {
+  coords 4202.403 78.084 7395.425
+  angles 0 0 -10.491
+  scale 15
  }
- tower11 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 10200.576 0 7380.578
-  angles 0 -90 0
-  scale 23
+ {
+  coords 3845.769 27.426 7395.425
+  angles 0 0 -5.49
+  scale 15
  }
- tower05 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 5660.389 161.587 7378.243
-  angles 0 -90 0
-  scale 23
+ {
+  coords 3481.191 9.178 7395.425
+  scale 15
  }
- tower10 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 9062.552 0 7380.578
-  angles 0 -90 0
-  scale 23
+ {
+  coords 2974.677 9.178 7395.425
+  scale 15
  }
- tower06 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 5893.826 161.587 7378.243
-  angles 0 -90 0
-  scale 23
+ {
+  coords 2759.407 17.709 7395.425
+  angles 0 0 9.795
+  scale 15
  }
- tower02 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 1971.076 0 7378.027
-  angles 0 -90 0
-  scale 23
+ {
+  coords 2418.196 47.049 7395.425
+  scale 15
  }
- tower07 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 6604.438 126.658 7390.197
-  angles 0 -90 0
-  scale 23
+ {
+  coords 2077.538 25.591 7395.425
+  angles 0 0 -6.827
+  scale 15
  }
- tower04 {
-  components {
-   MeshObject "{68AD598D8DDEC585}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 4720.173 134.225 7370.121
-  angles 0 -90 0
-  scale 23
+ {
+  coords 1763.758 9.178 7395.425
+  scale 15
  }
- tower09 {
-  components {
-   MeshObject "{68AD598D5339C68E}" {
-    Object "{7FE2D25466F5C586}Assets/Structures/Wall_1/watchtower.xob"
-   }
-  }
-  coords 7258.785 4.035 7378.254
-  angles 0 -90 0
-  scale 23
+ {
+  coords 1439.92 9.178 7395.425
+  scale 15
  }
- Wall01 {
-  components {
-   MeshObject "{689F6CB96564465B}" {
-    Object "{57D7F124B30C148E}Assets/Structures/Wall_1/wall_01.xob"
-   }
-   RigidBody "{68AD598B4BEC62B3}" {
-    ModelGeometry 1
-    Static 1
-   }
-  }
-  coords 2988.693 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+ {
+  coords 1141.572 9.178 7395.425
+  scale 15
+ }
+ {
+  coords 848.773 9.178 7395.425
+  scale 15
+ }
+ {
+  coords 573.931 9.178 7395.425
+  scale 15
+ }
+ {
+  coords 3242.6 9.178 7395.425
+  scale 15
+ }
+ {
+  coords 5223.201 173.757 7395.425
+  scale 15
+ }
+ {
+  coords 5567.049 197.602 7395.425
+  angles 0 0 -8.505
+  scale 15
+ }
+ {
+  coords 5909.316 222.504 7395.425
+  scale 15
+ }
+ {
+  coords 6258.629 206.887 7395.425
+  angles 0 0 5.015
+  scale 15
+ }
+ {
+  coords 6609.764 176.072 7395.425
+  angles 0 0 5.015
+  scale 15
+ }
+ {
+  coords 6952.751 121.676 7395.425
+  angles 0 0 12.691
+  scale 15
+ }
+ {
+  coords 7271.904 49.807 7395.425
+  angles 0 0 12.691
+  scale 15
+ }
+ {
+  coords 7637.262 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 7965.912 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 8273.346 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 8580.531 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 8916.474 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 9198.746 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 9481.078 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 9738.627 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 10008.251 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 10314.176 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 10569.921 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 10782.322 9.628 7395.425
+  scale 15
+ }
+ {
+  coords 11009.888 9.628 7395.425
+  scale 15
  }
 }
-$grp GenericEntity : "{5DDBD597A5BA2DBC}Prefabs/Structures/Walls/Wall01.et" {
+$grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
  {
-  coords 1836.612 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 11196.198 0 7395.425
+  scale 15
  }
  {
-  coords 330.481 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 9912.384 0 7395.425
+  scale 15
  }
  {
-  coords 546.073 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 8653.527 0 7395.425
+  scale 15
  }
  {
-  coords 759.646 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 7556.479 0 7395.425
+  scale 15
  }
  {
-  coords 974.676 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 6792.301 144.368 7395.425
+  scale 15
  }
  {
-  coords 1195.069 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 5743.731 211.368 7395.425
+  scale 15
  }
  {
-  coords 1407.447 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 4690.292 169.804 7395.425
+  scale 15
  }
  {
-  coords 1623.039 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 5068.296 163.566 7395.425
+  scale 15
  }
  {
-  coords 6697.761 107.537 7379.088
-  angles 9.026 -90 0
-  scale 20
+  coords 4002.557 49.976 7395.425
+  scale 15
  }
  {
-  coords 6011.163 165.899 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 3667.563 12.196 7395.425
+  scale 15
  }
  {
-  coords 2530.057 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 2826.066 31.718 7395.425
+  scale 15
  }
  {
-  coords 4837.332 136.891 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 1938.177 11.584 7395.425
+  scale 15
  }
  {
-  coords 3677.345 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
+  coords 373.076 11.115 7395.425
+  scale 15
  }
  {
-  coords 8273.303 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 7147.205 34.411 7379.088
-  angles 9.874 -90 0
-  scale 20
- }
- {
-  coords 2103.739 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 8055.424 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 5780 186.295 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 2309.711 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 3440.573 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 4613.58 123.903 7379.088
-  angles -6.363 -90 0
-  scale 20
- }
- {
-  coords 4386.739 89.212 7379.088
-  angles -10.908 -90 0
-  scale 20
- }
- {
-  coords 5548.888 143.295 7379.088
-  angles -2.891 -90 0
-  scale 20
- }
- {
-  coords 3210.216 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 7827.717 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 11445.842 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 10975.9 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 11210.551 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 7374.035 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 2755.376 -8.341 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 6249.822 165.899 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 3913.56 10.787 7379.088
-  angles -8.775 -90 0
-  scale 20
- }
- {
-  coords 5073.523 136.864 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 8507.953 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 10758.021 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 10530.314 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 9855.384 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 9175.147 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 9620.733 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 8956.758 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 9402.854 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 10090.675 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 10311.925 -10 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 5309.972 136.94 7379.088
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 6468.11 149.868 7379.088
-  angles 9.026 -90 0
-  scale 20
- }
- {
-  coords 7609.327 -10 7379.087
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 8743.244 -10 7379.087
-  angles 0 -90 0
-  scale 20
- }
- {
-  coords 4149.193 47.483 7379.088
-  angles -9.112 -90 0
-  scale 20
- }
- {
-  coords 6923.223 71.33 7379.088
-  angles 9.026 -90 0
-  scale 20
+  coords 1169.693 11.115 7395.425
+  scale 15
  }
 }
