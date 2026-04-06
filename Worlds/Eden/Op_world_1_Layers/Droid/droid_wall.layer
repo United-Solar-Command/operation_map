@@ -1,0 +1,5354 @@
+$grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
+ {
+  coords 4790.757 158.81 7382.787
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4743.889 161.899 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4697.27 161.899 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4663.141 159.914 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4617.71 155.181 7383.731
+  angles 0 0 -5.231
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4502.401 132.535 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4461.852 127.718 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4420.267 123.381 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4381.052 110.705 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4349.478 105.827 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4311.77 97.912 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4279.229 88.583 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4396.984 115.839 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4244.728 83.312 7383.973
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4186.816 74.516 7383.873
+  angles 0 0 -19.15
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4159.043 68.818 7383.731
+  angles 0 0 -13.14
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4127.673 60.981 7383.731
+  angles 0 0 -13.575
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4099.523 54.167 7383.731
+  angles 0 0 -13.934
+  scale 2
+ }
+ {
+  coords 4228.632 75.633 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4070.36 46.931 7383.731
+  angles 0 0 -13.934
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4037.99 39.619 7383.731
+  angles 0 0 -6.81
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3989.465 36.641 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3949.826 33.535 7384.501
+  angles 0 0 -4.709
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3908.723 29.578 7384.501
+  angles 0 0 -6.416
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3862.417 22.512 7384.501
+  angles 0 0 -10.869
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3815.706 13.615 7384.501
+  angles 0 0 -10.822
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3768.719 4.846 7384.501
+  angles 0 0 -10.252
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3741.837 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3706.373 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3674.032 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3639.226 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3607.464 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3573.085 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3550.629 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4830.563 161.899 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4865.352 161.899 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4897.42 161.899 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4934.262 161.899 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4962.675 160.203 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4992.216 159.078 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5024.75 157.305 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5057.655 157.305 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5088.387 157.987 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5128.248 156.451 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5158.058 156.203 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5203.227 153.354 7383.731
+  angles 0 0 7.167
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5246.218 151.743 7383.192
+  angles 0 0 -4.708
+  scale 2
+ }
+ {
+  coords 5287.044 154.341 7380.595
+  angles 0 0 -8.225
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6241.973 184.968 7383.192
+  angles 0 0 4.673
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5817.648 226.926 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5777.271 224.024 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5992.781 209.626 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6017.269 204.202 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6469.616 174.877 7382.986
+  angles 0 -0.963 3.645
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6287.775 182.588 7383.192
+  angles 0 0 0.376
+  scale 2
+ }
+ {
+  coords 6358.812 172.713 7381.538
+  angles 0 0 0.376
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6199.037 188.871 7383.192
+  angles 0 0 1.909
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6492.023 173.449 7383.296
+  angles 0 -0.963 3.645
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6423.191 177.835 7382.137
+  angles 0 -0.963 3.645
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6319.909 179.75 7383.192
+  angles 0 0 0.376
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5646.02 197.611 7383.192
+  angles 0 0 -15.239
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5689.639 209.494 7383.192
+  angles 0 0 -15.239
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5731.963 218.589 7383.192
+  angles 0 0 -8.939
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6569.89 162.069 7384.605
+  angles 0 -0.963 10.237
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6152.33 192.061 7383.192
+  angles 0 0 1.909
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5428.313 171.485 7383.192
+  angles 0 0 -0.553
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6604.554 155.808 7385.188
+  angles 0 -0.963 10.237
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6651.327 146.679 7385.979
+  angles 0 -0.963 8.927
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6736.133 133.907 7387.4
+  angles 0 -0.963 9.263
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6691.551 140.906 7386.651
+  angles 0 -0.963 8.927
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6821.253 121.497 7388.832
+  angles 0 -0.963 5.969
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5553.706 177.698 7383.192
+  angles 0 0 -11.119
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5475.741 173.419 7383.192
+  angles 0 0 -0.553
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5523.375 173.927 7383.283
+  angles 0 0 -0.553
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5963.834 215.459 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5921.937 219.154 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5333.926 164.826 7383.192
+  angles 0 0 -4.708
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5598.832 186.567 7383.192
+  angles 0 0 -11.119
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5860.375 225.645 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5892.906 223.971 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6538.106 167.81 7384.068
+  angles 0 -0.963 10.237
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5381.782 169.471 7383.192
+  angles 0 0 -4.708
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3500.844 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3469.082 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3434.703 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3412.247 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3367.867 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3336.105 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3301.726 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3279.27 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3243.644 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3211.882 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3177.503 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3155.047 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3114.899 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3083.137 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3048.758 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3026.302 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2998.457 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2966.695 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2932.316 4.31 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2909.86 4.375 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2807.693 9.619 7384.713
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2887.972 5.945 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2714.379 24.639 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2692.115 28.347 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2744.414 16.936 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2767.95 12.446 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2591.41 38.162 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2563.264 38.406 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2620.098 35.947 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2651.86 30.161 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2462.021 40.692 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2435.254 40.914 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2487.733 39.143 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2519.495 38.426 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2336.388 36.947 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2313.934 36.942 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2370.767 39.387 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2402.529 35.543 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2215.95 29.975 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2193.495 26.698 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2250.329 33.72 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2282.092 35.476 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2096.772 18.083 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2074.317 13.001 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2131.151 23.613 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2162.914 26.601 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1970.361 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1947.906 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2004.74 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2036.502 6.539 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1839.417 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1816.962 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1873.796 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1905.558 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1707.382 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1684.927 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1741.761 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1773.523 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1629.041 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1660.803 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2014.505 6.539 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2849.982 9.411 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6406.706 178.885 7381.861
+  angles 0 -0.963 3.645
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4759.938 161.899 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4523.993 139.977 7383.731
+  angles 0 0 -5.231
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4570.554 147.83 7383.731
+  angles 0 0 -5.231
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6778.479 127.644 7388.113
+  angles 0 -0.963 7.77
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6820.543 114.713 7388.82
+  angles 0 -0.963 5.969
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6866.184 113.34 7389.586
+  angles 0 -0.963 15.066
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6864.329 106.446 7389.555
+  angles 0 -0.963 15.066
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6903.944 95.781 7390.221
+  angles 0 -0.963 15.066
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6905.799 102.675 7390.252
+  angles 0 -0.963 15.066
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6953.314 92.747 7391.051
+  angles 0 -0.963 8.845
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7000.602 86.885 7391.846
+  angles 0 -0.963 5.541
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6999.955 80.213 7391.835
+  angles 0 -0.963 5.541
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7046.907 72.669 7392.624
+  angles 0 -0.963 11.264
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7092.207 62.259 7393.386
+  angles 0 -0.963 14.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7130.347 52.393 7394.027
+  angles 0 -0.963 14.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7144.45 48.745 7394.264
+  angles 0 -0.963 14.501
+  scale 2
+ }
+ {
+  coords 7182.559 37.876 7394.747
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7220.939 28.959 7395.55
+  angles 0 -0.963 14.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7266.542 19.212 7396.316
+  angles 0 -0.963 9.739
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7311.281 11.532 7397.068
+  angles 0 -0.963 9.739
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7353.196 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7392.654 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7436.692 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7483.766 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7528.406 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7528.406 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7483.766 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7436.692 4.514 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7574.739 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7574.739 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7613.816 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7613.816 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7656.353 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7656.353 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7698.534 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7698.534 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7735.666 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7735.666 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7775.752 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7775.752 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7814.05 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7814.05 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7850.744 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7850.744 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7893.271 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7893.271 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7935.684 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7935.684 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8180.813 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8217.507 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8217.507 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8260.033 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8260.033 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8302.447 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8302.447 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8180.813 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8142.515 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8065.297 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7980.579 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8065.297 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8102.429 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8102.429 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8023.116 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8023.116 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8142.515 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 7980.579 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8555.396 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8592.089 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8592.089 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8634.615 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8634.615 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8677.029 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8677.029 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8555.396 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8517.097 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8439.879 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8355.161 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8439.879 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8477.011 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8477.011 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8397.698 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8397.698 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8517.097 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8355.161 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8925.551 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8962.243 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8962.243 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9004.77 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9004.77 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9047.184 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9047.184 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8925.551 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8887.251 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8810.033 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8725.315 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8810.033 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8847.165 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8847.165 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8767.853 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8767.853 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8887.251 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 8725.315 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9297.823 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9334.516 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9334.516 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9377.042 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9377.042 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9419.456 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9419.456 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9297.823 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9259.523 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9182.306 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9097.588 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9182.306 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9219.438 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9219.438 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9140.125 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9140.125 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9259.523 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9097.588 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9672.33 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9709.022 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9709.022 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9751.549 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9751.549 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9793.963 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9793.963 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9672.33 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9634.03 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9556.813 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9472.095 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9556.813 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9593.945 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9593.945 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9514.632 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9514.632 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9634.03 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9472.095 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10044.218 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10080.91 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10080.91 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10123.437 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10123.437 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10165.851 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10165.851 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10044.218 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10005.918 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9928.701 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9843.982 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9928.701 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9965.833 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9965.833 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9886.52 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9886.52 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10005.918 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 9843.982 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10415.763 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10452.455 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10452.455 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10494.981 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10494.981 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10537.396 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10537.396 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10415.763 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10377.463 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10300.246 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10215.527 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10300.246 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10337.378 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10337.378 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10258.064 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10258.064 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10377.463 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10215.527 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10786.483 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10823.176 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10823.176 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10865.702 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10865.702 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10908.117 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10908.117 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10786.483 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10748.184 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10670.967 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10586.248 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10670.967 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10708.099 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10708.099 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10628.785 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10628.785 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10748.184 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10586.248 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11159.165 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11195.857 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11195.857 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11238.384 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11238.384 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11280.799 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11280.799 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11159.165 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11120.865 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11043.648 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10958.93 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11043.648 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11080.78 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11080.78 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11001.467 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11001.467 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11120.865 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 10958.93 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11532.906 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11569.599 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11569.599 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11612.125 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11612.125 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11654.54 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11654.54 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11532.906 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11494.606 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11417.39 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11332.671 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11417.39 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11454.521 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11454.521 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11375.208 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11375.208 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11494.606 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11332.671 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11900.926 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11937.618 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11937.618 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11980.145 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11980.145 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 12022.56 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 12022.56 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11900.926 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11862.626 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11785.409 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11700.69 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11785.409 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11822.541 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11822.541 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11743.228 8.118 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11743.228 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11862.626 3.552 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 11700.69 8.118 7397.772
+  scale 2
+ }
+}
+$grp GenericEntity : "{362A646F1A24D078}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallShort.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6080.784 201.035 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6096.554 199.788 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6112.614 198.518 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6126.063 197.454 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6047.961 196.948 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6064.067 195.674 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6080.259 194.394 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6096.028 193.147 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6112.088 191.877 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6125.538 190.813 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6064.593 202.315 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6048.487 203.589 7383.192
+  angles 0 0 4.521
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6007.559 208.35 7383.146
+  angles 0 0 18.287
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5992.182 213.431 7383.146
+  angles 0 0 18.287
+  scale 2
+ }
+}
+$grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3527.304 4.31 7384.565
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3683.73 4.31 7384.565
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2390.828 39.387 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2414.117 40.922 7384.515
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2070.805 14.821 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1992.968 2.939 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2674.948 26.158 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2674.948 33.165 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3968.092 36.641 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4498.314 135.749 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4498.314 142.357 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5754.99 224.348 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6016.412 205.243 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5947.136 216.593 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6131.008 199.859 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6131.008 192.983 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6016.412 212.119 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6380.767 181.128 7381.424
+  angles 0 -90.612 0
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6380.767 181.128 7381.424
+  angles 0 -0.963 0
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6474.74 169.538 7383.005
+  angles 0 -0.963 3.645
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6475.058 174.53 7383.011
+  angles 0 -0.963 3.645
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6801.91 124.296 7388.505
+  angles 0 -0.963 0
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6225.351 192.13 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6225.351 185.254 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5883.157 224.348 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4322.888 99.868 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4322.888 106.476 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3419.121 3.175 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2190.857 26.698 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2289.682 35.476 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1735.25 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5453.052 176.764 7383.216
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5453.052 169.678 7383.216
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5528.198 173.762 7383.216
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5528.198 166.676 7383.216
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6341.321 180.617 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2832.096 11.7 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3030.651 3.175 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1608.241 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5114.437 157.987 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5308.712 165.777 7383.216
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4673.3 161.899 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5014.629 157.987 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5062.677 157.987 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 1898.595 0 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5308.712 158.691 7383.216
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 6341.321 187.493 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4962.007 161.899 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3282.903 3.175 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2566.252 38.406 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4780.794 165.162 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 3157.851 3.175 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 4803.006 165.162 7383.731
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5264.976 156.16 7383.216
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 5264.976 163.246 7383.216
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2734.715 27.673 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2734.715 20.666 7384.501
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+   }
+  }
+  coords 2909.344 3.175 7384.501
+  scale 2
+ }
+ {
+  coords 7171.625 41.742 7394.336
+  scale 2
+ }
+ {
+  coords 7196.93 38.149 7394.336
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7962.174 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7962.174 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7880.241 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7880.241 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7787.391 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7787.391 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7677.038 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7677.038 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7586.152 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7586.152 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7481.764 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7481.764 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7388.619 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7332.145 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7021.342 82.313 7391.846
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 7021.342 77.436 7391.846
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 6842.695 113.362 7389.113
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 6842.695 118.239 7389.113
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
+  coords 6715.92 136.215 7387.059
+  angles 0 -0.963 0
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
+  coords 6715.92 130.328 7387.059
+  angles 0 -0.963 0
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
+  coords 6670.139 137.573 7386.29
+  angles 0 -0.963 0
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
+  coords 6670.139 143.46 7386.29
+  angles 0 -0.963 0
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
+  coords 6310.462 187.493 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
+  coords 6310.462 180.617 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
+  coords 6176 192.13 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
+  coords 6176 185.254 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    Enabled 0
+    m_bVisible 0
+   }
+  }
+  coords 5793.032 224.348 7383.192
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8154.154 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8247.004 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8154.154 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8247.004 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8328.937 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8328.937 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8043.801 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8043.801 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8528.735 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8621.586 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8528.735 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8621.586 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8703.519 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8703.519 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8418.383 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8418.383 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8898.89 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8991.74 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8898.89 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8991.74 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9073.673 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9073.673 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8788.537 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 8788.537 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9271.162 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9364.013 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9271.162 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9364.013 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9445.945 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9445.945 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9160.81 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9160.81 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9645.669 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9738.52 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9645.669 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9738.52 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9820.452 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9820.452 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9535.316 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9535.316 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10017.557 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10110.407 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10017.557 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10110.407 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10192.34 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10192.34 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9907.204 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 9907.204 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10389.102 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10481.952 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10389.102 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10481.952 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10563.885 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10563.885 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10278.749 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10278.749 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10759.822 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10852.673 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10759.822 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10852.673 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10934.605 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10934.605 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10649.47 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10649.47 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11132.504 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11225.354 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11132.504 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11225.354 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11307.287 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11307.287 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11022.151 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11022.151 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11506.245 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11599.095 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11506.245 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11599.095 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11681.028 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11681.028 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11395.893 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11395.893 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11874.265 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11967.114 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11874.265 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11967.114 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 12049.048 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 12049.048 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11763.912 1.241 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 11763.912 8.207 7397.772
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10836.549 11.948 8746.275
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10836.549 11.948 8735.425
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10847.128 11.948 8735.425
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10847.128 11.948 8746.275
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10884.131 5.5 8933.688
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10894.71 5.5 8922.837
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10894.71 5.5 8933.688
+  scale 2
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{65567ADD29FE0F85}" {
+    m_bVisible 0
+   }
+  }
+  coords 10884.131 5.5 8922.837
+  scale 2
+ }
+}

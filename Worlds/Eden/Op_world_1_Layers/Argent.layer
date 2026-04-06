@@ -1,15 +1,17 @@
 $grp SCR_IndestructibleEnvironmentalEntity : "{3F68EE5DCB004B10}Prefabs/Rocks/Granite/GraniteCliff_01.et" {
  {
-  coords 10868.014 5.504 8721.548
+  coords 10865.504 -0.712 8734.711
   angles 27.039 -88.133 -85.899
+  scale 2.3
  }
  {
   coords 10875.413 8.795 8653.674
   angles 27.799 -160.95 -87.894
  }
  {
-  coords 10887.151 16.569 8704.452
-  angles -69.204 -93.36 175.822
+  coords 10885.116 16.487 8703.93
+  angles -73.033 -90.815 156.114
+  scale 1.6
  }
 }
 GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
