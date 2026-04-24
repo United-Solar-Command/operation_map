@@ -1,16 +1,4 @@
-StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubCompositions/Utility/Helipad_Lights_US_01.et" {
- coords 6724.731 0.872 9634.748
-}
 $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
- {
-  components {
-   SCR_EditableEntityComponent "{61651602213188D9}" {
-    Enabled 0
-   }
-  }
-  coords 6702.912 4.282 9643.339
-  angleY 135
- }
  {
   components {
    SCR_EditableEntityComponent "{61651602213188D9}" {
@@ -26,7 +14,7 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
    }
   }
   coords 4620.327 14.396 10388.669
-  angleY 180
+  angles 0 180 0
  }
  {
   components {
@@ -35,7 +23,7 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
    }
   }
   coords 4311.915 1.124 9493.655
-  angleY 165.312
+  angles 0 165.312 0
  }
  {
   components {
@@ -44,7 +32,7 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
    }
   }
   coords 4346.139 1.562 11000.316
-  angleY -122.622
+  angles 0 -122.622 0
  }
  {
   components {
@@ -53,7 +41,7 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
    }
   }
   coords 4591.968 8.801 9318.848
-  angleY 113.317
+  angles 0 113.317 0
  }
  {
   components {
@@ -62,6 +50,33 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
    }
   }
   coords 11556.051 20.097 10921.955
-  angleY 138.558
+  angles 0 138.558 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
+  coords 4587.787 16.534 10109.969
+  angles 0 -90.619 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
+  coords 4941.187 23.692 10123.852
+  angles 0 -90.619 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{61651602213188D9}" {
+    Enabled 0
+   }
+  }
+  coords 5384.651 17.167 10155.662
+  angles 0 -90.619 0
  }
 }

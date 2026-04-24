@@ -327,24 +327,18 @@ $grp GenericEntity : "{6855584E6DE85098}Prefabs/Compositions/Misc/Barrier_Wall_0
   }
  }
 }
-$grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
- {
-  components {
-   SCR_EditableEntityComponent "{61651602213188D9}" {
-    Enabled 0
-   }
+GenericEntity : "{6D4CD701022DE064}Prefabs/KOTH_NoBase.et" {
+ coords 4904.531 28.171 11965.385
+ angles 0 1.104 0
+}
+GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
+ components {
+  SCR_EditableEntityComponent "{61651602213188D9}" {
+   Enabled 0
   }
-  coords 4888.489 28.323 11989.161
  }
- {
-  components {
-   SCR_EditableEntityComponent "{61651602213188D9}" {
-    Enabled 0
-   }
-  }
-  coords 4682.818 28.445 11104.986
-  angles 0 180 0
- }
+ coords 4682.818 28.445 11104.986
+ angles 0 180 0
 }
 GenericEntity : "{9AEAB32FBB897AC1}Prefabs/Structures/Signs/Military/Sign_FuelStorage_US_01.et" {
  coords 4910.96 28.806 11947.042

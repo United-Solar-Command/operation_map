@@ -1,0 +1,66 @@
+$grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
+ {
+  coords 7508.302 164.341 4361.914
+  angles 0 17.434 0
+ }
+ {
+  coords 7482.004 164.341 4370.172
+  angles 0 17.434 0
+ }
+ {
+  coords 7460.29 164.341 4376.991
+  angles 0 17.434 0
+ }
+ {
+  coords 7503.474 164.341 4363.43
+  angles 0 17.434 0
+ }
+ {
+  coords 7439.518 164.341 4383.514
+  angles 0 17.434 0
+ }
+ {
+  coords 7547.234 164.341 4349.688
+  angles 0 17.434 0
+ }
+ {
+  coords 7569.938 166.336 4342.558
+  angles 0 17.434 0
+ }
+ {
+  coords 7590.986 166.336 4335.948
+  angles 0 17.434 0
+ }
+ {
+  coords 7611.853 166.336 4329.396
+  angles 0 17.434 0
+ }
+ {
+  coords 7630.66 166.336 4323.49
+  angles 0 17.434 0
+ }
+}
+$grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
+ {
+  coords 7518.683 165.336 4358.435
+  angles 0 15 0
+  scale 1.5
+ }
+ {
+  coords 7534.771 165.336 4354.124
+  angles 0 15 0
+  scale 1.5
+ }
+ {
+  coords 7622.852 166.844 4244.534
+  angles 0 15 0
+ }
+ {
+  coords 7590.256 166.707 4154.154
+  angles 0 15 0
+ }
+ {
+  coords 7503.689 165.75 4280.661
+  angles 0 15 0
+ }
+}

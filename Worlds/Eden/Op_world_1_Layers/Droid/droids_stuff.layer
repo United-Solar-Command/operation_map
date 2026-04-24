@@ -8,7 +8,7 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 6291.045 752.311 8569.836
+  coords 6291.045 752.311 8818.065
  }
  {
   components {
@@ -19,7 +19,7 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 3494.621 961.382 8964.077
+  coords 3494.621 961.382 9101.149
  }
  {
   components {
@@ -30,7 +30,7 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 4660.529 407.643 8497.433
+  coords 4660.529 407.643 8745.533
  }
  {
   components {
@@ -52,7 +52,7 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 4142.777 710.801 8509.012
+  coords 4142.777 710.801 8637.271
   scale 5
  }
  {
@@ -64,7 +64,7 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 4528.955 628.09 9435.674
+  coords 4528.955 628.09 9683.903
  }
  {
   components {
@@ -75,7 +75,7 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 3895.695 729.919 9201.043
+  coords 3895.695 729.919 9449.272
  }
  {
   components {
@@ -86,7 +86,7 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 5374.469 527.089 9145.82
+  coords 5374.469 527.089 9394.05
  }
  {
   components {
@@ -97,7 +97,8 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 7054.073 637.614 8358.202
+  coords 7036.206 637.614 9506.04
+  angles 0 -44.981 0
   scale 2.438
  }
  {
@@ -122,7 +123,8 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 6152.453 264.171 8217.332
+  coords 6173.58 264.171 9104.262
+  angles 0 -19.303 0
  }
  {
   components {
@@ -133,7 +135,8 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 6285.577 182.549 8301.505
+  coords 6271.396 182.549 9227.709
+  angles 0 -19.303 0
  }
  {
   components {
@@ -144,6 +147,32 @@ $grp GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
     Static 1
    }
   }
-  coords 6033.303 313.981 8301.505
+  coords 6033.303 313.981 9144.316
+  angles 0 -19.303 0
+ }
+ {
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 5921.46 99.002 9579.006
+  angles -9.043 -32.858 0
+  scale 0.8
+ }
+ {
+  components {
+   RigidBody "{689E41558924CED8}" {
+    SimState Collision
+    ResponseIndex "Normal"
+    ModelGeometry 1
+    Static 1
+   }
+  }
+  coords 4924.02 108.883 9065.094
+  angles 0 -38.867 0
  }
 }

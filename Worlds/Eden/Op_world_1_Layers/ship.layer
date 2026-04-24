@@ -1,0 +1,364 @@
+$grp SCR_DestructibleEntity : "{0C9FBBF99C0C60A6}PrefabsEditable/Auto/Props/Core/E_Green_Barrel.et" {
+ {
+  coords 4820.129 28.556 11749.576
+  angles 0 45 0
+ }
+ {
+  coords 4914.76 28.594 11738.941
+  angles 0 45 0
+ }
+}
+SCR_SpawnPoint : "{1C931F1455FB5736}PrefabsEditable/SpawnPoints/E_SpawnPoint_ENFORCERS.et" {
+ coords 4860.262 2305.886 11492.923
+}
+$grp GenericEntity : "{2071368D6BD5B08A}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box.et" {
+ {
+  coords 4854.491 2305.112 11506.628
+  angles 0 90 0
+ }
+ {
+  coords 4854.491 2305.112 11507.729
+  angles 0 90 0
+ }
+ {
+  coords 4854.491 2305.112 11508.815
+  angles 0 90 0
+ }
+}
+SCR_DestructibleEntity : "{24C308A4E5231611}PrefabsEditable/Auto/Props/Core/E_Red_Barrel.et" {
+ coords 4865.319 2305.112 11508.763
+ angles 0 60 0
+}
+$grp SCR_DestructibleEntity : "{2CEB5C5284A00E6A}PrefabsEditable/Auto/Props/Core/E_Blue_Barrel.et" {
+ {
+  coords 4862.865 28.594 11781.59
+ }
+ {
+  coords 4812.999 28.553 11758.244
+ }
+ {
+  coords 4914.732 28.594 11737.696
+  angles 0 39.778 0
+ }
+}
+$grp GenericEntity : "{3280C1DC4CF8A95D}6522EAB7461F248C/Prefabs/Vehicles/Turrets/WallLong.et" {
+ {
+  coords 4861.122 2293.258 11535.961
+  scale 2.281
+ }
+ {
+  coords 4861.122 2302.531 11514.06
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11531.191
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11526.514
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11521.715
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11516.956
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11512.17
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11507.481
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11502.703
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11497.886
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11493.061
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11488.211
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11483.479
+  scale 2.281
+ }
+ {
+  coords 4861.122 2293.258 11478.696
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11478.696
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11483.479
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11488.211
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11493.061
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11497.886
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11502.703
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11507.481
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11512.17
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11516.956
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11521.715
+  scale 2.281
+ }
+ {
+  coords 4861.122 2327.884 11526.514
+  scale 2.281
+ }
+ {
+  coords 4861.122 2321.791 11531.272
+  scale 2.281
+ }
+ {
+  coords 4836.456 2308.824 11505.597
+  angles 0 90 0
+  scale 2.281
+ }
+ {
+  coords 4885.555 2308.824 11505.597
+  angles 0 90 0
+  scale 2.281
+ }
+}
+GenericEntity : "{3668AC075969C4D8}PrefabsEditable/Auto/Props/E_HologramTable.et" {
+ coords 4860.526 2305.112 11506.078
+}
+$grp GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
+ {
+  coords 4854.513 2305.112 11505.143
+  angles 0 90 0
+ }
+ {
+  coords 4854.513 2305.112 11504.059
+  angles 0 90 0
+ }
+}
+$grp SCR_DestructibleEntity : "{6C19A4BF55DC88AD}PrefabsEditable/Auto/Props/Core/E_Crate.et" {
+ {
+  coords 4865.208 28.594 11780.671
+  angles 0 -120.642 0
+ }
+ {
+  coords 4865.208 29.206 11780.671
+  angles 0 149.358 0
+ }
+ {
+  coords 4865.661 28.594 11779.908
+  angles 0 -120.642 0
+ }
+ {
+  coords 4814.148 28.544 11757.791
+  angles 0 165 0
+ }
+ {
+  coords 4814.148 29.156 11757.791
+  angles 0 165 0
+ }
+ {
+  coords 4915.457 28.594 11738.89
+  angles 0 -90 0
+ }
+ {
+  coords 4915.457 29.207 11738.89
+  angles 0 -90 0
+ }
+ {
+  coords 4915.457 29.82 11738.89
+  angles 0 -90 0
+ }
+ {
+  coords 4915.457 28.594 11738.006
+  angles 0 -90 0
+ }
+ {
+  coords 4915.457 29.207 11738.006
+  angles 0 -90 0
+ }
+ {
+  coords 4915.457 29.82 11738.006
+  angles 0 -90 0
+ }
+ {
+  coords 4877.59 2305.112 11492.413
+  angles 0 -75 0
+ }
+ {
+  coords 4877.59 2305.724 11492.413
+  angles 0 -75 0
+ }
+ {
+  coords 4842.594 2305.112 11491.311
+  angles 0 75 0
+ }
+ {
+  coords 4842.594 2305.729 11491.311
+  angles 0 75 0
+ }
+ {
+  coords 4865.862 2305.112 11509.382
+  angles 0 -150 0
+ }
+ {
+  coords 4865.862 2305.727 11509.382
+  angles 0 -150 0
+ }
+}
+$grp SCR_DestructibleEntity : "{8A9DE19079CF2118}PrefabsEditable/Auto/Props/Core/E_Grey_Barrel.et" {
+ {
+  coords 4865.661 29.204 11779.892
+  angles 0 30 0
+ }
+ {
+  coords 4812.419 28.558 11758.195
+  angles 0 -30 0
+ }
+ {
+  coords 4915.551 28.594 11737.285
+  angles 0 60 0
+ }
+ {
+  coords 4914.737 28.594 11738.282
+  angles 0 105 0
+ }
+ {
+  coords 4914.925 28.594 11733.975
+ }
+ {
+  coords 4877.853 2305.112 11491.594
+  angles 0 105 0
+ }
+ {
+  coords 4844.421 2305.112 11490.093
+  angles 0 180 0
+ }
+}
+$grp SCR_DestructibleEntity : "{8D9264ACC2629F84}PrefabsEditable/Auto/Props/Core/E_Long_Crate_01.et" {
+ {
+  coords 4863.807 28.594 11780.975
+  angles 0 -150 0
+ }
+ {
+  coords 4819.032 28.454 11749.717
+  angles 0 165 0
+ }
+ {
+  coords 4819.032 29.137 11749.717
+  angles 0 165 0
+ }
+ {
+  coords 4815.455 28.543 11757.938
+ }
+ {
+  coords 4915.801 28.594 11736.164
+  angles 0 -90 0
+ }
+ {
+  coords 4915.801 28.594 11734.669
+  angles 0 -90 0
+ }
+ {
+  coords 4915.801 28.594 11733.176
+  angles 0 -90 0
+ }
+ {
+  coords 4915.801 29.279 11735.447
+  angles 0 -90 0
+ }
+ {
+  coords 4915.801 29.279 11733.88
+  angles 0 -90 0
+ }
+ {
+  coords 4914.545 28.594 11736.66
+  angles 0 -135 0
+ }
+ {
+  coords 4914.433 28.594 11734.913
+  angles 0 -60 0
+ }
+ {
+  coords 4915.051 29.036 11733.176
+  angles 0 0 -45
+ }
+ {
+  coords 4876.8 2305.112 11491.084
+  angles 0 -45 0
+ }
+ {
+  coords 4844.501 2305.112 11488.942
+  angles 0 45 0
+ }
+ {
+  coords 4843.447 2305.112 11489.997
+  angles 0 45 0
+ }
+ {
+  coords 4865.905 2305.112 11506.405
+  angles 0 -90 0
+ }
+ {
+  coords 4865.905 2305.112 11507.902
+  angles 0 -90 0
+ }
+}
+GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
+ components {
+  MeshObject "{60B3026A2C58EECC}" {
+   Materials {
+    MaterialAssignClass "{6931530449650C21}" {
+     SourceMaterial "CorvetteF3"
+     AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+    }
+   }
+  }
+ }
+ coords 4860.317 2268.238 11594.704
+ scale 5
+}
+$grp Vehicle : "{E0600FABB29A2ABA}Prefabs/Vehicles/Ships/Dropship/Dropship_Armed_Fix.et" {
+ Dropship_Armed_Fix1 {
+  coords 4848.91 2305.112 11487.569
+  angles 0 -180 0
+ }
+ Dropship_Armed_Fix2 {
+  coords 4872.799 2305.112 11487.569
+  angles 0 -180 0
+ }
+}
