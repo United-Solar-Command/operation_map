@@ -1391,12 +1391,6 @@ $grp GenericEntity : "{D320BFF57E696FE6}Prefabs/Compositions/Misc/FreeRoamBuildi
  }
  {
   coords 5349.758 28.36 9297.056
-  {
-   GenericEntity {
-    ID "5D72D01CA4AF92BD"
-    coords -0.407 0 0
-   }
-  }
  }
 }
 $grp GenericEntity : "{D39AEC6AFE6F8EC9}Prefabs/Compositions/Misc/CustomEntities/CompositionDecals/Trench_Bunker_Cover1.et" {
