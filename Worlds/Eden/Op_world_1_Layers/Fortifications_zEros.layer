@@ -146,6 +146,15 @@ $grp SCR_DestructibleBuildingEntity : "{23764D9776ABBFC4}Prefabs/Structures/Mili
  {
   coords 5389.182 20.828 9897.509
  }
+ {
+  coords 4598.689 12.557 9394.814
+ }
+ {
+  coords 4580.025 14.717 9427.405
+ }
+ {
+  coords 4471.972 12.859 9433.941
+ }
 }
 GenericEntity : "{36307D704B0D1F04}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_ACE_VehicleTrench_01.et" {
  components {
@@ -575,38 +584,83 @@ $grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sand
 }
 $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_plastic.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5041.039 27.725 9856.31
   angles 0.894 -0.028 -1.79
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5038.3 27.639 9856.31
   angles 0.894 -0.028 -1.79
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5035.557 27.544 9856.31
   angles -0.894 0.028 -1.79
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5032.864 27.445 9856.31
   angles -3.573 0.112 -1.793
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5030.301 27.382 9856.31
   angles -5.354 0.14 -0.904
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5027.764 27.309 9856.313
   angles -6.242 0.14 -0.015
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5025.134 27.249 9856.32
   angles -0.896 -0.028 -1.789
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5022.516 27.188 9856.326
   angles 2.679 -0.14 -1.794
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5019.96 27.108 9856.323
   angles 2.679 -0.14 -1.794
  }
@@ -615,253 +669,648 @@ $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sand
   angles 2.8 3.92 -1.6
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5014.711 26.952 9856.502
   angles 2.8 3.92 -1.6
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5012.146 26.88 9856.682
   angles 2.8 3.92 -1.6
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5009.62 26.913 9856.858
   angles 0 3.92 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5007.125 26.913 9857.029
   angles 0 3.92 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5004.574 26.913 9857.204
   angles 0 3.92 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5003.65 26.913 9857.268
   angles 0 3.92 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4997.28 26.656 9857.704
   angles 1.906 3.865 -1.664
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4994.737 26.582 9857.878
   angles 1.906 3.865 -1.664
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4992.198 26.508 9858.052
   angles 1.906 3.865 -1.664
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4989.76 26.715 9858.219
   angles 20.411 13.123 27.205
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4987.238 27.167 9858.392
   angles 21.081 4.155 0.882
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4984.875 27.181 9858.554
   angles 23.131 -0.955 -13.108
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4982.579 26.417 9858.711
   angles 15.123 -1.716 -23.142
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4980.014 26.17 9858.887
   angles 1.015 3.891 -1.725
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4977.458 26.219 9859.062
   angles 2.93 3.873 0.488
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4974.99 26.019 9859.23
   angles 1.015 3.891 -1.725
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4972.46 25.967 9859.404
   angles 0.954 3.878 -0.832
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4970.201 25.934 9859.558
   angles 0.954 3.878 -0.832
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4967.846 25.9 9859.718
   angles 0.954 3.878 -0.832
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4965.505 25.859 9859.412
   angles 0.706 -11.121 -1.051
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4963.504 25.822 9859.02
   angles 0.706 -11.121 -1.051
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4922.839 24.516 9981.941
   angles 0 31.91 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4920.733 24.516 9983.253
   angles 0 31.91 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4918.591 24.516 9984.587
   angles 0 31.91 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4935.192 24.977 9978.688
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4937.802 24.977 9978.688
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4940.292 24.977 9978.688
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9899.188
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9896.688
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9894.078
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9891.854
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9889.583
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9887.083
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9884.577
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9882
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.307 25.492 9879.504
   angles 0 84.764 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.534 25.492 9877.028
   angles 0 84.764 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.766 25.492 9874.501
   angles 0 84.764 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.998 25.492 9871.973
   angles 0 84.764 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4957.228 25.492 9869.471
   angles 0 84.764 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4957.46 25.492 9866.933
   angles 0 84.764 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4957.693 25.492 9864.387
   angles 0 84.764 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4957.914 25.492 9861.974
   angles 0 84.764 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4958.15 25.492 9859.396
   angles 0 84.764 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9901.51
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9904.015
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9906.741
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9907.817
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9916.433
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4956.224 25.492 9919.062
   angles 0 90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4955.982 25.492 9921.563
   angles 0 84.227 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4955.737 25.492 9923.989
   angles 0 84.227 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4955.506 25.492 9926.271
   angles 0 84.227 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4955.262 25.492 9928.685
   angles 0 84.227 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4954.995 25.492 9931.333
   angles 0 84.227 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4954.754 25.492 9933.712
   angles 0 84.227 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4954.512 25.492 9936.109
   angles 0 84.227 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4954.438 25.492 9938.425
   angles 0 92.152 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4954.537 25.492 9941.061
   angles 0 92.152 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4954.628 25.492 9943.496
   angles 0 92.152 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4954.715 25.492 9945.812
   angles 0 92.152 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 4954.807 25.492 9948.248
   angles 0 92.152 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4452.283 9.887 9420.517
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4449.705 9.887 9420.517
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4455.005 9.887 9420.517
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4457.423 9.887 9420.517
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4460.138 9.887 9420.517
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4462.591 9.887 9420.517
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4465.177 9.887 9420.517
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4467.718 9.887 9420.517
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4470.119 9.887 9420.517
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4472.568 9.887 9420.517
  }
 }
 $grp GenericEntity : "{C8CB97EAACBAA7BB}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_ACE_PersonalTrench_01_giant.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
   coords 4989.194 25.875 9875.549
   angles 0 -172.428 0
  }
@@ -931,10 +1380,20 @@ $grp GenericEntity : "{C8CB97EAACBAA7BB}PrefabsEditable/Auto/Compositions/Misc/F
 }
 $grp GenericEntity : "{E5043AB2B2C5DFE1}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_GuardTower_S_US_01.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{66026E5994EFA21D}" {
+    Enabled 0
+   }
+  }
   coords 4962.085 25.721 9895.36
   angles 0 -90 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{66026E5994EFA21D}" {
+    Enabled 0
+   }
+  }
   coords 4962.085 25.721 9881.523
   angles 0 -90 0
  }
