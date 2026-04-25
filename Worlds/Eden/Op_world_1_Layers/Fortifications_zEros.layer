@@ -1,0 +1,959 @@
+$grp StaticModelEntity : "{0C8158D9D1E0D4DD}PrefabsEditable/Auto/Compositions/Misc/CustomEntities/DestructionEntities/E_Sandbag_01_bunker_plastic_CompositionDestruction.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{5DC6DD22B3A70163}" {
+    Enabled 0
+   }
+  }
+  coords 5000.571 28.018 9857.35
+  angles 0 179.888 0
+  {
+   GenericEntity {
+    ID "5A532DCF3ECE312F"
+    coords 0 0.1 0
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5DC6DD22B3A70163}" {
+    Enabled 0
+   }
+  }
+  coords 5044.304 29.302 9857.435
+  angles 0 179.888 0
+  {
+   GenericEntity {
+    ID "5A532DCF3ECE312F"
+    coords 0 0.1 0
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5DC6DD22B3A70163}" {
+    Enabled 0
+   }
+  }
+  coords 4960.378 26.77 9857.271
+  angles 0 179.833 0
+  {
+   GenericEntity {
+    ID "5A532DCF3ECE312F"
+    coords 0 0.1 0
+   }
+  }
+ }
+}
+$grp GenericEntity : "{17B68DA54A970140}PrefabsEditable/Auto/Compositions/Slotted/SlotRoadSmall/E_Barricade_S_USSR_01.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{5E66996467BE881D}" {
+    Enabled 0
+   }
+  }
+  coords 4955.556 25.347 9854.505
+  angles 0.654 -30.028 -2.444
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E66996467BE881D}" {
+    Enabled 0
+   }
+  }
+  coords 4950.899 25.117 9851.816
+  angles 0.654 -30.028 -2.444
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E66996467BE881D}" {
+    Enabled 0
+   }
+  }
+  coords 4946.53 24.87 9849.294
+  angles 0.654 -30.028 -2.444
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E66996467BE881D}" {
+    Enabled 0
+   }
+  }
+  coords 4942.103 24.651 9846.738
+  angles 0.654 -30.028 -2.444
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E66996467BE881D}" {
+    Enabled 0
+   }
+  }
+  coords 4937.529 24.426 9844.098
+  angles 0.654 -30.028 -2.444
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E66996467BE881D}" {
+    Enabled 0
+   }
+  }
+  coords 4932.677 24.187 9841.296
+  angles 0.654 -30.028 -2.444
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E66996467BE881D}" {
+    Enabled 0
+   }
+  }
+  coords 4928.008 23.957 9838.601
+  angles 0.654 -30.028 -2.444
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E66996467BE881D}" {
+    Enabled 0
+   }
+  }
+  coords 4923.467 23.733 9835.979
+  angles 0.654 -30.028 -2.444
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E66996467BE881D}" {
+    Enabled 0
+   }
+  }
+  coords 4918.822 23.504 9833.297
+  angles 0.654 -30.028 -2.444
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{23764D9776ABBFC4}Prefabs/Structures/Military/Fortifications/Bunker_SPS/Bunker_SPS_covered.et" {
+ {
+  coords 5076.712 28.562 9887.004
+ }
+ {
+  coords 5426.59 18.366 9992.887
+  angles 0 15 0
+ }
+ {
+  coords 5335.343 19.485 10035.802
+ }
+ {
+  coords 5311.785 19.774 9924.958
+  angles 0 15 0
+ }
+ {
+  coords 5389.182 20.828 9897.509
+ }
+}
+GenericEntity : "{36307D704B0D1F04}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_ACE_VehicleTrench_01.et" {
+ components {
+  SCR_EditableEntityComponent "{5E50727929EC2547}" {
+   Enabled 0
+  }
+ }
+ coords 4951.872 25.175 9911.867
+ angles -5.322 -96.481 0.604
+}
+$grp GenericEntity : "{3F5EE4D69DBC478C}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_short_plastic.et" {
+ {
+  coords 5026.058 33.361 9876.809
+  angles 0.001 0 7.574
+ }
+ {
+  coords 5029.725 32.874 9876.809
+  angles 0.001 0 7.574
+ }
+}
+$grp GenericEntity : "{68BE02FEBBE7E5D3}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_ACE_PersonalTrench_01_big.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5015.07 26.848 9875.872
+  angles 1.79 180 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5006.06 26.848 9875.872
+  angles 1.79 180 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 4999.812 26.848 9875.872
+  angles 1.79 180 0
+ }
+ {
+  coords 5001.718 26.67 9893.726
+  angles 0 180 3.576
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5059.413 29.125 9901.727
+  angles 0 180 0
+  {
+   StaticModelEntity {
+    ID "670D0DEE1F7E28E8"
+    coords 0.494 0 0
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5059.413 29.125 9915.544
+  angles 0 180 0
+  {
+   StaticModelEntity {
+    ID "670D0DEE1F7E28E8"
+    coords 0.26 0 0
+   }
+  }
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5059.413 29.125 9933.821
+  angles 0 180 0
+ }
+}
+GenericEntity : "{6E9DCCF936BF17B9}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_MachineGunNest_S_US_02.et" {
+ components {
+  SCR_EditableEntityComponent "{5E989B7AE960BF8F}" {
+   Enabled 0
+  }
+ }
+ coords 4929.753 25.155 9978.946
+ angles -4.594 -168.582 1.802
+}
+$grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_plastic.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5025.707 33.408 9875.832
+  angles 0.001 0 7.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5028.959 32.976 9875.832
+  angles 0.001 0 7.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5032.11 32.557 9875.832
+  angles 0.001 0 7.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5035.196 32.147 9875.832
+  angles 0.001 0 7.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5024.581 33.558 9877.917
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5024.581 33.558 9881.092
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5024.581 33.558 9884.253
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5031.065 32.696 9877.917
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5031.065 32.696 9881.157
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5031.065 32.696 9884.284
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5032.11 32.557 9881.646
+  angles 0.001 0 7.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5035.069 32.164 9881.646
+  angles 0.001 0 7.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9883.629
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9886.829
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9890.042
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9893.223
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9896.377
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9899.476
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9902.524
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9905.695
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9908.877
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9911.922
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9915.073
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5036.119 32.024 9918.008
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5034.571 32.23 9894.638
+  angles 0.001 0 7.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5032.565 32.497 9893.38
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5024.581 33.558 9895.882
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5024.581 33.558 9898.745
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5024.581 33.558 9901.691
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5026.139 33.351 9898.744
+  angles 0.002 -179.977 -7.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5027.791 33.131 9899.873
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5024.581 33.558 9912.176
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5024.581 33.558 9915.158
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5024.581 33.558 9918.002
+  angles 7.574 -90 -0.001
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5025.648 33.416 9915.159
+  angles -0.009 179.942 -7.574
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5028.735 33.005 9915.162
+  angles -0.009 179.942 -7.574
+ }
+}
+$grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_plastic.et" {
+ {
+  coords 5041.039 27.725 9856.31
+  angles 0.894 -0.028 -1.79
+ }
+ {
+  coords 5038.3 27.639 9856.31
+  angles 0.894 -0.028 -1.79
+ }
+ {
+  coords 5035.557 27.544 9856.31
+  angles -0.894 0.028 -1.79
+ }
+ {
+  coords 5032.864 27.445 9856.31
+  angles -3.573 0.112 -1.793
+ }
+ {
+  coords 5030.301 27.382 9856.31
+  angles -5.354 0.14 -0.904
+ }
+ {
+  coords 5027.764 27.309 9856.313
+  angles -6.242 0.14 -0.015
+ }
+ {
+  coords 5025.134 27.249 9856.32
+  angles -0.896 -0.028 -1.789
+ }
+ {
+  coords 5022.516 27.188 9856.326
+  angles 2.679 -0.14 -1.794
+ }
+ {
+  coords 5019.96 27.108 9856.323
+  angles 2.679 -0.14 -1.794
+ }
+ {
+  coords 5017.307 27.025 9856.32
+  angles 2.8 3.92 -1.6
+ }
+ {
+  coords 5014.711 26.952 9856.502
+  angles 2.8 3.92 -1.6
+ }
+ {
+  coords 5012.146 26.88 9856.682
+  angles 2.8 3.92 -1.6
+ }
+ {
+  coords 5009.62 26.913 9856.858
+  angles 0 3.92 0
+ }
+ {
+  coords 5007.125 26.913 9857.029
+  angles 0 3.92 0
+ }
+ {
+  coords 5004.574 26.913 9857.204
+  angles 0 3.92 0
+ }
+ {
+  coords 5003.65 26.913 9857.268
+  angles 0 3.92 0
+ }
+ {
+  coords 4997.28 26.656 9857.704
+  angles 1.906 3.865 -1.664
+ }
+ {
+  coords 4994.737 26.582 9857.878
+  angles 1.906 3.865 -1.664
+ }
+ {
+  coords 4992.198 26.508 9858.052
+  angles 1.906 3.865 -1.664
+ }
+ {
+  coords 4989.76 26.715 9858.219
+  angles 20.411 13.123 27.205
+ }
+ {
+  coords 4987.238 27.167 9858.392
+  angles 21.081 4.155 0.882
+ }
+ {
+  coords 4984.875 27.181 9858.554
+  angles 23.131 -0.955 -13.108
+ }
+ {
+  coords 4982.579 26.417 9858.711
+  angles 15.123 -1.716 -23.142
+ }
+ {
+  coords 4980.014 26.17 9858.887
+  angles 1.015 3.891 -1.725
+ }
+ {
+  coords 4977.458 26.219 9859.062
+  angles 2.93 3.873 0.488
+ }
+ {
+  coords 4974.99 26.019 9859.23
+  angles 1.015 3.891 -1.725
+ }
+ {
+  coords 4972.46 25.967 9859.404
+  angles 0.954 3.878 -0.832
+ }
+ {
+  coords 4970.201 25.934 9859.558
+  angles 0.954 3.878 -0.832
+ }
+ {
+  coords 4967.846 25.9 9859.718
+  angles 0.954 3.878 -0.832
+ }
+ {
+  coords 4965.505 25.859 9859.412
+  angles 0.706 -11.121 -1.051
+ }
+ {
+  coords 4963.504 25.822 9859.02
+  angles 0.706 -11.121 -1.051
+ }
+ {
+  coords 4922.839 24.516 9981.941
+  angles 0 31.91 0
+ }
+ {
+  coords 4920.733 24.516 9983.253
+  angles 0 31.91 0
+ }
+ {
+  coords 4918.591 24.516 9984.587
+  angles 0 31.91 0
+ }
+ {
+  coords 4935.192 24.977 9978.688
+ }
+ {
+  coords 4937.802 24.977 9978.688
+ }
+ {
+  coords 4940.292 24.977 9978.688
+ }
+ {
+  coords 4956.224 25.492 9899.188
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9896.688
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9894.078
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9891.854
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9889.583
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9887.083
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9884.577
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9882
+  angles 0 90 0
+ }
+ {
+  coords 4956.307 25.492 9879.504
+  angles 0 84.764 0
+ }
+ {
+  coords 4956.534 25.492 9877.028
+  angles 0 84.764 0
+ }
+ {
+  coords 4956.766 25.492 9874.501
+  angles 0 84.764 0
+ }
+ {
+  coords 4956.998 25.492 9871.973
+  angles 0 84.764 0
+ }
+ {
+  coords 4957.228 25.492 9869.471
+  angles 0 84.764 0
+ }
+ {
+  coords 4957.46 25.492 9866.933
+  angles 0 84.764 0
+ }
+ {
+  coords 4957.693 25.492 9864.387
+  angles 0 84.764 0
+ }
+ {
+  coords 4957.914 25.492 9861.974
+  angles 0 84.764 0
+ }
+ {
+  coords 4958.15 25.492 9859.396
+  angles 0 84.764 0
+ }
+ {
+  coords 4956.224 25.492 9901.51
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9904.015
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9906.741
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9907.817
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9916.433
+  angles 0 90 0
+ }
+ {
+  coords 4956.224 25.492 9919.062
+  angles 0 90 0
+ }
+ {
+  coords 4955.982 25.492 9921.563
+  angles 0 84.227 0
+ }
+ {
+  coords 4955.737 25.492 9923.989
+  angles 0 84.227 0
+ }
+ {
+  coords 4955.506 25.492 9926.271
+  angles 0 84.227 0
+ }
+ {
+  coords 4955.262 25.492 9928.685
+  angles 0 84.227 0
+ }
+ {
+  coords 4954.995 25.492 9931.333
+  angles 0 84.227 0
+ }
+ {
+  coords 4954.754 25.492 9933.712
+  angles 0 84.227 0
+ }
+ {
+  coords 4954.512 25.492 9936.109
+  angles 0 84.227 0
+ }
+ {
+  coords 4954.438 25.492 9938.425
+  angles 0 92.152 0
+ }
+ {
+  coords 4954.537 25.492 9941.061
+  angles 0 92.152 0
+ }
+ {
+  coords 4954.628 25.492 9943.496
+  angles 0 92.152 0
+ }
+ {
+  coords 4954.715 25.492 9945.812
+  angles 0 92.152 0
+ }
+ {
+  coords 4954.807 25.492 9948.248
+  angles 0 92.152 0
+ }
+}
+$grp GenericEntity : "{C8CB97EAACBAA7BB}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_ACE_PersonalTrench_01_giant.et" {
+ {
+  coords 4989.194 25.875 9875.549
+  angles 0 -172.428 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5013.955 26.729 9893.724
+  angles 1.781 179.448 -0.912
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 4990.768 25.875 9893.512
+  angles 0 179.448 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5057.672 29.219 9880.567
+  angles 0 180 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5042.661 26.906 9892.942
+  angles 0 -180 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5042.661 26.906 9875.933
+  angles 0 -180 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5042.661 26.906 9906.681
+  angles 0 -180 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{5E50727929EC2547}" {
+    Enabled 0
+   }
+  }
+  coords 5042.661 26.906 9920.976
+  angles 0 -180 0
+ }
+}
+$grp GenericEntity : "{E5043AB2B2C5DFE1}PrefabsEditable/Auto/Compositions/Slotted/SlotFlatSmall/E_GuardTower_S_US_01.et" {
+ {
+  coords 4962.085 25.721 9895.36
+  angles 0 -90 0
+ }
+ {
+  coords 4962.085 25.721 9881.523
+  angles 0 -90 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{66026E5994EFA21D}" {
+    Enabled 0
+   }
+  }
+  coords 5017.867 27.154 9859.364
+  angles 0 -180 0
+ }
+}
+GenericEntity : "{F22CBF116CBCBD62}PrefabsEditable/Auto/Compositions/Misc/FreeRoamBuilding/E_ACE_PersonalTrench_01_small.et" {
+ components {
+  SCR_EditableEntityComponent "{5E50727929EC2547}" {
+   Enabled 0
+  }
+ }
+ coords 5010.973 26.875 9876.694
+ angles 0 -175.383 0
+}

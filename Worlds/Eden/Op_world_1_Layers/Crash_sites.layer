@@ -11,9 +11,7 @@ $grp GenericEntity {
    }
   }
   coords 5373.424 24.772 9182.913
-  angleX -3.201
-  angleY 29.74
-  angleZ -13.563
+  angles -3.201 29.74 -13.563
  }
  {
   components {
@@ -22,7 +20,7 @@ $grp GenericEntity {
    }
   }
   coords 5377.703 26.385 9188.758
-  angleY -84.168
+  angles 0 -84.168 0
  }
  {
   components {
@@ -31,7 +29,7 @@ $grp GenericEntity {
    }
   }
   coords 5375.019 26.385 9189.668
-  angleY -31.201
+  angles 0 -31.201 0
  }
  {
   components {
@@ -40,7 +38,7 @@ $grp GenericEntity {
    }
   }
   coords 5372.753 26.385 9187.925
-  angleY -42.246
+  angles 0 -42.246 0
  }
  {
   components {
@@ -49,7 +47,7 @@ $grp GenericEntity {
    }
   }
   coords 5371.183 26.385 9185.903
-  angleY -57.627
+  angles 0 -57.627 0
  }
  {
   components {
@@ -58,8 +56,7 @@ $grp GenericEntity {
    }
   }
   coords 5369.735 26.149 9183.619
-  angleY -57.627
-  angleZ -7.403
+  angles 0 -57.627 -7.403
  }
  {
   components {
@@ -68,8 +65,7 @@ $grp GenericEntity {
    }
   }
   coords 5368.406 25.827 9181.521
-  angleY -57.627
-  angleZ -7.403
+  angles 0 -57.627 -7.403
  }
  {
   components {
@@ -78,8 +74,7 @@ $grp GenericEntity {
    }
   }
   coords 5366.847 25.449 9179.063
-  angleY -57.627
-  angleZ -7.403
+  angles 0 -57.627 -7.403
  }
  {
   components {
@@ -88,8 +83,7 @@ $grp GenericEntity {
    }
   }
   coords 5365.412 24.89 9176.8
-  angleY -57.627
-  angleZ -7.403
+  angles 0 -57.627 -7.403
  }
  {
   components {
@@ -98,8 +92,7 @@ $grp GenericEntity {
    }
   }
   coords 5363.928 24.53 9174.46
-  angleY -57.627
-  angleZ -7.403
+  angles 0 -57.627 -7.403
  }
  {
   components {
@@ -108,7 +101,7 @@ $grp GenericEntity {
    }
   }
   coords 5376.916 26.385 9186.122
-  angleY -61.509
+  angles 0 -61.509 0
  }
  {
   components {
@@ -117,8 +110,7 @@ $grp GenericEntity {
    }
   }
   coords 5375.504 26.115 9183.521
-  angleY -61.509
-  angleZ -5.624
+  angles 0 -61.509 -5.624
  }
  {
   components {
@@ -127,8 +119,7 @@ $grp GenericEntity {
    }
   }
   coords 5374.298 25.866 9181.301
-  angleY -61.509
-  angleZ -5.624
+  angles 0 -61.509 -5.624
  }
  {
   components {
@@ -137,8 +128,7 @@ $grp GenericEntity {
    }
   }
   coords 5373.001 25.598 9178.912
-  angleY -61.509
-  angleZ -5.624
+  angles 0 -61.509 -5.624
  }
  {
   components {
@@ -147,8 +137,7 @@ $grp GenericEntity {
    }
   }
   coords 5371.654 25.32 9176.432
-  angleY -61.509
-  angleZ -5.624
+  angles 0 -61.509 -5.624
  }
  {
   components {
@@ -157,8 +146,7 @@ $grp GenericEntity {
    }
   }
   coords 5370.321 25.045 9173.977
-  angleY -61.509
-  angleZ -5.624
+  angles 0 -61.509 -5.624
  }
  {
   components {
@@ -167,7 +155,7 @@ $grp GenericEntity {
    }
   }
   coords 5362.938 25.504 9187.58
-  angleY -47.236
+  angles 0 -47.236 0
  }
  {
   components {
@@ -176,7 +164,7 @@ $grp GenericEntity {
    }
   }
   coords 5365.313 25.525 9187.174
-  angleY -94.463
+  angles 0 -94.463 0
  }
  {
   components {
@@ -185,8 +173,7 @@ $grp GenericEntity {
    }
   }
   coords 5365.541 25.267 9184.256
-  angleY -94.463
-  angleZ -7.081
+  angles 0 -94.463 -7.081
  }
  {
   components {
@@ -195,7 +182,7 @@ $grp GenericEntity {
    }
   }
   coords 5381.079 25.379 9171.686
-  angleY -59.82
+  angles 0 -59.82 0
  }
  {
   components {
@@ -204,8 +191,7 @@ $grp GenericEntity {
    }
   }
   coords 5379.492 25.103 9168.958
-  angleY -59.82
-  angleZ -10.148
+  angles 0 -59.82 -10.148
  }
 }
 $grp ParticleEffectEntity {
@@ -219,7 +205,7 @@ $grp ParticleEffectEntity {
  }
  {
   coords 5382.424 27.441 9169.309
-  angleX 20.234
+  angles 20.234 0 0
   EffectPath "{0EDE755E5A808E81}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_small.ptc"
  }
  {
@@ -229,9 +215,7 @@ $grp ParticleEffectEntity {
 }
 GenericEntity : "{0E9250157E5C64BF}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_L.et" {
  coords 5364.187 25.388 9186.099
- angleX -4.168
- angleY 20.688
- angleZ -79.107
+ angles -4.168 20.688 -79.107
 }
 $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turrets/ObservationPost.et" {
  {
@@ -239,7 +223,7 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
  }
  {
   coords 5732.592 14.134 9822.137
-  angleY -42.15
+  angles 0 -42.15 0
  }
  {
   coords 5728.13 12.284 9714.654
@@ -253,5 +237,5 @@ $grp GenericEntity : "{51FA720D4364EDF9}6522EAB7461F248C/Prefabs/Vehicles/Turret
 }
 GenericEntity : "{738ABCED1BCF5826}Prefabs/Vehicles/Ships/Dropship/VehParts/Dropship_Engine_R.et" {
  coords 5382.311 25.867 9171.164
- angleX -55.425
+ angles -55.425 0 0
 }
