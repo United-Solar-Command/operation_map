@@ -4,7 +4,7 @@ GenericEntity : "{0B0C600941B2A6A8}Prefabs/Props/Military/Sandbags/Sandbag_01_sh
 }
 $grp StaticModelEntity : "{130BED24711F375F}PrefabsEditable/Auto/Structures/Walls/BarbedWire/E_BarbedTape_Triple.et" {
  {
-  coords 5276.68 -0 9803.673
+  coords 5276.68 0 9803.673
   angles 0 -75.118 0
  }
  {
@@ -16,7 +16,7 @@ $grp StaticModelEntity : "{130BED24711F375F}PrefabsEditable/Auto/Structures/Wall
   angles 0 -75.118 0
  }
  {
-  coords 5266.396 -0 9806.76
+  coords 5266.396 0 9806.76
   angles 0 -75.118 0
  }
  {
@@ -48,7 +48,7 @@ $grp StaticModelEntity : "{130BED24711F375F}PrefabsEditable/Auto/Structures/Wall
   angles 0 -75.118 0
  }
  {
-  coords 5242.058 -0 9813.705
+  coords 5242.058 0 9813.705
   angles 0 -75.118 0
  }
  {
@@ -172,15 +172,15 @@ $grp GenericEntity : "{31A455F7FD8DCE84}Prefabs/Props/Military/Sandbags/Sandbag_
   angles 0 -72.577 0
  }
  {
-  coords 5326.52 19.384 9920.463
+  coords 5326.477 19.384 9920.316
   angles 0 16.369 0
  }
  {
-  coords 5329.633 19.415 9919.543
+  coords 5329.572 19.415 9919.335
   angles 0 16.369 0
  }
  {
-  coords 5332.707 19.666 9918.615
+  coords 5332.669 19.666 9918.486
   angles 0 16.369 0
  }
  {
@@ -436,22 +436,47 @@ $grp GenericEntity : "{7B4CD0B54AA169AA}Prefabs/Props/Military/Sandbags/Sandbag_
 }
 $grp GenericEntity : "{819A4D654C2B7387}PrefabsEditable/Auto/Props/Military/Sandbags/Deployable/E_Sandbag_01_long_high_plastic_Deployable.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5453.522 24.048 9818.371
   angles 0.333 10.735 -1.759
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5450.356 23.936 9818.833
   angles 1.378 10.701 -2.471
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5448.012 23.833 9819.322
   angles 1.379 10.718 -2.47
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5477.295 23.029 9930.07
   angles 1.117 10.729 -1.661
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5479.195 23.081 9929.707
   angles 1.117 10.729 -1.661
  }
@@ -468,48 +493,121 @@ $grp GenericEntity : "{819A4D654C2B7387}PrefabsEditable/Auto/Props/Military/Sand
   angles 1.07 9.133 -1.691
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5468.446 22.821 9932.476
   angles 1.217 14.259 -1.589
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5470.668 22.888 9931.76
   angles 1.389 20.757 -1.441
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5458.132 22.627 9935.561
   angles 1.229 14.702 -1.579
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5460.285 22.672 9934.881
   angles 1.258 15.773 -1.556
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5459.007 22.59 9942.93
   angles 1.541 106.487 1.277
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5459.559 22.612 9944.888
   angles 1.541 106.487 1.277
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5461.956 22.664 9945.256
   angles -1.225 -165.441 1.582
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5465.082 22.735 9944.428
   angles -1.225 -165.441 1.582
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5468.194 22.796 9943.643
   angles -1.225 -165.441 1.582
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5471.261 22.858 9943.035
   angles -1.083 -170.411 1.683
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 5474.185 22.911 9942.604
   angles -1.021 -172.51 1.721
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5476.479 25.209 9839.64
+  angles -1.74 -83.599 -0.988
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 5476.028 25.188 9836.391
+  angles -1.779 -83.598 -0.199
  }
 }
 GenericEntity : "{86BA5E5CD528D5BC}Prefabs/Props/Military/Sandbags/Sandbag_01_end_plastic.et" {
@@ -1020,18 +1118,38 @@ GenericEntity : "{BBE13893AEA69C0C}Prefabs/Props/Military/Sandbags/Sandbag_01_fo
 }
 $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_plastic.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5472.709 22.833 9942.024
   angles 0 -80.339 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5468.021 22.754 9943.047
   angles 0 -77.442 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5463.141 22.692 9944.189
   angles 0 -75.769 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5459.426 22.645 9941.674
   angles 0 -166.454 0
  }
@@ -1040,10 +1158,20 @@ $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sand
   angles 0 -80.339 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5483.762 23.201 9929.691
   angles 0 -76.523 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5488.42 23.252 9930.314
   angles 0 15.223 0
  }
@@ -1056,10 +1184,20 @@ $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sand
   angles 0 -80.339 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5484.196 22.076 9948.497
   angles 0 -85.477 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
   coords 5484.394 21.794 9951.199
   angles 0 -87.626 0
  }
@@ -1388,42 +1526,92 @@ GenericEntity : "{E86E2C320BF1F524}Prefabs/Props/Military/Sandbags/Sandbag_01_bu
 }
 $grp GenericEntity : "{EC32A8258D155DB2}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Fortifications/E_SandBag_Tower_S_US_01.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5288.119 21.313 9825.679
   angles 0 -162.885 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5300.625 21.228 9807.096
   angles 0 -162.885 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5313.306 21.218 9801.547
   angles 0 -163.728 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5279.622 21.117 9813.238
   angles 0 -162.885 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5266.22 21.005 9818.447
   angles 0 -162.885 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5335.013 20.045 9786.832
   angles 0 -166.368 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5345.492 21.031 9897.495
   angles 0 -161.478 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5333.313 20.837 9901.425
   angles 0 -162.885 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5323.593 19.417 9912.895
   angles 0 -74.38 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{65E0A0BBA42A3120}" {
+    Enabled 0
+   }
+  }
   coords 5366.549 20.281 9916.524
   angles 0 103.188 0
  }
