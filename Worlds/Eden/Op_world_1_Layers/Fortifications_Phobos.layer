@@ -32,181 +32,670 @@ $grp GenericEntity : "{3F2D1FB239682B87}Prefabs/Props/Military/Sandbags/Sandbag_
   coords 4542.905 15.69 9421.11
   angles 0 150 0
  }
+ {
+  components {
+   Hierarchy "{5A58883F88AF3C76}" {
+   }
+  }
+  coords 4552.831 12.481 9397.411
+  angles 0 -172.885 0
+ }
+ {
+  components {
+   Hierarchy "{5A58883F88AF3C76}" {
+   }
+  }
+  coords 4431.096 10.664 9426.644
+  angles 0 -145.717 0
+ }
+ {
+  components {
+   Hierarchy "{5A58883F88AF3C76}" {
+   }
+  }
+  coords 4448.051 10.664 9420.858
+  angles 0 179.083 0
+ }
+}
+$grp GenericEntity : "{4ADCE267EC510331}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_plastic.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4444.381 9.722 9421.075
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4441.348 9.722 9421.226
+  angles 0 10.267 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4438.403 9.722 9422.029
+  angles 0 21.432 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4436.032 9.722 9423.283
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4434.071 9.722 9424.547
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4434.071 9.284 9424.547
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4436.032 9.457 9423.283
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4438.403 9.46 9422.029
+  angles 0 21.432 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4428.06 9.284 9428.684
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4428.06 9.722 9428.684
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4426.368 9.284 9429.727
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B9F3027}" {
+    Enabled 0
+   }
+  }
+  coords 4426.368 9.722 9429.727
+  angles 0 31.719 0
+ }
+}
+$grp GenericEntity : "{7F118C6EA2AF1C99}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_long_high_plastic.et" {
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4563.099 11.354 9392.67
+  angles 0 21.659 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4560.358 10.982 9393.652
+  angles 0 21.659 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4557.667 10.982 9394.771
+  angles 0 21.659 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4556.068 10.982 9395.47
+  angles 0 21.659 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4549.268 10.982 9396.748
+  angles 0 0.306 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4546.134 10.982 9396.825
+  angles 0 0.306 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4544.39 10.982 9396.784
+  angles 0 0.306 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4444.287 9.746 9420.11
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4441.084 9.746 9420.293
+  angles 0 10.267 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4437.963 9.746 9421.165
+  angles 0 21.432 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4435.445 9.746 9422.512
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4433.483 9.746 9423.775
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4433.483 9.308 9423.775
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4427.472 9.746 9427.912
+  angles 0 31.719 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
+  coords 4425.78 9.746 9428.955
+  angles 0 31.719 0
+ }
 }
 $grp GenericEntity : "{819A4D654C2B7387}PrefabsEditable/Auto/Props/Military/Sandbags/Deployable/E_Sandbag_01_long_high_plastic_Deployable.et" {
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4512.522 18.749 9417.094
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4515.592 18.749 9416.963
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4518.776 18.749 9416.848
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4522.002 18.749 9416.756
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4525.128 18.749 9416.622
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4528.29 18.749 9416.54
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4529.934 18.749 9416.446
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4531.207 18.749 9418.055
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4531.327 18.749 9421.097
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4531.456 18.749 9424.075
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4531.563 18.749 9427.302
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4531.694 18.749 9430.424
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4531.796 18.749 9433.51
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4531.794 18.749 9434.411
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4530.223 18.749 9435.558
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4527.177 18.749 9435.668
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4524.18 18.749 9435.766
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4521.133 18.749 9435.908
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4518.06 18.749 9436.014
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4515.859 18.749 9436.079
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4514.731 18.749 9434.925
   angles 0 -87.766 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4514.654 18.749 9432.422
   angles 0 -87.766 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4508.242 18.749 9430.4
   angles 0 -87.766 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4508.113 18.749 9427.228
   angles 0 -87.766 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4508.003 18.749 9424.071
   angles 0 -87.766 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4510.026 18.749 9431.514
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4512.911 18.749 9431.361
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4499.616 9.837 9406.436
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4502.331 9.514 9406.292
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4503.351 9.514 9406.292
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4492.46 9.754 9405.682
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4490.446 9.677 9405.674
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4544.487 14.189 9431.246
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4544.35 14.189 9428.453
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4544.49 14.189 9439.601
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4544.557 14.189 9442.269
   angles 0 92.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4514.943 13.709 9411.947
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4518.136 13.709 9411.86
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4521.346 13.709 9411.786
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4524.521 13.709 9411.652
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4527.574 13.709 9411.554
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4530.574 13.709 9411.431
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4533.742 13.709 9411.332
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4536.744 13.709 9411.187
   angles 0 2.234 0
  }
@@ -215,12 +704,43 @@ $grp GenericEntity : "{819A4D654C2B7387}PrefabsEditable/Auto/Props/Military/Sand
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4542.83 13.709 9410.925
   angles 0 2.234 0
  }
  {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6B99A983}" {
+    Enabled 0
+   }
+  }
   coords 4509.399 13.709 9412.092
   angles 0 2.234 0
+ }
+}
+$grp StaticModelEntity : "{BA3D9B20D6F62FA4}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_bunker_plastic_foundation.et" {
+ {
+  coords 4599.338 16.013 9426.468
+  {
+   GenericEntity {
+    ID "5A532DCF3ECE312F"
+    coords 2.466 1.155 0.224
+    angles 0 169.459 0
+   }
+   GenericEntity {
+    ID "5A532DCF3ECE3109"
+    coords 2.466 1.155 0.224
+    angles 0 169.459 0
+   }
+  }
+ }
+ {
+  coords 4620.292 17.848 9453.802
+  angles 0 169.459 0
  }
 }
 $grp GenericEntity : "{BBE13893AEA69C0C}Prefabs/Props/Military/Sandbags/Sandbag_01_foundation_plastic.et" {
@@ -247,6 +767,30 @@ $grp GenericEntity : "{BBE13893AEA69C0C}Prefabs/Props/Military/Sandbags/Sandbag_
   }
   coords 4542.905 15.69 9421.11
   angles 0 150 0
+ }
+ {
+  components {
+   Hierarchy "{5A58883F88AF1AEC}" {
+   }
+  }
+  coords 4552.831 12.481 9397.411
+  angles 0 -172.885 0
+ }
+ {
+  components {
+   Hierarchy "{5A58883F88AF1AEC}" {
+   }
+  }
+  coords 4431.096 10.664 9426.644
+  angles 0 -145.717 0
+ }
+ {
+  components {
+   Hierarchy "{5A58883F88AF1AEC}" {
+   }
+  }
+  coords 4448.051 10.664 9420.858
+  angles 0 179.083 0
  }
 }
 $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_plastic.et" {
@@ -928,7 +1472,7 @@ $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sand
     Enabled 0
    }
   }
-  coords 4566.604 11.85 9381.003
+  coords 4566.604 12.012 9381.003
   angles 0 4.267 0
  }
  {
@@ -1109,5 +1653,743 @@ $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sand
   }
   coords 4485.022 11.02 9423.893
   angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4549.398 11.065 9395.893
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4546.724 11.065 9395.904
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4544.144 11.065 9395.793
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4555.86 11.065 9394.878
+  angles 0 25.022 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4558.059 11.065 9393.867
+  angles 0 25.022 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4560.346 11.065 9392.855
+  angles 0 25.022 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4562.479 11.416 9391.86
+  angles 0 25.022 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4564.837 11.416 9391.393
+  angles 0 -1.107 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4565.112 12.495 9392.731
+  angles 0 87.845 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4565.206 12.495 9390.227
+  angles 0 87.845 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4565.3 12.495 9387.714
+  angles 0 87.845 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4565.384 12.264 9385.474
+  angles 0 87.845 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4565.455 11.924 9383.585
+  angles 0 87.845 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4565.516 11.796 9381.976
+  angles 0 87.845 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4568.935 12.222 9380.832
+  angles 0 4.267 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4571.576 12.353 9380.612
+  angles 0 4.267 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4574.195 12.295 9380.603
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4575.175 12.341 9380.572
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4577.803 12.354 9380.68
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4580.364 12.354 9380.811
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4582.888 12.354 9380.949
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4585.238 12.354 9381.063
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4586.592 12.354 9381.07
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4588.579 12.354 9381.147
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4546.868 11.065 9397.117
+  angles 0 -91.513 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4544.783 12.071 9409.447
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4547.057 12.071 9409.447
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4541.739 11.841 9395.153
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4539.289 11.841 9395.149
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4536.767 11.841 9395.131
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4534.414 11.841 9395.062
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4532.808 11.563 9395.964
+  angles 0 91.312 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4532.823 11.719 9398.44
+  angles 0 91.312 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4532.942 11.918 9401.088
+  angles 0 91.312 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4532.993 11.918 9403.645
+  angles 0 91.312 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4533.219 11.918 9409.62
+  angles 0 91.312 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4533.149 11.936 9407.903
+  angles 0 91.312 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4533.071 11.918 9406.291
+  angles 0 91.312 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4596.018 12.184 9381.594
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4593.394 12.184 9381.451
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4590.839 12.184 9381.287
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4593.212 11.075 9382.172
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4595.809 11.075 9382.227
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4598.522 12.184 9381.651
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4601.072 12.184 9381.673
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4603.711 12.184 9381.809
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4606.299 12.184 9381.909
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4608.553 12.184 9381.989
+  angles 0 -2.046 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.347 12.184 9382.857
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.315 12.33 9385.384
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.292 12.672 9388.037
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.287 12.711 9390.603
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.314 12.683 9393.237
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.331 12.78 9395.599
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.35 12.78 9398.149
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.366 13.28 9400.645
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.355 13.786 9402.984
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.337 13.969 9405.516
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.338 14.285 9407.574
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4610.338 14.594 9408.986
+  angles 0 -89.973 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4445.165 9.656 9419.101
+  angles 0 -178.858 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4442.778 9.656 9419.174
+  angles 0 -178.858 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4440.492 9.656 9419.521
+  angles 0 -165.242 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4437.99 9.656 9420.184
+  angles 0 -165.242 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4435.723 9.656 9421.15
+  angles 0 -149.2 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4433.665 9.656 9422.469
+  angles 0 -149.2 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4431.771 9.656 9423.725
+  angles 0 -142.498 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4427.332 9.656 9426.991
+  angles 0 -145.439 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4425.159 9.656 9428.461
+  angles 0 -145.439 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4482.538 11.02 9423.614
+  angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4479.97 11.02 9423.266
+  angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4477.368 11.02 9422.996
+  angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4474.896 11.02 9422.724
+  angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4472.367 11.02 9422.479
+  angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4469.802 11.02 9422.19
+  angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4467.467 10.877 9421.938
+  angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4464.998 10.722 9421.671
+  angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4462.463 10.543 9421.396
+  angles 0 173.809 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4460.041 10.349 9421.166
+  angles 0 178.972 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4457.502 10.176 9421.177
+  angles 0 -174.322 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4455.065 10.144 9421.419
+  angles 0 -174.322 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4452.46 10.148 9421.678
+  angles 0 -174.322 0
+ }
+ {
+  components {
+   SCR_EditableEntityComponent "{58EEFD4A6A3AAFB7}" {
+    Enabled 0
+   }
+  }
+  coords 4451.314 10.148 9421.764
+  angles 0 -174.322 0
  }
 }
