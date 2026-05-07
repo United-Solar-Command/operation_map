@@ -58,8 +58,8 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
     Enabled 0
    }
   }
-  coords 4587.787 16.534 10109.969
-  angles 0 -90.619 0
+  coords 4584.406 11.272 10109.933
+  angles 64.089 -90.619 0
  }
  {
   components {
@@ -67,8 +67,8 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
     Enabled 0
    }
   }
-  coords 4941.187 23.692 10123.852
-  angles 0 -90.619 0
+  coords 4941.182 17.443 10124.324
+  angles 0 -90.619 43.535
  }
  {
   components {
@@ -76,7 +76,7 @@ $grp GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerRefo
     Enabled 0
    }
   }
-  coords 5384.651 17.167 10155.662
-  angles 0 -90.619 0
+  coords 5384.618 13.632 10158.671
+  angles 0 -90.619 49.598
  }
 }

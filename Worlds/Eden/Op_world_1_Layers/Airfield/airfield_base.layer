@@ -327,6 +327,27 @@ $grp GenericEntity : "{6855584E6DE85098}Prefabs/Compositions/Misc/Barrier_Wall_0
   }
  }
 }
+SCR_DestructibleEntity : "{6C19A4BF55DC88AD}PrefabsEditable/Auto/Props/Core/E_Crate.et" {
+ coords 4814.148 28.544 11757.791
+ angles 0 165 0
+ {
+  SCR_DestructibleEntity : "{2CEB5C5284A00E6A}PrefabsEditable/Auto/Props/Core/E_Blue_Barrel.et" {
+   coords 0.992 0.009 -0.734
+   angles 0 -165 0
+  }
+  SCR_DestructibleEntity : "{6C19A4BF55DC88AD}PrefabsEditable/Auto/Props/Core/E_Crate.et" {
+   coords 0 0.612 0
+  }
+  SCR_DestructibleEntity : "{8A9DE19079CF2118}PrefabsEditable/Auto/Props/Core/E_Grey_Barrel.et" {
+   coords 1.565 0.014 -0.838
+   angles 0 165 0
+  }
+  SCR_DestructibleEntity : "{8D9264ACC2629F84}PrefabsEditable/Auto/Props/Core/E_Long_Crate_01.et" {
+   coords -1.301 -0.001 0.196
+   angles 0 -165 0
+  }
+ }
+}
 GenericEntity : "{6D4CD701022DE064}Prefabs/KOTH_NoBase.et" {
  coords 4904.531 28.171 11965.385
  angles 0 1.104 0
@@ -339,6 +360,123 @@ GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.
  }
  coords 4682.818 28.445 11104.986
  angles 0 180 0
+}
+$grp SCR_DestructibleEntity : "{8D9264ACC2629F84}PrefabsEditable/Auto/Props/Core/E_Long_Crate_01.et" {
+ {
+  coords 4863.807 28.594 11780.975
+  angles 0 -150 0
+  {
+   SCR_DestructibleEntity : "{2CEB5C5284A00E6A}PrefabsEditable/Auto/Props/Core/E_Blue_Barrel.et" {
+    coords 1.124 0 -0.062
+    angles 0 150 0
+   }
+   $grp SCR_DestructibleEntity : "{6C19A4BF55DC88AD}PrefabsEditable/Auto/Props/Core/E_Crate.et" {
+    {
+     coords -1.365 0 -0.437
+     angles 0 29.358 0
+    }
+    {
+     coords -1.365 0.612 -0.437
+     angles 0 -60.642 0
+    }
+    {
+     coords -2.139 0 -0.004
+     angles 0 29.358 0
+    }
+   }
+   SCR_DestructibleEntity : "{8A9DE19079CF2118}PrefabsEditable/Auto/Props/Core/E_Grey_Barrel.et" {
+    coords -2.147 0.61 0.012
+    angles 0 -180 0
+   }
+  }
+ }
+ {
+  coords 4819.032 28.454 11749.717
+  angles 0 165 0
+  {
+   SCR_DestructibleEntity : "{0C9FBBF99C0C60A6}PrefabsEditable/Auto/Props/Core/E_Green_Barrel.et" {
+    coords -1.023 0.102 0.419
+    angles 0 -120 0
+   }
+   SCR_DestructibleEntity : "{8D9264ACC2629F84}PrefabsEditable/Auto/Props/Core/E_Long_Crate_01.et" {
+    coords 0 0.683 0
+   }
+  }
+ }
+ {
+  coords 4915.801 28.594 11736.164
+  angles 0 -90 0
+  {
+   SCR_DestructibleEntity : "{0C9FBBF99C0C60A6}PrefabsEditable/Auto/Props/Core/E_Green_Barrel.et" {
+    coords 2.777 0 1.041
+    angles 0 135 0
+   }
+   SCR_DestructibleEntity : "{2CEB5C5284A00E6A}PrefabsEditable/Auto/Props/Core/E_Blue_Barrel.et" {
+    coords 1.532 0 1.069
+    angles 0 129.778 0
+   }
+   $grp SCR_DestructibleEntity : "{6C19A4BF55DC88AD}PrefabsEditable/Auto/Props/Core/E_Crate.et" {
+    {
+     coords 2.726 0 0.344
+    }
+    {
+     coords 2.726 0.613 0.344
+    }
+    {
+     coords 2.726 1.226 0.344
+    }
+    {
+     coords 1.842 0 0.344
+    }
+    {
+     coords 1.842 0.613 0.344
+    }
+    {
+     coords 1.842 1.226 0.344
+    }
+   }
+   $grp SCR_DestructibleEntity : "{8A9DE19079CF2118}PrefabsEditable/Auto/Props/Core/E_Grey_Barrel.et" {
+    {
+     coords 1.121 0 0.25
+     angles 0 150 0
+    }
+    {
+     coords 2.118 0 1.064
+     angles 0 -165 0
+    }
+    {
+     coords -2.189 0 0.876
+     angles 0 90 0
+    }
+   }
+   $grp SCR_DestructibleEntity : "{8D9264ACC2629F84}PrefabsEditable/Auto/Props/Core/E_Long_Crate_01.et" {
+    {
+     coords -2.988 0.442 0.75
+     angles 0 90 -45
+    }
+    {
+     coords -1.495 0 0
+    }
+    {
+     coords -2.988 0 0
+    }
+    {
+     coords -0.717 0.685 0
+    }
+    {
+     coords -2.284 0.685 0
+    }
+    {
+     coords 0.496 0 1.256
+     angles 0 -45 0
+    }
+    {
+     coords -1.251 0 1.368
+     angles 0 30 0
+    }
+   }
+  }
+ }
 }
 GenericEntity : "{9AEAB32FBB897AC1}Prefabs/Structures/Signs/Military/Sign_FuelStorage_US_01.et" {
  coords 4910.96 28.806 11947.042

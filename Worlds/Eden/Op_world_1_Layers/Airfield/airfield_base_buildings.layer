@@ -57,6 +57,14 @@ GenericEntity Arsenal_Tents_01 {
    coords 9.578 0.134 2.901
    angles 0 -160.432 0
    {
+    SCR_DestructibleBuildingEntity {
+     ID "5A5344E1BED63C5B"
+     {
+      GenericEntity {
+       ID "5EE8A819345602B2"
+      }
+     }
+    }
     $grp GenericEntity : "{A18D9C677F47AC1C}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Medical_US.et" {
      {
       components {

@@ -1,214 +1,334 @@
 $grp ParticleEffectEntity {
  {
-  coords 5800.963 8.653 9803.82
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.677 8.653 9791.972
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.517 8.653 9795.86
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5809.199 13.744 9802.165
-  EffectPath "{C7C126B8FC38B083}Particles/Smoke_Building_Shop.ptc"
- }
- {
-  coords 5742.776 8.843 9787.807
+  coords 5742.776 8.884 9787.807
   EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+  {
+   $grp ParticleEffectEntity {
+    {
+     coords 17.334 0 0.003
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 7.662 0 0.095
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 17.624 0 -1.66
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 4.794 0 0.501
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 17.624 0 -0.766
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 17.624 0 0.802
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 12.593 0 -1.044
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords -5.031 0 -0.278
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 12.303 0 -0.275
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 2.631 0 -0.184
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 12.593 0 -1.938
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords -0.237 0 0.223
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 12.593 0 0.523
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 18.36 0 -1.044
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 0.736 0 -0.278
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 18.07 0 -0.275
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 8.398 0 -0.184
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 18.36 0 -1.938
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 5.53 0 0.223
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 18.36 0 0.523
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 15.99 0 -1.044
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords -1.634 0 -0.278
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 15.7 0 -0.275
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 6.027 0 -0.184
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 15.99 0 -1.938
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 3.16 0 0.223
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 15.99 0 0.523
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 14.97 0 -1.044
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords -2.654 0 -0.278
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 14.68 0 -0.275
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 5.007 0 -0.184
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 14.97 0 -1.938
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+    {
+     coords 2.14 0 0.223
+     EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+    }
+    {
+     coords 14.97 0 0.523
+     EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
+    }
+   }
+  }
  }
  {
-  coords 5821.548 16.245 9786.707
-  angles 0 92.075 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.505 8.653 9787.712
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5821.548 9.19 9786.707
-  angles 0 92.075 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5802.041 14.045 9791.817
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5812.147 14.045 9791.361
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5805.238 14.045 9791.314
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5808.259 14.045 9791.195
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.517 3.537 9795.86
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.689 3.537 9800.278
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5821.548 4.703 9786.707
-  angles 0 92.075 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5809.27 3.537 9803.82
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.689 8.653 9800.278
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.53 3.537 9804.166
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5797.075 8.653 9803.654
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5805.382 3.537 9803.654
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.677 3.537 9791.972
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.505 3.537 9787.712
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.53 8.653 9804.166
-  angles 0 90.088 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5800.963 3.537 9803.82
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.53 3.537 9803.655
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5797.075 3.537 9803.654
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5804.143 14.899 9697.468
-  EffectPath "{0EDE755E5A808E81}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_small.ptc"
- }
- {
-  coords 5821.548 12.419 9786.707
-  angles 0 92.075 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5813.53 8.653 9803.655
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5806.175 51.258 9765.277
-  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
- }
- {
-  coords 5797.045 14.045 9791.817
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5816.407 14.045 9791.196
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5809.199 13.744 9796.396
+  coords 5801.068 4.57 9796.396
   EffectPath "{C7C126B8FC38B083}Particles/Smoke_Building_Shop.ptc"
- }
- {
-  coords 5796.804 9.395 9795.887
-  angles 0 -87.636 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5801.068 13.744 9801.163
-  EffectPath "{C7C126B8FC38B083}Particles/Smoke_Building_Shop.ptc"
- }
- {
-  coords 5784.143 14.288 9702.539
-  EffectPath "{0EDE755E5A808E81}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_small.ptc"
- }
- {
-  coords 5796.804 4.739 9795.887
-  angles 0 -87.636 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5797.055 4.739 9801.969
-  angles 0 -87.636 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5796.99 9.395 9800.395
-  angles 0 -87.636 0
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5809.27 8.653 9803.82
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5805.382 8.653 9803.654
-  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
- }
- {
-  coords 5808.298 13.972 9668.143
-  EffectPath "{0EDE755E5A808E81}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_small.ptc"
- }
- {
-  coords 5801.068 13.744 9796.396
-  EffectPath "{C7C126B8FC38B083}Particles/Smoke_Building_Shop.ptc"
- }
- {
-  coords 5757.176 12.817 9787.81
-  EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
- }
- {
-  coords 5750.438 8.843 9787.901
-  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
- }
- {
-  coords 5757.176 12.817 9786.146
-  EffectPath "{38F42D1BDF72D831}Prefabs/Systems/Fire/Fire_Small.ptc"
- }
- {
-  coords 5747.57 8.844 9788.308
-  EffectPath "{A68549327CD67A2C}Prefabs/Systems/Fire/Fire_Large.ptc"
+  {
+   $grp ParticleEffectEntity {
+    {
+     coords -0.105 0 7.424
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.609 0 -4.425
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.449 0 -0.536
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 8.131 0 5.769
+     EffectPath "{C7C126B8FC38B083}Particles/Smoke_Building_Shop.ptc"
+    }
+    {
+     coords 20.48 0 -9.689
+     angles 0 92.075 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.437 0 -8.685
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 20.48 0 -9.689
+     angles 0 92.075 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 0.973 0 -4.579
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 11.079 0 -5.035
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 4.17 0 -5.082
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 7.191 0 -5.201
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.449 0 -0.536
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.621 0 3.882
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 20.48 0 -9.689
+     angles 0 92.075 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 8.202 0 7.424
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.621 0 3.882
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.462 0 7.77
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords -3.993 0 7.258
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 4.314 0 7.258
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.609 0 -4.425
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.437 0 -8.685
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.462 0 7.77
+     angles 0 90.088 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords -0.105 0 7.424
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.462 0 7.259
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords -3.993 0 7.258
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 20.48 0 -9.689
+     angles 0 92.075 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 12.462 0 7.259
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 5.107 -0.02 -31.119
+     EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+    }
+    {
+     coords -4.023 0 -4.579
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 15.339 0 -5.2
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 8.131 0 0
+     EffectPath "{C7C126B8FC38B083}Particles/Smoke_Building_Shop.ptc"
+    }
+    {
+     coords -4.264 0 -0.51
+     angles 0 -87.636 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 0 0 4.767
+     EffectPath "{C7C126B8FC38B083}Particles/Smoke_Building_Shop.ptc"
+    }
+    {
+     coords -4.264 0 -0.51
+     angles 0 -87.636 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords -4.013 0 5.572
+     angles 0 -87.636 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords -4.078 0 3.998
+     angles 0 -87.636 0
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 8.202 0 7.424
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 4.314 0 7.258
+     EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+    }
+    {
+     coords 5.107 -0.02 -26.1
+     EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+    }
+   }
+  }
  }
 }
 GenericEntity : "{0E3533EE196F01EC}Prefabs/Structures/Infrastructure/Lamps/LampStreet_E_01/LampStreet_E_01_6m.et" {
  coords 5844.757 27.401 9734.157
- angles -67.387 0 161.502
+ angles 50.363 -25.696 168.975
 }
 $grp GenericEntity : "{7D52C517720EF2F5}Prefabs/Props/Industrial/BarrelMetal_01_blue.et" {
  {
@@ -228,6 +348,10 @@ $grp GenericEntity : "{7D52C517720EF2F5}Prefabs/Props/Industrial/BarrelMetal_01_
  }
  {
   coords 3922.823 15.494 8508.675
+ }
+ {
+  coords 5845.144 31.978 9733.624
+  angles -14.834 28.986 -65.196
  }
 }
 $grp GenericEntity : "{88A64A32F78CFB77}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_20ft_blue.et" {
@@ -280,14 +404,6 @@ $grp GenericEntity : "{ADE39FE043B89B0A}Prefabs/Props/Industrial/ConcretePanel_0
  {
   coords 5834.125 47.399 9728.688
   angles -54.205 17.706 86.931
- }
- {
-  coords 5844.23 32.519 9737.211
-  angles -17.51 -127.28 148.281
- }
- {
-  coords 5844.706 31.331 9734.775
-  angles 17.984 -109.995 -116.987
  }
 }
 GenericEntity : "{E5C8E180652682BC}Prefabs/Props/Industrial/GasTank_01_base.et" {

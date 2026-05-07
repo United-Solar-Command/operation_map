@@ -6,7 +6,7 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
      Name "Helipad (Lights)"
      m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
      m_aAuthoredLabels {
-      1001
+      CONTENT_MODDED
      }
     }
    }
@@ -14,7 +14,7 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
    }
   }
   coords 1159.456 2.472 11694.463
-  angleY -44.019
+  angles 0 -44.019 0
  }
  {
   components {
@@ -25,13 +25,13 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
      Name "Helipad (Lights)"
      m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
      m_aAuthoredLabels {
-      1001
+      CONTENT_MODDED
      }
     }
    }
   }
   coords 1114.543 1.188 11532.547
-  angleY 0.042
+  angles 0 0.042 0
  }
  {
   components {
@@ -42,13 +42,13 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
      Name "Helipad (Lights)"
      m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
      m_aAuthoredLabels {
-      1001
+      CONTENT_MODDED
      }
     }
    }
   }
   coords 1293.916 1.902 11478.418
-  angleY 0.042
+  angles 0 0.042 0
  }
  {
   components {
@@ -57,7 +57,7 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
      Name "Helipad (Lights)"
      m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
      m_aAuthoredLabels {
-      1001
+      CONTENT_MODDED
      }
     }
    }
@@ -65,7 +65,7 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
    }
   }
   coords 1155.045 1.353 11554.743
-  angleY 0.042
+  angles 0 0.042 0
  }
  {
   components {
@@ -74,38 +74,34 @@ $grp StaticModelEntity : "{472BE7BF1240C1CE}Prefabs/Compositions/Misc/SubComposi
      Name "Helipad (Lights)"
      m_Image "{908087E76C2CD006}UI/Textures/EditorPreviews/Auto/Compositions/Slotted/E_Headquarters_S_Enforcers_01.edds"
      m_aAuthoredLabels {
-      1001
+      CONTENT_MODDED
      }
     }
    }
   }
   coords 1190.759 2.231 11498.002
-  angleY 0.042
+  angles 0 0.042 0
  }
 }
 $grp StaticModelEntity : "{60FC4D0A88486975}Prefabs/Compositions/Misc/radar-7x.et" {
  {
   coords 1288.254 -0.523 11197.762
-  angleY -170.849
+  angles 0 -170.849 0
   scale 4
  }
  {
   coords 1676.891 -1.821 11273.445
-  angleY 109.586
+  angles 0 109.586 0
   scale 4
  }
 }
 GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.et" {
  coords 1103.661 37.025 11774.679
- angleY 175.253
+ angles 0 175.253 0
  {
-  SCR_DestructibleEntity : "{B31031F1F682586E}Prefabs/Props/Furniture/BenchWooden_02_Base.et" {
-   coords 0.51 17.996 -3.22
-   angleY 90.133
-  }
   GenericEntity : "{BBBC235B9B053092}Prefabs/Props/Furniture/Armchair_02.et" {
    coords -0.291 17.996 2.231
-   angleY 0.889
+   angles 0 0.889 0
   }
   $grp GenericEntity : "{C452AB0C327C11D8}Prefabs/Props/Furniture/DeckChair_01/DeckChair_01_base.et" {
    {
@@ -124,11 +120,11 @@ GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.
      }
     }
     coords -2.162 17.996 3.248
-    angleY 30.673
+    angles 0 30.673 0
    }
    {
     coords 1.598 17.996 3.057
-    angleY -30.067
+    angles 0 -30.067 0
    }
   }
  }
