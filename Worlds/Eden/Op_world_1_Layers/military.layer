@@ -1,0 +1,1630 @@
+$grp GenericEntity : "{25C8B889A777399D}Prefabs/Props/Infrastructure/ConeTraffic/ConeTraffic_01_red.et" {
+ {
+  coords 5340.311 43.536 10539.154
+ }
+ {
+  coords 5341.622 43.534 10539.859
+ }
+ {
+  coords 5343.256 43.531 10540.312
+ }
+ {
+  coords 5344.489 43.539 10540.992
+ }
+ {
+  coords 5346.064 43.559 10541.117
+ }
+ {
+  coords 5347.152 43.505 10541.791
+ }
+ {
+  coords 5345.105 43.548 10541.987
+ }
+ {
+  coords 5343.398 43.531 10541.573
+ }
+ {
+  coords 5342 43.531 10541.129
+ }
+ {
+  coords 5340.553 43.531 10540.678
+ }
+ {
+  coords 5420.537 45.24 10484.76
+ }
+ {
+  coords 5421.255 45.245 10484.397
+ }
+ {
+  coords 5422.225 45.253 10483.996
+ }
+ {
+  coords 5422.925 45.251 10483.72
+ }
+ {
+  coords 5423.59 45.244 10483.331
+ }
+ {
+  coords 5424.337 45.229 10482.675
+ }
+ {
+  coords 5424.998 45.216 10481.951
+ }
+ {
+  coords 5489.695 44.313 10562.739
+ }
+ {
+  coords 5488.395 44.313 10564.11
+ }
+ {
+  coords 5488.024 44.313 10565.453
+ }
+ {
+  coords 5487.437 44.295 10567.14
+ }
+ {
+  coords 5487.086 44.272 10568.604
+ }
+ {
+  coords 5486.793 44.248 10570.139
+ }
+ {
+  coords 5486.401 44.225 10571.564
+ }
+ {
+  coords 5485.736 44.197 10573.359
+ }
+ {
+  coords 5484.635 44.118 10575.73
+ }
+}
+GenericEntity : "{4CE75078634299BB}Prefabs/Destructible/RedBarrel/BarrelFuel_01_closed_edited.et" {
+ components {
+  MeshObject "{5872F0EB7FA40561}" {
+   Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+   Materials {
+    MaterialAssignClass "{694EE9F79256C0B8}" {
+     SourceMaterial "Barrel"
+     AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+    }
+   }
+  }
+ }
+ coords 5419.6 45.156 10480.696
+ {
+  $grp GenericEntity : "{4CE75078634299BB}Prefabs/Destructible/RedBarrel/BarrelFuel_01_closed_edited.et" {
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 0.101 0 -0.537
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 0.711 0 -0.655
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 0.571 0 -0.084
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -0.512 0 -0.437
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -0.337 0 -1.019
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 0.254 0 -1.108
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 0.874 0 -1.298
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 1.33 0 -0.856
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 1.246 0 -0.278
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 1.045 0 0.23
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 0.436 0 0.48
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 0.998 0 0.835
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 1.463 0 0.612
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 1.666 0 0.085
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 1.814 0 -0.474
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 1.831 0 -1.114
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -0.577 0 0.181
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -0.18 0 0.61
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords 0.244 0 1.02
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -0.221 0 1.354
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -0.592 0 0.997
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -0.987 0 0.584
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -1.142 0 -0.024
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -1.142 0 -0.733
+   }
+   {
+    components {
+     MeshObject "{5872F0EB7FA40561}" {
+      Object "{85698AE85577B055}Assets/Props/Crate/Barrel.xob"
+      Materials {
+       MaterialAssignClass "{694EE9F79256C0B8}" {
+        SourceMaterial "Barrel"
+        AssignedMaterial "{19B993AAC1406E25}Assets/Props/Crate/Data/Barrel/Red_Barrel.emat"
+       }
+      }
+     }
+    }
+    coords -0.9 0 -1.248
+   }
+  }
+ }
+}
+$grp GenericEntity : "{64C9C1D1C2C1B38D}Prefabs/Props/Infrastructure/Roadblocks/RoadBlock_01.et" {
+ {
+  coords 5341.808 43.556 10538.407
+  angles 0 -20.483 0
+ }
+ {
+  coords 5343.861 43.556 10539.174
+  angles 0 -20.355 0
+ }
+ {
+  coords 5345.927 43.556 10539.936
+  angles 0 -20.483 0
+ }
+ {
+  coords 5347.639 43.556 10539.462
+  angles 0 51.388 0
+ }
+ {
+  coords 5341.064 43.556 10536.962
+  angles 0 -105.349 0
+ }
+ {
+  coords 5341.64 43.556 10534.862
+  angles 0 -105.349 0
+ }
+ {
+  coords 5342.217 43.556 10532.761
+  angles 0 -105.349 0
+ }
+ {
+  coords 5421.04 45.217 10483.693
+  angles 0 25.826 0
+ }
+ {
+  coords 5423.042 45.217 10482.679
+  angles 0 26.747 0
+ }
+ {
+  coords 5424.674 45.217 10481.278
+  angles 0 54.272 0
+ }
+}
+$grp GenericEntity : "{6B52C6B5FEC3E369}Prefabs/Destructible/GMFX_Destructible_AmmoDump.et" {
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.938 43.534 10532.163
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.532 43.534 10531.646
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.13 43.534 10531.128
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.857 43.534 10531.859
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.26 43.534 10532.377
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.641 43.534 10532.886
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.351 43.534 10533.67
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.969 43.534 10533.161
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.566 43.534 10532.644
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.463 43.534 10531.346
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.172 43.534 10532.13
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.737 43.534 10530.614
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.736 43.534 10534.924
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.3 43.534 10533.408
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.139 43.534 10535.441
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.43 43.534 10534.657
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.027 43.534 10534.14
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.702 43.534 10533.926
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.108 43.534 10534.443
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.811 43.534 10535.166
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.907 43.534 10532.895
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.633 43.534 10533.626
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.521 43.534 10535.95
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.342 43.534 10534.41
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.566 44.208 10532.644
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.13 44.208 10531.128
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.969 44.208 10533.161
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.26 44.208 10532.377
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.857 44.208 10531.859
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.532 44.208 10531.646
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.811 44.208 10535.166
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.108 44.208 10534.443
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.633 44.208 10533.626
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.907 44.208 10532.895
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.702 44.208 10533.926
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.43 44.208 10534.657
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.139 44.208 10535.441
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.027 44.208 10534.14
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.938 44.208 10532.163
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.641 44.208 10532.886
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.737 44.208 10530.614
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.172 44.208 10532.13
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.342 44.208 10534.41
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.351 44.208 10533.67
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.736 44.208 10534.924
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.3 44.208 10533.408
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.521 44.208 10535.95
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.463 44.208 10531.346
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.566 44.884 10532.644
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.13 44.884 10531.128
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.969 44.884 10533.161
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.26 44.884 10532.377
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.857 44.884 10531.859
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.532 44.884 10531.646
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.811 44.884 10535.166
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.108 44.884 10534.443
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.633 44.884 10533.626
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.907 44.884 10532.895
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.702 44.884 10533.926
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.43 44.884 10534.657
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.139 44.884 10535.441
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.027 44.884 10534.14
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.938 44.884 10532.163
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.641 44.884 10532.886
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.737 44.884 10530.614
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.172 44.884 10532.13
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.342 44.884 10534.41
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5348.351 44.884 10533.67
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.736 44.884 10534.924
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.3 44.884 10533.408
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.521 44.884 10535.95
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.463 44.884 10531.346
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.913 43.534 10537.187
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.477 43.534 10535.671
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.316 43.534 10537.704
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.607 43.534 10536.92
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.204 43.534 10536.402
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.879 43.534 10536.188
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.455 43.534 10538.986
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5342.254 43.534 10537.438
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.049 43.534 10538.469
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.913 44.208 10537.187
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.477 44.208 10535.671
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.607 44.884 10536.92
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.083 44.884 10535.157
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.879 44.884 10536.188
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.049 44.884 10538.469
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.083 44.208 10535.157
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.698 44.884 10538.213
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.913 44.884 10537.187
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5342.519 44.884 10536.672
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5342.519 44.208 10536.672
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.477 44.884 10535.671
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5342.81 44.208 10535.889
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.988 44.208 10537.429
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5342.81 44.884 10535.889
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.698 44.208 10538.213
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.646 44.208 10537.951
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5342.254 44.884 10537.438
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.455 44.884 10538.986
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.316 44.884 10537.704
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.646 44.884 10537.951
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.204 44.884 10536.402
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.284 44.884 10536.706
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.284 43.534 10536.706
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.988 44.884 10537.429
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.879 44.208 10536.188
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.607 44.208 10536.92
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.988 43.534 10537.429
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.455 44.208 10538.986
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5347.284 44.208 10536.706
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.316 44.208 10537.704
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5345.049 44.208 10538.469
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5342.254 44.208 10537.438
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.083 43.534 10535.157
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5344.204 44.208 10536.402
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5342.519 43.534 10536.672
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5346.698 43.534 10538.213
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5343.646 43.534 10537.951
+  angles 0 -20 0
+ }
+ {
+  components {
+   MeshObject "{5872F0EB7FA40561}" {
+    Object "{A2513777A2807E3F}Assets/Props/Crate/Long_Crate.xob"
+   }
+  }
+  coords 5342.81 43.534 10535.889
+  angles 0 -20 0
+ }
+}
+$grp StaticModelEntity : "{AB6514FF76709AB3}Prefabs/Props/Military/AntiVehicleObstacle_USSR_02/VehicleObstacle_USSR_02.et" {
+ {
+  coords 5402.38 43.33 10574.047
+  angles 0 67.667 0
+ }
+ {
+  coords 5403.121 43.33 10572.244
+  angles 0 67.667 0
+ }
+ {
+  coords 5403.872 43.33 10570.416
+  angles 0 67.667 0
+ }
+ {
+  coords 5403.872 43.963 10570.416
+  angles 0 67.667 0
+ }
+ {
+  coords 5403.121 43.963 10572.244
+  angles 0 67.667 0
+ }
+ {
+  coords 5402.38 43.963 10574.047
+  angles 0 67.667 0
+ }
+ {
+  coords 5324.821 43.428 10532.626
+  angles 0 73.669 0
+ }
+ {
+  coords 5324.249 43.428 10534.577
+  angles 0 73.669 0
+ }
+ {
+  coords 5324.249 44.061 10534.577
+  angles 0 73.669 0
+ }
+ {
+  coords 5324.821 44.061 10532.626
+  angles 0 73.669 0
+ }
+ {
+  coords 5324.249 44.694 10534.577
+  angles 0 73.669 0
+ }
+ {
+  coords 5324.821 44.694 10532.626
+  angles 0 73.669 0
+ }
+}
+Vehicle Ural4320_transport_covered_NUKE_base1 : "{B166E617BFDEED32}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_NUKE_base.et" {
+ coords 5462.771 45.969 10477.104
+ angles 0 75.31 0
+}
+GenericEntity : "{FFCDFB1375A99125}Prefabs/Destructible/GMFX_Destructible_RPL5_01_generator.et" {
+ coords 5347.42 43.472 10529.104
+ angles 0 70.106 0
+}

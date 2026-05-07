@@ -1,3 +1,266 @@
+$grp ParticleEffectEntity {
+ {
+  coords 5377.283 18.062 10001.332
+  EffectPath "{0EDE755E5A808E81}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_small.ptc"
+ }
+ {
+  coords 5356.755 20.568 9889.672
+  EffectPath "{4325B2EB1B7E9A45}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Large.ptc"
+ }
+ {
+  coords 5303.866 21.312 9831.874
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 5363.8 22.032 9907.78
+  angles 0 15.838 0
+  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+ }
+ {
+  coords 5371.543 19.587 10015.035
+  angles 0 -67.687 0
+  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+ }
+ {
+  coords 5374.568 19.364 10032.711
+  angles 0 4.273 0
+  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+ }
+ {
+  coords 5379.773 19.168 10032.322
+  angles 0 4.273 0
+  EffectPath "{5A8C0DFF10B4CF3D}Particles/Fire_Building_Shop.ptc"
+ }
+ {
+  coords 5368.954 18.786 10026.525
+  EffectPath "{42917AAB29152360}Particles/Vehicle/Cinematic_Kolguyev_Fire.ptc"
+ }
+ {
+  coords 5338.456 18.929 9985.141
+  angles 0 -27.096 0
+  EffectPath "{42917AAB29152360}Particles/Vehicle/Cinematic_Kolguyev_Fire.ptc"
+ }
+ {
+  coords 5348.186 20.633 9903.479
+  EffectPath "{EBFD65A6258EB919}Particles/Logistics/Fire/Tire/Fire_wheel_big.ptc"
+ }
+ {
+  coords 5280.239 21.312 9819.857
+  EffectPath "{EBFD65A6258EB919}Particles/Logistics/Fire/Tire/Fire_wheel_big.ptc"
+ }
+ {
+  coords 5270.021 21.065 9820.854
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5331.928 20.356 9804.438
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5326.96 20.76 9802.656
+  EffectPath "{9844DEEBADA36BAB}Particles/Vehicle/Vehicle_fire_engine_Ural4320_01.ptc"
+ }
+ {
+  coords 5339.457 20.554 9819.118
+  EffectPath "{3FEEFBF34A5A515C}Particles/Vehicle/Vehicle_fire_engine_BTR70_01.ptc"
+ }
+ {
+  coords 5362.67 21.021 9833.883
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4535.817 14.532 9474.316
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4522.734 14.532 9475.768
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4508.643 14.532 9475.19
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4510.818 14.532 9459.989
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4520.76 14.532 9459.419
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4532.201 14.532 9461.528
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4501.685 14.532 9450.261
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4512.337 14.532 9413.949
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4470.624 14.532 9438.26
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4460.366 14.532 9455.704
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4536.708 18.249 9523.124
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4525.105 18.249 9523.054
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4516.313 18.249 9528.034
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4608.053 20.292 9502.716
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4573.385 16.69 9483.457
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4551.123 20.34 9600.771
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4482.14 16.446 9614.668
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4478.848 18.715 9645.33
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4502.415 19.181 9654.647
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4417.988 15.093 9556.32
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 5013.29 26.829 9949.108
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 5011.835 26.712 9951.991
+  EffectPath "{4325B2EB1B7E9A45}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Large.ptc"
+ }
+ {
+  coords 5032.83 25.827 9991.338
+  EffectPath "{4325B2EB1B7E9A45}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Large.ptc"
+ }
+ {
+  coords 4982.135 25.64 9998.567
+  EffectPath "{4325B2EB1B7E9A45}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Large.ptc"
+ }
+ {
+  coords 5010.304 25.651 9997.955
+  EffectPath "{0EDE755E5A808E81}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_small.ptc"
+ }
+ {
+  coords 4952.034 25.99 10000.952
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4966.592 28.13 9958.164
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 4971.298 27.849 9937.922
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5026.657 28.68 9861.229
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5006.467 28.169 9865.441
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5018.885 26.04 9880.905
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5018.885 26.04 9894.654
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5018.885 26.04 9911.892
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5018.289 26.04 9928.918
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5018.289 26.04 9940.04
+  EffectPath "{93CAB5E5559B5C32}Particles/Vehicle/Vehicle_fire_engine_big.ptc"
+ }
+ {
+  coords 5000.137 25.223 10138.483
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 5051.398 26.755 10151.829
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4308.319 4.866 9493.449
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4316.198 4.79 9499.18
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4307.883 2.127 9497.302
+  EffectPath "{0EDE755E5A808E81}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_small.ptc"
+ }
+ {
+  coords 4582.273 7.187 9310.668
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4587.026 7.209 9310.607
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4580.103 7.189 9303.396
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4591.446 8.568 9317.936
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4588.44 7.257 9299.582
+  EffectPath "{4325B2EB1B7E9A45}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Large.ptc"
+ }
+ {
+  coords 4940.573 23.395 10133.354
+  EffectPath "{4325B2EB1B7E9A45}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Large.ptc"
+ }
+ {
+  coords 5387.796 17.518 10169.359
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+ {
+  coords 4594.734 16.321 10110.744
+  EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
+ }
+}
 $grp StaticModelEntity : "{130BED24711F375F}PrefabsEditable/Auto/Structures/Walls/BarbedWire/E_BarbedTape_Triple.et" {
  {
   coords 5276.733 -1.861 9803.62
