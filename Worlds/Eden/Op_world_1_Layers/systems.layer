@@ -1,0 +1,112 @@
+$grp GMFX_WarheadInRadiusSpawner : "{1F53AAA4D5632745}Prefabs/Systems/Explosions/MiniNuke_Damage.et" {
+ {
+  coords 4924.559 36.242 9090.383
+  m_iMaxRadius 150
+ }
+ {
+  coords 6344.326 5.556 9648.763
+  m_iMaxRadius 50
+ }
+ {
+  coords 4460.761 32.246 9042.784
+  m_iMaxRadius 100
+ }
+ {
+  coords 3897.956 15.238 8452.84
+  m_iMaxRadius 250
+ }
+ {
+  coords 4690.506 42.306 8992.341
+  m_iMaxRadius 100
+ }
+ {
+  coords 4998.128 38.392 9399.082
+  m_iMaxRadius 250
+ }
+ {
+  coords 5079.263 21.507 9768.076
+  m_iMaxRadius 100
+ }
+ {
+  coords 5814.107 7.937 9733.156
+  m_iMaxRadius 100
+ }
+ {
+  coords 5800.046 26.245 10089.427
+  m_iMaxRadius 100
+ }
+ {
+  coords 5582.067 22.913 10058.974
+  m_iMaxRadius 100
+ }
+ {
+  coords 6075.402 7.042 10169.326
+  m_iMaxRadius 100
+ }
+ {
+  coords 5503.8 23.929 9619.421
+  m_iMaxRadius 300
+ }
+ {
+  coords 10910.099 25.148 8688.215
+  m_iMaxRadius 250
+ }
+}
+$grp GMFX_PrefabDeleterEntity : "{7FE7F344E4736699}Prefabs/Systems/Explosions/PrefabDeleter_Base.et" {
+ {
+  coords 7459.14 7.875 6717.274
+  m_fRadius 1000
+ }
+ {
+  coords 7645.894 12.063 8140.086
+  m_fRadius 1000
+ }
+ {
+  coords 7029.446 97.313 8368.682
+  m_fRadius 1000
+ }
+ {
+  coords 6881.188 67.459 8641.788
+  m_fRadius 1000
+ }
+ {
+  coords 7555.531 16.603 8727.105
+  m_fRadius 1000
+ }
+ {
+  coords 7358.994 18.443 8797.979
+  m_fRadius 1000
+ }
+ {
+  coords 7013.79 24.661 8889.791
+  m_fRadius 1000
+ }
+ {
+  coords 6904.199 22.668 8974.979
+  m_fRadius 1000
+ }
+ {
+  coords 7521.893 32.339 8393.075
+  m_fRadius 1000
+ }
+ {
+  coords 7584.565 29.426 8284.182
+  m_fRadius 1000
+ }
+ {
+  coords 7705.235 13.531 8188.699
+  m_fRadius 1000
+ }
+ {
+  coords 7747.363 9.014 8077.568
+  m_fRadius 1000
+ }
+ {
+  coords 7586.67 16.759 8096.903
+  m_fRadius 1000
+ }
+ {
+  coords 4929.762 100.208 8361.363
+  m_fRadius 1000
+ }
+}

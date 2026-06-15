@@ -24,7 +24,7 @@ $grp StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Mi
    }
   }
   coords 11080.173 0 11837.992
-  angleY 35.094
+  angles 0 35.094 0
  }
  {
   components {
@@ -33,7 +33,7 @@ $grp StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Mi
    }
   }
   coords 11050.872 0.758 11857.945
-  angleY 35.094
+  angles 0 35.094 0
  }
  {
   components {
@@ -42,7 +42,7 @@ $grp StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Mi
    }
   }
   coords 11024.421 0 11877.165
-  angleY 35.094
+  angles 0 35.094 0
  }
  {
   components {
@@ -51,7 +51,7 @@ $grp StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Mi
    }
   }
   coords 11056.046 1.102 11912.996
-  angleY 38.065
+  angles 0 38.065 0
  }
  {
   components {
@@ -60,7 +60,7 @@ $grp StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Mi
    }
   }
   coords 11080.599 0 11893.769
-  angleY 38.065
+  angles 0 38.065 0
  }
  {
   components {
@@ -69,6 +69,6 @@ $grp StaticModelEntity : "{D4ABEC6A0DB2E253}PrefabsEditable/Auto/Compositions/Mi
    }
   }
   coords 11104.92 0 11874.722
-  angleY 38.065
+  angles 0 38.065 0
  }
 }

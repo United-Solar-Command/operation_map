@@ -328,23 +328,13 @@ $grp GenericEntity : "{6855584E6DE85098}Prefabs/Compositions/Misc/Barrier_Wall_0
  }
 }
 SCR_DestructibleEntity : "{6C19A4BF55DC88AD}PrefabsEditable/Auto/Props/Core/E_Crate.et" {
- coords 4814.148 28.544 11757.791
- angles 0 165 0
+ coords 4810.633 28.375 11749.635
  {
-  SCR_DestructibleEntity : "{2CEB5C5284A00E6A}PrefabsEditable/Auto/Props/Core/E_Blue_Barrel.et" {
-   coords 0.992 0.009 -0.734
-   angles 0 -165 0
-  }
   SCR_DestructibleEntity : "{6C19A4BF55DC88AD}PrefabsEditable/Auto/Props/Core/E_Crate.et" {
-   coords 0 0.612 0
+   coords 0 0.609 0
   }
   SCR_DestructibleEntity : "{8A9DE19079CF2118}PrefabsEditable/Auto/Props/Core/E_Grey_Barrel.et" {
-   coords 1.565 0.014 -0.838
-   angles 0 165 0
-  }
-  SCR_DestructibleEntity : "{8D9264ACC2629F84}PrefabsEditable/Auto/Props/Core/E_Long_Crate_01.et" {
-   coords -1.301 -0.001 0.196
-   angles 0 -165 0
+   coords -0.697 -0.005 0.022
   }
  }
 }

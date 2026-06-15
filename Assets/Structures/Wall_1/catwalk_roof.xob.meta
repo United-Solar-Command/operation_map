@@ -1,0 +1,39 @@
+MetaFileClass {
+ Name "{D55C0C67489ADA12}Assets/Structures/Wall_1/catwalk_roof.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{689F6CB8122368B1}" {
+     SourceMaterial "DefaultGeneratedMaterial"
+     AssignedMaterial "{49171DF69F661502}Assets/Structures/Wall_1/Data/DefaultGeneratedMaterial.emat"
+    }
+   }
+   MeshParams {
+    MeshParam "Wall Catwalk w/roof" {
+    }
+   }
+   Common TXOCommonClass "{689F6CB8123E3B73}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{689F6CB8123E3A07}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{689F6CB8123E3A78}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{689F6CB8123E39AC}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{689F6CB8123E399B}" : "{F62AA8E7B8EA9D26}Configs/System/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{689F6CB8123E39F1}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

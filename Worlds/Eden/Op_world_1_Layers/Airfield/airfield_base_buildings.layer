@@ -90,40 +90,80 @@ GenericEntity Arsenal_Tents_01 {
   StaticModelEntity : "{94FB3A1BFFFF1A19}Prefabs/Structures/Military/Camps/TentUS_01/TentUS_01_Assembled_foundation.et" {
    coords -0.02 0 4.58
    {
+    $grp GenericEntity : "{2071368D6BD5B08A}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box.et" {
+     {
+      components {
+       SCR_EditableSystemComponent "{6086B9CA81461294}" {
+        Enabled 0
+       }
+      }
+      coords -2.431 0.149 3.594
+      angles 0 90 0
+     }
+     {
+      components {
+       SCR_EditableSystemComponent "{6086B9CA81461294}" {
+        Enabled 0
+       }
+      }
+      coords -2.431 0.149 1.163
+      angles 0 90 0
+     }
+     {
+      components {
+       SCR_EditableSystemComponent "{6086B9CA81461294}" {
+        Enabled 0
+       }
+      }
+      coords -2.431 0.149 -1.203
+      angles 0 90 0
+     }
+    }
     $grp GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
      {
-      coords 1.989 0.136 -2.529
+      coords 2.018 0.136 -1.768
       angles 0 -87.801 0
      }
      {
-      coords 2.086 0.127 0.022
+      coords 2.115 0.127 0.784
       angles 0 -87.801 0
      }
      {
-      coords 2.284 0.138 5.237
-      angles 0 -87.801 0
-     }
-     {
-      coords 2.189 0.12 2.686
+      coords 2.218 0.12 3.447
       angles 0 -87.801 0
      }
     }
-    $grp GenericEntity : "{8DF2174ABF87DC4D}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box_2.et" {
+    SCR_DestructibleEntity : "{6C19A4BF55DC88AD}PrefabsEditable/Auto/Props/Core/E_Crate.et" {
+     coords -0.664 0.138 5.271
+     angles 0 165 0
      {
-      coords -2.165 0.158 4.658
-      angles 0 89.828 0
-     }
-     {
-      coords -2.158 0.128 2.34
-      angles 0 89.828 0
-     }
-     {
-      coords -2.145 0.14 -2.265
-      angles 0 89.828 0
-     }
-     {
-      coords -2.151 0.113 0.051
-      angles 0 89.828 0
+      SCR_DestructibleEntity : "{2CEB5C5284A00E6A}PrefabsEditable/Auto/Props/Core/E_Blue_Barrel.et" {
+       coords 0.992 0.009 -0.734
+       angles 0 -165 0
+      }
+      $grp SCR_DestructibleEntity : "{6C19A4BF55DC88AD}PrefabsEditable/Auto/Props/Core/E_Crate.et" {
+       {
+        coords 0 0.612 0
+       }
+       {
+        coords -2.583 -0.008 0.713
+        angles 0 -175.97 0
+       }
+      }
+      SCR_DestructibleEntity : "{8A9DE19079CF2118}PrefabsEditable/Auto/Props/Core/E_Grey_Barrel.et" {
+       coords 1.565 0.014 -0.838
+       angles 0 165 0
+      }
+      $grp SCR_DestructibleEntity : "{8D9264ACC2629F84}PrefabsEditable/Auto/Props/Core/E_Long_Crate_01.et" {
+       {
+        coords -2.021 0.679 0.43
+        angles 0 15.127 -6.695
+       }
+       {
+        coords -1.301 -0.001 0.196
+        angles 0 -165 0
+       }
+      }
      }
     }
    }

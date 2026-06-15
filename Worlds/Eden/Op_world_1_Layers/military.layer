@@ -1620,10 +1620,6 @@ $grp StaticModelEntity : "{AB6514FF76709AB3}Prefabs/Props/Military/AntiVehicleOb
   angles 0 73.669 0
  }
 }
-Vehicle Ural4320_transport_covered_NUKE_base1 : "{B166E617BFDEED32}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_NUKE_base.et" {
- coords 5462.771 45.969 10477.104
- angles 0 75.31 0
-}
 GenericEntity : "{FFCDFB1375A99125}Prefabs/Destructible/GMFX_Destructible_RPL5_01_generator.et" {
  coords 5347.42 43.472 10529.104
  angles 0 70.106 0

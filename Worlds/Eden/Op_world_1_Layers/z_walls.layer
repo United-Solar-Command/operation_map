@@ -1,0 +1,14 @@
+$grp GenericEntity : "{5DDBD597A5BA2DBC}Prefabs/Structures/Walls/Wall01.et" {
+ {
+  coords 5350.791 16.875 10102.488
+  angles 0 74.506 0
+ }
+ {
+  coords 5050.41 27.938 10039.965
+  angles 0 74.506 0
+ }
+ {
+  coords 4550.61 17.643 10017.229
+  angles 0 86.044 0
+ }
+}

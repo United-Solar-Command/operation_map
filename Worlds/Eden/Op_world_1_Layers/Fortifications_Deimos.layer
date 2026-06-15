@@ -261,230 +261,507 @@ $grp ParticleEffectEntity {
   EffectPath "{B073169BAA0BDD62}Particles/Logistics/Fire/Ammunition_Fire/Ammunition_Fire_Medium.ptc"
  }
 }
-$grp StaticModelEntity : "{130BED24711F375F}PrefabsEditable/Auto/Structures/Walls/BarbedWire/E_BarbedTape_Triple.et" {
- {
-  coords 5276.733 -1.861 9803.62
-  angles 0 -75.118 0
- }
- {
-  coords 5273.201 -2.072 9804.933
-  angles 0 -75.118 0
- }
- {
-  coords 5269.516 -1.859 9805.955
-  angles 0 -75.118 0
- }
- {
-  coords 5245.367 -1.855 9812.73
-  angles 0 -75.118 0
- }
- {
-  coords 5242.111 -1.855 9813.652
-  angles 0 -75.118 0
- }
- {
-  coords 5239.182 -1.855 9814.686
-  angles 0 -75.118 0
- }
-}
 $grp GenericEntity : "{31A455F7FD8DCE84}Prefabs/Props/Military/Sandbags/Sandbag_01_long_high_plastic.et" {
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5295.582 19.544 9804.426
   angles 0 16.355 -0.3
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5292.437 19.377 9805.349
   angles 0 16.355 -0.3
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5289.33 19.196 9806.261
   angles 0 16.355 -0.3
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5286.532 19.069 9807.082
   angles 0 16.355 -0.3
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5283.858 18.973 9807.867
   angles 0 16.355 -0.3
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5281.887 19.01 9808.445
   angles 0 16.355 -0.3
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5264.266 19.274 9825.488
   angles 0 -37.501 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5273.974 19.113 9812.038
   angles 0 -166.253 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5275.879 19.107 9811.425
   angles 0 -166.253 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5324.942 17.524 9918.519
   angles 0 -72.577 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5324.172 17.546 9916.162
   angles 0 -72.577 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5326.53 17.524 9920.264
   angles 0 16.369 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5329.625 17.562 9919.282
   angles 0 16.369 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5332.722 17.816 9918.434
   angles 0 16.369 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5321.336 17.685 9906.454
   angles 0 -75.151 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5322 17.658 9908.844
   angles 0 -75.151 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5322.984 17.766 9904.805
   angles 0 17.638 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5325.99 17.929 9903.681
   angles 0 17.638 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5328.218 18.135 9903.017
   angles 0 17.638 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5352.851 18.654 9895.108
   angles 0 19.316 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5348.914 18.651 9896.625
   angles 0 19.316 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5350.714 18.641 9895.812
   angles 0 19.316 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5345.509 18.953 9901.457
   angles 0 106.76 0
  }
 }
 GenericEntity : "{86BA5E5CD528D5BC}Prefabs/Props/Military/Sandbags/Sandbag_01_end_plastic.et" {
+ components {
+  SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+   Enabled 0
+  }
+ }
  coords 5331.686 18.746 9903.126
  angles 0 -75.157 0
 }
 GenericEntity : "{BBE13893AEA69C0C}Prefabs/Props/Military/Sandbags/Sandbag_01_foundation_plastic.et" {
+ components {
+  SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+   Enabled 0
+  }
+ }
  coords 5260.658 19.388 9823.818
  angles 0 -72.519 0
 }
 $grp GenericEntity : "{C3F2F7B92EAB5A14}PrefabsEditable/Auto/Props/Military/Sandbags/E_Sandbag_01_wall_solid_plastic.et" {
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5297.511 19.453 9808.22
   angles 0 -104.947 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5295.906 19.453 9810.215
   angles 0 -162.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5293.405 19.453 9810.985
   angles 0 -162.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5287.09 19.453 9812.679
   angles 0 -162.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5281.378 19.342 9810.407
   angles 0 149.16 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5283.612 19.447 9811.767
   angles 0 149.16 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5285.108 19.453 9812.618
   angles 0 149.16 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5294.772 19.453 9819.519
   angles 0 -162.854 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5292.286 19.453 9820.284
   angles 0 -162.854 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5289.735 19.453 9821.132
   angles 0 -162.204 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5296.113 19.453 9818.099
   angles 0 -72.854 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5297.394 19.453 9822.215
   angles 0 -72.854 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5293.813 19.453 9821.615
   angles 0 -72.854 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5294.616 19.453 9824.1
   angles 0 -72.854 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5284.061 27.964 9837.298
   angles 0 -162.576 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5290.46 19.453 9815.761
   angles 0 -162.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5292.934 19.453 9814.994
   angles 0 -162.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5295.393 19.453 9814.201
   angles 0 -162.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5287.939 19.453 9816.493
   angles 0 -162.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5297.987 19.453 9813.421
   angles 0 -162.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5329.601 18.378 9901.799
   angles 0 -162.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5338.546 18.773 9915.498
   angles 0 -72.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5333.957 18.697 9910.834
   angles 0 -72.347 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5334.516 18.259 9916.939
   angles 0 -72.347 0
+ }
+}
+$grp GenericEntity : "{CDE80E823669F91D}Prefabs/Compositions/Misc/SubCompositions/Fortifications/Sandbag_Corner_Right_US_01.et" {
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5376.773 20.723 9552.396
+  angles 0 177.772 0
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5347.448 19.185 9551.256
+  angles 0 177.772 0
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{52CAE30B655050CF}" {
+    Enabled 0
+   }
+  }
+  coords 5319.966 18.115 9550.187
+  angles 0 177.772 0
+ }
+}
+$grp GenericEntity : "{E2BE65DAC2E6111A}Prefabs/Compositions/Misc/SubCompositions/Fortifications/Sandbag_Corner_Left_US_02.et" {
+ {
+  components {
+   SCR_SlotCompositionComponent "{5D06E2B30153DB8F}" {
+    Enabled 0
+   }
+  }
+  coords 5334.876 18.65 9550.704
+  angles 0 -180 0
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{5D06E2B30153DB8F}" {
+    Enabled 0
+   }
+  }
+  coords 5364.228 20.062 9551.809
+  angles 0 180 0
+ }
+ {
+  components {
+   SCR_SlotCompositionComponent "{5D06E2B30153DB8F}" {
+    Enabled 0
+   }
+  }
+  coords 5391.431 21.49 9553.195
+  angles 0 180 0
  }
 }
 $grp GenericEntity : "{EC32A8258D155DB2}PrefabsEditable/Auto/Compositions/Misc/SubCompositions/Fortifications/E_SandBag_Tower_S_US_01.et" {
@@ -545,242 +822,542 @@ $grp GenericEntity : "{EC32A8258D155DB2}PrefabsEditable/Auto/Compositions/Misc/S
 }
 $grp GenericEntity : "{F29A05EBA7063E7C}Prefabs/Props/Military/Sandbags/Sandbag_01_wall_solid_plastic.et" {
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5295.604 19.574 9803.389
   angles 0 16.355 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5293.064 19.463 9804.134
   angles 0 16.355 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5291.571 19.34 9805.268
   angles 0 -74.336 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5289.548 19.232 9805.101
   angles 0 16.355 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5287.008 19.05 9805.846
   angles 0 16.355 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5285.55 19.015 9807.101
   angles 0 -74.336 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5281.581 18.859 9807.438
   angles 0 16.355 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5284.121 18.911 9806.693
   angles 0 16.355 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5274.878 19.013 9810.74
   angles 0 15.697 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5272.33 19.043 9811.456
   angles 0 15.697 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5263.791 19.313 9826.277
   angles 0 -40.789 3.033
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5263.309 19.329 9825.909
   angles 0 -40.789 3.033
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5338.258 18.741 9917.492
   angles 0 19.823 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5335.758 18.501 9918.357
   angles 0 19.823 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5333.196 17.814 9919.222
   angles 0 19.823 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5330.708 17.568 9920.003
   angles 0 19.823 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5328.163 17.532 9920.847
   angles 0 19.823 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5325.646 17.576 9921.699
   angles 0 19.823 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5324.439 17.547 9920.17
   angles 0 -74.008 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5323.829 17.52 9918.286
   angles 0 -74.008 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5323.271 17.534 9916.263
   angles 0 -74.008 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5320.821 17.65 9908.176
   angles 0 -74.008 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5321.234 17.631 9909.826
   angles 0 -74.008 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5320.372 17.669 9906.541
   angles 0 -74.008 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5325.81 17.944 9902.973
   angles 0 -162.138 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5323.265 17.797 9903.739
   angles 0 -162.138 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5320.693 17.693 9904.495
   angles 0 -162.138 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5328.302 18.17 9902.254
   angles 0 -162.138 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5331.816 18.735 9903.673
   angles 0 -73.782 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5353.373 18.662 9894.017
   angles 0 18.472 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5350.818 18.641 9894.982
   angles 0 18.472 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5348.36 18.641 9895.892
   angles 0 18.472 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5332.431 18.667 9906.041
   angles 0 -73.782 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5333.114 18.641 9908.386
   angles 0 -73.782 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5343.889 18.997 9899.139
   angles 0 -72.915 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5344.695 18.953 9901.729
   angles 0 -72.915 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5345.452 18.918 9904.184
   angles 0 -72.915 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5348.22 18.769 9913.382
   angles 0 -72.915 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5348.953 18.735 9915.91
   angles 0 -72.915 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5349.708 18.695 9918.493
   angles 0 -72.915 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5350.454 18.648 9921.067
   angles 0 -72.915 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5351.713 18.63 9922.696
   angles 0 -167.039 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5354.32 18.473 9922.105
   angles 0 -167.039 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5356.931 18.399 9921.467
   angles 0 -167.039 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5359.528 18.385 9920.844
   angles 0 -167.039 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5362.116 18.387 9920.204
   angles 0 -167.039 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5364.592 18.392 9919.643
   angles 0 -167.039 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5365.647 18.517 9907.864
   angles 0 105.069 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5366.387 18.51 9910.344
   angles 0 105.069 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5366.934 18.472 9912.758
   angles 0 99.24 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5366.951 18.383 9918.793
   angles 0 -152.988 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5366.934 18.472 9912.758
   angles 0 99.24 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5366.387 18.51 9910.344
   angles 0 105.069 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5365.647 18.517 9907.864
   angles 0 105.069 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5355.667 18.675 9893.787
   angles 0 -10.539 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5348.358 18.785 9911.451
   angles 0 59.94 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5349.659 18.715 9909.215
   angles 0 59.94 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5349.813 18.681 9907.208
   angles 0 108.994 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5348.953 18.723 9904.775
   angles 0 108.994 0
  }
  {
+  components {
+   SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+    Enabled 0
+   }
+  }
   coords 5346.235 18.872 9906.73
   angles 0 -72.915 0
  }

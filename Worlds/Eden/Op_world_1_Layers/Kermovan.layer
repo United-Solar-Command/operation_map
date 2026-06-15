@@ -71,11 +71,3 @@ GenericEntity : "{7B26BC8FF435812E}Prefabs/Structures/Vanilla/ArmaTowerReforged.
  coords 6706.523 0.202 9641.768
  angles -60.121 113.517 0
 }
-SCR_DestructibleBuildingEntity : "{B668684CA41FE0B2}Prefabs/Compositions/Misc/CustomEntities/DestructionEntities/Hangar_Shed.et" {
- coords 6471.732 -5.495 9644.828
- angles 0 158.179 1.547
-}
-GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
- coords 6844.25 118.478 9507.896
- angles 0 -75 0
-}
