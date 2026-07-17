@@ -1,0 +1,96 @@
+$grp GenericEntity : "{0A937CCB0D4996E2}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Explosives_US.et" {
+ {
+  coords 11809.914 2212.07 -320.727
+ }
+ {
+  coords 11808.529 2212.07 -320.727
+ }
+}
+SCR_SpawnPoint : "{1C931F1455FB5736}PrefabsEditable/SpawnPoints/E_SpawnPoint_ENFORCERS.et" {
+ components {
+  SCR_SpawnPointAreaMeshComponent "{56C25DC99E04349A}" {
+   m_bHideInWorkbench 1
+  }
+ }
+ coords 11805.327 2212.071 -308.719
+}
+$grp GenericEntity : "{2071368D6BD5B08A}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/E_Enforcers_Arsenal_Box.et" {
+ {
+  coords 11800.83 2212.072 -314.051
+  angles 0 90 0
+ }
+ {
+  coords 11800.83 2212.072 -310.927
+  angles 0 90 0
+ }
+ {
+  coords 11800.83 2212.072 -307.8
+  angles 0 90 0
+ }
+}
+$grp GenericEntity : "{5158589339A69326}PrefabsEditable/Auto/Systems/Arsenal/ArsenalBoxes/ENFORCERS/1MB_Arsenal_Box.et" {
+ {
+  coords 11809.928 2212.072 -307.8
+  angles 0 -90 0
+ }
+ {
+  coords 11809.928 2212.072 -310.927
+  angles 0 -90 0
+ }
+ {
+  coords 11809.928 2212.072 -314.051
+  angles 0 -90 0
+ }
+}
+SCR_DestructibleBuildingEntity : "{5EE66239F0D1E648}Prefabs/Structures/Infrastructure/Naval/Piers/FloatingDock_01/FloatingDock_01.et" {
+ coords 11805.339 2211.871 -297.221
+ m_fMinUndamagedThreshold 1000000
+}
+$grp GenericEntity : "{B093C3D79C720096}Prefabs/Structures/Infrastructure/Naval/Piers/PierCover_04.et" {
+ {
+  components {
+   SCR_DestructionMultiPhaseComponent "{58F896B4CD371A8B}" {
+    Enabled 0
+   }
+  }
+  coords 11808.876 2210.528 -322.031
+ }
+ {
+  components {
+   SCR_DestructionMultiPhaseComponent "{58F896B4CD371A8B}" {
+    Enabled 0
+   }
+  }
+  coords 11805.378 2210.528 -322.031
+ }
+ {
+  components {
+   SCR_DestructionMultiPhaseComponent "{58F896B4CD371A8B}" {
+    Enabled 0
+   }
+  }
+  coords 11801.354 2210.528 -322.031
+ }
+}
+GenericEntity : "{B68DF9A61AFAA587}Prefabs/Vehicles/Ships/F3_Static.et" {
+ components {
+  MeshObject "{60B3026A2C58EECC}" {
+   Materials {
+    MaterialAssignClass "{69B95DFAC7209C18}" {
+     SourceMaterial "CorvetteF3"
+     AssignedMaterial "{312F652F8CC95EF9}Assets/Vehicles/F3_Corvette/Data/CorvetteF3_Enforcer.emat"
+    }
+   }
+  }
+ }
+ coords 11805.399 2206.113 -332.376
+ angles 0 180 0
+}
+$grp GenericEntity : "{CE74212FD2C25533}PrefabsEditable/Auto/Props/Military/Arsenal/AmmoBoxes/US/E_AmmoBoxArsenal_Equipment_US.et" {
+ {
+  coords 11801.034 2212.072 -320.732
+ }
+ {
+  coords 11804.391 2212.072 -320.732
+ }
+}
